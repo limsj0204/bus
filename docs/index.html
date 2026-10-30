@@ -6,7 +6,13 @@
 <meta name="referrer" content="no-referrer">
 <meta name="theme-color" content="#eef5f3">
 <title>양도끼 클립 모음</title>
-<link rel="icon" id="favicon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%230d9488'/><text x='50' y='68' font-size='52' font-weight='700' text-anchor='middle' fill='white' font-family='sans-serif'>양</text></svg>">
+<link rel="icon" id="favicon" type="image/png" href="icons/favicon-64.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="양도끼 클립">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
   :root {
@@ -85,6 +91,7 @@
   /* 상단 바 */
   .topbar {
     position: sticky; top: 0; z-index: 10;
+    padding-top: env(safe-area-inset-top);
     background: var(--header-bg);
     backdrop-filter: saturate(160%) blur(14px);
     -webkit-backdrop-filter: saturate(160%) blur(14px);
@@ -513,6 +520,7 @@
   const ICON_PLAY = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>';
   // SOOP 프로필 사진 주소 규칙: /LOGO/{ID 앞 두 글자}/{ID}/{ID}.jpg
   const PROFILE_URLS = [
+    "icons/profile.jpg",  // 수집 서버가 하루 한 번 받아 두는 사본
     "https://stimg.sooplive.com/LOGO/ya/yangdoki/yangdoki.jpg",
     "https://stimg.sooplive.co.kr/LOGO/ya/yangdoki/yangdoki.jpg",
     "https://profile.img.sooplive.co.kr/LOGO/ya/yangdoki/yangdoki.jpg",
@@ -524,7 +532,6 @@
     img.alt = "양도끼";
     img.onload = () => {
       document.getElementById("logo").replaceChildren(img);
-      document.getElementById("favicon").href = PROFILE_URLS[i];
     };
     img.onerror = () => loadProfile(i + 1);
     img.src = PROFILE_URLS[i];
@@ -1124,22 +1131,39 @@
   }));
   document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
+  let loadedAt = 0;
+  function loadData(first) {
+    return fetch("data.json?t=" + Date.now(), { cache: "no-store" })
+      .then(r => r.json())
+      .then(json => {
+        loadedAt = Date.now();
+        const changed = json.updated_at !== data.updated_at;
+        data = json;
+        const updated = parseKst(json.updated_at);
+        document.getElementById("updated").textContent = updated
+          ? "양도끼 언급 클립·캐치 · " + ago(updated) + " 업데이트"
+          : "양도끼 언급 클립·캐치 · 첫 업데이트 전";
+        // 선택 중일 때는 화면을 다시 그리지 않아 고른 것이 흐트러지지 않게 한다.
+        if (first || (changed && !state.select)) render();
+        if (first) runSync();
+      })
+      .catch(() => {
+        if (!first) return;
+        document.getElementById("updated").textContent = "목록을 불러오지 못했어요";
+        document.getElementById("grid").replaceChildren(el("div", "empty", "목록을 불러오지 못했어요. 잠시 뒤 새로고침해 주세요."));
+      });
+  }
+  // 홈 화면 앱은 당겨서 새로고침이 안 되므로, 다시 열 때 2분이 지났으면 새 목록을 받아 온다.
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && loadedAt && Date.now() - loadedAt > 120000) loadData(false);
+  });
+
   skeleton();
-  fetch("data.json?t=" + Date.now())
-    .then(r => r.json())
-    .then(json => {
-      data = json;
-      const updated = parseKst(json.updated_at);
-      document.getElementById("updated").textContent = updated
-        ? "양도끼 언급 클립·캐치 · " + ago(updated) + " 업데이트"
-        : "양도끼 언급 클립·캐치 · 첫 업데이트 전";
-      render();
-      runSync();
-    })
-    .catch(() => {
-      document.getElementById("updated").textContent = "목록을 불러오지 못했어요";
-      document.getElementById("grid").replaceChildren(el("div", "empty", "목록을 불러오지 못했어요. 잠시 뒤 새로고침해 주세요."));
-    });
+  loadData(true);
+
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  }
 </script>
 </body>
 </html>
