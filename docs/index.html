@@ -2,123 +2,325 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="referrer" content="no-referrer">
+<meta name="theme-color" content="#f4f1ec">
 <title>도끼 클립 모음</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪓</text></svg>">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
   :root {
-    --bg: #f6f7f9;
-    --card: #ffffff;
-    --text: #16181d;
-    --muted: #6b7280;
-    --line: #e5e7eb;
-    --accent: #2563eb;
+    --bg: #f4f1ec;
+    --bg-glow: rgba(249, 115, 22, 0.10);
+    --surface: #ffffff;
+    --surface-2: #faf8f5;
+    --text: #1c1917;
+    --muted: #78716c;
+    --line: #e7e2da;
+    --accent: #ea580c;
+    --accent-soft: rgba(234, 88, 12, 0.12);
+    --on-accent: #ffffff;
     --clip: #2563eb;
     --catch: #db2777;
+    --new: #16a34a;
+    --shadow: 0 1px 2px rgba(28, 25, 23, 0.06), 0 4px 16px rgba(28, 25, 23, 0.06);
+    --shadow-hover: 0 2px 4px rgba(28, 25, 23, 0.08), 0 12px 32px rgba(28, 25, 23, 0.12);
+    --header-bg: rgba(244, 241, 236, 0.82);
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #0f1115;
-      --card: #181b21;
-      --text: #e8eaee;
-      --muted: #9aa1ad;
-      --line: #2a2e36;
-      --accent: #60a5fa;
+      --bg: #0e0d0c;
+      --bg-glow: rgba(249, 115, 22, 0.08);
+      --surface: #1a1816;
+      --surface-2: #221f1c;
+      --text: #f2efeb;
+      --muted: #a39d96;
+      --line: #2e2a26;
+      --accent: #fb923c;
+      --accent-soft: rgba(251, 146, 60, 0.14);
+      --on-accent: #1c1917;
       --clip: #60a5fa;
       --catch: #f472b6;
+      --new: #4ade80;
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+      --shadow-hover: 0 12px 32px rgba(0, 0, 0, 0.5);
+      --header-bg: rgba(14, 13, 12, 0.8);
     }
   }
   :root[data-theme="dark"] {
-    --bg: #0f1115;
-    --card: #181b21;
-    --text: #e8eaee;
-    --muted: #9aa1ad;
-    --line: #2a2e36;
-    --accent: #60a5fa;
+    --bg: #0e0d0c;
+    --bg-glow: rgba(249, 115, 22, 0.08);
+    --surface: #1a1816;
+    --surface-2: #221f1c;
+    --text: #f2efeb;
+    --muted: #a39d96;
+    --line: #2e2a26;
+    --accent: #fb923c;
+    --accent-soft: rgba(251, 146, 60, 0.14);
+    --on-accent: #1c1917;
     --clip: #60a5fa;
     --catch: #f472b6;
+    --new: #4ade80;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-hover: 0 12px 32px rgba(0, 0, 0, 0.5);
+    --header-bg: rgba(14, 13, 12, 0.8);
   }
+
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
-    background: var(--bg);
+    min-height: 100vh;
+    background:
+      radial-gradient(1200px 500px at 10% -10%, var(--bg-glow), transparent 60%),
+      var(--bg);
+    background-attachment: fixed;
     color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+    font-feature-settings: "tnum";
+    letter-spacing: -0.01em;
   }
-  main { max-width: 1100px; margin: 0 auto; padding: 20px 16px 48px; }
-  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 4px; }
-  h1 { font-size: 1.4rem; margin: 0; }
-  .tools { display: flex; gap: 8px; flex-shrink: 0; }
-  .tools button, .tools a {
-    border: 1px solid var(--line);
-    background: var(--card);
-    color: var(--text);
-    border-radius: 8px;
-    padding: 6px 10px;
-    font-size: 0.85rem;
-    text-decoration: none;
-    cursor: pointer;
+  button, input, select { font: inherit; color: inherit; }
+
+  /* 상단 바 */
+  .topbar {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--header-bg);
+    backdrop-filter: saturate(160%) blur(14px);
+    -webkit-backdrop-filter: saturate(160%) blur(14px);
+    border-bottom: 1px solid var(--line);
   }
-  .updated { color: var(--muted); font-size: 0.85rem; margin-bottom: 16px; }
-  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
-  .filters button {
-    border: 1px solid var(--line);
-    background: var(--card);
-    color: var(--text);
-    border-radius: 999px;
-    padding: 6px 14px;
-    font-size: 0.9rem;
-    cursor: pointer;
+  .topbar-inner {
+    max-width: 1180px; margin: 0 auto;
+    padding: 12px 16px;
+    display: flex; align-items: center; gap: 12px;
   }
-  .filters button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+  .logo {
+    width: 38px; height: 38px; flex-shrink: 0;
+    display: grid; place-items: center;
+    border-radius: 11px;
+    background: linear-gradient(135deg, #fb923c, #ea580c);
+    font-size: 20px;
+    box-shadow: 0 4px 12px rgba(234, 88, 12, 0.3);
+  }
+  .brand { flex: 1; min-width: 0; }
+  .brand h1 { margin: 0; font-size: 1.08rem; font-weight: 800; letter-spacing: -0.02em; }
+  .brand p { margin: 1px 0 0; font-size: 0.78rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .icon-btn {
+    height: 36px; min-width: 36px; padding: 0 10px;
+    display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    border: 1px solid var(--line); border-radius: 10px;
+    background: var(--surface); color: var(--text);
+    font-size: 0.85rem; font-weight: 600;
+    text-decoration: none; cursor: pointer;
+    transition: border-color .15s, background .15s;
+  }
+  .icon-btn:hover { border-color: var(--accent); }
+  .icon-btn svg { width: 16px; height: 16px; }
+  .icon-btn .label { display: none; }
+  @media (min-width: 560px) { .icon-btn .label { display: inline; } }
+
+  main { max-width: 1180px; margin: 0 auto; padding: 18px 16px 64px; }
+
+  /* 요약 */
+  .stats { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .stat {
+    display: inline-flex; align-items: baseline; gap: 6px;
+    padding: 8px 12px; border-radius: 12px;
+    background: var(--surface); border: 1px solid var(--line);
+    font-size: 0.82rem; color: var(--muted);
+  }
+  .stat b { font-size: 1rem; color: var(--text); font-weight: 800; }
+  .stat .dot { width: 7px; height: 7px; border-radius: 50%; align-self: center; }
+
+  /* 조작 영역 */
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+  .segment {
+    display: inline-flex; padding: 3px; gap: 2px;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  }
+  .segment button {
+    border: 0; background: transparent; cursor: pointer;
+    padding: 6px 14px; border-radius: 9px;
+    white-space: nowrap;
+    font-size: 0.88rem; font-weight: 600; color: var(--muted);
+    transition: background .15s, color .15s;
+  }
+  .segment button.on { background: var(--accent); color: var(--on-accent); }
+  .search {
+    flex: 1; min-width: 180px;
+    display: flex; align-items: center; gap: 8px;
+    padding: 0 12px; height: 40px;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  }
+  .search:focus-within { border-color: var(--accent); }
+  .search svg { width: 16px; height: 16px; color: var(--muted); flex-shrink: 0; }
+  .search input { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; font-size: 0.92rem; }
+  .sort {
+    height: 40px; padding: 0 10px;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+    font-size: 0.88rem; font-weight: 600; cursor: pointer;
+  }
+
+  /* 원본 스트리머 칩 */
+  .chips {
+    display: flex; gap: 8px; overflow-x: auto;
+    padding: 2px 0 10px; margin-bottom: 8px;
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex-shrink: 0;
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 4px 12px 4px 4px; border-radius: 999px;
+    background: var(--surface); border: 1px solid var(--line);
+    font-size: 0.84rem; font-weight: 600; cursor: pointer;
+    transition: border-color .15s, background .15s;
+  }
+  .chip.plain { padding-left: 12px; }
+  .chip:hover { border-color: var(--accent); }
+  .chip.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .chip .count { color: var(--muted); font-weight: 500; font-size: 0.78rem; }
+  .chip.on .count { color: var(--accent); }
+
+  .avatar {
+    width: 24px; height: 24px; border-radius: 50%;
+    display: inline-grid; place-items: center; flex-shrink: 0;
+    font-size: 0.72rem; font-weight: 800; color: #fff;
+  }
+
+  /* 카드 */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 18px 16px; }
   .card {
-    background: var(--card);
-    border: 1px solid var(--line);
-    border-radius: 12px;
-    overflow: hidden;
-    text-decoration: none;
-    color: inherit;
-    display: flex;
-    flex-direction: column;
+    display: flex; flex-direction: column;
+    text-decoration: none; color: inherit;
+    border-radius: 16px; overflow: hidden;
+    background: var(--surface); border: 1px solid var(--line);
+    box-shadow: var(--shadow);
+    transition: transform .2s ease, box-shadow .2s ease;
+    animation: rise .35s ease both;
   }
-  .thumb { position: relative; aspect-ratio: 16 / 9; background: var(--line); }
-  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .badge {
-    position: absolute; top: 8px; left: 8px;
-    font-size: 0.72rem; font-weight: 700; color: #fff;
-    padding: 2px 8px; border-radius: 6px;
+  .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .thumb { position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: var(--surface-2); }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .35s ease; }
+  .card:hover .thumb img { transform: scale(1.05); }
+  .thumb::after {
+    content: ""; position: absolute; inset: auto 0 0 0; height: 45%;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.55));
+    pointer-events: none;
   }
-  .badge.CLIP { background: var(--clip); }
-  .badge.CATCH { background: var(--catch); }
-  .info { padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 4px; }
-  .title { font-weight: 600; font-size: 0.95rem; line-height: 1.35; overflow-wrap: anywhere; }
-  .meta { color: var(--muted); font-size: 0.8rem; }
-  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+  .thumb .placeholder { position: absolute; inset: 0; display: grid; place-items: center; font-size: 34px; opacity: .35; }
+  .pill {
+    position: absolute; z-index: 1;
+    font-size: 0.7rem; font-weight: 800; letter-spacing: 0.02em;
+    padding: 3px 8px; border-radius: 7px; color: #fff;
+  }
+  .pill.type { top: 10px; left: 10px; }
+  .pill.CLIP { background: var(--clip); }
+  .pill.CATCH { background: var(--catch); }
+  .pill.new { top: 10px; right: 10px; background: var(--new); color: #fff; }
+  .overlay {
+    position: absolute; z-index: 1; bottom: 8px; left: 10px; right: 10px;
+    display: flex; justify-content: space-between; align-items: center;
+    color: #fff; font-size: 0.76rem; font-weight: 600;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  }
+  .overlay .dur { background: rgba(0, 0, 0, 0.6); padding: 2px 6px; border-radius: 6px; text-shadow: none; }
+  .overlay svg { width: 13px; height: 13px; vertical-align: -2px; margin-right: 3px; }
+  .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+  .title {
+    font-weight: 700; font-size: 0.96rem; line-height: 1.4;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    overflow-wrap: anywhere;
+  }
+  .title mark { background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 0 2px; }
+  .who { display: flex; align-items: center; gap: 8px; margin-top: auto; min-width: 0; }
+  .who-text { min-width: 0; line-height: 1.3; }
+  .who-name { font-size: 0.84rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .who-sub { font-size: 0.76rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  /* 상태 */
+  .skeleton .thumb, .skeleton .line {
+    background: linear-gradient(90deg, var(--surface-2), var(--line), var(--surface-2));
+    background-size: 200% 100%;
+    animation: shimmer 1.2s infinite linear;
+  }
+  .skeleton .line { height: 12px; border-radius: 6px; }
+  @keyframes shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+  .empty { grid-column: 1 / -1; text-align: center; padding: 64px 16px; color: var(--muted); }
+  .empty .big { font-size: 40px; margin-bottom: 8px; }
+  footer { text-align: center; color: var(--muted); font-size: 0.78rem; padding: 32px 16px 8px; }
+  footer a { color: inherit; }
+
+  @media (max-width: 520px) {
+    .grid { grid-template-columns: 1fr; }
+    .controls .segment { flex: 1; }
+    .controls .segment button { flex: 1; padding: 6px 8px; }
+    .controls .search { order: 3; flex-basis: 100%; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
 </style>
 </head>
 <body>
-<main>
-  <header>
-    <h1>도끼 클립 모음</h1>
-    <div class="tools">
-      <a href="https://github.com/limsj0204/bus/actions/workflows/update.yml" target="_blank" rel="noopener" title="GitHub에서 Run workflow를 누르면 바로 갱신돼요">지금 갱신</a>
-      <button id="themeBtn" type="button"></button>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="logo" aria-hidden="true">🪓</div>
+    <div class="brand">
+      <h1>도끼 클립 모음</h1>
+      <p id="updated">불러오는 중…</p>
     </div>
-  </header>
-  <div class="updated" id="updated">불러오는 중…</div>
-  <div class="filters" id="typeFilters"></div>
-  <div class="filters" id="keywordFilters"></div>
+    <a class="icon-btn" href="https://github.com/limsj0204/bus/actions/workflows/update.yml" target="_blank" rel="noopener" title="GitHub에서 Run workflow를 누르면 바로 갱신돼요">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+      <span class="label">지금 갱신</span>
+    </a>
+    <button class="icon-btn" id="themeBtn" type="button"></button>
+  </div>
+</header>
+
+<main>
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <div class="segment" id="typeSeg"></div>
+    <label class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="제목·스트리머 검색" autocomplete="off">
+    </label>
+    <select class="sort" id="sort" aria-label="정렬">
+      <option value="date">최신순</option>
+      <option value="views">조회순</option>
+    </select>
+  </div>
+
+  <div class="chips" id="keywordChips"></div>
+  <div class="chips" id="originChips"></div>
+
   <div class="grid" id="grid"></div>
+  <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 데이터 출처 SOOP</footer>
 </main>
+
 <script>
-  const THEMES = [["auto", "🌓 자동"], ["light", "☀️ 라이트"], ["dark", "🌙 다크"]];
+  const ICON_EYE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg>';
+  const THEMES = [["auto", "🌓", "자동"], ["light", "☀️", "라이트"], ["dark", "🌙", "다크"]];
+  const TYPE_LABEL = { ALL: "전체", CLIP: "클립", CATCH: "캐치" };
+  const NEW_HOURS = 6;
+
+  const state = { type: "ALL", keyword: "ALL", origin: "ALL", q: "", sort: "date" };
+  let data = { items: [], keywords: [] };
+
+  // 테마
   let theme = "auto";
   try { theme = localStorage.getItem("theme") || "auto"; } catch (e) {}
   function applyTheme() {
     if (theme === "auto") document.documentElement.removeAttribute("data-theme");
     else document.documentElement.setAttribute("data-theme", theme);
-    document.getElementById("themeBtn").textContent = THEMES.find(t => t[0] === theme)[1];
+    const t = THEMES.find(t => t[0] === theme);
+    document.getElementById("themeBtn").innerHTML = t[1] + '<span class="label">' + t[2] + "</span>";
+    const dark = theme === "dark" || (theme === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
+    document.querySelector('meta[name="theme-color"]').content = dark ? "#0e0d0c" : "#f4f1ec";
   }
   document.getElementById("themeBtn").onclick = () => {
     const i = THEMES.findIndex(t => t[0] === theme);
@@ -128,100 +330,207 @@
   };
   applyTheme();
 
-  const TYPE_LABEL = { ALL: "전체", CLIP: "클립", CATCH: "캐치" };
-  const state = { type: "ALL", keyword: "ALL" };
-  let data = { items: [], keywords: [] };
-
-  function button(label, active, onClick) {
-    const b = document.createElement("button");
-    b.textContent = label;
-    if (active) b.className = "on";
-    b.onclick = onClick;
-    return b;
+  // 유틸
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function parseKst(s) {
+    if (!s) return null;
+    const d = new Date(s.replace(" ", "T") + "+09:00");
+    return isNaN(d) ? null : d;
+  }
+  function ago(d) {
+    if (!d) return "";
+    const m = Math.floor((Date.now() - d) / 60000);
+    if (m < 1) return "방금";
+    if (m < 60) return m + "분 전";
+    const h = Math.floor(m / 60);
+    if (h < 24) return h + "시간 전";
+    const day = Math.floor(h / 24);
+    if (day < 7) return day + "일 전";
+    return (d.getMonth() + 1) + "월 " + d.getDate() + "일";
+  }
+  function compact(n) {
+    n = Number(n) || 0;
+    if (n >= 10000) return (n / 10000).toFixed(n >= 100000 ? 0 : 1).replace(/\.0$/, "") + "만";
+    if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, "") + "천";
+    return String(n);
+  }
+  function cleanTitle(t) {
+    return t.replace(/^\s*\[(클립|캐치)\]\s*/, "");
+  }
+  function hue(name) {
+    let h = 0;
+    for (const c of name) h = (h * 31 + c.codePointAt(0)) % 360;
+    return h;
+  }
+  function avatar(name) {
+    const a = el("span", "avatar", (name || "?").trim().charAt(0));
+    a.style.background = "hsl(" + hue(name || "?") + " 55% 52%)";
+    return a;
+  }
+  function originOf(it) { return it.origin_nick || it.streamer_nick || it.streamer_id || "알 수 없음"; }
+  function highlight(target, text, q) {
+    if (!q) { target.textContent = text; return; }
+    const i = text.toLowerCase().indexOf(q.toLowerCase());
+    if (i < 0) { target.textContent = text; return; }
+    target.append(text.slice(0, i), el("mark", null, text.slice(i, i + q.length)), text.slice(i + q.length));
   }
 
-  function renderFilters() {
-    const typeBox = document.getElementById("typeFilters");
-    typeBox.replaceChildren(...["ALL", "CLIP", "CATCH"].map(t =>
-      button(TYPE_LABEL[t], state.type === t, () => { state.type = t; render(); })));
-
-    const kwBox = document.getElementById("keywordFilters");
-    if (data.keywords.length > 1) {
-      kwBox.replaceChildren(...["ALL", ...data.keywords].map(k =>
-        button(k === "ALL" ? "모든 키워드" : "#" + k, state.keyword === k,
-          () => { state.keyword = k; render(); })));
-    } else {
-      kwBox.replaceChildren();
-    }
-  }
-
-  function formatDate(s) {
-    if (!s) return "";
-    return s.replace(/:\d\d$/, "");
-  }
-
-  function render() {
-    renderFilters();
-    const grid = document.getElementById("grid");
-    const items = data.items.filter(it =>
+  // 필터
+  function baseFiltered() {
+    const q = state.q.trim().toLowerCase();
+    return data.items.filter(it =>
       (state.type === "ALL" || it.type === state.type) &&
-      (state.keyword === "ALL" || (it.keywords || []).includes(state.keyword)));
+      (state.keyword === "ALL" || (it.keywords || []).includes(state.keyword)) &&
+      (!q || [it.title, it.streamer_nick, it.origin_nick].some(v => (v || "").toLowerCase().includes(q))));
+  }
 
-    if (!items.length) {
-      grid.innerHTML = '<div class="empty">아직 모인 영상이 없어요.</div>';
-      return;
+  function renderStats() {
+    const clips = data.items.filter(i => i.type === "CLIP").length;
+    const catches = data.items.filter(i => i.type === "CATCH").length;
+    const fresh = data.items.filter(i => { const d = parseKst(i.date); return d && Date.now() - d < NEW_HOURS * 3600000; }).length;
+    const box = document.getElementById("stats");
+    const stat = (color, label, n) => {
+      const s = el("span", "stat");
+      const dot = el("span", "dot"); dot.style.background = color;
+      s.append(dot, label, el("b", null, n));
+      return s;
+    };
+    box.replaceChildren(
+      stat("var(--clip)", "클립", clips),
+      stat("var(--catch)", "캐치", catches),
+      stat("var(--new)", NEW_HOURS + "시간 내 새 영상", fresh));
+  }
+
+  function renderControls(base) {
+    const seg = document.getElementById("typeSeg");
+    seg.replaceChildren(...["ALL", "CLIP", "CATCH"].map(t => {
+      const b = el("button", state.type === t ? "on" : "", TYPE_LABEL[t]);
+      b.type = "button";
+      b.onclick = () => { state.type = t; render(); };
+      return b;
+    }));
+
+    const kw = document.getElementById("keywordChips");
+    if (data.keywords.length > 1) {
+      kw.replaceChildren(...["ALL", ...data.keywords].map(k => {
+        const c = el("button", "chip plain" + (state.keyword === k ? " on" : ""), k === "ALL" ? "모든 키워드" : "#" + k);
+        c.onclick = () => { state.keyword = k; render(); };
+        return c;
+      }));
+      kw.style.display = "";
+    } else {
+      kw.style.display = "none";
     }
-    grid.replaceChildren(...items.map(it => {
-      const a = document.createElement("a");
-      a.className = "card " + it.type;
-      a.href = it.url;
-      a.target = "_blank";
-      a.rel = "noopener";
 
-      const thumb = document.createElement("div");
-      thumb.className = "thumb";
-      if (it.thumbnail) {
-        const img = document.createElement("img");
-        img.src = it.thumbnail;
-        img.loading = "lazy";
-        img.alt = "";
-        img.referrerPolicy = "no-referrer";
-        img.onerror = () => img.remove();
-        thumb.appendChild(img);
-      }
-      const badge = document.createElement("span");
-      badge.className = "badge " + it.type;
-      badge.textContent = TYPE_LABEL[it.type] || it.type;
-      thumb.appendChild(badge);
-
-      const info = document.createElement("div");
-      info.className = "info";
-      const title = document.createElement("div");
-      title.className = "title";
-      title.textContent = it.title;
-      const meta = document.createElement("div");
-      meta.className = "meta";
-      const origin = it.origin_nick && it.origin_nick !== it.streamer_nick ? "원본 " + it.origin_nick : "";
-      const parts = [origin, it.streamer_nick || it.streamer_id, formatDate(it.date)];
-      if (it.views != null && it.views !== "") parts.push("조회 " + Number(it.views).toLocaleString("ko-KR"));
-      meta.textContent = parts.filter(Boolean).join(" · ");
-      info.append(title, meta);
-
-      a.append(thumb, info);
-      return a;
+    const counts = new Map();
+    base.forEach(it => counts.set(originOf(it), (counts.get(originOf(it)) || 0) + 1));
+    const origins = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    if (state.origin !== "ALL" && !counts.has(state.origin)) state.origin = "ALL";
+    const all = el("button", "chip plain" + (state.origin === "ALL" ? " on" : ""));
+    all.append("모든 방송 ", el("span", "count", base.length));
+    all.onclick = () => { state.origin = "ALL"; render(); };
+    document.getElementById("originChips").replaceChildren(all, ...origins.map(([name, n]) => {
+      const c = el("button", "chip" + (state.origin === name ? " on" : ""));
+      c.append(avatar(name), name, el("span", "count", n));
+      c.onclick = () => { state.origin = state.origin === name ? "ALL" : name; render(); };
+      return c;
     }));
   }
 
+  function card(it, q) {
+    const a = el("a", "card");
+    a.href = it.url; a.target = "_blank"; a.rel = "noopener";
+
+    const thumb = el("div", "thumb");
+    thumb.append(el("div", "placeholder", "🪓"));
+    if (it.thumbnail) {
+      const img = el("img");
+      img.src = it.thumbnail; img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer";
+      img.onerror = () => img.remove();
+      thumb.append(img);
+    }
+    thumb.append(el("span", "pill type " + it.type, TYPE_LABEL[it.type] || it.type));
+    const d = parseKst(it.date);
+    if (d && Date.now() - d < NEW_HOURS * 3600000) thumb.append(el("span", "pill new", "NEW"));
+    const ov = el("div", "overlay");
+    const views = el("span");
+    if (it.views != null && it.views !== "") views.innerHTML = ICON_EYE + compact(it.views);
+    ov.append(views);
+    if (it.duration) ov.append(el("span", "dur", it.duration));
+    thumb.append(ov);
+
+    const body = el("div", "body");
+    const title = el("div", "title");
+    highlight(title, cleanTitle(it.title), q);
+    title.title = it.title;
+
+    const origin = originOf(it);
+    const who = el("div", "who");
+    const text = el("div", "who-text");
+    text.append(el("div", "who-name", origin));
+    const sub = [];
+    if (it.streamer_nick && it.streamer_nick !== origin) sub.push("✂ " + it.streamer_nick);
+    sub.push(ago(d));
+    text.append(el("div", "who-sub", sub.filter(Boolean).join(" · ")));
+    who.append(avatar(origin), text);
+
+    body.append(title, who);
+    a.append(thumb, body);
+    return a;
+  }
+
+  function render() {
+    const base = baseFiltered();
+    renderControls(base);
+    let items = state.origin === "ALL" ? base : base.filter(it => originOf(it) === state.origin);
+    if (state.sort === "views") items = [...items].sort((a, b) => (Number(b.views) || 0) - (Number(a.views) || 0));
+
+    const grid = document.getElementById("grid");
+    if (!items.length) {
+      const e = el("div", "empty");
+      e.append(el("div", "big", "🪓"), data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
+      grid.replaceChildren(e);
+      return;
+    }
+    grid.replaceChildren(...items.map(it => card(it, state.q.trim())));
+  }
+
+  function skeleton() {
+    const grid = document.getElementById("grid");
+    grid.replaceChildren(...Array.from({ length: 6 }, () => {
+      const c = el("div", "card skeleton");
+      const b = el("div", "body");
+      const l1 = el("div", "line"), l2 = el("div", "line");
+      l2.style.width = "60%";
+      b.append(l1, l2);
+      c.append(el("div", "thumb"), b);
+      return c;
+    }));
+  }
+
+  document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+  document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+
+  skeleton();
   fetch("data.json?t=" + Date.now())
     .then(r => r.json())
     .then(json => {
       data = json;
-      document.getElementById("updated").textContent =
-        json.updated_at ? "마지막 업데이트: " + json.updated_at + " (30분마다 갱신)" : "아직 첫 업데이트 전이에요.";
+      const updated = parseKst(json.updated_at);
+      document.getElementById("updated").textContent = updated
+        ? "양도끼 언급 클립·캐치 · " + ago(updated) + " 업데이트"
+        : "양도끼 언급 클립·캐치 · 첫 업데이트 전";
+      renderStats();
       render();
     })
     .catch(() => {
-      document.getElementById("updated").textContent = "목록을 불러오지 못했어요.";
+      document.getElementById("updated").textContent = "목록을 불러오지 못했어요";
+      document.getElementById("grid").replaceChildren(el("div", "empty", "목록을 불러오지 못했어요. 잠시 뒤 새로고침해 주세요."));
     });
 </script>
 </body>

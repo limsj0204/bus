@@ -32,6 +32,7 @@ FIELDS = {
     "date": ["reg_date", "regdate", "reg_datetime", "create_date"],
     "views": ["view_cnt", "read_cnt", "count_view"],
     "url": ["url", "vod_url", "link"],
+    "duration": ["duration", "vod_duration"],
 }
 # 클립·캐치의 원본 방송(다시보기) 스트리머가 기록된 칸. 업로더(user_id)와 함께 제외 검사에 쓴다.
 ORIGIN_ID_FIELDS = ["original_bj", "original_reg_user_id"]
@@ -111,6 +112,30 @@ def to_https(url):
     return url
 
 
+def format_duration(value):
+    """초(또는 밀리초) 숫자나 "HH:MM:SS" 문자열을 "M:SS" 형태로 바꾼다."""
+    if value in (None, ""):
+        return ""
+    text = str(value).strip()
+    if ":" in text:
+        parts = [int(p) for p in text.split(":") if p.isdigit()]
+        seconds = 0
+        for p in parts:
+            seconds = seconds * 60 + p
+    else:
+        try:
+            seconds = int(float(text))
+        except ValueError:
+            return ""
+        if seconds >= 36000:  # 10시간이 넘으면 밀리초로 본다.
+            seconds //= 1000
+    if seconds <= 0:
+        return ""
+    hours, rest = divmod(seconds, 3600)
+    minutes, secs = divmod(rest, 60)
+    return f"{hours}:{minutes:02d}:{secs:02d}" if hours else f"{minutes}:{secs:02d}"
+
+
 def normalize(item, file_type, keyword):
     vod_id = pick(item, "id")
     title = pick(item, "title")
@@ -130,6 +155,7 @@ def normalize(item, file_type, keyword):
         "thumbnail": to_https(pick(item, "thumbnail")),
         "date": str(pick(item, "date") or ""),
         "views": pick(item, "views"),
+        "duration": format_duration(pick(item, "duration")),
         "url": url,
         "keywords": [keyword],
         "origin_ids": sorted({str(item[k]) for k in ORIGIN_ID_FIELDS if item.get(k)}),
