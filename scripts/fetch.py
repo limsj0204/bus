@@ -17,6 +17,11 @@ DATA_PATH = ROOT / "docs" / "data.json"
 
 API_URL = "https://sch.sooplive.com/api.php"
 KST = timezone(timedelta(hours=9))
+PAGE_SIZE = 40
+# 7일치 채우기처럼 오래 넘길 때와 평소 실행 때 넘길 수 있는 최대 페이지 수
+MAX_BACKFILL_PAGES = 50
+MAX_NORMAL_PAGES = 10
+DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
@@ -64,7 +69,7 @@ def find_items(data):
     return []
 
 
-def search(keyword, file_type):
+def search(keyword, file_type, page=1):
     params = {
         "l": "DF",
         "m": "vodSearch",
@@ -75,8 +80,8 @@ def search(keyword, file_type):
         "v": "5.0",
         # 사이트는 검색어를 한 번 인코딩한 값을 다시 인코딩해서 보낸다.
         "szKeyword": urllib.parse.quote(keyword),
-        "nPageNo": "1",
-        "nListCnt": "40",
+        "nPageNo": str(page),
+        "nListCnt": str(PAGE_SIZE),
         "szOrder": "reg_date",
         "szSearchScope": "all",
         "szContentAttr": "all",
@@ -175,50 +180,83 @@ def main():
     exclude_words = [str(w).lower() for w in config.get("exclude_words") or []]
     exclude_streamers = {str(s).lower() for s in config.get("exclude_streamers") or []}
     types = [str(t).upper() for t in config.get("types") or ["CLIP", "CATCH"]]
-    max_items = int(config.get("max_items") or 500)
+    max_items = int(config.get("max_items") or 2000)
+    backfill_days = int(config.get("backfill_days") or 0)
 
-    if DATA_PATH.exists():
-        existing = json.loads(DATA_PATH.read_text(encoding="utf-8")).get("items", [])
-    else:
-        existing = []
+    saved = json.loads(DATA_PATH.read_text(encoding="utf-8")) if DATA_PATH.exists() else {}
+    existing = saved.get("items", [])
+    progress = saved.get("progress", {})
     items = {(it["type"], it["id"]): it for it in existing}
 
     successes = 0
     new_count = 0
+    now = datetime.now(KST).replace(tzinfo=None)
     for keyword in keywords:
         for file_type in types:
-            try:
-                data = search(keyword, file_type)
-            except Exception as error:
-                print(f"[실패] '{keyword}' {file_type}: {error}", file=sys.stderr)
-                continue
-            successes += 1
-            raw_items = find_items(data)
-            print(f"[성공] '{keyword}' {file_type}: {len(raw_items)}개 받음")
-            if raw_items:
-                print(f"       응답 필드: {sorted(raw_items[0].keys())}")
+            key_name = f"{keyword}|{file_type}"
+            prog = progress.get(key_name, {})
+            backfilling = prog.get("backfill_days", 0) < backfill_days
+            if backfilling or not prog.get("newest"):
+                # 처음이거나 채우기 기간이 늘었으면 그 기간 끝까지 넘긴다.
+                cutoff = (now - timedelta(days=backfill_days)).strftime(DATE_FORMAT)
+                max_pages = MAX_BACKFILL_PAGES
             else:
-                print(f"       응답 앞부분: {json.dumps(data, ensure_ascii=False)[:500]}")
+                # 평소에는 지난번에 본 가장 최근 영상(여유 1시간)까지만 넘긴다.
+                newest = datetime.strptime(prog["newest"], DATE_FORMAT)
+                cutoff = (newest - timedelta(hours=1)).strftime(DATE_FORMAT)
+                max_pages = MAX_NORMAL_PAGES
 
-            for raw in raw_items:
-                entry = normalize(raw, file_type, keyword)
-                if entry is None:
-                    continue
-                title_lower = entry["title"].lower()
-                if keyword.lower() not in title_lower:
-                    continue
-                if any(word in title_lower for word in exclude_words):
-                    continue
-                if related_ids(entry) & exclude_streamers:
-                    continue
-                key = (entry["type"], entry["id"])
-                if key in items:
-                    merged = sorted(set(items[key].get("keywords", [])) | {keyword})
-                    items[key].update(entry, keywords=merged)
-                else:
-                    items[key] = entry
-                    new_count += 1
-            time.sleep(1.5)
+            reached_end = False
+            failed = False
+            for page in range(1, max_pages + 1):
+                try:
+                    data = search(keyword, file_type, page)
+                except Exception as error:
+                    print(f"[실패] '{keyword}' {file_type} {page}페이지: {error}", file=sys.stderr)
+                    failed = True
+                    break
+                successes += 1
+                raw_items = find_items(data)
+                print(f"[성공] '{keyword}' {file_type} {page}페이지: {len(raw_items)}개 받음")
+                if not raw_items:
+                    if page == 1:
+                        print(f"       응답 앞부분: {json.dumps(data, ensure_ascii=False)[:500]}")
+                    reached_end = True
+                    break
+
+                dates = [str(pick(raw, "date") or "") for raw in raw_items]
+                dates = [d for d in dates if d]
+                if dates and max(dates) > prog.get("newest", ""):
+                    prog["newest"] = max(dates)
+
+                for raw in raw_items:
+                    entry = normalize(raw, file_type, keyword)
+                    if entry is None:
+                        continue
+                    title_lower = entry["title"].lower()
+                    if keyword.lower() not in title_lower:
+                        continue
+                    if any(word in title_lower for word in exclude_words):
+                        continue
+                    if related_ids(entry) & exclude_streamers:
+                        continue
+                    key = (entry["type"], entry["id"])
+                    if key in items:
+                        merged = sorted(set(items[key].get("keywords", [])) | {keyword})
+                        items[key].update(entry, keywords=merged)
+                    else:
+                        items[key] = entry
+                        new_count += 1
+
+                time.sleep(1.5)
+                if (dates and min(dates) < cutoff) or len(raw_items) < PAGE_SIZE:
+                    reached_end = True
+                    break
+
+            if reached_end and not failed and backfilling:
+                prog["backfill_days"] = backfill_days
+                print(f"       최근 {backfill_days}일치 채우기 완료")
+            progress[key_name] = prog
 
     if successes == 0:
         print("모든 요청이 실패했어요. SOOP 쪽 주소나 형식이 바뀌었을 수 있어요.", file=sys.stderr)
@@ -244,6 +282,7 @@ def main():
             {
                 "updated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
                 "keywords": keywords,
+                "progress": progress,
                 "items": result,
             },
             ensure_ascii=False,
