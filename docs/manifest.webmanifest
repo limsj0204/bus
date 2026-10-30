@@ -1,11 +1,11 @@
 {
-  "id": "/bus/",
+  "id": "/bus/?app=yangdoki-clips",
   "name": "양도끼 클립 모음",
   "short_name": "양도끼 클립",
   "description": "양도끼가 언급된 SOOP 클립·캐치 모음",
   "lang": "ko",
   "dir": "ltr",
-  "start_url": "/bus/",
+  "start_url": "/bus/?source=app",
   "scope": "/bus/",
   "display": "standalone",
   "orientation": "any",
