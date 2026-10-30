@@ -1,11 +1,15 @@
 {
- "updated_at": "2026-10-31 00:32",
+ "updated_at": "2026-10-31 00:33",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
    "newest": "2026-10-30 22:24:45",
+   "backfill_days": 7
+  },
+  "도끼|CATCH": {
+   "newest": "2026-10-30 20:44:07",
    "backfill_days": 7
   }
  },
@@ -132,7 +136,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_44236627_1_r&column=2&t=1793356215",
    "date": "2026-10-30 19:28:27",
-   "views": "255",
+   "views": "256",
    "url": "https://vod.afreecatv.com/player/211223537",
    "keywords": [
     "도끼"
@@ -151,7 +155,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_44236213_1_r&column=2&t=1793355295",
    "date": "2026-10-30 19:10:54",
-   "views": "116",
+   "views": "117",
    "url": "https://vod.afreecatv.com/player/211222063",
    "keywords": [
     "도끼"
@@ -942,6 +946,25 @@
    "origin_nick": "따린"
   },
   {
+   "id": "211007043",
+   "type": "CATCH",
+   "title": "[캐치]타요 : 양도끼, 민결희 이런애들이 눈치챘는지 열심히 하는척 하지만 언제가는 가져갈꺼야",
+   "streamer_id": "yeol5724",
+   "streamer_nick": "탱시브",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261028/705/abfafbac-40d6-4ea6-863e-c26937b1383b/21557705_r.jpg",
+   "date": "2026-10-28 02:58:34",
+   "views": "992",
+   "duration": "0:28",
+   "url": "https://vod.afreecatv.com/player/211007043",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kappuchan"
+   ],
+   "origin_nick": "카푸_"
+  },
+  {
    "id": "211006995",
    "type": "CLIP",
    "title": "양도끼 민결희 이런 애들이 눈치챘는지 메이플 열심히 하는척하지만 언젠가 가져갈 거야",
@@ -959,6 +982,25 @@
     "kappuchan"
    ],
    "origin_nick": "카푸_"
+  },
+  {
+   "id": "210982335",
+   "type": "CATCH",
+   "title": "[캐치]와우 포에버즈 양도끼의 미친 독침수거 시점 / 천양 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261027_21553761_1_r",
+   "date": "2026-10-27 22:34:49",
+   "views": "590",
+   "duration": "0:42",
+   "url": "https://vod.afreecatv.com/player/210982335",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "243000"
+   ],
+   "origin_nick": "천양"
   },
   {
    "id": "210974237",
@@ -1073,6 +1115,25 @@
     "insome0319"
    ],
    "origin_nick": "따린"
+  },
+  {
+   "id": "210964973",
+   "type": "CATCH",
+   "title": "[캐치]SBO 양도끼 독침수거 / 유키라님 반응",
+   "streamer_id": "42wlsdh",
+   "streamer_nick": "심심한청설모",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261027_21549757_1_r&column=2&t=1793098504",
+   "date": "2026-10-27 19:44:32",
+   "views": "297",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210964973",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kirababy2"
+   ],
+   "origin_nick": "유키라"
   },
   {
    "id": "210959645",
@@ -1322,6 +1383,25 @@
    "origin_nick": "코렛트"
   },
   {
+   "id": "210908559",
+   "type": "CATCH",
+   "title": "[캐치]우왁굳을 도와줄 사람이 경기장에 단 한명도 없다는 사실에 짠해진 양도끼 / 우왁굳 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1027/01/thumb/1793030835407054_R_7.jpg",
+   "date": "2026-10-27 00:03:42",
+   "views": "1381",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/210908559",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
+  },
+  {
    "id": "210908291",
    "type": "CLIP",
    "title": "[클립]형이 짠했다는 도끼님 보는 왁굳형",
@@ -1398,6 +1478,25 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210905313",
+   "type": "CATCH",
+   "title": "[캐치]2의 악마 양도끼",
+   "streamer_id": "pdh5323",
+   "streamer_nick": "우스__",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261026/969/eb525386-e2b6-4cc1-8b8c-fb8e2077c1a0/21538969_r.jpg",
+   "date": "2026-10-26 23:35:58",
+   "views": "380",
+   "duration": "0:33",
+   "url": "https://vod.afreecatv.com/player/210905313",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "gosegu2"
+   ],
+   "origin_nick": "고세구!"
+  },
+  {
    "id": "210905249",
    "type": "CLIP",
    "title": "[클립]양도끼 - 22시 2분 2회 2아웃 2스트 2볼 / 고세구 반응",
@@ -1465,6 +1564,25 @@
    "views": "124",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/210888243",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~"
+  },
+  {
+   "id": "210887629",
+   "type": "CATCH",
+   "title": "【타요~】 다음에 감독하면 부담될거 같은데. 다음에 하면 양도끼 코치로 해보고 싶긴 해. 왼손 서사 내가 쓰고 싶었거든.",
+   "streamer_id": "zkdhtm777",
+   "streamer_nick": "고려_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261026/223/d939e53c-1fd3-48f2-bd1b-32c12af36011/21535223_r.jpg",
+   "date": "2026-10-26 20:51:51",
+   "views": "2079",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210887629",
    "keywords": [
     "도끼"
    ],
@@ -1681,6 +1799,25 @@
     "lilpa0309"
    ],
    "origin_nick": "릴파♬"
+  },
+  {
+   "id": "210879903",
+   "type": "CATCH",
+   "title": "[민결희] 굿즈 인증글에서 발견된 양도끼 필터",
+   "streamer_id": "wkdwn427",
+   "streamer_nick": "주장._.",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261026/047/a9531544-c0f7-4327-bbde-9b66bb538df4/21533047_r.jpg",
+   "date": "2026-10-26 19:41:16",
+   "views": "460",
+   "duration": "0:53",
+   "url": "https://vod.afreecatv.com/player/210879903",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희"
   },
   {
    "id": "210879901",
@@ -2006,6 +2143,25 @@
    "origin_nick": "단츄♪"
   },
   {
+   "id": "210856187",
+   "type": "CATCH",
+   "title": "[단츄] 양도끼 생일이 2월 22일이라는게 소름돋는 단츄",
+   "streamer_id": "abwtzwkbh42",
+   "streamer_nick": "새결♪",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261026/147/d6f817bd-d3c4-42b3-9910-bd706d8156b7/21528147_r.jpg",
+   "date": "2026-10-26 13:38:46",
+   "views": "403",
+   "duration": "0:49",
+   "url": "https://vod.afreecatv.com/player/210856187",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "danchu17"
+   ],
+   "origin_nick": "단츄♪"
+  },
+  {
    "id": "210854729",
    "type": "CLIP",
    "title": "[단츄] SBO 박재박x양도끼 소식 들은 단츄 반응",
@@ -2213,6 +2369,63 @@
     "ecvhao"
    ],
    "origin_nick": "우왁굳"
+  },
+  {
+   "id": "210819965",
+   "type": "CATCH",
+   "title": "[하치] 양도끼에게 공개 고백하는 하치",
+   "streamer_id": "atelier2ba2",
+   "streamer_nick": "「아틀리에」",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261026/767/1ced88de-ac87-4f4a-a41b-ccd040f7b1b2/21521767_r.jpg",
+   "date": "2026-10-26 00:22:59",
+   "views": "1188",
+   "duration": "0:38",
+   "url": "https://vod.afreecatv.com/player/210819965",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI"
+  },
+  {
+   "id": "210818133",
+   "type": "CATCH",
+   "title": "[캐치]우는 양도끼 달래는 우왁굳 T의 공감법",
+   "streamer_id": "cro2233",
+   "streamer_nick": "슈타게",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261026_21521441_1_r",
+   "date": "2026-10-26 00:08:52",
+   "views": "274",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210818133",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
+  },
+  {
+   "id": "210817765",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 투구 칭찬하는 타요 스타포스",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261026_21521373_1_r",
+   "date": "2026-10-26 00:06:17",
+   "views": "354",
+   "duration": "0:22",
+   "url": "https://vod.afreecatv.com/player/210817765",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~"
   },
   {
    "id": "210815813",
@@ -2462,6 +2675,63 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210807501",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전 우왁굳vs 타요] 양도끼가 안타까운 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/143/5cc9d326-4e34-4a0c-a153-98cbb4d34e81/21519143_r.jpg",
+   "date": "2026-10-25 22:49:07",
+   "views": "569",
+   "duration": "0:29",
+   "url": "https://vod.afreecatv.com/player/210807501",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독"
+  },
+  {
+   "id": "210804923",
+   "type": "CATCH",
+   "title": "[캐치] 박재박 챙기는 양도끼",
+   "streamer_id": "pjy6683",
+   "streamer_nick": "도감",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/431/b8106475-61c9-43d6-8e40-562b7be03df6/21518431_r.jpg",
+   "date": "2026-10-25 22:28:07",
+   "views": "192",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/210804923",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "gosegu2"
+   ],
+   "origin_nick": "고세구!"
+  },
+  {
+   "id": "210804847",
+   "type": "CATCH",
+   "title": "[캐치]도끼의 공감",
+   "streamer_id": "ysk304",
+   "streamer_nick": "월룩이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/411/77591d43-b336-4914-bdb4-50144a0cf3de/21518411_r.jpg",
+   "date": "2026-10-25 22:27:33",
+   "views": "2559",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/210804847",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "gosegu2"
+   ],
+   "origin_nick": "고세구!"
+  },
+  {
    "id": "210802529",
    "type": "CLIP",
    "title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
@@ -2650,6 +2920,63 @@
     "insome0319"
    ],
    "origin_nick": "따린"
+  },
+  {
+   "id": "210789211",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/567/af33aef1-d464-4070-af7f-07ae7276c77b/21514567_r.jpg",
+   "date": "2026-10-25 20:02:21",
+   "views": "350",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789211",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "yjw5067"
+   ],
+   "origin_nick": "봄세이"
+  },
+  {
+   "id": "210789191",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/559/f63d11dc-13d3-4535-89e1-054958e7c937/21514559_r.jpg",
+   "date": "2026-10-25 20:02:09",
+   "views": "283",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789191",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "tadka56"
+   ],
+   "origin_nick": "양지랖"
+  },
+  {
+   "id": "210789181",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/557/de2cd77e-3d15-4d8f-86ff-3faef652ecb6/21514557_r.jpg",
+   "date": "2026-10-25 20:02:03",
+   "views": "187",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789181",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "sircharlee"
+   ],
+   "origin_nick": "찰리씨"
   },
   {
    "id": "210787077",
@@ -3013,6 +3340,44 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210736707",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 코코미 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503885_1_r",
+   "date": "2026-10-25 03:25:00",
+   "views": "219",
+   "duration": "0:18",
+   "url": "https://vod.afreecatv.com/player/210736707",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "cocomizzang"
+   ],
+   "origin_nick": "코코미짱"
+  },
+  {
+   "id": "210736603",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 코코미 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503867_1_r",
+   "date": "2026-10-25 03:23:32",
+   "views": "1000",
+   "duration": "0:23",
+   "url": "https://vod.afreecatv.com/player/210736603",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "cocomizzang"
+   ],
+   "origin_nick": "코코미짱"
+  },
+  {
    "id": "210736571",
    "type": "CLIP",
    "title": "[클립]양도끼 나를 배신해?",
@@ -3030,6 +3395,120 @@
     "b13246"
    ],
    "origin_nick": "타요~"
+  },
+  {
+   "id": "210736459",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 마다옴 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503855_1_r",
+   "date": "2026-10-25 03:20:55",
+   "views": "357",
+   "duration": "0:15",
+   "url": "https://vod.afreecatv.com/player/210736459",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "madaomm"
+   ],
+   "origin_nick": "마다옴_"
+  },
+  {
+   "id": "210736377",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 마다옴 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503839_1_r",
+   "date": "2026-10-25 03:19:43",
+   "views": "603",
+   "duration": "0:23",
+   "url": "https://vod.afreecatv.com/player/210736377",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "madaomm"
+   ],
+   "origin_nick": "마다옴_"
+  },
+  {
+   "id": "210736143",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 베베리 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503799_1_r",
+   "date": "2026-10-25 03:15:52",
+   "views": "335",
+   "duration": "0:16",
+   "url": "https://vod.afreecatv.com/player/210736143",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hye11u"
+   ],
+   "origin_nick": "베베리"
+  },
+  {
+   "id": "210736053",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 베베리 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503787_1_r",
+   "date": "2026-10-25 03:14:28",
+   "views": "440",
+   "duration": "0:21",
+   "url": "https://vod.afreecatv.com/player/210736053",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hye11u"
+   ],
+   "origin_nick": "베베리"
+  },
+  {
+   "id": "210735471",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 다시바 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503701_1_r",
+   "date": "2026-10-25 03:05:12",
+   "views": "544",
+   "duration": "0:21",
+   "url": "https://vod.afreecatv.com/player/210735471",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "tdnlamuron"
+   ],
+   "origin_nick": "다시바"
+  },
+  {
+   "id": "210735403",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 다시바 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503691_1_r",
+   "date": "2026-10-25 03:03:43",
+   "views": "348",
+   "duration": "0:28",
+   "url": "https://vod.afreecatv.com/player/210735403",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "tdnlamuron"
+   ],
+   "origin_nick": "다시바"
   },
   {
    "id": "210735239",
@@ -3068,6 +3547,177 @@
     "lina0108"
    ],
    "origin_nick": "리냐_LINYA"
+  },
+  {
+   "id": "210734933",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 하치 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503623_1_r",
+   "date": "2026-10-25 02:57:25",
+   "views": "882",
+   "duration": "0:23",
+   "url": "https://vod.afreecatv.com/player/210734933",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI"
+  },
+  {
+   "id": "210734835",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 하치 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503611_1_r",
+   "date": "2026-10-25 02:56:04",
+   "views": "1021",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/210734835",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI"
+  },
+  {
+   "id": "210734715",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 김웰로 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503589_1_r",
+   "date": "2026-10-25 02:53:57",
+   "views": "412",
+   "duration": "0:20",
+   "url": "https://vod.afreecatv.com/player/210734715",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "wellro314"
+   ],
+   "origin_nick": "김웰로"
+  },
+  {
+   "id": "210734633",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 김웰로 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503575_1_r",
+   "date": "2026-10-25 02:52:47",
+   "views": "855",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/210734633",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "wellro314"
+   ],
+   "origin_nick": "김웰로"
+  },
+  {
+   "id": "210734251",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 히누히누 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503511_1_r",
+   "date": "2026-10-25 02:47:45",
+   "views": "319",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/210734251",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "imganzino"
+   ],
+   "origin_nick": "히누히누"
+  },
+  {
+   "id": "210734121",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 히누히누 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503487_1_r",
+   "date": "2026-10-25 02:46:08",
+   "views": "536",
+   "duration": "0:21",
+   "url": "https://vod.afreecatv.com/player/210734121",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "imganzino"
+   ],
+   "origin_nick": "히누히누"
+  },
+  {
+   "id": "210733887",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 2 / 박재박 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503453_1_r",
+   "date": "2026-10-25 02:42:41",
+   "views": "538",
+   "duration": "0:25",
+   "url": "https://vod.afreecatv.com/player/210733887",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "jaeparkk"
+   ],
+   "origin_nick": "박재박"
+  },
+  {
+   "id": "210733757",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 / 박재박 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503429_1_r",
+   "date": "2026-10-25 02:40:43",
+   "views": "782",
+   "duration": "0:26",
+   "url": "https://vod.afreecatv.com/player/210733757",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "jaeparkk"
+   ],
+   "origin_nick": "박재박"
+  },
+  {
+   "id": "210721763",
+   "type": "CATCH",
+   "title": "[캐치]레전드 둬창 엔딩을 본 양도끼 / 우왁굳 반응",
+   "streamer_id": "nmoonjw0820",
+   "streamer_nick": "척화비",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/159/74e161d5-2373-4513-b752-f87a366abf37/21501159_r.jpg",
+   "date": "2026-10-25 00:41:04",
+   "views": "3457",
+   "duration": "0:31",
+   "url": "https://vod.afreecatv.com/player/210721763",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
   },
   {
    "id": "210719465",
@@ -3184,6 +3834,44 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210697221",
+   "type": "CATCH",
+   "title": "[캐치][SBO 본선 3일차 머독vs우왁굳] 머독팀 패배 / 머독 생일 축하하는 베베리와 몰래 생일빵 때리는 양도끼 / 베베리 : 저 왜 안 뽑았어요?",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261024/647/23448794-c8b7-4b05-b464-84076252b6a8/21495647_r.jpg",
+   "date": "2026-10-24 21:05:23",
+   "views": "383",
+   "duration": "0:32",
+   "url": "https://vod.afreecatv.com/player/210697221",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독"
+  },
+  {
+   "id": "210696857",
+   "type": "CATCH",
+   "title": "[캐치][SBO 본선 3일차 머독vs우왁굳] 머독팀 패배 / 머독 생일 축하하는 베베리와 몰래 생일빵 때리는 양도끼 / 베베리 : 저 왜 안 뽑았어요?",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261024/557/a4390dc3-7bf1-4dbd-b5eb-abc00a98236e/21495557_r.jpg",
+   "date": "2026-10-24 21:01:43",
+   "views": "414",
+   "duration": "0:33",
+   "url": "https://vod.afreecatv.com/player/210696857",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hye11u"
+   ],
+   "origin_nick": "베베리"
+  },
+  {
    "id": "210696395",
    "type": "CLIP",
    "title": "[클립]눙지의 마음을 이해한 도끼를 보는 눙지 구구 반응",
@@ -3220,6 +3908,25 @@
     "spbabobj"
    ],
    "origin_nick": "머독"
+  },
+  {
+   "id": "210695643",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 샤라웃",
+   "streamer_id": "ysk304",
+   "streamer_nick": "월룩이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261024/245/df1c0bc7-ae90-470f-bc11-da0f1af10cf3/21495245_r.jpg",
+   "date": "2026-10-24 20:48:49",
+   "views": "371",
+   "duration": "0:23",
+   "url": "https://vod.afreecatv.com/player/210695643",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "gosegu2"
+   ],
+   "origin_nick": "고세구!"
   },
   {
    "id": "210694995",
@@ -3393,6 +4100,63 @@
    "origin_nick": "베베리"
   },
   {
+   "id": "210680331",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 누워있을때 몰래 찍은 사진 보여주는 하치 (ㄱㅇㅇ)",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1024/18/thumb/1792833309311848_R_7.jpg",
+   "date": "2026-10-24 18:04:47",
+   "views": "1142",
+   "duration": "0:20",
+   "url": "https://vod.afreecatv.com/player/210680331",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI"
+  },
+  {
+   "id": "210679599",
+   "type": "CATCH",
+   "title": "[캐치]양도끼에게 대문자 T 공감을 해주는 우왁굳",
+   "streamer_id": "donkis",
+   "streamer_nick": "메론사이다",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261024_21490957_1_r",
+   "date": "2026-10-24 17:55:34",
+   "views": "271",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210679599",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
+  },
+  {
+   "id": "210678783",
+   "type": "CATCH",
+   "title": "[캐치]왁굳님 칭찬에 개좋아하는 양도끼 / 한결님 반응ㅋㅋㅋ",
+   "streamer_id": "chastity40",
+   "streamer_nick": "민트파이_",
+   "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1025/09/thumb/1792888128654899_R_7.jpg",
+   "date": "2026-10-24 17:45:18",
+   "views": "4236",
+   "duration": "0:32",
+   "url": "https://vod.afreecatv.com/player/210678783",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___"
+  },
+  {
    "id": "210677053",
    "type": "CLIP",
    "title": "[클립]투수 양도끼 등장곡",
@@ -3467,6 +4231,25 @@
     "sircharlee"
    ],
    "origin_nick": "찰리씨"
+  },
+  {
+   "id": "210674963",
+   "type": "CATCH",
+   "title": "[캐치]누워서 스트레칭 푸는 양도끼 / 머독: 썸네일 보고 왔습니다~",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261024/887/dd568508-b5f6-48db-948b-6101d362cb89/21489887_r.jpg",
+   "date": "2026-10-24 16:58:24",
+   "views": "650",
+   "duration": "0:29",
+   "url": "https://vod.afreecatv.com/player/210674963",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독"
   },
   {
    "id": "210673789",
@@ -3811,6 +4594,25 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210611465",
+   "type": "CATCH",
+   "title": "[캐치]22시 2분에 2회초 2스트라이크 2볼 상황에서 이닝 종료시키는 양도끼",
+   "streamer_id": "ysk304",
+   "streamer_nick": "월룩이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261023/045/0818e5f0-0ca7-4d98-8908-6e881226cb98/21477045_r.jpg",
+   "date": "2026-10-23 22:05:27",
+   "views": "15324",
+   "duration": "0:22",
+   "url": "https://vod.afreecatv.com/player/210611465",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "gosegu2"
+   ],
+   "origin_nick": "고세구!"
+  },
+  {
    "id": "210611443",
    "type": "CLIP",
    "title": "[클립]SBO 2일차 2경기 2회초 떨공삼으로 카푸 잡는 양도끼 / 중계시점 반응",
@@ -3925,6 +4727,25 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210607959",
+   "type": "CATCH",
+   "title": "[캐치]내가 버린 양도끼 복수하겠습니다",
+   "streamer_id": "ysk304",
+   "streamer_nick": "월룩이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261023/133/f22c7c74-825c-4ef7-89ec-0838998bca05/21476133_r.jpg",
+   "date": "2026-10-23 21:33:15",
+   "views": "1217",
+   "duration": "0:10",
+   "url": "https://vod.afreecatv.com/player/210607959",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~"
+  },
+  {
    "id": "210595353",
    "type": "CLIP",
    "title": "[클립]도끼 받고 신난 막내",
@@ -3942,6 +4763,44 @@
     "jey422"
    ],
    "origin_nick": "뢴트게늄"
+  },
+  {
+   "id": "210573913",
+   "type": "CATCH",
+   "title": "[캐치]아무리 팀 구호일지라도 차마 와우를 외치지 않는 양도끼 / 우왁굳 반응 👃: 우리와포는 와우 게임이 아니라니",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261023_21468805_1_r",
+   "date": "2026-10-23 14:02:29",
+   "views": "478",
+   "duration": "0:32",
+   "url": "https://vod.afreecatv.com/player/210573913",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
+  },
+  {
+   "id": "210565557",
+   "type": "CATCH",
+   "title": "[캐치]\"와포하자\" 말 못화는 양도끼가 섭섭한 우왁굳 : 와포는 와우가 아니고 감탄인건데...",
+   "streamer_id": "chastity40",
+   "streamer_nick": "민트파이_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261023_21467037_1_r&column=2&t=1792719268",
+   "date": "2026-10-23 10:16:26",
+   "views": "627",
+   "duration": "0:37",
+   "url": "https://vod.afreecatv.com/player/210565557",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
   },
   {
    "id": "210561887",
@@ -3992,6 +4851,25 @@
    "views": "548",
    "duration": "1:27",
    "url": "https://vod.afreecatv.com/player/210555683",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독"
+  },
+  {
+   "id": "210555555",
+   "type": "CATCH",
+   "title": "[캐치][머독 생일] 양도끼에게 주고 싶은게 생긴 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261023/653/46c2bec2-85ef-45ee-9307-4f8f8fad8a98/21465653_r.jpg",
+   "date": "2026-10-23 03:45:55",
+   "views": "543",
+   "duration": "0:19",
+   "url": "https://vod.afreecatv.com/player/210555555",
    "keywords": [
     "도끼"
    ],
@@ -4094,6 +4972,158 @@
     "ecvhao"
    ],
    "origin_nick": "우왁굳"
+  },
+  {
+   "id": "210534595",
+   "type": "CATCH",
+   "title": "[캐치]SBO 아바타 최적화 하나도 안 해온 빈스 양도끼 윤이제 검거하는 마왕",
+   "streamer_id": "kid147147",
+   "streamer_nick": "boraJoa●",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261022_21461859_1_r",
+   "date": "2026-10-22 23:40:19",
+   "views": "565",
+   "duration": "0:46",
+   "url": "https://vod.afreecatv.com/player/210534595",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mawang0216"
+   ],
+   "origin_nick": "마왕0216"
+  },
+  {
+   "id": "210491327",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 뽀뽀 윤이제 시점",
+   "streamer_id": "donkis",
+   "streamer_nick": "메론사이다",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261022_21452307_1_r",
+   "date": "2026-10-22 15:27:05",
+   "views": "647",
+   "duration": "0:14",
+   "url": "https://vod.afreecatv.com/player/210491327",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "eze1017"
+   ],
+   "origin_nick": "윤이제"
+  },
+  {
+   "id": "210487309",
+   "type": "CATCH",
+   "title": "[캐치]왁굳님 공지가 사람을 홀리는 게 있다는 양도끼 말에 공감하는 최애리",
+   "streamer_id": "donkis",
+   "streamer_nick": "메론사이다",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261022/505/69921e5d-c376-467b-87d6-6b3db54d9b7a/21451505_r.jpg",
+   "date": "2026-10-22 13:55:57",
+   "views": "1147",
+   "duration": "0:32",
+   "url": "https://vod.afreecatv.com/player/210487309",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "cherru"
+   ],
+   "origin_nick": "최애리"
+  },
+  {
+   "id": "210463835",
+   "type": "CATCH",
+   "title": "[캐치]생일축하영상 준비해준 양도끼에게 고마운 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261022_21447359_1_r",
+   "date": "2026-10-22 02:49:56",
+   "views": "677",
+   "duration": "0:16",
+   "url": "https://vod.afreecatv.com/player/210463835",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독"
+  },
+  {
+   "id": "210458863",
+   "type": "CATCH",
+   "title": "[캐치]히든 도끼 겟또",
+   "streamer_id": "kifeel3077",
+   "streamer_nick": "먹물오징어_5",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261022/673/cb14c67a-226d-4c02-99a9-613edc8593ec/21446673_r.jpg",
+   "date": "2026-10-22 01:37:58",
+   "views": "1160",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210458863",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "jey422"
+   ],
+   "origin_nick": "뢴트게늄"
+  },
+  {
+   "id": "210451511",
+   "type": "CATCH",
+   "title": "[캐치]생일 축하했는데 먹금 당해서 슬픈 민결희 클립과 양도끼 축하 클립을 발견한 머독ㅋㅋ",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261022/411/3ab93fc0-1241-49a9-b15b-8b2943786309/21445411_r.jpg",
+   "date": "2026-10-22 00:27:22",
+   "views": "832",
+   "duration": "0:23",
+   "url": "https://vod.afreecatv.com/player/210451511",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독"
+  },
+  {
+   "id": "210442233",
+   "type": "CATCH",
+   "title": "[캐치]칭찬받는 도끼님",
+   "streamer_id": "kimjh0410",
+   "streamer_nick": "함멩이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261021/619/a3a083ce-c306-4adb-ae8d-8fd1d0b5dd6d/21443619_r.jpg",
+   "date": "2026-10-21 23:10:37",
+   "views": "264",
+   "duration": "0:37",
+   "url": "https://vod.afreecatv.com/player/210442233",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳"
+  },
+  {
+   "id": "210435587",
+   "type": "CATCH",
+   "title": "[캐치]타요 : 양도끼 나를 배신해?",
+   "streamer_id": "barxxm",
+   "streamer_nick": "밤~",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261021/201/f9add618-3501-46b6-9bd9-02ce1aaff583/21442201_r.jpg",
+   "date": "2026-10-21 22:09:40",
+   "views": "863",
+   "duration": "0:24",
+   "url": "https://vod.afreecatv.com/player/210435587",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~"
   }
  ]
 }
