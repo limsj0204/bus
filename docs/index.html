@@ -256,6 +256,53 @@
     .grid.list .overlay { left: 6px; right: 6px; bottom: 5px; font-size: 0.7rem; }
   }
 
+  /* 휴지통·봤음 */
+  .stat.bin-btn { cursor: pointer; margin-left: auto; color: var(--text); font-weight: 600; transition: border-color .15s; }
+  .stat.bin-btn:hover { border-color: var(--accent); }
+  .stat.bin-btn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .stat.bin-btn svg { width: 15px; height: 15px; align-self: center; }
+  .bin-bar {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    padding: 12px 14px; margin-bottom: 14px; border-radius: 14px;
+    background: var(--accent-soft); border: 1px solid var(--accent);
+    font-size: 0.9rem;
+  }
+  .bin-bar b { font-weight: 800; }
+  .bin-bar .grow { flex: 1; color: var(--muted); font-size: 0.82rem; min-width: 160px; }
+  .bin-bar button {
+    border: 1px solid var(--line); background: var(--surface); border-radius: 9px;
+    padding: 6px 12px; font-size: 0.84rem; font-weight: 600; cursor: pointer;
+  }
+  .bin-bar button.primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+  .who .who-text { flex: 1; }
+  .act {
+    flex-shrink: 0; width: 34px; height: 34px; border-radius: 10px;
+    display: grid; place-items: center;
+    border: 1px solid var(--line); background: var(--surface-2); color: var(--muted);
+    cursor: pointer; transition: color .15s, border-color .15s, background .15s;
+  }
+  .act:hover { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); }
+  .act svg { width: 17px; height: 17px; }
+  .card.seen .thumb img { opacity: .45; }
+  .card.seen .title { color: var(--muted); }
+  .pill.seen { top: 10px; right: 10px; background: rgba(0, 0, 0, 0.6); color: #fff; }
+  .card.leaving { animation: leave .25s ease forwards; }
+  @keyframes leave { to { opacity: 0; transform: scale(.96); } }
+  .toast {
+    position: fixed; left: 50%; bottom: calc(20px + env(safe-area-inset-bottom)); z-index: 20;
+    transform: translate(-50%, 20px); opacity: 0; pointer-events: none;
+    display: flex; align-items: center; gap: 14px;
+    padding: 10px 12px 10px 16px; border-radius: 12px;
+    background: var(--text); color: var(--bg);
+    font-size: 0.88rem; box-shadow: var(--shadow-hover);
+    transition: opacity .2s, transform .2s;
+    max-width: calc(100vw - 32px);
+    white-space: nowrap;
+  }
+  .toast.show { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+  .toast button { border: 0; background: transparent; color: var(--accent); font-weight: 800; cursor: pointer; padding: 4px 6px; }
+  :root:not([data-theme="dark"]) .toast button { color: #5eead4; }
+
   /* 상태 */
   .skeleton .thumb, .skeleton .line {
     background: linear-gradient(90deg, var(--surface-2), var(--line), var(--surface-2));
@@ -297,6 +344,7 @@
 
 <main>
   <div class="stats" id="stats"></div>
+  <div id="binBar"></div>
 
   <div class="controls">
     <div class="segment" id="typeSeg"></div>
@@ -318,11 +366,14 @@
   <div class="chips" id="originChips"></div>
 
   <div class="grid" id="grid"></div>
-  <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 데이터 출처 SOOP</footer>
+  <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 휴지통과 '봤음' 표시는 이 기기에만 저장돼요 · 데이터 출처 SOOP</footer>
 </main>
+<div class="toast" id="toast"><span id="toastMsg"></span><button type="button" id="toastUndo">되돌리기</button></div>
 
 <script>
   const ICON_EYE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg>';
+  const ICON_TRASH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4h8v2"/><path d="M19 6l-1 14H6L5 6"/><path d="M10 11v6M14 11v6"/></svg>';
+  const ICON_RESTORE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>';
   const ICON_PLAY = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>';
   // SOOP 프로필 사진 주소 규칙: /LOGO/{ID 앞 두 글자}/{ID}/{ID}.jpg
   const PROFILE_URLS = [
@@ -347,9 +398,21 @@
   const TYPE_LABEL = { ALL: "전체", CLIP: "클립", CATCH: "캐치" };
   const NEW_HOURS = 6;
 
-  const state = { type: "ALL", keyword: "ALL", origin: "ALL", q: "", sort: "date", view: "grid" };
+  const state = { type: "ALL", keyword: "ALL", origin: "ALL", q: "", sort: "date", view: "grid", bin: false };
   try { state.view = localStorage.getItem("view") === "list" ? "list" : "grid"; } catch (e) {}
   let data = { items: [], keywords: [] };
+
+  // 휴지통·봤음 기록 (이 기기 브라우저에만 저장)
+  function loadSet(name) {
+    try { return JSON.parse(localStorage.getItem(name) || "{}") || {}; } catch (e) { return {}; }
+  }
+  function saveSet(name, obj) {
+    try { localStorage.setItem(name, JSON.stringify(obj)); } catch (e) {}
+  }
+  const trash = loadSet("trash");
+  const seen = loadSet("seen");
+  const keyOf = it => it.type + ":" + it.id;
+  const inTrash = it => keyOf(it) in trash;
 
   // 테마
   let theme = "auto";
@@ -414,15 +477,18 @@
   function baseFiltered() {
     const q = state.q.trim().toLowerCase();
     return data.items.filter(it =>
+      inTrash(it) === state.bin &&
       (state.type === "ALL" || it.type === state.type) &&
       (state.keyword === "ALL" || (it.keywords || []).includes(state.keyword)) &&
       (!q || [it.title, it.streamer_nick, it.origin_nick].some(v => (v || "").toLowerCase().includes(q))));
   }
 
   function renderStats() {
-    const clips = data.items.filter(i => i.type === "CLIP").length;
-    const catches = data.items.filter(i => i.type === "CATCH").length;
-    const fresh = data.items.filter(i => { const d = parseKst(i.date); return d && Date.now() - d < NEW_HOURS * 3600000; }).length;
+    const active = data.items.filter(i => !inTrash(i));
+    const binCount = data.items.length - active.length;
+    const clips = active.filter(i => i.type === "CLIP").length;
+    const catches = active.filter(i => i.type === "CATCH").length;
+    const fresh = active.filter(i => { const d = parseKst(i.date); return d && Date.now() - d < NEW_HOURS * 3600000; }).length;
     const box = document.getElementById("stats");
     const stat = (color, label, n) => {
       const s = el("span", "stat");
@@ -430,10 +496,66 @@
       s.append(dot, label, el("b", null, n));
       return s;
     };
+    const bin = el("button", "stat bin-btn" + (state.bin ? " on" : ""));
+    bin.type = "button";
+    bin.innerHTML = ICON_TRASH;
+    bin.append("휴지통", el("b", null, binCount));
+    bin.onclick = () => { state.bin = !state.bin; state.origin = "ALL"; render(); window.scrollTo({ top: 0 }); };
     box.replaceChildren(
       stat("var(--clip)", "클립", clips),
       stat("var(--catch)", "캐치", catches),
-      stat("var(--new)", NEW_HOURS + "시간 내 새 영상", fresh));
+      stat("var(--new)", NEW_HOURS + "시간 내 새 영상", fresh),
+      bin);
+
+    const bar = document.getElementById("binBar");
+    if (!state.bin) { bar.replaceChildren(); return; }
+    const box2 = el("div", "bin-bar");
+    const label = el("span");
+    label.append(el("b", null, "휴지통"), " · " + binCount + "개");
+    const back = el("button", "primary", "목록으로");
+    back.onclick = () => { state.bin = false; render(); };
+    box2.append(label, el("span", "grow", "되돌리기 버튼을 누르면 목록으로 돌아가요. 이 기기에만 저장돼요."), back);
+    if (binCount) {
+      const all = el("button", null, "모두 되돌리기");
+      all.onclick = () => {
+        if (!confirm("휴지통의 " + binCount + "개를 모두 목록으로 되돌릴까요?")) return;
+        for (const k of Object.keys(trash)) delete trash[k];
+        saveSet("trash", trash);
+        state.bin = false;
+        render();
+      };
+      box2.append(all);
+    }
+    bar.replaceChildren(box2);
+  }
+
+  // 휴지통으로 보내기 / 되돌리기
+  let toastTimer = null;
+  let lastAction = null;
+  function showToast(msg, undo) {
+    lastAction = undo;
+    document.getElementById("toastMsg").textContent = msg;
+    const t = document.getElementById("toast");
+    t.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => t.classList.remove("show"), 4000);
+  }
+  document.getElementById("toastUndo").onclick = () => {
+    if (lastAction) lastAction();
+    lastAction = null;
+    document.getElementById("toast").classList.remove("show");
+  };
+  function moveItem(it, cardEl) {
+    const k = keyOf(it);
+    const toBin = !(k in trash);
+    const apply = put => {
+      if (put) trash[k] = Date.now(); else delete trash[k];
+      saveSet("trash", trash);
+    };
+    apply(toBin);
+    cardEl.classList.add("leaving");
+    setTimeout(render, 220);
+    showToast(toBin ? "휴지통으로 옮겼어요" : "목록으로 되돌렸어요", () => { apply(!toBin); render(); });
   }
 
   function renderControls(base) {
@@ -473,8 +595,18 @@
   }
 
   function card(it, q) {
-    const a = el("a", "card");
+    const isSeen = keyOf(it) in seen;
+    const a = el("a", "card" + (isSeen ? " seen" : ""));
     a.href = it.url; a.target = "_blank"; a.rel = "noopener";
+    a.addEventListener("click", () => {
+      if (keyOf(it) in seen) return;
+      seen[keyOf(it)] = Date.now();
+      saveSet("seen", seen);
+      a.classList.add("seen");
+      const pill = a.querySelector(".pill.new");
+      if (pill) pill.remove();
+      a.querySelector(".thumb").append(el("span", "pill seen", "봤음"));
+    });
 
     const thumb = el("div", "thumb");
     const ph = el("div", "placeholder");
@@ -488,7 +620,8 @@
     }
     thumb.append(el("span", "pill type " + it.type, TYPE_LABEL[it.type] || it.type));
     const d = parseKst(it.date);
-    if (d && Date.now() - d < NEW_HOURS * 3600000) thumb.append(el("span", "pill new", "NEW"));
+    if (isSeen) thumb.append(el("span", "pill seen", "봤음"));
+    else if (d && Date.now() - d < NEW_HOURS * 3600000) thumb.append(el("span", "pill new", "NEW"));
     const ov = el("div", "overlay");
     const views = el("span");
     if (it.views != null && it.views !== "") views.innerHTML = ICON_EYE + compact(it.views);
@@ -509,7 +642,13 @@
     if (it.streamer_nick && it.streamer_nick !== origin) sub.push("✂ " + it.streamer_nick);
     sub.push(ago(d));
     text.append(el("div", "who-sub", sub.filter(Boolean).join(" · ")));
-    who.append(text);
+    const act = el("button", "act");
+    act.type = "button";
+    act.title = state.bin ? "목록으로 되돌리기" : "휴지통으로 보내기";
+    act.setAttribute("aria-label", act.title);
+    act.innerHTML = state.bin ? ICON_RESTORE : ICON_TRASH;
+    act.addEventListener("click", e => { e.preventDefault(); e.stopPropagation(); moveItem(it, a); });
+    who.append(text, act);
 
     body.append(title, who);
     a.append(thumb, body);
@@ -517,6 +656,7 @@
   }
 
   function render() {
+    renderStats();
     const base = baseFiltered();
     renderControls(base);
     let items = state.origin === "ALL" ? base : base.filter(it => originOf(it) === state.origin);
@@ -527,7 +667,7 @@
     document.querySelectorAll("#viewSeg button").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
     if (!items.length) {
       const e = el("div", "empty");
-      e.append(data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
+      e.append(state.bin ? "휴지통이 비어 있어요." : data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
       grid.replaceChildren(e);
       return;
     }
@@ -564,7 +704,6 @@
       document.getElementById("updated").textContent = updated
         ? "양도끼 언급 클립·캐치 · " + ago(updated) + " 업데이트"
         : "양도끼 언급 클립·캐치 · 첫 업데이트 전";
-      renderStats();
       render();
     })
     .catch(() => {
