@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-31 08:20",
+ "updated_at": "2026-10-31 08:30",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-10-31 05:04:56",
+   "newest": "2026-10-31 08:29:41",
    "backfill_days": 7
   },
   "도끼|CATCH": {
@@ -15,6 +15,28 @@
  },
  "items": [
   {
+   "id": "211283187",
+   "type": "CLIP",
+   "title": "[클립]도끼실종사건",
+   "streamer_id": "asd6074",
+   "streamer_nick": "내여자김깍꿍",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261031/649/86fcafcc-442d-4e88-a3b1-dbfcc3519b8f/44252649_r.jpg",
+   "date": "2026-10-31 08:29:41",
+   "views": "0",
+   "duration": "0:25",
+   "url": "https://vod.afreecatv.com/player/211283187",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "epje95"
+   ],
+   "origin_nick": "깍꿍♥",
+   "org_title_no": "",
+   "org_timestamp": "1793402981",
+   "broad_no": "298227181"
+  },
+  {
    "id": "211277043",
    "type": "CLIP",
    "title": "[클립]노래방에서 탬버린 흔드는 법을 스스로 연구까지 했다는 탬버린 고수 양도끼 / 견자희 반응",
@@ -22,7 +44,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261031_531_d311533e-ee8d-46a6-843c-ec6e30bacdb4_44251531_r&column=2&t=1793390786",
    "date": "2026-10-31 05:04:56",
-   "views": "104",
+   "views": "109",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/211277043",
    "keywords": [
@@ -44,7 +66,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261031_44250919_1_r",
    "date": "2026-10-31 03:53:17",
-   "views": "124",
+   "views": "127",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/211273891",
    "keywords": [
@@ -88,7 +110,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/569/cffaaa60-9a68-48a7-ab21-0624e41d3e95/21600569_r.jpg",
    "date": "2026-10-30 20:44:07",
-   "views": "187",
+   "views": "188",
    "url": "https://vod.afreecatv.com/player/211231037",
    "keywords": [
     "도끼"
@@ -132,7 +154,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1030/20/thumb/1793360530689587_R_7.jpg",
    "date": "2026-10-30 20:36:34",
-   "views": "472",
+   "views": "481",
    "url": "https://vod.afreecatv.com/player/211230319",
    "keywords": [
     "도끼"
@@ -198,7 +220,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_44236627_1_r&column=2&t=1793356215",
    "date": "2026-10-30 19:28:27",
-   "views": "357",
+   "views": "360",
    "url": "https://vod.afreecatv.com/player/211223537",
    "keywords": [
     "도끼"
@@ -220,7 +242,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_44236213_1_r&column=2&t=1793355295",
    "date": "2026-10-30 19:10:54",
-   "views": "164",
+   "views": "165",
    "url": "https://vod.afreecatv.com/player/211222063",
    "keywords": [
     "도끼"
@@ -242,7 +264,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/875/38187d8e-5954-43ac-b63a-46e93e99a79c/21597875_r.jpg",
    "date": "2026-10-30 18:27:57",
-   "views": "630",
+   "views": "635",
    "url": "https://vod.afreecatv.com/player/211218813",
    "keywords": [
     "도끼"
@@ -330,7 +352,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/695/539edb96-6453-45af-a30e-1527014d84d2/21590695_r.jpg",
    "date": "2026-10-30 02:17:46",
-   "views": "706",
+   "views": "707",
    "url": "https://vod.afreecatv.com/player/211178101",
    "keywords": [
     "도끼"
@@ -352,7 +374,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/557/d33e3a24-3031-4062-8e99-bc93409f671e/21590557_r.jpg",
    "date": "2026-10-30 02:02:37",
-   "views": "529",
+   "views": "530",
    "url": "https://vod.afreecatv.com/player/211177155",
    "keywords": [
     "도끼"
@@ -752,7 +774,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/869/1bfbb825-48f0-4dfc-986d-75ab2ff0400c/21588869_r.jpg",
    "date": "2026-10-30 00:09:11",
-   "views": "939",
+   "views": "940",
    "url": "https://vod.afreecatv.com/player/211167113",
    "keywords": [
     "도끼"
