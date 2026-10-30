@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31 01:42",
+ "updated_at": "2026-10-31 01:55",
  "keywords": [
   "도끼"
  ],
@@ -31,7 +31,10 @@
     "qhrekd77"
    ],
    "origin_nick": "김복당",
-   "duration": "0:20"
+   "duration": "0:20",
+   "org_title_no": "211253547",
+   "org_timestamp": "1793366685",
+   "broad_no": "298223041"
   },
   {
    "id": "211231037",
@@ -41,7 +44,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/569/cffaaa60-9a68-48a7-ab21-0624e41d3e95/21600569_r.jpg",
    "date": "2026-10-30 20:44:07",
-   "views": "125",
+   "views": "132",
    "url": "https://vod.afreecatv.com/player/211231037",
    "keywords": [
     "도끼"
@@ -50,7 +53,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "0:20"
+   "duration": "0:20",
+   "org_title_no": "",
+   "org_timestamp": "1793360647",
+   "broad_no": "298229059"
   },
   {
    "id": "211230863",
@@ -60,7 +66,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/965/73fd370e-75c2-45bb-b1d5-8a482ed60767/44238965_r.jpg",
    "date": "2026-10-30 20:42:12",
-   "views": "54",
+   "views": "55",
    "url": "https://vod.afreecatv.com/player/211230863",
    "keywords": [
     "도끼"
@@ -69,7 +75,10 @@
     "mingyeolhee"
    ],
    "origin_nick": "민결희",
-   "duration": "1:10"
+   "duration": "1:10",
+   "org_title_no": "",
+   "org_timestamp": "1793360532",
+   "broad_no": "298227093"
   },
   {
    "id": "211230319",
@@ -79,7 +88,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1030/20/thumb/1793360530689587_R_7.jpg",
    "date": "2026-10-30 20:36:34",
-   "views": "217",
+   "views": "236",
    "url": "https://vod.afreecatv.com/player/211230319",
    "keywords": [
     "도끼"
@@ -88,7 +97,10 @@
     "mingyeolhee"
    ],
    "origin_nick": "민결희",
-   "duration": "0:59"
+   "duration": "0:59",
+   "org_title_no": "",
+   "org_timestamp": "1793360194",
+   "broad_no": "298227093"
   },
   {
    "id": "211230309",
@@ -98,7 +110,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/765/d0d5ef03-18e5-49c8-bbeb-13e975360cef/44238765_r.jpg",
    "date": "2026-10-30 20:36:25",
-   "views": "44",
+   "views": "45",
    "url": "https://vod.afreecatv.com/player/211230309",
    "keywords": [
     "도끼"
@@ -107,7 +119,10 @@
     "mingyeolhee"
    ],
    "origin_nick": "민결희",
-   "duration": "1:07"
+   "duration": "1:07",
+   "org_title_no": "",
+   "org_timestamp": "1793360185",
+   "broad_no": "298227093"
   },
   {
    "id": "211230085",
@@ -117,7 +132,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/693/f4da3a41-d3fc-4f09-95fa-fe6a6104e165/44238693_r.jpg",
    "date": "2026-10-30 20:34:09",
-   "views": "23",
+   "views": "24",
    "url": "https://vod.afreecatv.com/player/211230085",
    "keywords": [
     "도끼"
@@ -126,7 +141,10 @@
     "mingyeolhee"
    ],
    "origin_nick": "민결희",
-   "duration": "1:26"
+   "duration": "1:26",
+   "org_title_no": "",
+   "org_timestamp": "1793360049",
+   "broad_no": "298227093"
   },
   {
    "id": "211223537",
@@ -136,7 +154,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_44236627_1_r&column=2&t=1793356215",
    "date": "2026-10-30 19:28:27",
-   "views": "284",
+   "views": "288",
    "url": "https://vod.afreecatv.com/player/211223537",
    "keywords": [
     "도끼"
@@ -145,7 +163,10 @@
     "jingburger1"
    ],
    "origin_nick": "징버거☆",
-   "duration": "1:00"
+   "duration": "1:00",
+   "org_title_no": "211177285",
+   "org_timestamp": "1793356107",
+   "broad_no": "298207201"
   },
   {
    "id": "211222063",
@@ -155,7 +176,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_44236213_1_r&column=2&t=1793355295",
    "date": "2026-10-30 19:10:54",
-   "views": "125",
+   "views": "128",
    "url": "https://vod.afreecatv.com/player/211222063",
    "keywords": [
     "도끼"
@@ -164,7 +185,10 @@
     "ecvhao"
    ],
    "origin_nick": "우왁굳",
-   "duration": "1:12"
+   "duration": "1:12",
+   "org_title_no": "211183473",
+   "org_timestamp": "1793355054",
+   "broad_no": "298203145"
   },
   {
    "id": "211218813",
@@ -174,7 +198,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/875/38187d8e-5954-43ac-b63a-46e93e99a79c/21597875_r.jpg",
    "date": "2026-10-30 18:27:57",
-   "views": "476",
+   "views": "481",
    "url": "https://vod.afreecatv.com/player/211218813",
    "keywords": [
     "도끼"
@@ -183,7 +207,10 @@
     "wjdfogur98"
    ],
    "origin_nick": "대월향",
-   "duration": "0:42"
+   "duration": "0:42",
+   "org_title_no": "",
+   "org_timestamp": "1793352477",
+   "broad_no": "298222845"
   },
   {
    "id": "211206461",
@@ -202,7 +229,10 @@
     "haroha"
    ],
    "origin_nick": "하로하!",
-   "duration": "2:32"
+   "duration": "2:32",
+   "org_title_no": "211209533",
+   "org_timestamp": "1793341772",
+   "broad_no": "298218111"
   },
   {
    "id": "211178229",
@@ -221,7 +251,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "1:34"
+   "duration": "1:34",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793294376",
+   "broad_no": "298204497"
   },
   {
    "id": "211178195",
@@ -240,7 +273,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "1:38"
+   "duration": "1:38",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793294348",
+   "broad_no": "298204497"
   },
   {
    "id": "211178101",
@@ -250,7 +286,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/695/539edb96-6453-45af-a30e-1527014d84d2/21590695_r.jpg",
    "date": "2026-10-30 02:17:46",
-   "views": "648",
+   "views": "652",
    "url": "https://vod.afreecatv.com/player/211178101",
    "keywords": [
     "도끼"
@@ -259,7 +295,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "0:46"
+   "duration": "0:46",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793294266",
+   "broad_no": "298204497"
   },
   {
    "id": "211177155",
@@ -269,7 +308,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/557/d33e3a24-3031-4062-8e99-bc93409f671e/21590557_r.jpg",
    "date": "2026-10-30 02:02:37",
-   "views": "462",
+   "views": "479",
    "url": "https://vod.afreecatv.com/player/211177155",
    "keywords": [
     "도끼"
@@ -278,7 +317,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "0:33"
+   "duration": "0:33",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793293357",
+   "broad_no": "298204497"
   },
   {
    "id": "211177135",
@@ -297,7 +339,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "1:02"
+   "duration": "1:02",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793293338",
+   "broad_no": "298204497"
   },
   {
    "id": "211177115",
@@ -316,7 +361,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "0:58"
+   "duration": "0:58",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793293326",
+   "broad_no": "298204497"
   },
   {
    "id": "211177089",
@@ -335,7 +383,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "4:54"
+   "duration": "4:54",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793293306",
+   "broad_no": "298204497"
   },
   {
    "id": "211177071",
@@ -354,7 +405,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "4:59"
+   "duration": "4:59",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793293298",
+   "broad_no": "298204497"
   },
   {
    "id": "211176589",
@@ -373,7 +427,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "3:13"
+   "duration": "3:13",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292919",
+   "broad_no": "298204497"
   },
   {
    "id": "211176565",
@@ -392,7 +449,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "3:17"
+   "duration": "3:17",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292901",
+   "broad_no": "298204497"
   },
   {
    "id": "211176447",
@@ -411,7 +471,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "4:07"
+   "duration": "4:07",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292790",
+   "broad_no": "298204497"
   },
   {
    "id": "211176399",
@@ -430,7 +493,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "2:16"
+   "duration": "2:16",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292734",
+   "broad_no": "298204497"
   },
   {
    "id": "211176381",
@@ -449,7 +515,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "3:51"
+   "duration": "3:51",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292718",
+   "broad_no": "298204497"
   },
   {
    "id": "211176129",
@@ -468,7 +537,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "1:00"
+   "duration": "1:00",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292522",
+   "broad_no": "298204497"
   },
   {
    "id": "211176087",
@@ -487,7 +559,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "3:38"
+   "duration": "3:38",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292491",
+   "broad_no": "298204497"
   },
   {
    "id": "211176069",
@@ -506,7 +581,10 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "duration": "3:37"
+   "duration": "3:37",
+   "org_title_no": "211180005",
+   "org_timestamp": "1793292472",
+   "broad_no": "298204497"
   },
   {
    "id": "211176063",
@@ -630,7 +708,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/869/1bfbb825-48f0-4dfc-986d-75ab2ff0400c/21588869_r.jpg",
    "date": "2026-10-30 00:09:11",
-   "views": "861",
+   "views": "864",
    "url": "https://vod.afreecatv.com/player/211167113",
    "keywords": [
     "도끼"
@@ -639,7 +717,10 @@
     "b13246"
    ],
    "origin_nick": "타요~",
-   "duration": "0:18"
+   "duration": "0:18",
+   "org_title_no": "211189391",
+   "org_timestamp": "1793286551",
+   "broad_no": "298204373"
   },
   {
    "id": "211162353",
@@ -782,7 +863,7 @@
    "streamer_nick": "랙독이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261029/883/575fa59d-2a5d-4e33-9c0a-89264214052f/21577883_r.jpg",
    "date": "2026-10-29 12:48:03",
-   "views": "238",
+   "views": "239",
    "url": "https://vod.afreecatv.com/player/211113861",
    "keywords": [
     "도끼"
@@ -791,7 +872,10 @@
     "superbsw123"
    ],
    "origin_nick": "s시조새s",
-   "duration": "0:37"
+   "duration": "0:37",
+   "org_title_no": "211191653",
+   "org_timestamp": "1793245683",
+   "broad_no": "298191605"
   },
   {
    "id": "211113681",
@@ -810,7 +894,10 @@
     "superbsw123"
    ],
    "origin_nick": "s시조새s",
-   "duration": "0:43"
+   "duration": "0:43",
+   "org_title_no": "211191653",
+   "org_timestamp": "1793245408",
+   "broad_no": "298191605"
   },
   {
    "id": "211113605",
@@ -839,7 +926,7 @@
    "streamer_nick": "힛__힛",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1029/12/thumb/1793245040543165_R_7.jpg",
    "date": "2026-10-29 12:37:24",
-   "views": "673",
+   "views": "686",
    "url": "https://vod.afreecatv.com/player/211113473",
    "keywords": [
     "도끼"
@@ -848,7 +935,10 @@
     "243000"
    ],
    "origin_nick": "천양",
-   "duration": "1:00"
+   "duration": "1:00",
+   "org_title_no": "",
+   "org_timestamp": "1793245044",
+   "broad_no": "0"
   },
   {
    "id": "211098209",
