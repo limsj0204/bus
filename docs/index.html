@@ -262,10 +262,19 @@
   }
 
   /* 휴지통·봤음 */
-  .stat.bin-btn { cursor: pointer; margin-left: auto; color: var(--text); font-weight: 600; transition: border-color .15s; }
-  .stat.bin-btn:hover { border-color: var(--accent); }
-  .stat.bin-btn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
-  .stat.bin-btn svg { width: 15px; height: 15px; align-self: center; }
+  .stat.tab-btn { cursor: pointer; color: var(--text); font-weight: 600; transition: border-color .15s; }
+  .stats .tabs { display: flex; gap: 8px; margin-left: auto; }
+  @media (max-width: 520px) {
+    .stats { gap: 6px; }
+    .stat { padding: 7px 10px; }
+    .stats .tabs { margin-left: 0; flex-basis: 100%; }
+    .stats .tabs .tab-btn { flex: 1; justify-content: center; }
+  }
+  .stat.tab-btn:hover { border-color: var(--accent); }
+  .stat.tab-btn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .stat.tab-btn svg { width: 15px; height: 15px; align-self: center; }
+  .acts { display: flex; gap: 6px; flex-shrink: 0; }
+  .act.on { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); }
   .bin-bar {
     display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
     padding: 12px 14px; margin-bottom: 14px; border-radius: 14px;
@@ -390,7 +399,7 @@
 
 <main>
   <div class="stats" id="stats"></div>
-  <div id="binBar"></div>
+  <div id="tabBar"></div>
 
   <div class="controls">
     <div class="segment" id="typeSeg"></div>
@@ -412,11 +421,11 @@
   <div class="chips" id="originChips"></div>
 
   <div class="grid" id="grid"></div>
-  <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 휴지통과 '봤음' 표시는 이 기기에만 저장돼요 · 데이터 출처 SOOP</footer>
+  <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 데이터 출처 SOOP</footer>
 </main>
 <dialog class="sheet" id="syncDialog">
   <h2>기기 간 동기화</h2>
-  <p>휴지통과 '봤음' 기록을 휴대폰·PC 어디서 보든 똑같이 맞춰요. 기록은 내 GitHub 계정의 비공개 Gist에 저장돼요.</p>
+  <p>휴지통·나중에 보기·'봤음' 기록을 휴대폰·PC 어디서 보든 똑같이 맞춰요. 기록은 내 GitHub 계정의 비공개 Gist에 저장돼요.</p>
   <div id="syncSetup">
     <ol>
       <li><a id="tokenLink" target="_blank" rel="noopener">GitHub 토큰 만들기</a>를 눌러요. (gist 권한만 체크된 채로 열려요)</li>
@@ -441,6 +450,8 @@
   const ICON_EYE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg>';
   const ICON_TRASH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4h8v2"/><path d="M19 6l-1 14H6L5 6"/><path d="M10 11v6M14 11v6"/></svg>';
   const ICON_RESTORE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>';
+  const ICON_LATER = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></svg>';
+  const ICON_LATER_ON = '<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></svg>';
   const ICON_PLAY = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>';
   // SOOP 프로필 사진 주소 규칙: /LOGO/{ID 앞 두 글자}/{ID}/{ID}.jpg
   const PROFILE_URLS = [
@@ -465,7 +476,7 @@
   const TYPE_LABEL = { ALL: "전체", CLIP: "클립", CATCH: "캐치" };
   const NEW_HOURS = 6;
 
-  const state = { type: "ALL", keyword: "ALL", origin: "ALL", q: "", sort: "date", view: "grid", bin: false };
+  const state = { type: "ALL", keyword: "ALL", origin: "ALL", q: "", sort: "date", view: "grid", tab: "all" };
   try { state.view = localStorage.getItem("view") === "list" ? "list" : "grid"; } catch (e) {}
   let data = { items: [], keywords: [] };
 
@@ -477,10 +488,14 @@
     try { localStorage.setItem(name, JSON.stringify(obj)); } catch (e) {}
   }
   const trash = loadSet("trash");
+  const later = loadSet("later");
   const seen = loadSet("seen");
   const keyOf = it => it.type + ":" + it.id;
   // 휴지통 값: 넣은 시각(양수) 또는 꺼낸 시각(음수). 기기끼리 합칠 때 더 나중 동작이 이긴다.
+  // 나중에 보기도 같은 방식: 담은 시각(양수) 또는 뺀 시각(음수).
   const inTrash = it => (trash[keyOf(it)] || 0) > 0;
+  const inLater = it => (later[keyOf(it)] || 0) > 0;
+  const syncPayload = () => ({ trash, seen, later });
 
   // 기기 간 동기화 (GitHub Gist)
   const SYNC_FILE = "yangdoki-clip-state.json";
@@ -508,13 +523,15 @@
 
   function mergeRemote(remote) {
     let changed = false;
-    for (const [k, v] of Object.entries(remote.trash || {})) {
-      if (typeof v === "number" && Math.abs(v) > Math.abs(trash[k] || 0)) { trash[k] = v; changed = true; }
+    for (const [name, local] of [["trash", trash], ["later", later]]) {
+      for (const [k, v] of Object.entries(remote[name] || {})) {
+        if (typeof v === "number" && Math.abs(v) > Math.abs(local[k] || 0)) { local[k] = v; changed = true; }
+      }
     }
     for (const [k, v] of Object.entries(remote.seen || {})) {
       if (typeof v === "number" && v > (seen[k] || 0)) { seen[k] = v; changed = true; }
     }
-    if (changed) { saveSet("trash", trash); saveSet("seen", seen); }
+    if (changed) { saveSet("trash", trash); saveSet("seen", seen); saveSet("later", later); }
     return changed;
   }
 
@@ -543,10 +560,10 @@
       body: JSON.stringify({
         description: "양도끼 클립 모음 — 휴지통·봤음 기록",
         public: false,
-        files: { [SYNC_FILE]: { content: JSON.stringify({ trash, seen }) } },
+        files: { [SYNC_FILE]: { content: JSON.stringify(syncPayload()) } },
       }),
     });
-    return { id: created.id, remote: { trash, seen } };
+    return { id: created.id, remote: syncPayload() };
   }
 
   function setSyncStatus(status, message) {
@@ -567,8 +584,8 @@
       try { localStorage.setItem("gist_id", id); } catch (e) {}
       const changed = remote ? mergeRemote(remote) : false;
       // 합친 결과가 Gist 내용과 다르면(이 기기에만 있던 기록이 있으면) 올린다.
-      const merged = JSON.stringify({ trash, seen });
-      if (!remote || JSON.stringify({ trash: remote.trash || {}, seen: remote.seen || {} }) !== merged) {
+      const merged = JSON.stringify(syncPayload());
+      if (!remote || JSON.stringify({ trash: remote.trash || {}, seen: remote.seen || {}, later: remote.later || {} }) !== merged) {
         await gh("/gists/" + id, { method: "PATCH", body: JSON.stringify({ files: { [SYNC_FILE]: { content: merged } } }) });
       }
       sync.lastAt = Date.now();
@@ -693,7 +710,7 @@
   function baseFiltered() {
     const q = state.q.trim().toLowerCase();
     return data.items.filter(it =>
-      inTrash(it) === state.bin &&
+      (state.tab === "bin" ? inTrash(it) : !inTrash(it) && (state.tab !== "later" || inLater(it))) &&
       (state.type === "ALL" || it.type === state.type) &&
       (state.keyword === "ALL" || (it.keywords || []).includes(state.keyword)) &&
       (!q || [it.title, it.streamer_nick, it.origin_nick].some(v => (v || "").toLowerCase().includes(q))));
@@ -712,37 +729,60 @@
       s.append(dot, label, el("b", null, n));
       return s;
     };
-    const bin = el("button", "stat bin-btn" + (state.bin ? " on" : ""));
-    bin.type = "button";
-    bin.innerHTML = ICON_TRASH;
-    bin.append("휴지통", el("b", null, binCount));
-    bin.onclick = () => { state.bin = !state.bin; state.origin = "ALL"; render(); window.scrollTo({ top: 0 }); };
+    const laterCount = active.filter(inLater).length;
+    const tabBtn = (tab, icon, label, n) => {
+      const b = el("button", "stat tab-btn" + (state.tab === tab ? " on" : ""));
+      b.type = "button";
+      b.innerHTML = icon;
+      b.append(label, el("b", null, n));
+      b.onclick = () => { state.tab = state.tab === tab ? "all" : tab; state.origin = "ALL"; render(); window.scrollTo({ top: 0 }); };
+      return b;
+    };
+    const tabs = el("div", "tabs");
+    tabs.append(tabBtn("later", ICON_LATER, "나중에 보기", laterCount), tabBtn("bin", ICON_TRASH, "휴지통", binCount));
     box.replaceChildren(
       stat("var(--clip)", "클립", clips),
       stat("var(--catch)", "캐치", catches),
       stat("var(--new)", NEW_HOURS + "시간 내 새 영상", fresh),
-      bin);
+      tabs);
 
-    const bar = document.getElementById("binBar");
-    if (!state.bin) { bar.replaceChildren(); return; }
+    const bar = document.getElementById("tabBar");
+    if (state.tab === "all") { bar.replaceChildren(); return; }
     const box2 = el("div", "bin-bar");
     const label = el("span");
-    label.append(el("b", null, "휴지통"), " · " + binCount + "개");
     const back = el("button", "primary", "목록으로");
-    back.onclick = () => { state.bin = false; render(); };
-    box2.append(label, el("span", "grow", "되돌리기 버튼을 누르면 목록으로 돌아가요. 이 기기에만 저장돼요."), back);
-    if (binCount) {
-      const all = el("button", null, "모두 되돌리기");
-      all.onclick = () => {
-        if (!confirm("휴지통의 " + binCount + "개를 모두 목록으로 되돌릴까요?")) return;
-        const now = Date.now();
-        for (const k of Object.keys(trash)) if (trash[k] > 0) trash[k] = -now;
-        saveSet("trash", trash);
-        scheduleSync();
-        state.bin = false;
-        render();
-      };
-      box2.append(all);
+    back.onclick = () => { state.tab = "all"; render(); };
+    if (state.tab === "later") {
+      label.append(el("b", null, "나중에 보기"), " · " + laterCount + "개");
+      box2.append(label, el("span", "grow", "다 본 영상은 책갈피 버튼을 다시 눌러 빼면 돼요."), back);
+      const seenLater = active.filter(it => inLater(it) && keyOf(it) in seen);
+      if (seenLater.length) {
+        const clear = el("button", null, "본 영상 " + seenLater.length + "개 빼기");
+        clear.onclick = () => {
+          const now = Date.now();
+          seenLater.forEach(it => { later[keyOf(it)] = -now; });
+          saveSet("later", later);
+          scheduleSync();
+          render();
+        };
+        box2.append(clear);
+      }
+    } else {
+      label.append(el("b", null, "휴지통"), " · " + binCount + "개");
+      box2.append(label, el("span", "grow", "되돌리기 버튼을 누르면 목록으로 돌아가요."), back);
+      if (binCount) {
+        const all = el("button", null, "모두 되돌리기");
+        all.onclick = () => {
+          if (!confirm("휴지통의 " + binCount + "개를 모두 목록으로 되돌릴까요?")) return;
+          const now = Date.now();
+          for (const k of Object.keys(trash)) if (trash[k] > 0) trash[k] = -now;
+          saveSet("trash", trash);
+          scheduleSync();
+          state.tab = "all";
+          render();
+        };
+        box2.append(all);
+      }
     }
     bar.replaceChildren(box2);
   }
@@ -775,6 +815,24 @@
     cardEl.classList.add("leaving");
     setTimeout(render, 220);
     showToast(toBin ? "휴지통으로 옮겼어요" : "목록으로 되돌렸어요", () => { apply(!toBin); render(); });
+  }
+
+  function toggleLater(it, cardEl, btn) {
+    const k = keyOf(it);
+    const add = !((later[k] || 0) > 0);
+    const apply = put => {
+      later[k] = put ? Date.now() : -Date.now();
+      saveSet("later", later);
+      scheduleSync();
+    };
+    apply(add);
+    if (state.tab === "later" && !add) {
+      cardEl.classList.add("leaving");
+      setTimeout(render, 220);
+    } else {
+      render();
+    }
+    showToast(add ? "나중에 보기에 담았어요" : "나중에 보기에서 뺐어요", () => { apply(!add); render(); });
   }
 
   function renderControls(base) {
@@ -862,13 +920,25 @@
     if (it.streamer_nick && it.streamer_nick !== origin) sub.push("✂ " + it.streamer_nick);
     sub.push(ago(d));
     text.append(el("div", "who-sub", sub.filter(Boolean).join(" · ")));
-    const act = el("button", "act");
-    act.type = "button";
-    act.title = state.bin ? "목록으로 되돌리기" : "휴지통으로 보내기";
-    act.setAttribute("aria-label", act.title);
-    act.innerHTML = state.bin ? ICON_RESTORE : ICON_TRASH;
-    act.addEventListener("click", e => { e.preventDefault(); e.stopPropagation(); moveItem(it, a); });
-    who.append(text, act);
+    const button = (cls, label, icon, onClick) => {
+      const b = el("button", cls);
+      b.type = "button";
+      b.title = label;
+      b.setAttribute("aria-label", label);
+      b.innerHTML = icon;
+      b.addEventListener("click", e => { e.preventDefault(); e.stopPropagation(); onClick(b); });
+      return b;
+    };
+    const acts = el("div", "acts");
+    if (state.tab === "bin") {
+      acts.append(button("act", "목록으로 되돌리기", ICON_RESTORE, () => moveItem(it, a)));
+    } else {
+      const saved = inLater(it);
+      acts.append(
+        button("act" + (saved ? " on" : ""), saved ? "나중에 보기에서 빼기" : "나중에 보기에 담기", saved ? ICON_LATER_ON : ICON_LATER, b => toggleLater(it, a, b)),
+        button("act", "휴지통으로 보내기", ICON_TRASH, () => moveItem(it, a)));
+    }
+    who.append(text, acts);
 
     body.append(title, who);
     a.append(thumb, body);
@@ -887,7 +957,7 @@
     document.querySelectorAll("#viewSeg button").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
     if (!items.length) {
       const e = el("div", "empty");
-      e.append(state.bin ? "휴지통이 비어 있어요." : data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
+      e.append(state.tab === "bin" ? "휴지통이 비어 있어요." : state.tab === "later" ? "나중에 볼 영상이 없어요. 카드의 책갈피 버튼으로 담아 보세요." : data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
       grid.replaceChildren(e);
       return;
     }
