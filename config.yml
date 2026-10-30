@@ -22,3 +22,13 @@ backfill_days: 7
 
 # 사이트에 보관할 최대 영상 수 (넘으면 가장 오래된 것부터 지워요)
 max_items: 2000
+
+# 디스코드 알림 (웹후크 주소는 GitHub 저장소 Settings → Secrets에 DISCORD_WEBHOOK_URL로 넣어요)
+discord:
+  enabled: true
+  # 알릴 영상 종류
+  types:
+    - CLIP
+    - CATCH
+  # 특정 원본 방송만 알리고 싶으면 스트리머 이름이나 ID를 적어요. 비워 두면 전부 알려요.
+  only_origins: []

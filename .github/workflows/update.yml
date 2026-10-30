@@ -26,6 +26,8 @@ jobs:
           python-version: "3.12"
       - run: pip install pyyaml
       - run: python scripts/fetch.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       - name: 변경 사항 저장
         run: |
           git config user.name "github-actions[bot]"

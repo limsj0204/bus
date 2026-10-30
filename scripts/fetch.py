@@ -11,6 +11,8 @@ from pathlib import Path
 
 import yaml
 
+import notify
+
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.yml"
 DATA_PATH = ROOT / "docs" / "data.json"
@@ -190,6 +192,8 @@ def main():
 
     successes = 0
     new_count = 0
+    # 채우기(예전 영상 몰아 받기) 중에 찾은 영상은 알림을 보내지 않는다.
+    to_notify = []
     now = datetime.now(KST).replace(tzinfo=None)
     for keyword in keywords:
         for file_type in types:
@@ -255,6 +259,8 @@ def main():
                     else:
                         items[key] = entry
                         new_count += 1
+                        if not backfilling and prog.get("newest"):
+                            to_notify.append(entry)
 
                 time.sleep(1.5)
                 # 캐치는 한 페이지에 40개보다 적게 와서, 개수가 아니라 날짜와 빈 페이지로 끝을 판단한다.
@@ -300,6 +306,9 @@ def main():
         encoding="utf-8",
     )
     print(f"새 영상 {new_count}개, 총 {len(result)}개 저장")
+
+    kept = {(it["type"], it["id"]) for it in result}
+    notify.send([it for it in to_notify if (it["type"], it["id"]) in kept], config)
 
 
 if __name__ == "__main__":

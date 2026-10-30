@@ -33,3 +33,13 @@ keywords:
 pip install pyyaml
 python scripts/fetch.py
 ```
+
+## 디스코드 알림
+
+새 클립·캐치가 모이면 디스코드 채널로 알려줘요.
+
+1. 디스코드 서버의 채널 설정 → **연동(Integrations)** → **웹후크** → **새 웹후크** → **웹후크 URL 복사**
+2. 이 저장소 **Settings → Secrets and variables → Actions → New repository secret**
+   - Name: `DISCORD_WEBHOOK_URL`
+   - Secret: 복사한 웹후크 URL
+3. 끄거나 특정 방송만 받으려면 `config.yml`의 `discord` 항목을 고쳐요.
