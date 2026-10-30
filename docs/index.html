@@ -105,7 +105,12 @@
   }
   .logo img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .brand { flex: 1; min-width: 0; }
-  .brand h1 { margin: 0; font-size: 1.08rem; font-weight: 800; letter-spacing: -0.02em; }
+  .brand h1 { margin: 0; font-size: 1.08rem; font-weight: 800; letter-spacing: -0.02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  @media (max-width: 380px) {
+    .brand h1 { font-size: 0.98rem; }
+    .topbar-inner { gap: 8px; }
+    .icon-btn { min-width: 34px; height: 34px; padding: 0 8px; }
+  }
   .brand p { margin: 1px 0 0; font-size: 0.78rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .icon-btn {
     height: 36px; min-width: 36px; padding: 0 10px;
@@ -303,6 +308,43 @@
   .toast button { border: 0; background: transparent; color: var(--accent); font-weight: 800; cursor: pointer; padding: 4px 6px; }
   :root:not([data-theme="dark"]) .toast button { color: #5eead4; }
 
+  /* 동기화 */
+  .sync-btn { position: relative; }
+  .sync-btn::after {
+    content: ""; position: absolute; top: 6px; right: 6px;
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--muted); box-shadow: 0 0 0 2px var(--surface);
+  }
+  .sync-btn[data-status="ok"]::after { background: #10b981; }
+  .sync-btn[data-status="busy"]::after { background: #f59e0b; }
+  .sync-btn[data-status="error"]::after { background: #ef4444; }
+  dialog.sheet {
+    width: min(440px, calc(100vw - 32px));
+    border: 1px solid var(--line); border-radius: 18px;
+    background: var(--surface); color: var(--text);
+    padding: 20px; box-shadow: var(--shadow-hover);
+  }
+  dialog.sheet::backdrop { background: rgba(0, 0, 0, 0.45); }
+  .sheet h2 { margin: 0 0 6px; font-size: 1.1rem; }
+  .sheet p { margin: 0 0 12px; font-size: 0.88rem; line-height: 1.55; color: var(--muted); }
+  .sheet ol { margin: 0 0 14px; padding-left: 20px; font-size: 0.88rem; line-height: 1.6; }
+  .sheet a { color: var(--accent); font-weight: 600; }
+  .sheet input {
+    width: 100%; height: 42px; padding: 0 12px; margin-bottom: 10px;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2);
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.85rem;
+  }
+  .sheet input:focus { outline: 0; border-color: var(--accent); }
+  .sheet .status { font-size: 0.85rem; font-weight: 600; margin-bottom: 14px; }
+  .sheet .row { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+  .sheet .row button {
+    border: 1px solid var(--line); background: var(--surface-2); border-radius: 10px;
+    padding: 8px 14px; font-size: 0.88rem; font-weight: 600; cursor: pointer;
+  }
+  .sheet .row button.primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+  .sheet .row button.danger { color: #ef4444; }
+  .sheet .row .spacer { flex: 1; }
+
   /* 상태 */
   .skeleton .thumb, .skeleton .line {
     background: linear-gradient(90deg, var(--surface-2), var(--line), var(--surface-2));
@@ -338,6 +380,10 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
       <span class="label">지금 갱신</span>
     </a>
+    <button class="icon-btn sync-btn" id="syncBtn" type="button" title="기기 간 동기화" data-status="off">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19a4.5 4.5 0 1 0-1.2-8.84A6 6 0 0 0 4.5 12.5 3.5 3.5 0 0 0 7 19z"/></svg>
+      <span class="label">동기화</span>
+    </button>
     <button class="icon-btn" id="themeBtn" type="button"></button>
   </div>
 </header>
@@ -368,6 +414,27 @@
   <div class="grid" id="grid"></div>
   <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 휴지통과 '봤음' 표시는 이 기기에만 저장돼요 · 데이터 출처 SOOP</footer>
 </main>
+<dialog class="sheet" id="syncDialog">
+  <h2>기기 간 동기화</h2>
+  <p>휴지통과 '봤음' 기록을 휴대폰·PC 어디서 보든 똑같이 맞춰요. 기록은 내 GitHub 계정의 비공개 Gist에 저장돼요.</p>
+  <div id="syncSetup">
+    <ol>
+      <li><a id="tokenLink" target="_blank" rel="noopener">GitHub 토큰 만들기</a>를 눌러요. (gist 권한만 체크된 채로 열려요)</li>
+      <li>Expiration을 <b>No expiration</b>으로 고르고 맨 아래 <b>Generate token</b>을 눌러요.</li>
+      <li><b>ghp_</b>로 시작하는 토큰을 복사해서 아래에 붙여 넣어요.</li>
+    </ol>
+    <p>다른 기기에서는 같은 토큰을 붙여 넣기만 하면 돼요. 토큰은 이 기기 브라우저에만 저장돼요.</p>
+    <input id="tokenInput" type="password" placeholder="ghp_..." autocomplete="off" spellcheck="false">
+  </div>
+  <div class="status" id="syncStatus"></div>
+  <div class="row">
+    <button type="button" class="danger" id="syncDisconnect">연결 끊기</button>
+    <span class="spacer"></span>
+    <button type="button" id="syncClose">닫기</button>
+    <button type="button" class="primary" id="syncConnect">연결</button>
+    <button type="button" class="primary" id="syncNow">지금 동기화</button>
+  </div>
+</dialog>
 <div class="toast" id="toast"><span id="toastMsg"></span><button type="button" id="toastUndo">되돌리기</button></div>
 
 <script>
@@ -412,7 +479,156 @@
   const trash = loadSet("trash");
   const seen = loadSet("seen");
   const keyOf = it => it.type + ":" + it.id;
-  const inTrash = it => keyOf(it) in trash;
+  // 휴지통 값: 넣은 시각(양수) 또는 꺼낸 시각(음수). 기기끼리 합칠 때 더 나중 동작이 이긴다.
+  const inTrash = it => (trash[keyOf(it)] || 0) > 0;
+
+  // 기기 간 동기화 (GitHub Gist)
+  const SYNC_FILE = "yangdoki-clip-state.json";
+  const TOKEN_URL = "https://github.com/settings/tokens/new?scopes=gist&description=" + encodeURIComponent("양도끼 클립 모음 동기화");
+  const sync = { token: "", gistId: "", status: "off", message: "", timer: null, running: false, again: false, lastAt: 0 };
+  try { sync.token = localStorage.getItem("gh_token") || ""; sync.gistId = localStorage.getItem("gist_id") || ""; } catch (e) {}
+
+  async function gh(path, opts = {}) {
+    const res = await fetch("https://api.github.com" + path, {
+      ...opts,
+      cache: "no-store",
+      headers: {
+        Authorization: "Bearer " + sync.token,
+        Accept: "application/vnd.github+json",
+        ...(opts.body ? { "Content-Type": "application/json" } : {}),
+      },
+    });
+    if (!res.ok) {
+      const err = new Error("HTTP " + res.status);
+      err.status = res.status;
+      throw err;
+    }
+    return res.json();
+  }
+
+  function mergeRemote(remote) {
+    let changed = false;
+    for (const [k, v] of Object.entries(remote.trash || {})) {
+      if (typeof v === "number" && Math.abs(v) > Math.abs(trash[k] || 0)) { trash[k] = v; changed = true; }
+    }
+    for (const [k, v] of Object.entries(remote.seen || {})) {
+      if (typeof v === "number" && v > (seen[k] || 0)) { seen[k] = v; changed = true; }
+    }
+    if (changed) { saveSet("trash", trash); saveSet("seen", seen); }
+    return changed;
+  }
+
+  async function readGist(id) {
+    const g = await gh("/gists/" + id);
+    const f = g.files && g.files[SYNC_FILE];
+    if (!f) return null;
+    let text = f.content;
+    if (f.truncated) text = await (await fetch(f.raw_url, { cache: "no-store" })).text();
+    try { return JSON.parse(text || "{}"); } catch (e) { return {}; }
+  }
+
+  async function findOrCreateGist() {
+    if (sync.gistId) {
+      try { return { id: sync.gistId, remote: await readGist(sync.gistId) }; }
+      catch (e) { if (e.status !== 404) throw e; }
+    }
+    for (let page = 1; page <= 10; page++) {
+      const list = await gh("/gists?per_page=100&page=" + page);
+      const found = list.find(g => g.files && g.files[SYNC_FILE]);
+      if (found) return { id: found.id, remote: await readGist(found.id) };
+      if (list.length < 100) break;
+    }
+    const created = await gh("/gists", {
+      method: "POST",
+      body: JSON.stringify({
+        description: "양도끼 클립 모음 — 휴지통·봤음 기록",
+        public: false,
+        files: { [SYNC_FILE]: { content: JSON.stringify({ trash, seen }) } },
+      }),
+    });
+    return { id: created.id, remote: { trash, seen } };
+  }
+
+  function setSyncStatus(status, message) {
+    sync.status = status;
+    sync.message = message || "";
+    document.getElementById("syncBtn").dataset.status = status;
+    renderSyncDialog();
+  }
+
+  async function runSync() {
+    if (!sync.token) { setSyncStatus("off"); return; }
+    if (sync.running) { sync.again = true; return; }
+    sync.running = true;
+    setSyncStatus("busy", "동기화 중…");
+    try {
+      const { id, remote } = await findOrCreateGist();
+      sync.gistId = id;
+      try { localStorage.setItem("gist_id", id); } catch (e) {}
+      const changed = remote ? mergeRemote(remote) : false;
+      // 합친 결과가 Gist 내용과 다르면(이 기기에만 있던 기록이 있으면) 올린다.
+      const merged = JSON.stringify({ trash, seen });
+      if (!remote || JSON.stringify({ trash: remote.trash || {}, seen: remote.seen || {} }) !== merged) {
+        await gh("/gists/" + id, { method: "PATCH", body: JSON.stringify({ files: { [SYNC_FILE]: { content: merged } } }) });
+      }
+      sync.lastAt = Date.now();
+      setSyncStatus("ok", "연결됨 · 방금 동기화했어요");
+      if (changed) render();
+    } catch (e) {
+      if (e.status === 401) {
+        // 틀린 토큰은 지워서 바로 다시 입력할 수 있게 한다.
+        sync.token = ""; sync.gistId = "";
+        try { localStorage.removeItem("gh_token"); localStorage.removeItem("gist_id"); } catch (err) {}
+        setSyncStatus("error", "토큰이 맞지 않거나 만료됐어요. 새 토큰을 넣어 주세요.");
+      }
+      else if (e.status === 403 || e.status === 404) setSyncStatus("error", "토큰에 gist 권한이 없어요. gist를 체크해서 다시 만들어 주세요.");
+      else setSyncStatus("error", "동기화에 실패했어요. 잠시 뒤 다시 시도해 주세요.");
+    } finally {
+      sync.running = false;
+      if (sync.again) { sync.again = false; runSync(); }
+    }
+  }
+
+  function scheduleSync() {
+    if (!sync.token) return;
+    clearTimeout(sync.timer);
+    sync.timer = setTimeout(runSync, 1200);
+  }
+
+  function renderSyncDialog() {
+    const connected = !!sync.token;
+    document.getElementById("syncSetup").style.display = connected ? "none" : "";
+    document.getElementById("syncConnect").style.display = connected ? "none" : "";
+    document.getElementById("syncNow").style.display = connected ? "" : "none";
+    document.getElementById("syncDisconnect").style.display = connected ? "" : "none";
+    const st = document.getElementById("syncStatus");
+    st.textContent = connected ? (sync.message || "연결됨") : (sync.message || "아직 연결 안 됨 · 지금은 이 기기에만 저장돼요");
+    st.style.color = sync.status === "error" ? "#ef4444" : sync.status === "ok" ? "var(--accent)" : "var(--muted)";
+  }
+
+  document.getElementById("tokenLink").href = TOKEN_URL;
+  document.getElementById("syncBtn").onclick = () => { renderSyncDialog(); document.getElementById("syncDialog").showModal(); };
+  document.getElementById("syncClose").onclick = () => document.getElementById("syncDialog").close();
+  document.getElementById("syncNow").onclick = () => runSync();
+  document.getElementById("syncConnect").onclick = () => {
+    const t = document.getElementById("tokenInput").value.trim();
+    if (!t) { setSyncStatus("error", "토큰을 붙여 넣어 주세요."); return; }
+    sync.token = t;
+    sync.gistId = "";
+    try { localStorage.setItem("gh_token", t); localStorage.removeItem("gist_id"); } catch (e) {}
+    document.getElementById("tokenInput").value = "";
+    runSync();
+  };
+  document.getElementById("syncDisconnect").onclick = () => {
+    if (!confirm("이 기기의 동기화 연결을 끊을까요? 지금까지의 기록은 이 기기에 그대로 남아요.")) return;
+    sync.token = ""; sync.gistId = "";
+    try { localStorage.removeItem("gh_token"); localStorage.removeItem("gist_id"); } catch (e) {}
+    setSyncStatus("off");
+  };
+  // 다른 기기에서 바꾼 내용을 가져오도록, 탭으로 돌아올 때마다 다시 맞춘다.
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && Date.now() - sync.lastAt > 15000) runSync();
+  });
 
   // 테마
   let theme = "auto";
@@ -519,8 +735,10 @@
       const all = el("button", null, "모두 되돌리기");
       all.onclick = () => {
         if (!confirm("휴지통의 " + binCount + "개를 모두 목록으로 되돌릴까요?")) return;
-        for (const k of Object.keys(trash)) delete trash[k];
+        const now = Date.now();
+        for (const k of Object.keys(trash)) if (trash[k] > 0) trash[k] = -now;
         saveSet("trash", trash);
+        scheduleSync();
         state.bin = false;
         render();
       };
@@ -547,10 +765,11 @@
   };
   function moveItem(it, cardEl) {
     const k = keyOf(it);
-    const toBin = !(k in trash);
+    const toBin = !((trash[k] || 0) > 0);
     const apply = put => {
-      if (put) trash[k] = Date.now(); else delete trash[k];
+      trash[k] = put ? Date.now() : -Date.now();
       saveSet("trash", trash);
+      scheduleSync();
     };
     apply(toBin);
     cardEl.classList.add("leaving");
@@ -602,6 +821,7 @@
       if (keyOf(it) in seen) return;
       seen[keyOf(it)] = Date.now();
       saveSet("seen", seen);
+      scheduleSync();
       a.classList.add("seen");
       const pill = a.querySelector(".pill.new");
       if (pill) pill.remove();
@@ -705,6 +925,7 @@
         ? "양도끼 언급 클립·캐치 · " + ago(updated) + " 업데이트"
         : "양도끼 언급 클립·캐치 · 첫 업데이트 전";
       render();
+      runSync();
     })
     .catch(() => {
       document.getElementById("updated").textContent = "목록을 불러오지 못했어요";
