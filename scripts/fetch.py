@@ -208,6 +208,7 @@ def main():
 
             reached_end = False
             failed = False
+            seen_ids = set()
             for page in range(1, max_pages + 1):
                 try:
                     data = search(keyword, file_type, page)
@@ -223,6 +224,13 @@ def main():
                         print(f"       응답 앞부분: {json.dumps(data, ensure_ascii=False)[:500]}")
                     reached_end = True
                     break
+
+                # 같은 페이지가 반복되면(페이지 넘김이 안 먹히면) 끝으로 본다.
+                page_ids = {str(pick(raw, "id")) for raw in raw_items}
+                if page_ids <= seen_ids:
+                    reached_end = True
+                    break
+                seen_ids |= page_ids
 
                 dates = [str(pick(raw, "date") or "") for raw in raw_items]
                 dates = [d for d in dates if d]
@@ -249,7 +257,8 @@ def main():
                         new_count += 1
 
                 time.sleep(1.5)
-                if (dates and min(dates) < cutoff) or len(raw_items) < PAGE_SIZE:
+                # 캐치는 한 페이지에 40개보다 적게 와서, 개수가 아니라 날짜와 빈 페이지로 끝을 판단한다.
+                if dates and min(dates) < cutoff:
                     reached_end = True
                     break
 
