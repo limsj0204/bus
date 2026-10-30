@@ -2,6 +2,7 @@
 
 python scripts/icons.py            # 하루에 한 번만 프로필 사진을 확인해 아이콘을 갱신
 python scripts/icons.py --fallback # 민트색 '양' 글자 아이콘을 만든다 (프로필 사진이 없을 때용)
+python scripts/icons.py --local    # 받아 둔 docs/icons/profile.jpg로 아이콘만 다시 만든다
 """
 
 import io
@@ -77,6 +78,15 @@ def fallback_image(size=512):
     return image
 
 
+def maskable(base, size=512):
+    """안드로이드가 원·물방울 모양으로 잘라도 얼굴이 남도록 가운데 80%에 그림을 둔다."""
+    canvas = Image.new("RGB", (size, size), MINT)
+    inner = int(size * 0.8)
+    offset = (size - inner) // 2
+    canvas.paste(base.resize((inner, inner), Image.LANCZOS), (offset, offset))
+    return canvas
+
+
 def write_if_changed(path, data):
     if path.exists() and path.read_bytes() == data:
         return False
@@ -91,10 +101,18 @@ def save_icons(base):
         buffer = io.BytesIO()
         base.resize((size, size), Image.LANCZOS).save(buffer, "PNG", optimize=True)
         changed |= write_if_changed(ICON_DIR / name, buffer.getvalue())
+    buffer = io.BytesIO()
+    maskable(base).save(buffer, "PNG", optimize=True)
+    changed |= write_if_changed(ICON_DIR / "icon-maskable-512.png", buffer.getvalue())
     return changed
 
 
 def main():
+    if "--local" in sys.argv:
+        # 이미 받아 둔 프로필 사진으로 아이콘만 다시 만든다.
+        save_icons(square(Image.open(ICON_DIR / "profile.jpg").convert("RGB")))
+        print("받아 둔 프로필 사진으로 아이콘을 다시 만들었어요")
+        return
     if "--fallback" in sys.argv:
         save_icons(fallback_image())
         print("민트색 '양' 아이콘을 만들었어요")

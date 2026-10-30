@@ -1,16 +1,19 @@
 {
+  "id": "/bus/",
   "name": "양도끼 클립 모음",
   "short_name": "양도끼 클립",
   "description": "양도끼가 언급된 SOOP 클립·캐치 모음",
   "lang": "ko",
-  "start_url": "./",
-  "scope": "./",
+  "dir": "ltr",
+  "start_url": "/bus/",
+  "scope": "/bus/",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#eef5f3",
   "theme_color": "#eef5f3",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "/bus/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/bus/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/bus/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
