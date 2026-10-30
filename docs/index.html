@@ -261,7 +261,7 @@
     .grid.list .overlay { left: 6px; right: 6px; bottom: 5px; font-size: 0.7rem; }
   }
 
-  /* 휴지통·봤음 */
+  /* 숨김·봤음 */
   .stat.tab-btn { cursor: pointer; color: var(--text); font-weight: 600; transition: border-color .15s; }
   .stats .tabs { display: flex; gap: 8px; margin-left: auto; }
   @media (max-width: 520px) {
@@ -343,13 +343,14 @@
   body.selecting main { padding-bottom: 140px; }
   .bulk {
     position: fixed; z-index: 15; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom));
-    transform: translate(-50%, 140%); transition: transform .2s ease;
+    transform: translate(-50%, calc(100% + 40px)); visibility: hidden;
+    transition: transform .2s ease, visibility .2s;
     width: min(640px, calc(100vw - 24px));
     display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
     padding: 10px 12px; border-radius: 16px;
     background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow-hover);
   }
-  body.selecting .bulk { transform: translate(-50%, 0); }
+  body.selecting .bulk { transform: translate(-50%, 0); visibility: visible; }
   .bulk .count { font-weight: 800; font-size: 0.92rem; margin-right: auto; padding-left: 4px; }
   .bulk button {
     border: 1px solid var(--line); background: var(--surface-2); border-radius: 10px;
@@ -480,7 +481,7 @@
 </main>
 <dialog class="sheet" id="syncDialog">
   <h2>기기 간 동기화</h2>
-  <p>휴지통·나중에 보기·'봤음' 기록을 휴대폰·PC 어디서 보든 똑같이 맞춰요. 기록은 내 GitHub 계정의 비공개 Gist에 저장돼요.</p>
+  <p>숨김·나중에 보기·'봤음' 기록을 휴대폰·PC 어디서 보든 똑같이 맞춰요. 기록은 내 GitHub 계정의 비공개 Gist에 저장돼요.</p>
   <div id="syncSetup">
     <ol>
       <li><a id="tokenLink" target="_blank" rel="noopener">GitHub 토큰 만들기</a>를 눌러요. (gist 권한만 체크된 채로 열려요)</li>
@@ -504,8 +505,8 @@
 
 <script>
   const ICON_EYE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg>';
-  const ICON_TRASH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4h8v2"/><path d="M19 6l-1 14H6L5 6"/><path d="M10 11v6M14 11v6"/></svg>';
-  const ICON_RESTORE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>';
+  const ICON_HIDE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.6 5.1A10 10 0 0 1 12 5c6.5 0 10 7 10 7a17 17 0 0 1-2.6 3.5"/><path d="M6.6 6.6A17 17 0 0 0 2 12s3.5 7 10 7a9.7 9.7 0 0 0 5.4-1.6"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/><path d="m3 3 18 18"/></svg>';
+  const ICON_SHOW = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg>';
   const ICON_LATER = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></svg>';
   const ICON_LATER_ON = '<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></svg>';
   const ICON_CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>';
@@ -539,7 +540,7 @@
   try { state.view = localStorage.getItem("view") === "list" ? "list" : "grid"; } catch (e) {}
   let data = { items: [], keywords: [] };
 
-  // 휴지통·봤음 기록 (이 기기 브라우저에만 저장)
+  // 숨김·봤음 기록 (이 기기 브라우저에 저장, 동기화하면 Gist와 맞춤)
   function loadSet(name) {
     try { return JSON.parse(localStorage.getItem(name) || "{}") || {}; } catch (e) { return {}; }
   }
@@ -550,7 +551,7 @@
   const later = loadSet("later");
   const seen = loadSet("seen");
   const keyOf = it => it.type + ":" + it.id;
-  // 휴지통 값: 넣은 시각(양수) 또는 꺼낸 시각(음수). 기기끼리 합칠 때 더 나중 동작이 이긴다.
+  // 숨김 값(저장 이름은 예전 그대로 trash): 숨긴 시각(양수) 또는 다시 보이게 한 시각(음수). 기기끼리 합칠 때 더 나중 동작이 이긴다.
   // 나중에 보기도 같은 방식: 담은 시각(양수) 또는 뺀 시각(음수).
   const inTrash = it => (trash[keyOf(it)] || 0) > 0;
   const inLater = it => (later[keyOf(it)] || 0) > 0;
@@ -617,7 +618,7 @@
     const created = await gh("/gists", {
       method: "POST",
       body: JSON.stringify({
-        description: "양도끼 클립 모음 — 휴지통·봤음 기록",
+        description: "양도끼 클립 모음 — 숨김·나중에 보기·봤음 기록",
         public: false,
         files: { [SYNC_FILE]: { content: JSON.stringify(syncPayload()) } },
       }),
@@ -798,7 +799,7 @@
       return b;
     };
     const tabs = el("div", "tabs");
-    tabs.append(tabBtn("later", ICON_LATER, "나중에 보기", laterCount), tabBtn("bin", ICON_TRASH, "휴지통", binCount));
+    tabs.append(tabBtn("later", ICON_LATER, "나중에 보기", laterCount), tabBtn("bin", ICON_HIDE, "숨김", binCount));
     box.replaceChildren(
       stat("var(--clip)", "클립", clips),
       stat("var(--catch)", "캐치", catches),
@@ -827,12 +828,12 @@
         box2.append(clear);
       }
     } else {
-      label.append(el("b", null, "휴지통"), " · " + binCount + "개");
-      box2.append(label, el("span", "grow", "되돌리기 버튼을 누르면 목록으로 돌아가요."), back);
+      label.append(el("b", null, "숨긴 영상"), " · " + binCount + "개");
+      box2.append(label, el("span", "grow", "다시 보이기 버튼을 누르면 목록에 다시 나타나요."), back);
       if (binCount) {
-        const all = el("button", null, "모두 되돌리기");
+        const all = el("button", null, "모두 다시 보이기");
         all.onclick = () => {
-          if (!confirm("휴지통의 " + binCount + "개를 모두 목록으로 되돌릴까요?")) return;
+          if (!confirm("숨긴 영상 " + binCount + "개를 모두 다시 보이게 할까요?")) return;
           const now = Date.now();
           for (const k of Object.keys(trash)) if (trash[k] > 0) trash[k] = -now;
           saveSet("trash", trash);
@@ -846,7 +847,7 @@
     bar.replaceChildren(box2);
   }
 
-  // 휴지통으로 보내기 / 되돌리기
+  // 숨기기 / 다시 보이기
   let toastTimer = null;
   let lastAction = null;
   function showToast(msg, undo) {
@@ -873,7 +874,7 @@
     apply(toBin);
     cardEl.classList.add("leaving");
     setTimeout(render, 220);
-    showToast(toBin ? "휴지통으로 옮겼어요" : "목록으로 되돌렸어요", () => { apply(!toBin); render(); });
+    showToast(toBin ? "숨겼어요" : "다시 보이게 했어요", () => { apply(!toBin); render(); });
   }
 
   function toggleLater(it, cardEl, btn) {
@@ -1007,12 +1008,12 @@
     };
     const acts = el("div", "acts");
     if (state.tab === "bin") {
-      acts.append(button("act", "목록으로 되돌리기", ICON_RESTORE, () => moveItem(it, a)));
+      acts.append(button("act", "다시 보이기", ICON_SHOW, () => moveItem(it, a)));
     } else {
       const saved = inLater(it);
       acts.append(
         button("act" + (saved ? " on" : ""), saved ? "나중에 보기에서 빼기" : "나중에 보기에 담기", saved ? ICON_LATER_ON : ICON_LATER, b => toggleLater(it, a, b)),
-        button("act", "휴지통으로 보내기", ICON_TRASH, () => moveItem(it, a)));
+        button("act", "숨기기", ICON_HIDE, () => moveItem(it, a)));
     }
     who.append(text, acts);
 
@@ -1035,7 +1036,7 @@
     document.querySelectorAll("#viewSeg button").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
     if (!items.length) {
       const e = el("div", "empty");
-      e.append(state.tab === "bin" ? "휴지통이 비어 있어요." : state.tab === "later" ? "나중에 볼 영상이 없어요. 카드의 책갈피 버튼으로 담아 보세요." : data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
+      e.append(state.tab === "bin" ? "숨긴 영상이 없어요." : state.tab === "later" ? "나중에 볼 영상이 없어요. 카드의 책갈피 버튼으로 담아 보세요." : data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
       grid.replaceChildren(e);
       return;
     }
@@ -1089,11 +1090,11 @@
       }, false),
     ];
     if (state.tab === "bin") {
-      parts.push(btn("되돌리기", ICON_RESTORE, "primary", () => bulkApply(trash, "trash", -1, "N개를 목록으로 되돌렸어요")));
+      parts.push(btn("다시 보이기", ICON_SHOW, "primary", () => bulkApply(trash, "trash", -1, "N개를 다시 보이게 했어요")));
     } else {
       if (state.tab === "later") parts.push(btn("나중에 보기에서 빼기", ICON_LATER, "", () => bulkApply(later, "later", -1, "N개를 나중에 보기에서 뺐어요")));
       else parts.push(btn("나중에 보기", ICON_LATER, "", () => bulkApply(later, "later", 1, "N개를 나중에 보기에 담았어요")));
-      parts.push(btn("휴지통으로", ICON_TRASH, "primary", () => bulkApply(trash, "trash", 1, "N개를 휴지통으로 옮겼어요")));
+      parts.push(btn("숨기기", ICON_HIDE, "primary", () => bulkApply(trash, "trash", 1, "N개를 숨겼어요")));
     }
     parts.push(btn("취소", "", "", () => setSelect(false), false));
     bar.replaceChildren(...parts);
