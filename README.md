@@ -24,9 +24,8 @@ keywords:
 
 ## 처음 한 번 설정
 
-1. 이 브랜치를 기본 브랜치(main)로 합쳐요. 예약 실행은 기본 브랜치에서만 돌아가요.
-2. 저장소 **Settings → Pages**에서 Source를 **Deploy from a branch**, 브랜치는 `main`, 폴더는 `/docs`로 정해요.
-3. **Actions** 탭 → **클립 업데이트** → **Run workflow**로 처음 한 번 직접 실행해요.
+1. 저장소 **Settings → Pages**에서 Source를 **Deploy from a branch**로 하고, 기본 브랜치와 `/docs` 폴더를 골라요. 예약 실행도 기본 브랜치에서만 돌아가요.
+2. **Actions** 탭 → **클립 업데이트** → **Run workflow**로 처음 한 번 직접 실행해요.
 
 ## 직접 실행
 
