@@ -33,8 +33,9 @@ FIELDS = {
     "views": ["view_cnt", "read_cnt", "count_view"],
     "url": ["url", "vod_url", "link"],
 }
-# 원본 방송 스트리머가 따로 기록돼 있을 수 있어 제외 검사에 함께 쓴다.
-ORIGIN_STREAMER_FIELDS = ["original_user_id", "origin_user_id", "copyright_user_id", "bj_id", "user_id"]
+# 클립·캐치의 원본 방송(다시보기) 스트리머가 기록된 칸. 업로더(user_id)와 함께 제외 검사에 쓴다.
+ORIGIN_ID_FIELDS = ["original_bj", "original_reg_user_id"]
+ORIGIN_NICK_FIELD = "original_user_nick"
 
 
 def pick(item, field):
@@ -105,6 +106,8 @@ def to_https(url):
     url = str(url)
     if url.startswith("//"):
         return "https:" + url
+    if url.startswith("http://"):
+        return "https://" + url[len("http://"):]
     return url
 
 
@@ -129,8 +132,15 @@ def normalize(item, file_type, keyword):
         "views": pick(item, "views"),
         "url": url,
         "keywords": [keyword],
-        "_origin_ids": {str(item[k]).lower() for k in ORIGIN_STREAMER_FIELDS if item.get(k)},
+        "origin_ids": sorted({str(item[k]) for k in ORIGIN_ID_FIELDS if item.get(k)}),
+        "origin_nick": html.unescape(str(item.get(ORIGIN_NICK_FIELD) or "")),
     }
+
+
+def related_ids(entry):
+    """업로더와 원본 방송 스트리머 ID를 모두 소문자로 돌려준다."""
+    ids = {entry.get("streamer_id", "")} | set(entry.get("origin_ids", []))
+    return {i.lower() for i in ids if i}
 
 
 def main():
@@ -173,7 +183,7 @@ def main():
                     continue
                 if any(word in title_lower for word in exclude_words):
                     continue
-                if entry.pop("_origin_ids") & exclude_streamers:
+                if related_ids(entry) & exclude_streamers:
                     continue
                 key = (entry["type"], entry["id"])
                 if key in items:
@@ -194,7 +204,7 @@ def main():
         it["keywords"] = [k for k in it.get("keywords", []) if k in keywords]
         if not it["keywords"] or it["type"] not in types:
             continue
-        if it.get("streamer_id", "").lower() in exclude_streamers:
+        if related_ids(it) & exclude_streamers:
             continue
         if any(word in it["title"].lower() for word in exclude_words):
             continue

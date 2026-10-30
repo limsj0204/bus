@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - config.yml
+      - scripts/fetch.py
 
 permissions:
   contents: write

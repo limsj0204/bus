@@ -17,7 +17,7 @@
     --catch: #db2777;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #0f1115;
       --card: #181b21;
       --text: #e8eaee;
@@ -28,6 +28,16 @@
       --catch: #f472b6;
     }
   }
+  :root[data-theme="dark"] {
+    --bg: #0f1115;
+    --card: #181b21;
+    --text: #e8eaee;
+    --muted: #9aa1ad;
+    --line: #2a2e36;
+    --accent: #60a5fa;
+    --clip: #60a5fa;
+    --catch: #f472b6;
+  }
   * { box-sizing: border-box; }
   body {
     margin: 0;
@@ -36,7 +46,19 @@
     font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
   }
   main { max-width: 1100px; margin: 0 auto; padding: 20px 16px 48px; }
-  h1 { font-size: 1.4rem; margin: 0 0 4px; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 4px; }
+  h1 { font-size: 1.4rem; margin: 0; }
+  .tools { display: flex; gap: 8px; flex-shrink: 0; }
+  .tools button, .tools a {
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 0.85rem;
+    text-decoration: none;
+    cursor: pointer;
+  }
   .updated { color: var(--muted); font-size: 0.85rem; margin-bottom: 16px; }
   .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
   .filters button {
@@ -61,7 +83,6 @@
     flex-direction: column;
   }
   .thumb { position: relative; aspect-ratio: 16 / 9; background: var(--line); }
-  .card.CATCH .thumb { aspect-ratio: 16 / 9; }
   .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .badge {
     position: absolute; top: 8px; left: 8px;
@@ -78,13 +99,35 @@
 </head>
 <body>
 <main>
-  <h1>도끼 클립 모음</h1>
+  <header>
+    <h1>도끼 클립 모음</h1>
+    <div class="tools">
+      <a href="https://github.com/limsj0204/bus/actions/workflows/update.yml" target="_blank" rel="noopener" title="GitHub에서 Run workflow를 누르면 바로 갱신돼요">지금 갱신</a>
+      <button id="themeBtn" type="button"></button>
+    </div>
+  </header>
   <div class="updated" id="updated">불러오는 중…</div>
   <div class="filters" id="typeFilters"></div>
   <div class="filters" id="keywordFilters"></div>
   <div class="grid" id="grid"></div>
 </main>
 <script>
+  const THEMES = [["auto", "🌓 자동"], ["light", "☀️ 라이트"], ["dark", "🌙 다크"]];
+  let theme = "auto";
+  try { theme = localStorage.getItem("theme") || "auto"; } catch (e) {}
+  function applyTheme() {
+    if (theme === "auto") document.documentElement.removeAttribute("data-theme");
+    else document.documentElement.setAttribute("data-theme", theme);
+    document.getElementById("themeBtn").textContent = THEMES.find(t => t[0] === theme)[1];
+  }
+  document.getElementById("themeBtn").onclick = () => {
+    const i = THEMES.findIndex(t => t[0] === theme);
+    theme = THEMES[(i + 1) % THEMES.length][0];
+    try { localStorage.setItem("theme", theme); } catch (e) {}
+    applyTheme();
+  };
+  applyTheme();
+
   const TYPE_LABEL = { ALL: "전체", CLIP: "클립", CATCH: "캐치" };
   const state = { type: "ALL", keyword: "ALL" };
   let data = { items: [], keywords: [] };
@@ -158,7 +201,8 @@
       title.textContent = it.title;
       const meta = document.createElement("div");
       meta.className = "meta";
-      const parts = [it.streamer_nick || it.streamer_id, formatDate(it.date)];
+      const origin = it.origin_nick && it.origin_nick !== it.streamer_nick ? "원본 " + it.origin_nick : "";
+      const parts = [origin, it.streamer_nick || it.streamer_id, formatDate(it.date)];
       if (it.views != null && it.views !== "") parts.push("조회 " + Number(it.views).toLocaleString("ko-KR"));
       meta.textContent = parts.filter(Boolean).join(" · ");
       info.append(title, meta);
