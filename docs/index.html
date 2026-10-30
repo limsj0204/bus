@@ -413,6 +413,14 @@
   .sheet .row button.danger { color: #ef4444; }
   .sheet .row .spacer { flex: 1; }
 
+  /* 더 보기 */
+  .more { display: flex; justify-content: center; padding: 20px 0 0; }
+  .more-btn {
+    border: 1px solid var(--line); background: var(--surface); border-radius: 12px;
+    padding: 10px 22px; font-size: 0.9rem; font-weight: 600; cursor: pointer;
+  }
+  .more-btn:hover { border-color: var(--accent); color: var(--accent); }
+
   /* 상태 */
   .skeleton .thumb, .skeleton .line {
     background: linear-gradient(90deg, var(--surface-2), var(--line), var(--surface-2));
@@ -484,6 +492,7 @@
   <div class="chips" id="originChips"></div>
 
   <div class="grid" id="grid"></div>
+  <div class="more" id="more"></div>
   <footer>원본 방송이 양도끼인 영상은 빼고 보여줘요 · 데이터 출처 SOOP</footer>
 </main>
 <dialog class="sheet" id="syncDialog">
@@ -1042,12 +1051,44 @@
     grid.classList.toggle("list", state.view === "list");
     document.querySelectorAll("#viewSeg button").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
     if (!items.length) {
+      moreBox.replaceChildren();
       const e = el("div", "empty");
       e.append(state.tab === "bin" ? "숨긴 영상이 없어요." : state.tab === "later" ? "나중에 볼 영상이 없어요. 카드의 책갈피 버튼으로 담아 보세요." : data.items.length ? "조건에 맞는 영상이 없어요." : "아직 모인 영상이 없어요.");
       grid.replaceChildren(e);
       return;
     }
-    grid.replaceChildren(...items.map(it => card(it, state.q.trim())));
+    // 필터·정렬·탭이 바뀌면 처음 PAGE_SIZE개부터 다시 보여준다.
+    const signature = [state.tab, state.type, state.keyword, state.origin, state.q, state.sort].join("|");
+    if (signature !== lastSignature) { shownLimit = PAGE_SIZE; lastSignature = signature; }
+    grid.replaceChildren(...items.slice(0, shownLimit).map(it => card(it, state.q.trim())));
+    renderMore();
+  }
+
+  // 더 보기: 처음에는 PAGE_SIZE개만 그리고, 아래까지 내리면 이어서 더 그린다.
+  const PAGE_SIZE = 60;
+  let shownLimit = PAGE_SIZE;
+  let lastSignature = "";
+  const moreBox = document.getElementById("more");
+  function renderMore() {
+    const left = shownItems.length - shownLimit;
+    if (left <= 0) { moreBox.replaceChildren(); return; }
+    const b = el("button", "more-btn", "더 보기 (" + left + "개 남음)");
+    b.type = "button";
+    b.onclick = showMore;
+    moreBox.replaceChildren(b);
+  }
+  function showMore() {
+    const grid = document.getElementById("grid");
+    const next = shownItems.slice(shownLimit, shownLimit + PAGE_SIZE);
+    if (!next.length) return;
+    shownLimit += next.length;
+    grid.append(...next.map(it => card(it, state.q.trim())));
+    renderMore();
+  }
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver(entries => {
+      if (entries.some(e => e.isIntersecting)) showMore();
+    }, { rootMargin: "600px 0px" }).observe(moreBox);
   }
 
   // 여러 개 선택해서 한꺼번에 처리

@@ -167,6 +167,10 @@ def normalize(item, file_type, keyword):
         "keywords": [keyword],
         "origin_ids": sorted({str(item[k]) for k in ORIGIN_ID_FIELDS if item.get(k)}),
         "origin_nick": html.unescape(str(item.get(ORIGIN_NICK_FIELD) or "")),
+        # 같은 방송·장면 묶기를 위해 원본 다시보기 번호와 위치 후보 값을 남겨 둔다.
+        "org_title_no": str(item.get("org_title_no") or ""),
+        "org_timestamp": str(item.get("timestamp") or ""),
+        "broad_no": str(item.get("broad_no") or ""),
     }
 
 
