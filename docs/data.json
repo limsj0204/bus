@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31 20:40",
+ "updated_at": "2026-10-31 20:50",
  "keywords": [
   "도끼"
  ],
@@ -9,7 +9,7 @@
    "backfill_days": 7
   },
   "도끼|CATCH": {
-   "newest": "2026-10-31 20:38:37",
+   "newest": "2026-10-31 20:45:26",
    "backfill_days": 7
   }
  },
@@ -66,7 +66,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/325/fe7b0ede-3bfb-4f00-b6ba-d72228f42661/44262325_r.jpg",
    "date": "2026-10-31 18:14:59",
-   "views": "43",
+   "views": "47",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211318275",
    "keywords": [
@@ -110,7 +110,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/225/fd677dc3-8f03-4b1b-b2bc-c25f8a246284/44258225_r.jpg",
    "date": "2026-10-31 15:37:56",
-   "views": "95",
+   "views": "96",
    "duration": "2:01",
    "url": "https://vod.afreecatv.com/player/211304605",
    "keywords": [
@@ -120,7 +120,7 @@
     "hachi97"
    ],
    "origin_nick": "하치_HACHI",
-   "org_title_no": "",
+   "org_title_no": "211335325",
    "org_timestamp": "1793428676",
    "broad_no": "298242271"
   },
@@ -176,7 +176,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261031_531_d311533e-ee8d-46a6-843c-ec6e30bacdb4_44251531_r&column=2&t=1793390786",
    "date": "2026-10-31 05:04:56",
-   "views": "222",
+   "views": "223",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/211277043",
    "keywords": [
@@ -242,7 +242,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/569/cffaaa60-9a68-48a7-ab21-0624e41d3e95/21600569_r.jpg",
    "date": "2026-10-30 20:44:07",
-   "views": "331",
+   "views": "332",
    "url": "https://vod.afreecatv.com/player/211231037",
    "keywords": [
     "도끼"
@@ -286,7 +286,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1030/20/thumb/1793360530689587_R_7.jpg",
    "date": "2026-10-30 20:36:34",
-   "views": "1021",
+   "views": "1022",
    "url": "https://vod.afreecatv.com/player/211230319",
    "keywords": [
     "도끼"
