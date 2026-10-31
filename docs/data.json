@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01 04:10",
+ "updated_at": "2026-11-01 04:20",
  "keywords": [
   "도끼"
  ],
@@ -9,11 +9,33 @@
    "backfill_days": 7
   },
   "도끼|CATCH": {
-   "newest": "2026-11-01 04:00:25",
+   "newest": "2026-11-01 04:19:32",
    "backfill_days": 7
   }
  },
  "items": [
+  {
+   "id": "211388723",
+   "type": "CATCH",
+   "title": "[캐치][할로윈] 양도끼 팬들은 자기한테 고마워하라는 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
+   "date": "2026-11-01 04:18:30",
+   "views": "2",
+   "duration": "0:34",
+   "url": "https://vod.afreecatv.com/player/211388723",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793474310",
+   "broad_no": "298254045"
+  },
   {
    "id": "211378435",
    "type": "CLIP",
@@ -22,7 +44,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44282781_1_r",
    "date": "2026-11-01 02:09:08",
-   "views": "50",
+   "views": "51",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/211378435",
    "keywords": [
@@ -44,7 +66,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/661/1abdd9f4-4772-4545-b926-5703928f6a20/21620661_r.jpg",
    "date": "2026-10-31 20:03:40",
-   "views": "139",
+   "views": "141",
    "duration": "0:19",
    "url": "https://vod.afreecatv.com/player/211329915",
    "keywords": [
@@ -110,7 +132,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/325/fe7b0ede-3bfb-4f00-b6ba-d72228f42661/44262325_r.jpg",
    "date": "2026-10-31 18:14:59",
-   "views": "103",
+   "views": "104",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211318275",
    "keywords": [
