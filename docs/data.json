@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31 22:50",
+ "updated_at": "2026-10-31 23:00",
  "keywords": [
   "도끼"
  ],
@@ -14,6 +14,28 @@
   }
  },
  "items": [
+  {
+   "id": "211329915",
+   "type": "CATCH",
+   "title": "[캐치]11/1 뱅온정보 : 인보키어 : 마의 주사위 합방(w.비챤,민결희,양도끼,타요)",
+   "streamer_id": "doght",
+   "streamer_nick": "잔잔벼리♬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261031/661/1abdd9f4-4772-4545-b926-5703928f6a20/21620661_r.jpg",
+   "date": "2026-10-31 20:03:40",
+   "views": "8",
+   "duration": "0:19",
+   "url": "https://vod.afreecatv.com/player/211329915",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "",
+   "org_timestamp": "1793444620",
+   "broad_no": "298253441"
+  },
   {
    "id": "211329651",
    "type": "CLIP",
@@ -66,7 +88,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/325/fe7b0ede-3bfb-4f00-b6ba-d72228f42661/44262325_r.jpg",
    "date": "2026-10-31 18:14:59",
-   "views": "65",
+   "views": "66",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211318275",
    "keywords": [
@@ -198,7 +220,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261031_44250919_1_r",
    "date": "2026-10-31 03:53:17",
-   "views": "333",
+   "views": "334",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/211273891",
    "keywords": [
@@ -286,7 +308,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1030/20/thumb/1793360530689587_R_7.jpg",
    "date": "2026-10-30 20:36:34",
-   "views": "1077",
+   "views": "1081",
    "url": "https://vod.afreecatv.com/player/211230319",
    "keywords": [
     "도끼"
