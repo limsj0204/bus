@@ -11,6 +11,9 @@ exclude_words: []
 exclude_streamers:
   - yangdoki
 
+# 제목을 고치지 않고 딴 클립(제목이 원본 방제와 똑같은 영상)은 빼요. false로 바꾸면 보여요.
+exclude_unedited: true
+
 # 찾을 영상 종류: CLIP(클립), CATCH(캐치). 다시보기는 넣지 않아요.
 types:
   - CLIP

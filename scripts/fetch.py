@@ -11,6 +11,7 @@ from pathlib import Path
 
 import yaml
 
+import broadcast
 import notify
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -284,6 +285,14 @@ def main():
         print("모든 요청이 실패했어요. SOOP 쪽 주소나 형식이 바뀌었을 수 있어요.", file=sys.stderr)
         sys.exit(1)
 
+    # 제목을 안 고치고 딴 영상(제목이 방제와 똑같은 영상)을 찾는다.
+    exclude_unedited = config.get("exclude_unedited", True)
+    broad_titles = saved.get("broad_titles", {})
+    if exclude_unedited:
+        lookups = broadcast.mark_unedited(items.values(), broad_titles, now)
+        unedited = sum(1 for it in items.values() if it.get("unedited"))
+        print(f"방제 확인: SOOP에 {lookups}번 물어봄, 제목 그대로인 영상 {unedited}개 제외")
+
     # 설정에서 빠진 키워드·제외 대상을 기존 데이터에도 반영한다.
     result = []
     for it in items.values():
@@ -293,6 +302,8 @@ def main():
         if related_ids(it) & exclude_streamers:
             continue
         if any(word in it["title"].lower() for word in exclude_words):
+            continue
+        if exclude_unedited and it.get("unedited"):
             continue
         result.append(it)
     result.sort(key=lambda it: (it.get("date", ""), it["id"]), reverse=True)
@@ -305,6 +316,7 @@ def main():
                 "updated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
                 "keywords": keywords,
                 "progress": progress,
+                "broad_titles": broad_titles,
                 "items": result,
             },
             ensure_ascii=False,
