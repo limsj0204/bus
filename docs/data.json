@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-01 22:00",
+ "updated_at": "2026-11-01 22:10",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-01 21:34:05",
+   "newest": "2026-11-01 22:09:34",
    "backfill_days": 7,
    "last_rescan": "2026-11-01 21:00:35"
   },
@@ -100,7 +100,8 @@
   "298105897": "절망전 9회차 코렛트 단즈 / 우누 호미밍 / 하밍 해이 / 밤베 한결 / 결희 나비",
   "298104897": "월즈 출전하는 날(같은 마음 자세로 절망전 나가기) [이브닛]",
   "298099955": "절망전 [단즈vs코렛트] + 밀린 이봤 싹싹김치",
-  "298098567": "촉각슈트 / 만만하니 공개 / 분좋카"
+  "298098567": "촉각슈트 / 만만하니 공개 / 분좋카",
+  "298274513": "타요 10시 인보키어(쥬만지게임) 합방 릴파 비챤 양도끼 민결희"
  },
  "items": [
   {
@@ -189,7 +190,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/565/5f921b2c-36b9-4ee5-91b7-a0c8445206cd/44298565_r.jpg",
    "date": "2026-11-01 19:21:27",
-   "views": "11",
+   "views": "12",
    "duration": "4:42",
    "url": "https://vod.afreecatv.com/player/211441177",
    "keywords": [
@@ -199,7 +200,7 @@
     "kgoyangyeeee"
    ],
    "origin_nick": "누눙지",
-   "org_title_no": "",
+   "org_title_no": "211452975",
    "org_timestamp": "1793528487",
    "broad_no": "298274447",
    "b_title": "[클립][누눙지 반응] 누눙지의 마음을 이해할 수 없게 된 양도끼 (2/2)",
@@ -215,7 +216,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/477/92274ffe-a5cc-4a2a-ab90-878e6bc30992/44298477_r.jpg",
    "date": "2026-11-01 19:19:16",
-   "views": "21",
+   "views": "22",
    "duration": "4:33",
    "url": "https://vod.afreecatv.com/player/211440931",
    "keywords": [
@@ -293,7 +294,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/511/d21c409f-c822-478f-acc0-6aed42a65101/44296511_r.jpg",
    "date": "2026-11-01 18:18:21",
-   "views": "73",
+   "views": "74",
    "duration": "1:51",
    "url": "https://vod.afreecatv.com/player/211434193",
    "keywords": [
@@ -345,7 +346,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_083_e8e2f2dc-948c-402b-9250-97b14505cc2e_44293083_r&column=2&t=1793516052",
    "date": "2026-11-01 15:52:38",
-   "views": "43",
+   "views": "46",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211420733",
    "keywords": [
@@ -371,7 +372,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_057_dc58aca0-7030-4f22-b3f1-6bd9c287a422_44293057_r&column=2&t=1793516036",
    "date": "2026-11-01 15:51:33",
-   "views": "47",
+   "views": "49",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211420661",
    "keywords": [
@@ -423,7 +424,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/505/a8af4038-9b20-4af1-999f-346ab5710537/21639505_r.jpg",
    "date": "2026-11-01 15:41:34",
-   "views": "44",
+   "views": "47",
    "duration": "0:17",
    "url": "https://vod.afreecatv.com/player/211419975",
    "keywords": [
@@ -475,7 +476,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "215",
+   "views": "219",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
@@ -501,7 +502,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/821/6a389b4b-b7d4-4024-ac0c-4b95c83b7592/44291821_r.jpg",
    "date": "2026-11-01 14:25:30",
-   "views": "403",
+   "views": "408",
    "duration": "4:06",
    "url": "https://vod.afreecatv.com/player/211415021",
    "keywords": [
@@ -553,7 +554,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "650",
+   "views": "663",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
