@@ -1,19 +1,85 @@
 {
- "updated_at": "2026-11-01 14:20",
+ "updated_at": "2026-11-01 14:30",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-01 13:39:32",
+   "newest": "2026-11-01 14:29:30",
    "backfill_days": 7
   },
   "도끼|CATCH": {
-   "newest": "2026-11-01 04:40:05",
+   "newest": "2026-11-01 14:28:43",
    "backfill_days": 7
   }
  },
  "items": [
+  {
+   "id": "211415241",
+   "type": "CLIP",
+   "title": "[클립]보키 반응 / 청백2 WONDERLAND - 구슬요 X 양도끼 X 여르미 X 힌콕",
+   "streamer_id": "oneteps9",
+   "streamer_nick": "하이라잇생구",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/865/143627a3-44e8-4a57-b818-6bbfad4a1ed2/44291865_r.jpg",
+   "date": "2026-11-01 14:29:30",
+   "views": "0",
+   "duration": "4:01",
+   "url": "https://vod.afreecatv.com/player/211415241",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "yourboki"
+   ],
+   "origin_nick": "보키",
+   "org_title_no": "",
+   "org_timestamp": "1793510970",
+   "broad_no": "298266165"
+  },
+  {
+   "id": "211415197",
+   "type": "CATCH",
+   "title": "[캐치]양도끼의 할로윈 신의상 엉덩이 보고 깜짝 놀란 마이곰이 / 🤎: 빵댕이 뭐야 어머 세상에",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
+   "date": "2026-11-01 14:28:43",
+   "views": "0",
+   "duration": "0:20",
+   "url": "https://vod.afreecatv.com/player/211415197",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mygomiee"
+   ],
+   "origin_nick": "마이곰이",
+   "org_title_no": "211352781",
+   "org_timestamp": "1793510923",
+   "broad_no": "298243093"
+  },
+  {
+   "id": "211415021",
+   "type": "CLIP",
+   "title": "[클립]레드힐즈&머독: 바탕화면에 쓰고 싶은데 / 유샥크 ( w. 양도끼 )",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/821/6a389b4b-b7d4-4024-ac0c-4b95c83b7592/44291821_r.jpg",
+   "date": "2026-11-01 14:25:30",
+   "views": "11",
+   "duration": "4:06",
+   "url": "https://vod.afreecatv.com/player/211415021",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "usharko0o0"
+   ],
+   "origin_nick": "유샥크",
+   "org_title_no": "",
+   "org_timestamp": "1793510730",
+   "broad_no": "298266267"
+  },
   {
    "id": "211412193",
    "type": "CLIP",
@@ -22,7 +88,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44291193_1_r",
    "date": "2026-11-01 13:39:32",
-   "views": "58",
+   "views": "72",
    "duration": "0:58",
    "url": "https://vod.afreecatv.com/player/211412193",
    "keywords": [
@@ -44,7 +110,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "260",
+   "views": "268",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
@@ -66,7 +132,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44282781_1_r",
    "date": "2026-11-01 02:09:08",
-   "views": "142",
+   "views": "143",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/211378435",
    "keywords": [
@@ -88,7 +154,7 @@
    "streamer_nick": "고인물김횬아",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/599/4c3883ef-faa6-4107-a4e9-969a1fdba14c/21628599_r.jpg",
    "date": "2026-11-01 00:02:49",
-   "views": "740",
+   "views": "751",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211361921",
    "keywords": [
@@ -176,7 +242,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/325/fe7b0ede-3bfb-4f00-b6ba-d72228f42661/44262325_r.jpg",
    "date": "2026-10-31 18:14:59",
-   "views": "126",
+   "views": "128",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211318275",
    "keywords": [
