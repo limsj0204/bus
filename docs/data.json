@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01 20:00",
+ "updated_at": "2026-11-01 20:04",
  "keywords": [
   "도끼"
  ],
@@ -22,7 +22,7 @@
    "streamer_nick": "그레그",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/841/440c6631-b797-4426-b999-d76515a08111/44299841_r.jpg",
    "date": "2026-11-01 19:53:21",
-   "views": "4",
+   "views": "10",
    "duration": "4:36",
    "url": "https://vod.afreecatv.com/player/211444991",
    "keywords": [
@@ -34,7 +34,9 @@
    "origin_nick": "릴파♬",
    "org_title_no": "",
    "org_timestamp": "1793530401",
-   "broad_no": "298279123"
+   "broad_no": "298279123",
+   "b_title": "[클립]10시) 인보키어 합방 (w.타요 민결희 양도끼 비챤)",
+   "title_history": []
   },
   {
    "id": "211443987",
@@ -44,7 +46,7 @@
    "streamer_nick": "비츠카",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/529/4790a7af-3690-4618-8642-8b67f23d0cb7/44299529_r.jpg",
    "date": "2026-11-01 19:45:07",
-   "views": "2",
+   "views": "3",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211443987",
    "keywords": [
@@ -56,7 +58,9 @@
    "origin_nick": "비챤",
    "org_title_no": "",
    "org_timestamp": "1793529907",
-   "broad_no": "298278569"
+   "broad_no": "298278569",
+   "b_title": "[클립][10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
+   "title_history": []
   },
   {
    "id": "211443959",
@@ -66,7 +70,7 @@
    "streamer_nick": "비츠카",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/517/7434e514-c15f-4af6-bab5-2163c2fb092a/44299517_r.jpg",
    "date": "2026-11-01 19:45:00",
-   "views": "11",
+   "views": "13",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211443959",
    "keywords": [
@@ -78,7 +82,9 @@
    "origin_nick": "비챤",
    "org_title_no": "",
    "org_timestamp": "1793529900",
-   "broad_no": "298278569"
+   "broad_no": "298278569",
+   "b_title": "[클립][10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
+   "title_history": []
   },
   {
    "id": "211441737",
@@ -100,7 +106,9 @@
    "origin_nick": "누눙지",
    "org_title_no": "",
    "org_timestamp": "1793528762",
-   "broad_no": "298274447"
+   "broad_no": "298274447",
+   "b_title": "[클립]다시 눙지의 마음을 이해할 수 없게 된 도끼 눙지 반응",
+   "title_history": []
   },
   {
    "id": "211441371",
@@ -122,7 +130,9 @@
    "origin_nick": "모구구",
    "org_title_no": "210741641",
    "org_timestamp": "1793528600",
-   "broad_no": "298082603"
+   "broad_no": "298082603",
+   "b_title": "[클립]눙지의 마음을 이해한 도끼장 [구구 반응] & 눙지 광대옷 세탁했을까?",
+   "title_history": []
   },
   {
    "id": "211441177",
@@ -144,7 +154,9 @@
    "origin_nick": "누눙지",
    "org_title_no": "",
    "org_timestamp": "1793528487",
-   "broad_no": "298274447"
+   "broad_no": "298274447",
+   "b_title": "[클립][누눙지 반응] 누눙지의 마음을 이해할 수 없게 된 양도끼 (2/2)",
+   "title_history": []
   },
   {
    "id": "211440931",
@@ -154,7 +166,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/477/92274ffe-a5cc-4a2a-ab90-878e6bc30992/44298477_r.jpg",
    "date": "2026-11-01 19:19:16",
-   "views": "13",
+   "views": "14",
    "duration": "4:33",
    "url": "https://vod.afreecatv.com/player/211440931",
    "keywords": [
@@ -166,7 +178,9 @@
    "origin_nick": "누눙지",
    "org_title_no": "",
    "org_timestamp": "1793528356",
-   "broad_no": "298274447"
+   "broad_no": "298274447",
+   "b_title": "[클립][누눙지 반응] 누눙지의 마음을 이해할 수 없게 된 양도끼 (1/2)",
+   "title_history": []
   },
   {
    "id": "211440757",
@@ -188,7 +202,9 @@
    "origin_nick": "제갈금자",
    "org_title_no": "209785803",
    "org_timestamp": "1793528271",
-   "broad_no": "297830107"
+   "broad_no": "297830107",
+   "b_title": "[클립]눙지의 마음을 이해한 도끼 [금자 반응]",
+   "title_history": []
   },
   {
    "id": "211438697",
@@ -198,7 +214,7 @@
    "streamer_nick": "인생회전목마",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/813/43a9d614-771b-4f15-9a37-9b7eec3fbe0d/44297813_r.jpg",
    "date": "2026-11-01 18:59:50",
-   "views": "0",
+   "views": "1",
    "duration": "4:39",
    "url": "https://vod.afreecatv.com/player/211438697",
    "keywords": [
@@ -210,7 +226,9 @@
    "origin_nick": "탱자ω",
    "org_title_no": "",
    "org_timestamp": "1793527190",
-   "broad_no": "298276717"
+   "broad_no": "298276717",
+   "b_title": "[클립]도끼 주운 탱자",
+   "title_history": []
   },
   {
    "id": "211434193",
@@ -220,7 +238,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/511/d21c409f-c822-478f-acc0-6aed42a65101/44296511_r.jpg",
    "date": "2026-11-01 18:18:21",
-   "views": "53",
+   "views": "54",
    "duration": "1:51",
    "url": "https://vod.afreecatv.com/player/211434193",
    "keywords": [
@@ -232,7 +250,9 @@
    "origin_nick": "마왕0216",
    "org_title_no": "211443665",
    "org_timestamp": "1793524701",
-   "broad_no": "298266409"
+   "broad_no": "298266409",
+   "b_title": "[클립][마왕 반응] 와우하면 챙겨줄거라 기대하는 양도끼를 보는 우왁굳을 보며 빵 터진 양도끼",
+   "title_history": []
   },
   {
    "id": "211420801",
@@ -254,7 +274,9 @@
    "origin_nick": "마로니!",
    "org_title_no": "211432873",
    "org_timestamp": "1793516011",
-   "broad_no": "298270323"
+   "broad_no": "298270323",
+   "b_title": "[클립]도끼x로하x구구x금자 할로윈 의상 보는 로니 3",
+   "title_history": []
   },
   {
    "id": "211420733",
@@ -276,7 +298,9 @@
    "origin_nick": "마로니!",
    "org_title_no": "211432873",
    "org_timestamp": "1793515958",
-   "broad_no": "298270323"
+   "broad_no": "298270323",
+   "b_title": "[클립]도끼x로하x구구x금자 할로윈 의상 보는 로니 2",
+   "title_history": []
   },
   {
    "id": "211420661",
@@ -286,7 +310,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_057_dc58aca0-7030-4f22-b3f1-6bd9c287a422_44293057_r&column=2&t=1793516036",
    "date": "2026-11-01 15:51:33",
-   "views": "41",
+   "views": "42",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211420661",
    "keywords": [
@@ -298,7 +322,9 @@
    "origin_nick": "마로니!",
    "org_title_no": "211432873",
    "org_timestamp": "1793515893",
-   "broad_no": "298270323"
+   "broad_no": "298270323",
+   "b_title": "[클립]도끼x로하x구구x금자 할로윈 의상 보는 로니 1",
+   "title_history": []
   },
   {
    "id": "211420057",
@@ -320,7 +346,9 @@
    "origin_nick": "마로니!",
    "org_title_no": "211432873",
    "org_timestamp": "1793515363",
-   "broad_no": "298270323"
+   "broad_no": "298270323",
+   "b_title": "[클립]로니는 블점 멤버들을 흐믓하게 본다는 로하 도끼 반응을 보는 로니 / 이상한 거 하는 마로니",
+   "title_history": []
   },
   {
    "id": "211419975",
@@ -342,7 +370,9 @@
    "origin_nick": "마로니!",
    "org_title_no": "211432873",
    "org_timestamp": "1793515294",
-   "broad_no": "298270323"
+   "broad_no": "298270323",
+   "b_title": "[캐치]도끼 뽀뽀해주는 로니",
+   "title_history": []
   },
   {
    "id": "211415241",
@@ -364,7 +394,9 @@
    "origin_nick": "보키",
    "org_title_no": "211420971",
    "org_timestamp": "1793510970",
-   "broad_no": "298266165"
+   "broad_no": "298266165",
+   "b_title": "[클립]보키 반응 / 청백2 WONDERLAND - 구슬요 X 양도끼 X 여르미 X 힌콕",
+   "title_history": []
   },
   {
    "id": "211415197",
@@ -374,7 +406,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "113",
+   "views": "116",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
@@ -386,7 +418,9 @@
    "origin_nick": "마이곰이",
    "org_title_no": "211352781",
    "org_timestamp": "1793510923",
-   "broad_no": "298243093"
+   "broad_no": "298243093",
+   "b_title": "[캐치]양도끼의 할로윈 신의상 엉덩이 보고 깜짝 놀란 마이곰이 / 🤎: 빵댕이 뭐야 어머 세상에",
+   "title_history": []
   },
   {
    "id": "211415021",
@@ -396,7 +430,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/821/6a389b4b-b7d4-4024-ac0c-4b95c83b7592/44291821_r.jpg",
    "date": "2026-11-01 14:25:30",
-   "views": "366",
+   "views": "368",
    "duration": "4:06",
    "url": "https://vod.afreecatv.com/player/211415021",
    "keywords": [
@@ -408,7 +442,9 @@
    "origin_nick": "유샥크",
    "org_title_no": "",
    "org_timestamp": "1793510730",
-   "broad_no": "298266267"
+   "broad_no": "298266267",
+   "b_title": "[클립]레드힐즈&머독: 바탕화면에 쓰고 싶은데 / 유샥크 ( w. 양도끼 )",
+   "title_history": []
   },
   {
    "id": "211412193",
@@ -430,7 +466,9 @@
    "origin_nick": "천양",
    "org_title_no": "211365937",
    "org_timestamp": "1793507972",
-   "broad_no": "298245249"
+   "broad_no": "298245249",
+   "b_title": "[클립]얼마나 챙겨줄지 궁금해서 와우 포에버 해본다는 양도끼 보는 우왁굳 (왁엔진 ON) / 천양 반응",
+   "title_history": []
   },
   {
    "id": "211388723",
@@ -440,7 +478,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "527",
+   "views": "530",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
@@ -452,7 +490,9 @@
    "origin_nick": "머독",
    "org_title_no": "211389131",
    "org_timestamp": "1793474310",
-   "broad_no": "298254045"
+   "broad_no": "298254045",
+   "b_title": "[캐치][할로윈] 양도끼 팬들은 자기한테 고마워하라는 머독",
+   "title_history": []
   },
   {
    "id": "211378435",
@@ -474,7 +514,9 @@
    "origin_nick": "최또",
    "org_title_no": "211372657",
    "org_timestamp": "1793466548",
-   "broad_no": "298256007"
+   "broad_no": "298256007",
+   "b_title": "[클립][최또 반응] 머독 생일 축하 영상 - Champion 멤버들 노래 순서의 이유를 밝히는 양도끼",
+   "title_history": []
   },
   {
    "id": "211361921",
@@ -484,7 +526,7 @@
    "streamer_nick": "고인물김횬아",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1101/19/thumb/1793527883480476_R_7.jpg",
    "date": "2026-11-01 00:02:49",
-   "views": "1093",
+   "views": "1097",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211361921",
    "keywords": [
@@ -496,7 +538,9 @@
    "origin_nick": "썽이",
    "org_title_no": "211383787",
    "org_timestamp": "1793458969",
-   "broad_no": "298256221"
+   "broad_no": "298256221",
+   "b_title": "도끼로 내리찍은 썽이대갈통! 할로윈게시판^^",
+   "title_history": []
   },
   {
    "id": "211329915",
