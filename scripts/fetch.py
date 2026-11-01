@@ -205,16 +205,20 @@ def main():
     # 채우기(예전 영상 몰아 받기) 중에 찾은 영상은 알림을 보내지 않는다.
     to_notify = []
     now = datetime.now(KST).replace(tzinfo=None)
+    rescan_slot_start = ""
+    if rescan_hours:
+        slot_minutes = int(rescan_hours * 60)
+        minutes_today = now.hour * 60 + now.minute
+        slot = now.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(minutes=minutes_today // slot_minutes * slot_minutes)
+        rescan_slot_start = slot.strftime(DATE_FORMAT)
     for keyword in keywords:
         for file_type in types:
             key_name = f"{keyword}|{file_type}"
             prog = progress.get(key_name, {})
             backfilling = prog.get("backfill_days", 0) < backfill_days
+            # 다시 훑기는 시계에 맞춰 0시부터 rescan_hours마다(예: 0·3·6…21시) 한 번씩 한다.
             last_rescan = prog.get("last_rescan", "")
-            rescanning = bool(rescan_hours) and (
-                not last_rescan
-                or now - datetime.strptime(last_rescan, DATE_FORMAT) >= timedelta(hours=rescan_hours)
-            )
+            rescanning = bool(rescan_hours) and last_rescan < rescan_slot_start
             if backfilling or not prog.get("newest"):
                 # 처음이거나 채우기 기간이 늘었으면 그 기간 끝까지 넘긴다.
                 cutoff = (now - timedelta(days=backfill_days)).strftime(DATE_FORMAT)
