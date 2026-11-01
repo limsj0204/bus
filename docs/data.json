@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01 20:17",
+ "updated_at": "2026-11-01 20:19",
  "keywords": [
   "도끼"
  ],
@@ -86,7 +86,21 @@
   "298106587": "[머독] SBO 디아블로스 저희 팀 컨디션 200% 입니다",
   "298106281": "[10/25] SBO 마지막날",
   "298102073": "타요 재능은 꽃피우는 것 센스는 갈고닦는 것!! 마지막 한걸음 sbo 타요스타포스",
-  "298102259": "딸모장   #맞즐 "
+  "298102259": "딸모장   #맞즐 ",
+  "298104065": "SBO 와우 포에버즈 VS 타요 스타포스 결승전",
+  "298110621": "💜[SBO 폐막식] 감사합니다! 디아블로스!",
+  "298106957": "하 오늘도 손좀 풀어볼까",
+  "298105131": "SBO 결승전 같이보기 (w 디아블로스팀)",
+  "298098165": "[디아블로스] SBO 폐막식의 날, 굿바이 SBO!!!!!!!",
+  "298105833": "SBO 결승전(타요 스타포스 VS 와우포에버즈) 관전, 폐막식",
+  "298104425": "SBO) 7시결승 타요스타포스vs와우포레버즈 결승 같이보기(디아블로스)",
+  "298106721": "SBO 결승전 같이보기 + 폐막식 + 디아블로스의 마지막",
+  "298107591": "히히!💙SBO참가 후기!",
+  "298107791": "깬다.부순다.돈다.도파민",
+  "298105897": "절망전 9회차 코렛트 단즈 / 우누 호미밍 / 하밍 해이 / 밤베 한결 / 결희 나비",
+  "298104897": "월즈 출전하는 날(같은 마음 자세로 절망전 나가기) [이브닛]",
+  "298099955": "절망전 [단즈vs코렛트] + 밀린 이봤 싹싹김치",
+  "298098567": "촉각슈트 / 만만하니 공개 / 분좋카"
  },
  "items": [
   {
@@ -111,7 +125,9 @@
    "org_timestamp": "1793531466",
    "broad_no": "0",
    "b_title": "[SAVYG] 이도끼",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO 양도끼 독침수거 (봉준, 양도끼 시점) / 유키라님 반응",
+   "unedited": false
   },
   {
    "id": "211441737",
@@ -147,7 +163,7 @@
    "streamer_nick": "땀맥스",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44298623_1_r",
    "date": "2026-11-01 19:23:20",
-   "views": "4",
+   "views": "5",
    "duration": "3:16",
    "url": "https://vod.afreecatv.com/player/211441371",
    "keywords": [
@@ -173,7 +189,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/565/5f921b2c-36b9-4ee5-91b7-a0c8445206cd/44298565_r.jpg",
    "date": "2026-11-01 19:21:27",
-   "views": "5",
+   "views": "6",
    "duration": "4:42",
    "url": "https://vod.afreecatv.com/player/211441177",
    "keywords": [
@@ -225,7 +241,7 @@
    "streamer_nick": "땀맥스",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44298427_1_r",
    "date": "2026-11-01 19:17:51",
-   "views": "21",
+   "views": "22",
    "duration": "4:35",
    "url": "https://vod.afreecatv.com/player/211440757",
    "keywords": [
@@ -381,7 +397,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/919/0f713d57-4691-488d-96f3-6a9dfe7a868f/44292919_r.jpg",
    "date": "2026-11-01 15:42:43",
-   "views": "37",
+   "views": "38",
    "duration": "3:35",
    "url": "https://vod.afreecatv.com/player/211420057",
    "keywords": [
@@ -433,7 +449,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_865_143627a3-44e8-4a57-b818-6bbfad4a1ed2_44291865_r&column=2&t=1793511282",
    "date": "2026-11-01 14:29:30",
-   "views": "29",
+   "views": "30",
    "duration": "4:01",
    "url": "https://vod.afreecatv.com/player/211415241",
    "keywords": [
@@ -459,7 +475,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "124",
+   "views": "127",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
@@ -537,7 +553,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "543",
+   "views": "546",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
@@ -589,7 +605,7 @@
    "streamer_nick": "고인물김횬아",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1101/19/thumb/1793527883480476_R_7.jpg",
    "date": "2026-11-01 00:02:49",
-   "views": "1109",
+   "views": "1111",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211361921",
    "keywords": [
@@ -4239,7 +4255,9 @@
    "org_timestamp": "1792936868",
    "broad_no": "298104065",
    "b_title": "[클립]우는 양도끼보는 베베리",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO 와우 포에버즈 VS 타요 스타포스 결승전",
+   "unedited": false
   },
   {
    "id": "210809121",
@@ -4601,7 +4619,9 @@
    "org_timestamp": "1792933588",
    "broad_no": "298110621",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "💜[SBO 폐막식] 감사합니다! 디아블로스!",
+   "unedited": false
   },
   {
    "id": "210802507",
@@ -4625,7 +4645,9 @@
    "org_timestamp": "1792933577",
    "broad_no": "298106957",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "하 오늘도 손좀 풀어볼까",
+   "unedited": false
   },
   {
    "id": "210802487",
@@ -4649,7 +4671,9 @@
    "org_timestamp": "1792933567",
    "broad_no": "298105131",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO 결승전 같이보기 (w 디아블로스팀)",
+   "unedited": false
   },
   {
    "id": "210802401",
@@ -4673,7 +4697,9 @@
    "org_timestamp": "1792933527",
    "broad_no": "298098165",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "[디아블로스] SBO 폐막식의 날, 굿바이 SBO!!!!!!!",
+   "unedited": false
   },
   {
    "id": "210802343",
@@ -4697,7 +4723,9 @@
    "org_timestamp": "1792933506",
    "broad_no": "298105833",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO 결승전(타요 스타포스 VS 와우포에버즈) 관전, 폐막식",
+   "unedited": false
   },
   {
    "id": "210802329",
@@ -4721,7 +4749,9 @@
    "org_timestamp": "1792933491",
    "broad_no": "298104425",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO) 7시결승 타요스타포스vs와우포레버즈 결승 같이보기(디아블로스)",
+   "unedited": false
   },
   {
    "id": "210802291",
@@ -4745,7 +4775,9 @@
    "org_timestamp": "1792933476",
    "broad_no": "298106721",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO 결승전 같이보기 + 폐막식 + 디아블로스의 마지막",
+   "unedited": false
   },
   {
    "id": "210802279",
@@ -4769,7 +4801,9 @@
    "org_timestamp": "1792933463",
    "broad_no": "298107591",
    "b_title": "[클립][SBO 결승전] 김웰로보다 양도끼가 좋은 거대별 / 머독 : 김웰로는 욕 먹어도 된다? / 미르 : 니가 욕 먹어라?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "히히!💙SBO참가 후기!",
+   "unedited": false
   },
   {
    "id": "210802257",
@@ -4819,7 +4853,9 @@
    "org_timestamp": "1792929560",
    "broad_no": "298107791",
    "b_title": "우왁굳 칭찬에 눈썹이랑 입꼬리 올라가는게 투명한 양도끼 / 따린 반응",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "깬다.부순다.돈다.도파민",
+   "unedited": false
   },
   {
    "id": "210789211",
@@ -4843,7 +4879,9 @@
    "org_timestamp": "1792926141",
    "broad_no": "298106957",
    "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "하 오늘도 손좀 풀어볼까",
+   "unedited": false
   },
   {
    "id": "210789191",
@@ -4867,7 +4905,9 @@
    "org_timestamp": "1792926129",
    "broad_no": "298105131",
    "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "SBO 결승전 같이보기 (w 디아블로스팀)",
+   "unedited": false
   },
   {
    "id": "210789181",
@@ -4891,7 +4931,9 @@
    "org_timestamp": "1792926123",
    "broad_no": "298098165",
    "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "[디아블로스] SBO 폐막식의 날, 굿바이 SBO!!!!!!!",
+   "unedited": false
   },
   {
    "id": "210787077",
@@ -4967,7 +5009,9 @@
    "org_timestamp": "1792922218",
    "broad_no": "298105897",
    "b_title": "[클립][민결희] Neon 결희 양도끼 / 민결희 반응(소름돋아)",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "절망전 9회차 코렛트 단즈 / 우누 호미밍 / 하밍 해이 / 밤베 한결 / 결희 나비",
+   "unedited": false
   },
   {
    "id": "210781479",
@@ -5017,7 +5061,9 @@
    "org_timestamp": "1792921827",
    "broad_no": "298105897",
    "b_title": "[클립][민결희] 3패하고 떨어진 머독님이 양도끼에게 하는 말 / 민결희 반응(악질 결)",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "절망전 9회차 코렛트 단즈 / 우누 호미밍 / 하밍 해이 / 밤베 한결 / 결희 나비",
+   "unedited": false
   },
   {
    "id": "210780345",
@@ -5067,7 +5113,9 @@
    "org_timestamp": "1792919260",
    "broad_no": "298104897",
    "b_title": "[클립]단츄: 한결,마이곰이,민결희,양도끼 8~9명 정도 연말 콘서트 준비중(한결 반응)",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "월즈 출전하는 날(같은 마음 자세로 절망전 나가기) [이브닛]",
+   "unedited": false
   },
   {
    "id": "210768579",
@@ -5091,7 +5139,9 @@
    "org_timestamp": "1792913604",
    "broad_no": "298099955",
    "b_title": "[단즈] SBO 드래프트 순서 (48번째) 부정하는 양도끼",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "절망전 [단즈vs코렛트] + 밀린 이봤 싹싹김치",
+   "unedited": false
   },
   {
    "id": "210763149",
@@ -5134,7 +5184,9 @@
    "org_timestamp": "1792908731",
    "broad_no": "298098567",
    "b_title": "[단츄] 연말 비싼 취미 강요 (납치) 리스트 - 한결, 마이곰이, 민결희, 양도끼",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "촉각슈트 / 만만하니 공개 / 분좋카",
+   "unedited": false
   },
   {
    "id": "210761483",
