@@ -205,8 +205,11 @@
     background: var(--surface); border: 1px solid var(--line);
     box-shadow: var(--shadow);
     transition: transform .2s ease, box-shadow .2s ease;
-    animation: rise .35s ease both;
   }
+  /* 처음 열 때·필터를 바꿀 때만 카드가 떠오르며 나타난다. */
+  .grid.animate-in .card { animation: rise .35s ease both; }
+  .card.entering { animation: fadein .3s ease both; }
+  @keyframes fadein { from { opacity: 0; } }
   .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
   @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
   .thumb { position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: var(--surface-2); }
@@ -938,14 +941,14 @@
     saveSet(name, store);
     scheduleSync();
     cardEl.classList.add("leaving");
-    setTimeout(render, 220);
+    setTimeout(renderAnimated, 220);
     showToast(message, () => {
       if (before === undefined) delete store[k]; else store[k] = before;
       // 다른 기기에 이미 올라갔을 수 있으니 되돌린 시각으로 다시 기록한다.
       if (before === undefined || before <= 0) store[k] = -Date.now();
       saveSet(name, store);
       scheduleSync();
-      render();
+      renderAnimated();
     });
   }
 
@@ -959,8 +962,8 @@
     };
     apply(toBin);
     cardEl.classList.add("leaving");
-    setTimeout(render, 220);
-    showToast(toBin ? "숨겼어요" : "다시 보이게 했어요", () => { apply(!toBin); render(); });
+    setTimeout(renderAnimated, 220);
+    showToast(toBin ? "숨겼어요" : "다시 보이게 했어요", () => { apply(!toBin); renderAnimated(); });
   }
 
   function toggleLater(it, cardEl, btn) {
@@ -974,11 +977,11 @@
     apply(add);
     if (state.tab === "later" && !add) {
       cardEl.classList.add("leaving");
-      setTimeout(render, 220);
+      setTimeout(renderAnimated, 220);
     } else {
-      render();
+      renderAnimated();
     }
-    showToast(add ? "나중에 보기에 담았어요" : "나중에 보기에서 뺐어요", () => { apply(!add); render(); });
+    showToast(add ? "나중에 보기에 담았어요" : "나중에 보기에서 뺐어요", () => { apply(!add); renderAnimated(); });
   }
 
   function renderControls(base) {
@@ -1020,6 +1023,7 @@
   function card(it, q) {
     const isSeen = keyOf(it) in seen;
     const a = el("a", "card" + (isSeen ? " seen" : ""));
+    a.dataset.key = keyOf(it);
     a.href = it.url; a.target = "_blank"; a.rel = "noopener";
     if (state.select) {
       a.classList.add("selecting");
@@ -1135,9 +1139,48 @@
     }
     // 필터·정렬·탭이 바뀌면 처음 PAGE_SIZE개부터 다시 보여준다.
     const signature = [state.tab, state.type, state.keyword, state.origin, state.q, state.sort].join("|");
-    if (signature !== lastSignature) { shownLimit = PAGE_SIZE; lastSignature = signature; }
+    const fresh = signature !== lastSignature;
+    if (fresh) { shownLimit = PAGE_SIZE; lastSignature = signature; }
+    grid.classList.toggle("animate-in", fresh);
     grid.replaceChildren(...items.slice(0, shownLimit).map(it => card(it, state.q.trim())));
     renderMore();
+  }
+
+  // 목록을 다시 그리되, 남아 있는 카드는 원래 자리에서 새 자리로 미끄러지듯 옮긴다.
+  // (빠진 카드 자리를 아래 카드들이 올라와 채움) 썸네일은 새로 불러오지 않고 그대로 옮겨 붙인다.
+  function renderAnimated() {
+    const grid = document.getElementById("grid");
+    const before = new Map();
+    const images = new Map();
+    grid.querySelectorAll(".card[data-key]").forEach(c => {
+      if (c.classList.contains("leaving")) return;
+      before.set(c.dataset.key, c.getBoundingClientRect());
+      const img = c.querySelector(".thumb img");
+      if (img) images.set(c.dataset.key, img);
+    });
+    render();
+    const moved = [];
+    grid.querySelectorAll(".card[data-key]").forEach(c => {
+      const key = c.dataset.key;
+      const oldImg = images.get(key);
+      const newImg = c.querySelector(".thumb img");
+      if (oldImg && newImg) newImg.replaceWith(oldImg);
+      const old = before.get(key);
+      if (!old) { if (before.size) c.classList.add("entering"); return; }
+      const now = c.getBoundingClientRect();
+      const dx = old.left - now.left, dy = old.top - now.top;
+      if (Math.abs(dx) < 1 && Math.abs(dy) < 1) return;
+      c.style.transition = "none";
+      c.style.transform = `translate(${dx}px, ${dy}px)`;
+      moved.push(c);
+    });
+    if (!moved.length) return;
+    grid.offsetHeight;  // 시작 위치를 먼저 적용한 뒤 움직인다.
+    moved.forEach(c => {
+      c.style.transition = "transform .34s cubic-bezier(.2, .8, .2, 1)";
+      c.style.transform = "";
+      c.addEventListener("transitionend", () => { c.style.transition = ""; }, { once: true });
+    });
   }
 
   // 더 보기: 처음에는 PAGE_SIZE개만 그리고, 아래까지 내리면 이어서 더 그린다.
@@ -1173,7 +1216,7 @@
     selected.clear();
     document.body.classList.toggle("selecting", on);
     document.getElementById("selectBtn").classList.toggle("on", on);
-    render();
+    renderAnimated();
   }
 
   function bulkApply(store, name, value, message) {
@@ -1183,14 +1226,20 @@
     keys.forEach(k => { store[k] = value * now; });
     saveSet(name, store);
     scheduleSync();
-    setSelect(false);
+    // 목록에서 빠지는 카드는 흐려지며 사라진 뒤, 남은 카드가 올라와 채운다.
+    const leavingKeys = new Set(keys);
+    document.querySelectorAll("#grid .card[data-key]").forEach(c => {
+      const it = shownItems.find(x => keyOf(x) === c.dataset.key);
+      if (leavingKeys.has(c.dataset.key) && it && !tabMatch(it)) c.classList.add("leaving");
+    });
+    setTimeout(() => setSelect(false), 220);
     showToast(message.replace("N", keys.length), () => {
       // 다른 기기에 이미 올라갔을 수 있으니, 원래 꺼져 있던 표시는 되돌린 시각으로 다시 기록한다.
       const undoAt = -Date.now();
       before.forEach(([k, v]) => { store[k] = v === undefined || v <= 0 ? undoAt : v; });
       saveSet(name, store);
       scheduleSync();
-      render();
+      renderAnimated();
     });
   }
 
@@ -1212,7 +1261,7 @@
       el("span", "count", n ? n + "개 선택됨" : "영상을 눌러 선택하세요"),
       btn(allShown ? "선택 해제" : "전체 선택", "", "", () => {
         if (allShown) selected.clear(); else shownItems.forEach(it => selected.add(keyOf(it)));
-        render();
+        renderAnimated();
       }, false),
     ];
     const toJunk = cls => btn("휴지통으로", ICON_TRASH, cls, () => bulkApply(junk, "junk", 1, "N개를 휴지통으로 옮겼어요"));
@@ -1272,7 +1321,8 @@
           ? "양도끼 언급 클립·캐치 · " + ago(updated) + " 업데이트"
           : "양도끼 언급 클립·캐치 · 첫 업데이트 전";
         // 선택 중일 때는 화면을 다시 그리지 않아 고른 것이 흐트러지지 않게 한다.
-        if (first || (changed && !state.select)) render();
+        if (first) render();
+        else if (changed && !state.select) renderAnimated();
         if (first) runSync();
       })
       .catch(() => {
