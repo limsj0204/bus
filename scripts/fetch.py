@@ -171,6 +171,9 @@ def normalize(item, file_type, keyword):
         "org_title_no": str(item.get("org_title_no") or ""),
         "org_timestamp": str(item.get("timestamp") or ""),
         "broad_no": str(item.get("broad_no") or ""),
+        # 방제(원본 방송 제목) 후보. 제목을 안 고치고 딴 클립을 거르는 데 쓴다.
+        "b_title": html.unescape(str(item.get("b_title") or "")).strip(),
+        "title_history": item.get("title_history") if isinstance(item.get("title_history"), (list, str)) else "",
     }
 
 
