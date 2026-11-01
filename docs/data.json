@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-01 13:30",
+ "updated_at": "2026-11-01 13:40",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-01 03:05:58",
+   "newest": "2026-11-01 13:39:32",
    "backfill_days": 7
   },
   "도끼|CATCH": {
@@ -15,6 +15,28 @@
  },
  "items": [
   {
+   "id": "211412193",
+   "type": "CLIP",
+   "title": "[클립]얼마나 챙겨줄지 궁금해서 와우 포에버 해본다는 양도끼 보는 우왁굳 (왁엔진 ON) / 천양 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44291193_1_r",
+   "date": "2026-11-01 13:39:32",
+   "views": "2",
+   "duration": "0:58",
+   "url": "https://vod.afreecatv.com/player/211412193",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "243000"
+   ],
+   "origin_nick": "천양",
+   "org_title_no": "211365937",
+   "org_timestamp": "1793507972",
+   "broad_no": "298245249"
+  },
+  {
    "id": "211388723",
    "type": "CATCH",
    "title": "[캐치][할로윈] 양도끼 팬들은 자기한테 고마워하라는 머독",
@@ -22,7 +44,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "203",
+   "views": "216",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
@@ -44,7 +66,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44282781_1_r",
    "date": "2026-11-01 02:09:08",
-   "views": "134",
+   "views": "137",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/211378435",
    "keywords": [
@@ -66,7 +88,7 @@
    "streamer_nick": "고인물김횬아",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/599/4c3883ef-faa6-4107-a4e9-969a1fdba14c/21628599_r.jpg",
    "date": "2026-11-01 00:02:49",
-   "views": "686",
+   "views": "698",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211361921",
    "keywords": [
@@ -176,7 +198,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261031_287_2893026d-a122-4173-b991-1e15790e8b62_44258287_r&column=2&t=1793428892",
    "date": "2026-10-31 15:40:33",
-   "views": "129",
+   "views": "130",
    "duration": "2:00",
    "url": "https://vod.afreecatv.com/player/211304795",
    "keywords": [
@@ -198,7 +220,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/225/fd677dc3-8f03-4b1b-b2bc-c25f8a246284/44258225_r.jpg",
    "date": "2026-10-31 15:37:56",
-   "views": "158",
+   "views": "160",
    "duration": "2:01",
    "url": "https://vod.afreecatv.com/player/211304605",
    "keywords": [
