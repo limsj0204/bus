@@ -192,6 +192,8 @@ def main():
     types = [str(t).upper() for t in config.get("types") or ["CLIP", "CATCH"]]
     max_items = int(config.get("max_items") or 2000)
     backfill_days = int(config.get("backfill_days") or 0)
+    rescan_days = int(config.get("rescan_days") or 7)
+    rescan_hours = float(config.get("rescan_hours") or 0)
 
     saved = json.loads(DATA_PATH.read_text(encoding="utf-8")) if DATA_PATH.exists() else {}
     existing = saved.get("items", [])
@@ -208,10 +210,20 @@ def main():
             key_name = f"{keyword}|{file_type}"
             prog = progress.get(key_name, {})
             backfilling = prog.get("backfill_days", 0) < backfill_days
+            last_rescan = prog.get("last_rescan", "")
+            rescanning = bool(rescan_hours) and (
+                not last_rescan
+                or now - datetime.strptime(last_rescan, DATE_FORMAT) >= timedelta(hours=rescan_hours)
+            )
             if backfilling or not prog.get("newest"):
                 # 처음이거나 채우기 기간이 늘었으면 그 기간 끝까지 넘긴다.
                 cutoff = (now - timedelta(days=backfill_days)).strftime(DATE_FORMAT)
                 max_pages = MAX_BACKFILL_PAGES
+            elif rescanning:
+                # 가끔 최근 며칠치를 다시 훑어, 나중에 제목을 고쳐 '도끼'가 들어간 영상도 잡는다.
+                cutoff = (now - timedelta(days=rescan_days)).strftime(DATE_FORMAT)
+                max_pages = MAX_BACKFILL_PAGES
+                print(f"[다시 훑기] '{keyword}' {file_type}: 최근 {rescan_days}일치")
             else:
                 # 평소에는 지난번에 본 가장 최근 영상(여유 1시간)까지만 넘긴다.
                 newest = datetime.strptime(prog["newest"], DATE_FORMAT)
@@ -279,6 +291,8 @@ def main():
             if reached_end and not failed and backfilling:
                 prog["backfill_days"] = backfill_days
                 print(f"       최근 {backfill_days}일치 채우기 완료")
+            if reached_end and not failed and (rescanning or backfilling):
+                prog["last_rescan"] = now.strftime(DATE_FORMAT)
             progress[key_name] = prog
 
     if successes == 0:
