@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01 20:10",
+ "updated_at": "2026-11-01 20:12",
  "keywords": [
   "도끼"
  ],
@@ -13,103 +13,41 @@
    "backfill_days": 7
   }
  },
+ "broad_titles": {
+  "298279123": "10시) 인보키어 합방 (w.타요 민결희 양도끼 비챤)",
+  "298278569": "[10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
+  "298274447": "주식 물린 형님들을 위한 반값할인 (그로서리서울x한끼통살)",
+  "298082603": "방탈출 합방 / 후열💖먼작귀💖 같이보기",
+  "297830107": "밀린 카페 탐방을 해봅시당",
+  "298276717": "[호박서버] 서리하고싶어요 제발 !!! 🎃API 룰렛 O🎃",
+  "298266409": "오늘은 느긋허이 간이 종겜핀볼 하데스",
+  "298270323": "콜 오브 듀티 사 완결 보기",
+  "298266165": "[23일차]",
+  "298243093": "할로윈 오리지널 의상 공개 / 망해두 같이보기 / SBO 시뮬레이터 / 천수만 면담",
+  "298266267": "7시 반) 봉치동 입학합니다 가면무도회는 떨어졌지만 봉치동은 붙기를....",
+  "298245249": "심심한 버츄얼 찾습니다",
+  "298254045": "[머독] 근데 공익인데 전쟁 나가야하나요? (콜 오브 듀티)",
+  "298256007": "시그널 섹시 커버곡 공개 후 후열 공겜",
+  "298256221": "가슴이 웅장해지는  #댄동단장태우 #썽카데미",
+  "298253441": "이봤 털기",
+  "298242339": "[26.10.31 2부] 야방+할로윈 방셀 (호진이 친구 기습 팬미팅)",
+  "298248155": "구글 살려주세요.. 미국 망했나요?",
+  "298242271": "[10/31] 카페소통+ [망해두] 서버 드릴쇼 보기",
+  "296353873": "방종하려는데 납치 모에요",
+  "298227841": "🌹콜옵듀티 북괴 없애기 + 견이봤🌹",
+  "298193599": "[261029]노래잘하는 사람들의 연기대결! (일단 전 연기를 잘하는ㅎ",
+  "298223041": "[호박서버] 소통도 하고 노래도 부르고 만능 호박🎃 /일반 방셀 33개&330개/",
+  "298229059": "[머독] 신작! 포켓몬스터 메가붕크 (권위자 출신ㅇㅇ)",
+  "298227093": "결따끼쿠 검마 보다어려운 카링 ㄷㄷ",
+  "298207201": "징이봤 / 로블록스",
+  "298203145": "쵸로키의 할로윈 미니게임! (브품동)",
+  "298222845": "로이세끼",
+  "298218111": "할로윈 뉴 의상 공개! [방셀 1206/2500]",
+  "298204497": "[머독] 오랜만에 머이봤",
+  "298204373": "타요 오늘도 날먹합니다 화양 미스테리 w 타요스타포스",
+  "298191605": "jup)시골 여행 1박2일 기상 미션"
+ },
  "items": [
-  {
-   "id": "211446959",
-   "type": "CLIP",
-   "title": "[클립]10시) 인보키어 합방 (w.타요 민결희 양도끼 비챤)",
-   "streamer_id": "half03",
-   "streamer_nick": "Tilta",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/467/a5ac6c32-7575-4936-84e7-8c06d74b99ec/44300467_r.jpg",
-   "date": "2026-11-01 20:09:53",
-   "views": "0",
-   "duration": "4:13",
-   "url": "https://vod.afreecatv.com/player/211446959",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "lilpa0309"
-   ],
-   "origin_nick": "릴파♬",
-   "org_title_no": "",
-   "org_timestamp": "1793531393",
-   "broad_no": "298279123",
-   "b_title": "[클립]10시) 인보키어 합방 (w.타요 민결희 양도끼 비챤)",
-   "title_history": []
-  },
-  {
-   "id": "211444991",
-   "type": "CLIP",
-   "title": "[클립]10시) 인보키어 합방 (w.타요 민결희 양도끼 비챤)",
-   "streamer_id": "894tmgurl",
-   "streamer_nick": "그레그",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/841/440c6631-b797-4426-b999-d76515a08111/44299841_r.jpg",
-   "date": "2026-11-01 19:53:21",
-   "views": "10",
-   "duration": "4:36",
-   "url": "https://vod.afreecatv.com/player/211444991",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "lilpa0309"
-   ],
-   "origin_nick": "릴파♬",
-   "org_title_no": "",
-   "org_timestamp": "1793530401",
-   "broad_no": "298279123",
-   "b_title": "[클립]10시) 인보키어 합방 (w.타요 민결희 양도끼 비챤)",
-   "title_history": []
-  },
-  {
-   "id": "211443987",
-   "type": "CLIP",
-   "title": "[클립][10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
-   "streamer_id": "rasagada",
-   "streamer_nick": "비츠카",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/529/4790a7af-3690-4618-8642-8b67f23d0cb7/44299529_r.jpg",
-   "date": "2026-11-01 19:45:07",
-   "views": "5",
-   "duration": "5:00",
-   "url": "https://vod.afreecatv.com/player/211443987",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "viichan6"
-   ],
-   "origin_nick": "비챤",
-   "org_title_no": "",
-   "org_timestamp": "1793529907",
-   "broad_no": "298278569",
-   "b_title": "[클립][10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
-   "title_history": []
-  },
-  {
-   "id": "211443959",
-   "type": "CLIP",
-   "title": "[클립][10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
-   "streamer_id": "rasagada",
-   "streamer_nick": "비츠카",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261101/517/7434e514-c15f-4af6-bab5-2163c2fb092a/44299517_r.jpg",
-   "date": "2026-11-01 19:45:00",
-   "views": "14",
-   "duration": "5:00",
-   "url": "https://vod.afreecatv.com/player/211443959",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "viichan6"
-   ],
-   "origin_nick": "비챤",
-   "org_title_no": "",
-   "org_timestamp": "1793529900",
-   "broad_no": "298278569",
-   "b_title": "[클립][10시] 공포겓임 인보키어 (w. 타요, 양도끼, 민결희, 릴파)",
-   "title_history": []
-  },
   {
    "id": "211441737",
    "type": "CLIP",
@@ -132,7 +70,9 @@
    "org_timestamp": "1793528762",
    "broad_no": "298274447",
    "b_title": "[클립]다시 눙지의 마음을 이해할 수 없게 된 도끼 눙지 반응",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "주식 물린 형님들을 위한 반값할인 (그로서리서울x한끼통살)",
+   "unedited": false
   },
   {
    "id": "211441371",
@@ -156,7 +96,9 @@
    "org_timestamp": "1793528600",
    "broad_no": "298082603",
    "b_title": "[클립]눙지의 마음을 이해한 도끼장 [구구 반응] & 눙지 광대옷 세탁했을까?",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "방탈출 합방 / 후열💖먼작귀💖 같이보기",
+   "unedited": false
   },
   {
    "id": "211441177",
@@ -180,7 +122,9 @@
    "org_timestamp": "1793528487",
    "broad_no": "298274447",
    "b_title": "[클립][누눙지 반응] 누눙지의 마음을 이해할 수 없게 된 양도끼 (2/2)",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "주식 물린 형님들을 위한 반값할인 (그로서리서울x한끼통살)",
+   "unedited": false
   },
   {
    "id": "211440931",
@@ -204,7 +148,9 @@
    "org_timestamp": "1793528356",
    "broad_no": "298274447",
    "b_title": "[클립][누눙지 반응] 누눙지의 마음을 이해할 수 없게 된 양도끼 (1/2)",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "주식 물린 형님들을 위한 반값할인 (그로서리서울x한끼통살)",
+   "unedited": false
   },
   {
    "id": "211440757",
@@ -228,7 +174,9 @@
    "org_timestamp": "1793528271",
    "broad_no": "297830107",
    "b_title": "[클립]눙지의 마음을 이해한 도끼 [금자 반응]",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "밀린 카페 탐방을 해봅시당",
+   "unedited": false
   },
   {
    "id": "211438697",
@@ -252,7 +200,9 @@
    "org_timestamp": "1793527190",
    "broad_no": "298276717",
    "b_title": "[클립]도끼 주운 탱자",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "[호박서버] 서리하고싶어요 제발 !!! 🎃API 룰렛 O🎃",
+   "unedited": false
   },
   {
    "id": "211434193",
@@ -276,7 +226,9 @@
    "org_timestamp": "1793524701",
    "broad_no": "298266409",
    "b_title": "[클립][마왕 반응] 와우하면 챙겨줄거라 기대하는 양도끼를 보는 우왁굳을 보며 빵 터진 양도끼",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "오늘은 느긋허이 간이 종겜핀볼 하데스",
+   "unedited": false
   },
   {
    "id": "211420801",
@@ -300,7 +252,9 @@
    "org_timestamp": "1793516011",
    "broad_no": "298270323",
    "b_title": "[클립]도끼x로하x구구x금자 할로윈 의상 보는 로니 3",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "콜 오브 듀티 사 완결 보기",
+   "unedited": false
   },
   {
    "id": "211420733",
@@ -324,7 +278,9 @@
    "org_timestamp": "1793515958",
    "broad_no": "298270323",
    "b_title": "[클립]도끼x로하x구구x금자 할로윈 의상 보는 로니 2",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "콜 오브 듀티 사 완결 보기",
+   "unedited": false
   },
   {
    "id": "211420661",
@@ -348,7 +304,9 @@
    "org_timestamp": "1793515893",
    "broad_no": "298270323",
    "b_title": "[클립]도끼x로하x구구x금자 할로윈 의상 보는 로니 1",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "콜 오브 듀티 사 완결 보기",
+   "unedited": false
   },
   {
    "id": "211420057",
@@ -372,7 +330,9 @@
    "org_timestamp": "1793515363",
    "broad_no": "298270323",
    "b_title": "[클립]로니는 블점 멤버들을 흐믓하게 본다는 로하 도끼 반응을 보는 로니 / 이상한 거 하는 마로니",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "콜 오브 듀티 사 완결 보기",
+   "unedited": false
   },
   {
    "id": "211419975",
@@ -396,7 +356,9 @@
    "org_timestamp": "1793515294",
    "broad_no": "298270323",
    "b_title": "[캐치]도끼 뽀뽀해주는 로니",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "콜 오브 듀티 사 완결 보기",
+   "unedited": false
   },
   {
    "id": "211415241",
@@ -420,7 +382,9 @@
    "org_timestamp": "1793510970",
    "broad_no": "298266165",
    "b_title": "[클립]보키 반응 / 청백2 WONDERLAND - 구슬요 X 양도끼 X 여르미 X 힌콕",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "[23일차]",
+   "unedited": false
   },
   {
    "id": "211415197",
@@ -430,7 +394,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "119",
+   "views": "122",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
@@ -444,7 +408,9 @@
    "org_timestamp": "1793510923",
    "broad_no": "298243093",
    "b_title": "[캐치]양도끼의 할로윈 신의상 엉덩이 보고 깜짝 놀란 마이곰이 / 🤎: 빵댕이 뭐야 어머 세상에",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "할로윈 오리지널 의상 공개 / 망해두 같이보기 / SBO 시뮬레이터 / 천수만 면담",
+   "unedited": false
   },
   {
    "id": "211415021",
@@ -468,7 +434,9 @@
    "org_timestamp": "1793510730",
    "broad_no": "298266267",
    "b_title": "[클립]레드힐즈&머독: 바탕화면에 쓰고 싶은데 / 유샥크 ( w. 양도끼 )",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "7시 반) 봉치동 입학합니다 가면무도회는 떨어졌지만 봉치동은 붙기를....",
+   "unedited": false
   },
   {
    "id": "211412193",
@@ -492,7 +460,9 @@
    "org_timestamp": "1793507972",
    "broad_no": "298245249",
    "b_title": "[클립]얼마나 챙겨줄지 궁금해서 와우 포에버 해본다는 양도끼 보는 우왁굳 (왁엔진 ON) / 천양 반응",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "심심한 버츄얼 찾습니다",
+   "unedited": false
   },
   {
    "id": "211388723",
@@ -502,7 +472,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "537",
+   "views": "538",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
@@ -516,7 +486,9 @@
    "org_timestamp": "1793474310",
    "broad_no": "298254045",
    "b_title": "[캐치][할로윈] 양도끼 팬들은 자기한테 고마워하라는 머독",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "[머독] 근데 공익인데 전쟁 나가야하나요? (콜 오브 듀티)",
+   "unedited": false
   },
   {
    "id": "211378435",
@@ -526,7 +498,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44282781_1_r",
    "date": "2026-11-01 02:09:08",
-   "views": "165",
+   "views": "166",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/211378435",
    "keywords": [
@@ -540,7 +512,9 @@
    "org_timestamp": "1793466548",
    "broad_no": "298256007",
    "b_title": "[클립][최또 반응] 머독 생일 축하 영상 - Champion 멤버들 노래 순서의 이유를 밝히는 양도끼",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "시그널 섹시 커버곡 공개 후 후열 공겜",
+   "unedited": false
   },
   {
    "id": "211361921",
@@ -550,7 +524,7 @@
    "streamer_nick": "고인물김횬아",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1101/19/thumb/1793527883480476_R_7.jpg",
    "date": "2026-11-01 00:02:49",
-   "views": "1103",
+   "views": "1104",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211361921",
    "keywords": [
@@ -564,7 +538,9 @@
    "org_timestamp": "1793458969",
    "broad_no": "298256221",
    "b_title": "도끼로 내리찍은 썽이대갈통! 할로윈게시판^^",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "가슴이 웅장해지는  #댄동단장태우 #썽카데미",
+   "unedited": false
   },
   {
    "id": "211329915",
@@ -586,7 +562,9 @@
    "origin_nick": "릴파♬",
    "org_title_no": "211366199",
    "org_timestamp": "1793444620",
-   "broad_no": "298253441"
+   "broad_no": "298253441",
+   "broad_title": "이봤 털기",
+   "unedited": false
   },
   {
    "id": "211329651",
@@ -608,7 +586,9 @@
    "origin_nick": "진호.",
    "org_title_no": "211307671",
    "org_timestamp": "1793444484",
-   "broad_no": "298242339"
+   "broad_no": "298242339",
+   "broad_title": "[26.10.31 2부] 야방+할로윈 방셀 (호진이 친구 기습 팬미팅)",
+   "unedited": false
   },
   {
    "id": "211329255",
@@ -630,7 +610,9 @@
    "origin_nick": "진호.",
    "org_title_no": "211307671",
    "org_timestamp": "1793444276",
-   "broad_no": "298242339"
+   "broad_no": "298242339",
+   "broad_title": "[26.10.31 2부] 야방+할로윈 방셀 (호진이 친구 기습 팬미팅)",
+   "unedited": false
   },
   {
    "id": "211318275",
@@ -652,7 +634,9 @@
    "origin_nick": "누눙지",
    "org_title_no": "211355759",
    "org_timestamp": "1793438099",
-   "broad_no": "298248155"
+   "broad_no": "298248155",
+   "broad_title": "구글 살려주세요.. 미국 망했나요?",
+   "unedited": false
   },
   {
    "id": "211304795",
@@ -674,7 +658,9 @@
    "origin_nick": "하치_HACHI",
    "org_title_no": "211335325",
    "org_timestamp": "1793428833",
-   "broad_no": "298242271"
+   "broad_no": "298242271",
+   "broad_title": "[10/31] 카페소통+ [망해두] 서버 드릴쇼 보기",
+   "unedited": false
   },
   {
    "id": "211304605",
@@ -696,7 +682,9 @@
    "origin_nick": "하치_HACHI",
    "org_title_no": "211335325",
    "org_timestamp": "1793428676",
-   "broad_no": "298242271"
+   "broad_no": "298242271",
+   "broad_title": "[10/31] 카페소통+ [망해두] 서버 드릴쇼 보기",
+   "unedited": false
   },
   {
    "id": "211286549",
@@ -718,7 +706,9 @@
    "origin_nick": "밍턴_",
    "org_title_no": "204342757",
    "org_timestamp": "1793409183",
-   "broad_no": "296353873"
+   "broad_no": "296353873",
+   "broad_title": "방종하려는데 납치 모에요",
+   "unedited": false
   },
   {
    "id": "211283187",
@@ -740,7 +730,8 @@
    "origin_nick": "깍꿍♥",
    "org_title_no": "",
    "org_timestamp": "1793402981",
-   "broad_no": "298227181"
+   "broad_no": "298227181",
+   "unedited": false
   },
   {
    "id": "211277043",
@@ -762,7 +753,9 @@
    "origin_nick": "견자희",
    "org_title_no": "211278105",
    "org_timestamp": "1793390696",
-   "broad_no": "298227841"
+   "broad_no": "298227841",
+   "broad_title": "🌹콜옵듀티 북괴 없애기 + 견이봤🌹",
+   "unedited": false
   },
   {
    "id": "211273891",
@@ -784,7 +777,9 @@
    "origin_nick": "유샥크",
    "org_title_no": "211168299",
    "org_timestamp": "1793386397",
-   "broad_no": "298193599"
+   "broad_no": "298193599",
+   "broad_title": "[261029]노래잘하는 사람들의 연기대결! (일단 전 연기를 잘하는ㅎ",
+   "unedited": false
   },
   {
    "id": "211242119",
@@ -806,7 +801,9 @@
    "duration": "0:20",
    "org_title_no": "211253547",
    "org_timestamp": "1793366685",
-   "broad_no": "298223041"
+   "broad_no": "298223041",
+   "broad_title": "[호박서버] 소통도 하고 노래도 부르고 만능 호박🎃 /일반 방셀 33개&330개/",
+   "unedited": false
   },
   {
    "id": "211231037",
@@ -828,7 +825,9 @@
    "duration": "0:20",
    "org_title_no": "211270925",
    "org_timestamp": "1793360647",
-   "broad_no": "298229059"
+   "broad_no": "298229059",
+   "broad_title": "[머독] 신작! 포켓몬스터 메가붕크 (권위자 출신ㅇㅇ)",
+   "unedited": false
   },
   {
    "id": "211230863",
@@ -850,7 +849,9 @@
    "duration": "1:10",
    "org_title_no": "211272183",
    "org_timestamp": "1793360532",
-   "broad_no": "298227093"
+   "broad_no": "298227093",
+   "broad_title": "결따끼쿠 검마 보다어려운 카링 ㄷㄷ",
+   "unedited": false
   },
   {
    "id": "211230319",
@@ -872,7 +873,9 @@
    "duration": "0:59",
    "org_title_no": "211272183",
    "org_timestamp": "1793360194",
-   "broad_no": "298227093"
+   "broad_no": "298227093",
+   "broad_title": "결따끼쿠 검마 보다어려운 카링 ㄷㄷ",
+   "unedited": false
   },
   {
    "id": "211230309",
@@ -894,7 +897,9 @@
    "duration": "1:07",
    "org_title_no": "211272183",
    "org_timestamp": "1793360185",
-   "broad_no": "298227093"
+   "broad_no": "298227093",
+   "broad_title": "결따끼쿠 검마 보다어려운 카링 ㄷㄷ",
+   "unedited": false
   },
   {
    "id": "211230085",
@@ -916,7 +921,9 @@
    "duration": "1:26",
    "org_title_no": "211272183",
    "org_timestamp": "1793360049",
-   "broad_no": "298227093"
+   "broad_no": "298227093",
+   "broad_title": "결따끼쿠 검마 보다어려운 카링 ㄷㄷ",
+   "unedited": false
   },
   {
    "id": "211223537",
@@ -938,7 +945,9 @@
    "duration": "1:00",
    "org_title_no": "211177285",
    "org_timestamp": "1793356107",
-   "broad_no": "298207201"
+   "broad_no": "298207201",
+   "broad_title": "징이봤 / 로블록스",
+   "unedited": false
   },
   {
    "id": "211222063",
@@ -960,7 +969,9 @@
    "duration": "1:12",
    "org_title_no": "211183473",
    "org_timestamp": "1793355054",
-   "broad_no": "298203145"
+   "broad_no": "298203145",
+   "broad_title": "쵸로키의 할로윈 미니게임! (브품동)",
+   "unedited": false
   },
   {
    "id": "211218813",
@@ -982,7 +993,9 @@
    "duration": "0:42",
    "org_title_no": "211275493",
    "org_timestamp": "1793352477",
-   "broad_no": "298222845"
+   "broad_no": "298222845",
+   "broad_title": "로이세끼",
+   "unedited": false
   },
   {
    "id": "211206461",
@@ -1004,7 +1017,9 @@
    "duration": "2:32",
    "org_title_no": "211209533",
    "org_timestamp": "1793341772",
-   "broad_no": "298218111"
+   "broad_no": "298218111",
+   "broad_title": "할로윈 뉴 의상 공개! [방셀 1206/2500]",
+   "unedited": false
   },
   {
    "id": "211178229",
@@ -1026,7 +1041,9 @@
    "duration": "1:34",
    "org_title_no": "211180005",
    "org_timestamp": "1793294376",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211178195",
@@ -1048,7 +1065,9 @@
    "duration": "1:38",
    "org_title_no": "211180005",
    "org_timestamp": "1793294348",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211178101",
@@ -1070,7 +1089,9 @@
    "duration": "0:46",
    "org_title_no": "211180005",
    "org_timestamp": "1793294266",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211177155",
@@ -1092,7 +1113,9 @@
    "duration": "0:33",
    "org_title_no": "211180005",
    "org_timestamp": "1793293357",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211177135",
@@ -1114,7 +1137,9 @@
    "duration": "1:02",
    "org_title_no": "211180005",
    "org_timestamp": "1793293338",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211177115",
@@ -1136,7 +1161,9 @@
    "duration": "0:58",
    "org_title_no": "211180005",
    "org_timestamp": "1793293326",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211177089",
@@ -1158,7 +1185,9 @@
    "duration": "4:54",
    "org_title_no": "211180005",
    "org_timestamp": "1793293306",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211177071",
@@ -1180,7 +1209,9 @@
    "duration": "4:59",
    "org_title_no": "211180005",
    "org_timestamp": "1793293298",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176589",
@@ -1202,7 +1233,9 @@
    "duration": "3:13",
    "org_title_no": "211180005",
    "org_timestamp": "1793292919",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176565",
@@ -1224,7 +1257,9 @@
    "duration": "3:17",
    "org_title_no": "211180005",
    "org_timestamp": "1793292901",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176447",
@@ -1246,7 +1281,9 @@
    "duration": "4:07",
    "org_title_no": "211180005",
    "org_timestamp": "1793292790",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176399",
@@ -1268,7 +1305,9 @@
    "duration": "2:16",
    "org_title_no": "211180005",
    "org_timestamp": "1793292734",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176381",
@@ -1290,7 +1329,9 @@
    "duration": "3:51",
    "org_title_no": "211180005",
    "org_timestamp": "1793292718",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176129",
@@ -1312,7 +1353,9 @@
    "duration": "1:00",
    "org_title_no": "211180005",
    "org_timestamp": "1793292522",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176087",
@@ -1334,7 +1377,9 @@
    "duration": "3:38",
    "org_title_no": "211180005",
    "org_timestamp": "1793292491",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176069",
@@ -1356,7 +1401,9 @@
    "duration": "3:37",
    "org_title_no": "211180005",
    "org_timestamp": "1793292472",
-   "broad_no": "298204497"
+   "broad_no": "298204497",
+   "broad_title": "[머독] 오랜만에 머이봤",
+   "unedited": false
   },
   {
    "id": "211176063",
@@ -1492,7 +1539,9 @@
    "duration": "0:18",
    "org_title_no": "211189391",
    "org_timestamp": "1793286551",
-   "broad_no": "298204373"
+   "broad_no": "298204373",
+   "broad_title": "타요 오늘도 날먹합니다 화양 미스테리 w 타요스타포스",
+   "unedited": false
   },
   {
    "id": "211162353",
@@ -1647,7 +1696,9 @@
    "duration": "0:37",
    "org_title_no": "211191653",
    "org_timestamp": "1793245683",
-   "broad_no": "298191605"
+   "broad_no": "298191605",
+   "broad_title": "jup)시골 여행 1박2일 기상 미션",
+   "unedited": false
   },
   {
    "id": "211113681",
@@ -1669,7 +1720,9 @@
    "duration": "0:43",
    "org_title_no": "211191653",
    "org_timestamp": "1793245408",
-   "broad_no": "298191605"
+   "broad_no": "298191605",
+   "broad_title": "jup)시골 여행 1박2일 기상 미션",
+   "unedited": false
   },
   {
    "id": "211113605",
@@ -1710,7 +1763,8 @@
    "duration": "1:00",
    "org_title_no": "",
    "org_timestamp": "1793245044",
-   "broad_no": "0"
+   "broad_no": "0",
+   "unedited": false
   },
   {
    "id": "211098209",
