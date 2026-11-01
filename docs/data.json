@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02 06:50",
+ "updated_at": "2026-11-02 07:00",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-02 06:00:37"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-02 06:16:52",
+   "newest": "2026-11-02 06:56:17",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 06:00:37"
   }
@@ -113,7 +113,7 @@
    "streamer_nick": "해요",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21649653_1_r",
    "date": "2026-11-01 22:43:16",
-   "views": "53",
+   "views": "54",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211466177",
    "keywords": [
@@ -503,7 +503,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "484",
+   "views": "487",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
@@ -581,7 +581,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/819/70bddc3d-63d4-4ecd-af0d-54fe1d94536c/21633819_r.jpg",
    "date": "2026-11-01 04:18:30",
-   "views": "966",
+   "views": "970",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211388723",
    "keywords": [
