@@ -9,6 +9,7 @@ on:
       - config.yml
       - scripts/fetch.py
       - scripts/icons.py
+      - scripts/posts.py
 
 permissions:
   contents: write
@@ -19,6 +20,8 @@ concurrency:
 
 jobs:
   update:
+    # 작업용 브랜치에 올린 수정으로는 돌지 않게 한다. (디스코드 알림이 두 번 가는 것을 막음)
+    if: github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,11 +34,18 @@ jobs:
       - run: python scripts/fetch.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      - name: 게시글 확인
+        # 게시글 쪽이 실패해도 클립 목록은 저장되게 한다.
+        continue-on-error: true
+        run: python scripts/posts.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       - name: 변경 사항 저장
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data.json docs/icons
+          if [ -f docs/posts.json ]; then git add docs/posts.json; fi
           if git diff --cached --quiet; then
             echo "변경 없음"
           else
