@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-03 03:40",
+ "updated_at": "2026-11-03 03:50",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 01:11:48",
+   "newest": "2026-11-03 03:43:22",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 03:00:37"
   },
@@ -118,6 +118,30 @@
   "298310015": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까"
  },
  "items": [
+  {
+   "id": "211589229",
+   "type": "CLIP",
+   "title": "[클립]클로이 : 야 눈눈아 누가 영식이한테 도끼주래 / 채팅 : 여기도 왁타 뿌락치?",
+   "streamer_id": "wjdals3960",
+   "streamer_nick": "델농",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
+   "date": "2026-11-03 03:43:22",
+   "views": "6",
+   "duration": "1:40",
+   "url": "https://vod.afreecatv.com/player/211589229",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "vf3366"
+   ],
+   "origin_nick": "클로이",
+   "org_title_no": "",
+   "org_timestamp": "1793645002",
+   "broad_no": "298144445",
+   "b_title": "[클립]클로이 : 야 눈눈아 누가 영식이한테 도끼주래 / 채팅 : 여기도 왁타 뿌락치?",
+   "title_history": []
+  },
   {
    "id": "211578837",
    "type": "CLIP",
@@ -386,7 +410,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
    "date": "2026-11-02 13:42:12",
-   "views": "309",
+   "views": "310",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211513891",
    "keywords": [
