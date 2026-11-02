@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-03 01:10",
+ "updated_at": "2026-11-03 01:20",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 01:06:36",
+   "newest": "2026-11-03 01:11:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 00:00:42"
   },
@@ -119,6 +119,32 @@
  },
  "items": [
   {
+   "id": "211578837",
+   "type": "CLIP",
+   "title": "[클립]와포 챙겨준다는거 믿는 양도끼 보고 지난 시즌이 생각난 리냐 / 우왁굳 반응",
+   "streamer_id": "qusrleh1234",
+   "streamer_nick": "도미니엘",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261103_151_656cd400-53fd-46aa-9fde-ce857f81752e_44337151_r&column=2&t=1793636095",
+   "date": "2026-11-03 01:11:48",
+   "views": "6",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/211578837",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1793635908",
+   "broad_no": "298310015",
+   "b_title": "[클립]와포 챙겨준다는거 믿는 양도끼 보고 지난 시즌이 생각난 리냐 / 우왁굳 반응",
+   "title_history": [],
+   "broad_title": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까",
+   "unedited": false
+  },
+  {
    "id": "211578297",
    "type": "CLIP",
    "title": "[클립]와포 챙겨준다는거 믿는 도끼님 보고 지난 시즌 생각나서 예언한 리냐님 보는 왁굳형 ㅋㅋㅋㅋㅋㅋㅋ",
@@ -126,7 +152,7 @@
    "streamer_nick": "Chan_찬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/995/d6600b9d-e1fa-476b-b6fa-102b15493e5a/44336995_r.jpg",
    "date": "2026-11-03 01:06:36",
-   "views": "7",
+   "views": "16",
    "duration": "1:14",
    "url": "https://vod.afreecatv.com/player/211578297",
    "keywords": [
@@ -152,7 +178,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/173/40ddf8c3-7180-42c1-9dca-b15ee43dc364/44333173_r.jpg",
    "date": "2026-11-02 23:09:30",
-   "views": "20",
+   "views": "21",
    "duration": "1:17",
    "url": "https://vod.afreecatv.com/player/211564881",
    "keywords": [
@@ -204,7 +230,7 @@
    "streamer_nick": "SBO월드컵",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21660795_1_r",
    "date": "2026-11-02 17:49:28",
-   "views": "11",
+   "views": "13",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/211528913",
    "keywords": [
@@ -256,7 +282,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658453_1_r",
    "date": "2026-11-02 14:47:45",
-   "views": "52",
+   "views": "53",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211517105",
    "keywords": [
@@ -308,7 +334,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658355_1_r",
    "date": "2026-11-02 14:35:10",
-   "views": "28",
+   "views": "29",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211516523",
    "keywords": [
@@ -360,7 +386,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
    "date": "2026-11-02 13:42:12",
-   "views": "296",
+   "views": "297",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211513891",
    "keywords": [
