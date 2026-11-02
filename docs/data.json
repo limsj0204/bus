@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 08:10",
+ "updated_at": "2026-11-03 08:20",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-03 06:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-03 08:00:31",
+   "newest": "2026-11-03 08:10:18",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 06:00:40"
   }
@@ -120,6 +120,32 @@
  },
  "items": [
   {
+   "id": "211597731",
+   "type": "CATCH",
+   "title": "[캐치]민결희시점타요(민결타요도끼릴파비챤)",
+   "streamer_id": "hapi356",
+   "streamer_nick": "해피356",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21673945_1_r",
+   "date": "2026-11-03 08:10:18",
+   "views": "2",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/211597731",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "211495017",
+   "org_timestamp": "1793661018",
+   "broad_no": "298273147",
+   "b_title": "[캐치]민결희시점타요(민결타요도끼릴파비챤)",
+   "title_history": [],
+   "broad_title": "10시 타요 릴파 양도끼 비찬 결희 인보키어합방",
+   "unedited": false
+  },
+  {
    "id": "211597467",
    "type": "CATCH",
    "title": "[캐치]인보키어 합방(민결도끼타요릴파비챤)-설인",
@@ -153,7 +179,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "102",
+   "views": "106",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -179,7 +205,7 @@
    "streamer_nick": "도미니엘",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261103_151_656cd400-53fd-46aa-9fde-ce857f81752e_44337151_r&column=2&t=1793636095",
    "date": "2026-11-03 01:11:48",
-   "views": "75",
+   "views": "77",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211578837",
    "keywords": [
@@ -257,7 +283,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261102_533_ced35896-276c-48ce-888e-8c1530c4b83b_44322533_r&column=2&t=1793612417",
    "date": "2026-11-02 18:30:06",
-   "views": "96",
+   "views": "97",
    "duration": "2:05",
    "url": "https://vod.afreecatv.com/player/211532555",
    "keywords": [
@@ -283,7 +309,7 @@
    "streamer_nick": "SBO월드컵",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21660795_1_r",
    "date": "2026-11-02 17:49:28",
-   "views": "31",
+   "views": "33",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/211528913",
    "keywords": [
@@ -309,7 +335,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/945/7b3254f8-69ab-4225-9700-1635f20bc74f/44319945_r.jpg",
    "date": "2026-11-02 16:16:05",
-   "views": "161",
+   "views": "162",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/211522559",
    "keywords": [
