@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-02 23:00",
+ "updated_at": "2026-11-02 23:10",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-02 18:30:06",
+   "newest": "2026-11-02 23:09:30",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 21:00:37"
   },
@@ -113,9 +113,36 @@
   "298292179": "흐르미야~~~",
   "298294229": "드래곤볼 카카로트 : 피콜로의 뿌리를 찾아서 나메크성으로 ...",
   "298055395": "7시) SBO 결승전까진 끝난게 아니다!! 리그전 2일차 (w.정재찬 캐스터)",
-  "298294723": "와포 생각정리... / 할로윈 방셀 오늘까지 [이브닛]"
+  "298294723": "와포 생각정리... / 할로윈 방셀 오늘까지 [이브닛]",
+  "298298545": "[머독] 공포의 산후조리원..."
  },
  "items": [
+  {
+   "id": "211564881",
+   "type": "CLIP",
+   "title": "[클립]양도끼 커머스에서 링티 엄청나게 산 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261102/173/40ddf8c3-7180-42c1-9dca-b15ee43dc364/44333173_r.jpg",
+   "date": "2026-11-02 23:09:30",
+   "views": "0",
+   "duration": "1:17",
+   "url": "https://vod.afreecatv.com/player/211564881",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793628570",
+   "broad_no": "298298545",
+   "b_title": "[클립]양도끼 커머스에서 링티 엄청나게 산 머독",
+   "title_history": [],
+   "broad_title": "[머독] 공포의 산후조리원...",
+   "unedited": false
+  },
   {
    "id": "211532555",
    "type": "CLIP",
@@ -176,7 +203,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/945/7b3254f8-69ab-4225-9700-1635f20bc74f/44319945_r.jpg",
    "date": "2026-11-02 16:16:05",
-   "views": "131",
+   "views": "134",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/211522559",
    "keywords": [
@@ -228,7 +255,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "34",
+   "views": "35",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
@@ -254,7 +281,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658355_1_r",
    "date": "2026-11-02 14:35:10",
-   "views": "17",
+   "views": "19",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211516523",
    "keywords": [
@@ -306,7 +333,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
    "date": "2026-11-02 13:42:12",
-   "views": "263",
+   "views": "265",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211513891",
    "keywords": [
