@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-02 16:10",
+ "updated_at": "2026-11-02 16:20",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-02 13:48:46",
+   "newest": "2026-11-02 16:16:05",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 15:00:37"
   },
@@ -110,9 +110,36 @@
   "298051731": "SBO 와우 포에버즈 VS 타요 스타포스 리그 두번째 날",
   "298051197": "[버블란] SBO 2일차 안타 치자 다시바!",
   "298052069": "[10/23] SBO 와포즈 VS 타요 스타포스",
-  "298292179": "흐르미야~~~"
+  "298292179": "흐르미야~~~",
+  "298294229": "드래곤볼 카카로트 : 피콜로의 뿌리를 찾아서 나메크성으로 ..."
  },
  "items": [
+  {
+   "id": "211522559",
+   "type": "CLIP",
+   "title": "[클립][제갈금자 반응]뼈금자 신의상 보는 민결희x양도끼",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261102/945/7b3254f8-69ab-4225-9700-1635f20bc74f/44319945_r.jpg",
+   "date": "2026-11-02 16:16:05",
+   "views": "3",
+   "duration": "2:55",
+   "url": "https://vod.afreecatv.com/player/211522559",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "dlsn9911"
+   ],
+   "origin_nick": "제갈금자",
+   "org_title_no": "",
+   "org_timestamp": "1793603765",
+   "broad_no": "298294229",
+   "b_title": "[클립][제갈금자 반응]뼈금자 신의상 보는 민결희x양도끼",
+   "title_history": [],
+   "broad_title": "드래곤볼 카카로트 : 피콜로의 뿌리를 찾아서 나메크성으로 ...",
+   "unedited": false
+  },
   {
    "id": "211517105",
    "type": "CATCH",
@@ -121,7 +148,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658453_1_r",
    "date": "2026-11-02 14:47:45",
-   "views": "5",
+   "views": "6",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211517105",
    "keywords": [
@@ -199,7 +226,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/187/10d9bc97-25a8-4d52-8f00-f3493a36f2a2/44318187_r.jpg",
    "date": "2026-11-02 13:48:46",
-   "views": "50",
+   "views": "52",
    "duration": "1:24",
    "url": "https://vod.afreecatv.com/player/211514207",
    "keywords": [
@@ -251,7 +278,7 @@
    "streamer_nick": "해요",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21649653_1_r",
    "date": "2026-11-01 22:43:16",
-   "views": "119",
+   "views": "121",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211466177",
    "keywords": [
