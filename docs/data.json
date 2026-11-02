@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-03 08:20",
+ "updated_at": "2026-11-03 08:30",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 03:43:22",
+   "newest": "2026-11-03 08:30:13",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 06:00:40"
   },
@@ -116,9 +116,36 @@
   "298294723": "와포 생각정리... / 할로윈 방셀 오늘까지 [이브닛]",
   "298298545": "[머독] 공포의 산후조리원...",
   "298310015": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까",
-  "298144445": "로이세끼 시즌2 오늘은 탈출각 만들어놓기"
+  "298144445": "로이세끼 시즌2 오늘은 탈출각 만들어놓기",
+  "298298063": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께"
  },
  "items": [
+  {
+   "id": "211598239",
+   "type": "CLIP",
+   "title": "[클립][민결희] 결희 asmr 듣는 양도끼 / 민결희 반응",
+   "streamer_id": "wkdwn427",
+   "streamer_nick": "주장._.",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_44341301_1_r",
+   "date": "2026-11-03 08:30:13",
+   "views": "0",
+   "duration": "1:33",
+   "url": "https://vod.afreecatv.com/player/211598239",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "211590931",
+   "org_timestamp": "1793662213",
+   "broad_no": "298298063",
+   "b_title": "[클립][민결희] 결희 asmr 듣는 양도끼 / 민결희 반응",
+   "title_history": [],
+   "broad_title": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께",
+   "unedited": false
+  },
   {
    "id": "211597731",
    "type": "CATCH",
@@ -179,7 +206,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "106",
+   "views": "110",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -205,7 +232,7 @@
    "streamer_nick": "도미니엘",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261103_151_656cd400-53fd-46aa-9fde-ce857f81752e_44337151_r&column=2&t=1793636095",
    "date": "2026-11-03 01:11:48",
-   "views": "77",
+   "views": "79",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211578837",
    "keywords": [
@@ -257,7 +284,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/173/40ddf8c3-7180-42c1-9dca-b15ee43dc364/44333173_r.jpg",
    "date": "2026-11-02 23:09:30",
-   "views": "36",
+   "views": "37",
    "duration": "1:17",
    "url": "https://vod.afreecatv.com/player/211564881",
    "keywords": [
@@ -309,7 +336,7 @@
    "streamer_nick": "SBO월드컵",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21660795_1_r",
    "date": "2026-11-02 17:49:28",
-   "views": "33",
+   "views": "35",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/211528913",
    "keywords": [
@@ -361,7 +388,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658453_1_r",
    "date": "2026-11-02 14:47:45",
-   "views": "83",
+   "views": "85",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211517105",
    "keywords": [
@@ -413,7 +440,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658355_1_r",
    "date": "2026-11-02 14:35:10",
-   "views": "55",
+   "views": "56",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211516523",
    "keywords": [
