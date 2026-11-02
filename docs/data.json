@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02 08:57",
+ "updated_at": "2026-11-02 09:01",
  "keywords": [
   "도끼"
  ],
@@ -7,12 +7,12 @@
   "도끼|CLIP": {
    "newest": "2026-11-02 07:46:41",
    "backfill_days": 7,
-   "last_rescan": "2026-11-02 06:00:37"
+   "last_rescan": "2026-11-02 09:00:37"
   },
   "도끼|CATCH": {
    "newest": "2026-11-02 08:47:50",
    "backfill_days": 7,
-   "last_rescan": "2026-11-02 06:00:37"
+   "last_rescan": "2026-11-02 09:00:37"
   }
  },
  "broad_titles": {
@@ -102,7 +102,14 @@
   "298099955": "절망전 [단즈vs코렛트] + 밀린 이봤 싹싹김치",
   "298098567": "촉각슈트 / 만만하니 공개 / 분좋카",
   "298274513": "타요 10시 인보키어(쥬만지게임) 합방 릴파 비챤 양도끼 민결희",
-  "298273147": "10시 타요 릴파 양도끼 비찬 결희 인보키어합방"
+  "298273147": "10시 타요 릴파 양도끼 비찬 결희 인보키어합방",
+  "298081907": "SBO 와우포에버즈 vs 디아블로스",
+  "298076393": "나 없는동안 세상엔 무슨 일이 [이브닛]",
+  "298057867": "[와우 포에버즈] 타요 스타포스 이겨주마!!!!!!!!!!!!!!!!",
+  "298053127": "내일은 간다",
+  "298051731": "SBO 와우 포에버즈 VS 타요 스타포스 리그 두번째 날",
+  "298051197": "[버블란] SBO 2일차 안타 치자 다시바!",
+  "298052069": "[10/23] SBO 와포즈 VS 타요 스타포스"
  },
  "items": [
   {
@@ -165,7 +172,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/757/dfd652da-3700-406e-be91-b2b34c27e502/44298757_r.jpg",
    "date": "2026-11-01 19:26:02",
-   "views": "36",
+   "views": "42",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211441737",
    "keywords": [
@@ -191,7 +198,7 @@
    "streamer_nick": "땀맥스",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44298623_1_r",
    "date": "2026-11-01 19:23:20",
-   "views": "17",
+   "views": "19",
    "duration": "3:16",
    "url": "https://vod.afreecatv.com/player/211441371",
    "keywords": [
@@ -217,7 +224,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/565/5f921b2c-36b9-4ee5-91b7-a0c8445206cd/44298565_r.jpg",
    "date": "2026-11-01 19:21:27",
-   "views": "27",
+   "views": "30",
    "duration": "4:42",
    "url": "https://vod.afreecatv.com/player/211441177",
    "keywords": [
@@ -243,7 +250,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/477/92274ffe-a5cc-4a2a-ab90-878e6bc30992/44298477_r.jpg",
    "date": "2026-11-01 19:19:16",
-   "views": "35",
+   "views": "39",
    "duration": "4:33",
    "url": "https://vod.afreecatv.com/player/211440931",
    "keywords": [
@@ -269,7 +276,7 @@
    "streamer_nick": "땀맥스",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44298427_1_r",
    "date": "2026-11-01 19:17:51",
-   "views": "51",
+   "views": "56",
    "duration": "4:35",
    "url": "https://vod.afreecatv.com/player/211440757",
    "keywords": [
@@ -321,7 +328,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/511/d21c409f-c822-478f-acc0-6aed42a65101/44296511_r.jpg",
    "date": "2026-11-01 18:18:21",
-   "views": "132",
+   "views": "141",
    "duration": "1:51",
    "url": "https://vod.afreecatv.com/player/211434193",
    "keywords": [
@@ -347,7 +354,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_097_62cb5fa1-5a6e-4f57-b3a0-8c9ccbdbabbb_44293097_r&column=2&t=1793516064",
    "date": "2026-11-01 15:53:31",
-   "views": "33",
+   "views": "36",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/211420801",
    "keywords": [
@@ -373,7 +380,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_083_e8e2f2dc-948c-402b-9250-97b14505cc2e_44293083_r&column=2&t=1793516052",
    "date": "2026-11-01 15:52:38",
-   "views": "62",
+   "views": "66",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211420733",
    "keywords": [
@@ -399,7 +406,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_057_dc58aca0-7030-4f22-b3f1-6bd9c287a422_44293057_r&column=2&t=1793516036",
    "date": "2026-11-01 15:51:33",
-   "views": "69",
+   "views": "74",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211420661",
    "keywords": [
@@ -425,7 +432,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/919/0f713d57-4691-488d-96f3-6a9dfe7a868f/44292919_r.jpg",
    "date": "2026-11-01 15:42:43",
-   "views": "65",
+   "views": "68",
    "duration": "3:35",
    "url": "https://vod.afreecatv.com/player/211420057",
    "keywords": [
@@ -477,7 +484,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261101_865_143627a3-44e8-4a57-b818-6bbfad4a1ed2_44291865_r&column=2&t=1793511282",
    "date": "2026-11-01 14:29:30",
-   "views": "43",
+   "views": "44",
    "duration": "4:01",
    "url": "https://vod.afreecatv.com/player/211415241",
    "keywords": [
@@ -503,7 +510,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "535",
+   "views": "537",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
@@ -529,7 +536,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261101/821/6a389b4b-b7d4-4024-ac0c-4b95c83b7592/44291821_r.jpg",
    "date": "2026-11-01 14:25:30",
-   "views": "487",
+   "views": "497",
    "duration": "4:06",
    "url": "https://vod.afreecatv.com/player/211415021",
    "keywords": [
@@ -555,7 +562,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44291193_1_r",
    "date": "2026-11-01 13:39:32",
-   "views": "246",
+   "views": "254",
    "duration": "0:58",
    "url": "https://vod.afreecatv.com/player/211412193",
    "keywords": [
@@ -607,7 +614,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261101_44282781_1_r",
    "date": "2026-11-01 02:09:08",
-   "views": "188",
+   "views": "190",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/211378435",
    "keywords": [
@@ -659,7 +666,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/661/1abdd9f4-4772-4545-b926-5703928f6a20/21620661_r.jpg",
    "date": "2026-10-31 20:03:40",
-   "views": "458",
+   "views": "464",
    "duration": "0:19",
    "url": "https://vod.afreecatv.com/player/211329915",
    "keywords": [
@@ -737,7 +744,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/325/fe7b0ede-3bfb-4f00-b6ba-d72228f42661/44262325_r.jpg",
    "date": "2026-10-31 18:14:59",
-   "views": "150",
+   "views": "153",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211318275",
    "keywords": [
@@ -789,7 +796,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261031/225/fd677dc3-8f03-4b1b-b2bc-c25f8a246284/44258225_r.jpg",
    "date": "2026-10-31 15:37:56",
-   "views": "188",
+   "views": "189",
    "duration": "2:01",
    "url": "https://vod.afreecatv.com/player/211304605",
    "keywords": [
@@ -892,7 +899,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261031_44250919_1_r",
    "date": "2026-10-31 03:53:17",
-   "views": "381",
+   "views": "382",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/211273891",
    "keywords": [
@@ -996,7 +1003,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1030/20/thumb/1793360530689587_R_7.jpg",
    "date": "2026-10-30 20:36:34",
-   "views": "1442",
+   "views": "1444",
    "url": "https://vod.afreecatv.com/player/211230319",
    "keywords": [
     "도끼"
@@ -1022,7 +1029,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/765/d0d5ef03-18e5-49c8-bbeb-13e975360cef/44238765_r.jpg",
    "date": "2026-10-30 20:36:25",
-   "views": "84",
+   "views": "85",
    "url": "https://vod.afreecatv.com/player/211230309",
    "keywords": [
     "도끼"
@@ -1048,7 +1055,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/693/f4da3a41-d3fc-4f09-95fa-fe6a6104e165/44238693_r.jpg",
    "date": "2026-10-30 20:34:09",
-   "views": "58",
+   "views": "59",
    "url": "https://vod.afreecatv.com/player/211230085",
    "keywords": [
     "도끼"
@@ -1126,7 +1133,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/875/38187d8e-5954-43ac-b63a-46e93e99a79c/21597875_r.jpg",
    "date": "2026-10-30 18:27:57",
-   "views": "1295",
+   "views": "1296",
    "url": "https://vod.afreecatv.com/player/211218813",
    "keywords": [
     "도끼"
@@ -1152,7 +1159,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261030/069/fab873c6-4116-4240-8923-2cf38fe5ba30/44232069_r.jpg",
    "date": "2026-10-30 15:29:32",
-   "views": "106",
+   "views": "107",
    "url": "https://vod.afreecatv.com/player/211206461",
    "keywords": [
     "도끼"
@@ -1906,7 +1913,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261029_44211247_1_r",
    "date": "2026-10-29 16:52:38",
-   "views": "753",
+   "views": "754",
    "duration": "2:50",
    "url": "https://vod.afreecatv.com/player/211125909",
    "keywords": [
@@ -2243,7 +2250,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261027_21553761_1_r",
    "date": "2026-10-27 22:34:49",
-   "views": "617",
+   "views": "618",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/210982335",
    "keywords": [
@@ -2269,7 +2276,7 @@
    "streamer_nick": "페데리쿵",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261027/079/314c0bf0-878b-43a2-9cbf-71d129389693/44173079_r.jpg",
    "date": "2026-10-27 21:16:56",
-   "views": "400",
+   "views": "401",
    "duration": "4:32",
    "url": "https://vod.afreecatv.com/player/210974237",
    "keywords": [
@@ -2399,7 +2406,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261027/497/497e394b-6543-4fda-a622-c2d728618762/44170497_r.jpg",
    "date": "2026-10-27 20:02:33",
-   "views": "147",
+   "views": "148",
    "duration": "1:44",
    "url": "https://vod.afreecatv.com/player/210966763",
    "keywords": [
@@ -2633,7 +2640,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261027/095/ef611e1d-7c06-481a-a012-36e7f0ec0c53/44165095_r.jpg",
    "date": "2026-10-27 15:02:47",
-   "views": "280",
+   "views": "281",
    "duration": "4:56",
    "url": "https://vod.afreecatv.com/player/210945895",
    "keywords": [
@@ -2659,7 +2666,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261027/027/cd1d48e3-75f9-4e17-8120-ffcfbc39d5dd/44165027_r.jpg",
    "date": "2026-10-27 14:57:30",
-   "views": "51",
+   "views": "52",
    "duration": "3:44",
    "url": "https://vod.afreecatv.com/player/210945623",
    "keywords": [
@@ -3075,7 +3082,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261026/029/3662da5c-b265-497c-84d5-ae533ce02cb0/44150029_r.jpg",
    "date": "2026-10-26 20:23:40",
-   "views": "146",
+   "views": "147",
    "duration": "1:07",
    "url": "https://vod.afreecatv.com/player/210884687",
    "keywords": [
@@ -4037,7 +4044,7 @@
    "streamer_nick": "척화비",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261026/341/d541028f-14e6-415b-b042-9ff757530599/44133341_r.jpg",
    "date": "2026-10-26 00:37:25",
-   "views": "346",
+   "views": "347",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/210821695",
    "keywords": [
@@ -4219,7 +4226,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261025/365/2bd5106d-c419-4904-99b6-f3ef55a8a5e2/44131365_r.jpg",
    "date": "2026-10-25 23:51:55",
-   "views": "4947",
+   "views": "4948",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/210815813",
    "keywords": [
@@ -4557,7 +4564,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261025/143/5cc9d326-4e34-4a0c-a153-98cbb4d34e81/21519143_r.jpg",
    "date": "2026-10-25 22:49:07",
-   "views": "586",
+   "views": "591",
    "duration": "0:29",
    "url": "https://vod.afreecatv.com/player/210807501",
    "keywords": [
@@ -4583,7 +4590,7 @@
    "streamer_nick": "도감",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261025/431/b8106475-61c9-43d6-8e40-562b7be03df6/21518431_r.jpg",
    "date": "2026-10-25 22:28:07",
-   "views": "212",
+   "views": "226",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/210804923",
    "keywords": [
@@ -4895,7 +4902,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261025/567/af33aef1-d464-4070-af7f-07ae7276c77b/21514567_r.jpg",
    "date": "2026-10-25 20:02:21",
-   "views": "365",
+   "views": "368",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/210789211",
    "keywords": [
@@ -4947,7 +4954,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261025/557/de2cd77e-3d15-4d8f-86ff-3faef652ecb6/21514557_r.jpg",
    "date": "2026-10-25 20:02:03",
-   "views": "187",
+   "views": "189",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/210789181",
    "keywords": [
@@ -4963,6 +4970,136 @@
    "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
    "title_history": [],
    "broad_title": "[디아블로스] SBO 폐막식의 날, 굿바이 SBO!!!!!!!",
+   "unedited": false
+  },
+  {
+   "id": "210789153",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/549/cf8b8988-0ec7-4020-a5d5-72510afe5d9c/21514549_r.jpg",
+   "date": "2026-10-25 20:01:52",
+   "views": "214",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789153",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "moolchoco"
+   ],
+   "origin_nick": "물초코",
+   "org_title_no": "210831355",
+   "org_timestamp": "1792926112",
+   "broad_no": "298105833",
+   "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "title_history": [],
+   "broad_title": "SBO 결승전(타요 스타포스 VS 와우포에버즈) 관전, 폐막식",
+   "unedited": false
+  },
+  {
+   "id": "210789131",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/543/5914f70e-650f-4420-8820-6cba6c74972c/21514543_r.jpg",
+   "date": "2026-10-25 20:01:43",
+   "views": "151",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789131",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "byunja"
+   ],
+   "origin_nick": "심양홍",
+   "org_title_no": "210823957",
+   "org_timestamp": "1792926103",
+   "broad_no": "298104425",
+   "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "title_history": [],
+   "broad_title": "SBO) 7시결승 타요스타포스vs와우포레버즈 결승 같이보기(디아블로스)",
+   "unedited": false
+  },
+  {
+   "id": "210789117",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/537/3bf103ff-902a-48d7-a7da-a064f1c46dd3/21514537_r.jpg",
+   "date": "2026-10-25 20:01:31",
+   "views": "605",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789117",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hobal115end"
+   ],
+   "origin_nick": "호발",
+   "org_title_no": "210827669",
+   "org_timestamp": "1792926091",
+   "broad_no": "298106721",
+   "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "title_history": [],
+   "broad_title": "SBO 결승전 같이보기 + 폐막식 + 디아블로스의 마지막",
+   "unedited": false
+  },
+  {
+   "id": "210789109",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/535/83f3af2c-6b04-4cd2-aa22-05911fbb639f/21514535_r.jpg",
+   "date": "2026-10-25 20:01:26",
+   "views": "488",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/210789109",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "210833413",
+   "org_timestamp": "1792926086",
+   "broad_no": "298107591",
+   "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "title_history": [],
+   "broad_title": "히히!💙SBO참가 후기!",
+   "unedited": false
+  },
+  {
+   "id": "210789075",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/523/4ee22e17-4efc-4e2b-965f-38eaec828526/21514523_r.jpg",
+   "date": "2026-10-25 20:01:14",
+   "views": "270",
+   "duration": "0:58",
+   "url": "https://vod.afreecatv.com/player/210789075",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "210821575",
+   "org_timestamp": "1792926074",
+   "broad_no": "298106587",
+   "b_title": "[캐치][SBO 결승전] 경기에 던진 공보다 연습에서 던진 공이 많다는 찰리씨 / 머독 : 다른 팀 2선발, 3선발 투수 계속 누워서 자고있더라고, 양도끼님",
+   "title_history": [],
+   "broad_title": "[머독] SBO 디아블로스 저희 팀 컨디션 200% 입니다",
    "unedited": false
   },
   {
@@ -5013,6 +5150,58 @@
    "org_timestamp": "1792923100",
    "broad_no": "298106587",
    "b_title": "[클립][SBO 본선 4일차] 노노햇비하는 머독 / 머독 : 카린야, 유샥크 님이 타요 스타포스에 있고, 양도끼 님이 와우 포에버즈에 있고",
+   "title_history": [],
+   "broad_title": "[머독] SBO 디아블로스 저희 팀 컨디션 200% 입니다",
+   "unedited": false
+  },
+  {
+   "id": "210783203",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] 카린야, 유샥크, 양도끼 샤라웃하며 자연스럽게 노노햇비하는 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/127/c0de8b3d-3054-47d8-bad1-80517b472fdd/21513127_r.jpg",
+   "date": "2026-10-25 19:10:37",
+   "views": "326",
+   "duration": "0:31",
+   "url": "https://vod.afreecatv.com/player/210783203",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "210821575",
+   "org_timestamp": "1792923037",
+   "broad_no": "298106587",
+   "b_title": "[캐치][SBO 결승전] 카린야, 유샥크, 양도끼 샤라웃하며 자연스럽게 노노햇비하는 머독",
+   "title_history": [],
+   "broad_title": "[머독] SBO 디아블로스 저희 팀 컨디션 200% 입니다",
+   "unedited": false
+  },
+  {
+   "id": "210781737",
+   "type": "CATCH",
+   "title": "[캐치][SBO 결승전] SBO 사기 사이트를 발견한 머독 / 머독 : 거대별이 왜 있어? 카린야 뽑았는데, 양도끼 여기있어야하는데 왜 봄세이가 여기 있는거지",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261025/721/a952e386-96c2-42c8-b08f-d99c6387ef28/21512721_r.jpg",
+   "date": "2026-10-25 18:57:25",
+   "views": "320",
+   "duration": "0:53",
+   "url": "https://vod.afreecatv.com/player/210781737",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "210821575",
+   "org_timestamp": "1792922245",
+   "broad_no": "298106587",
+   "b_title": "[캐치][SBO 결승전] SBO 사기 사이트를 발견한 머독 / 머독 : 거대별이 왜 있어? 카린야 뽑았는데, 양도끼 여기있어야하는데 왜 봄세이가 여기 있는거지",
    "title_history": [],
    "broad_title": "[머독] SBO 디아블로스 저희 팀 컨디션 200% 입니다",
    "unedited": false
@@ -5257,6 +5446,84 @@
    "origin_nick": "우왁굳"
   },
   {
+   "id": "210760021",
+   "type": "CATCH",
+   "title": "[캐치]와우 포에버즈 양도끼의 미친 독침수거 시점 / 우왁굳 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21507809_1_r",
+   "date": "2026-10-25 14:20:20",
+   "views": "532",
+   "duration": "0:26",
+   "url": "https://vod.afreecatv.com/player/210760021",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "210733209",
+   "org_timestamp": "1792905620",
+   "broad_no": "298081907",
+   "b_title": "[캐치]와우 포에버즈 양도끼의 미친 독침수거 시점 / 우왁굳 반응",
+   "title_history": [],
+   "broad_title": "SBO 와우포에버즈 vs 디아블로스",
+   "unedited": false
+  },
+  {
+   "id": "210754971",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 독침수거 개인시점 - 한결 반응",
+   "streamer_id": "hansonlee",
+   "streamer_nick": "낭닥",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21506731_1_r",
+   "date": "2026-10-25 12:49:31",
+   "views": "785",
+   "duration": "0:36",
+   "url": "https://vod.afreecatv.com/player/210754971",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "210687051",
+   "org_timestamp": "1792900171",
+   "broad_no": "298076393",
+   "b_title": "[캐치]양도끼 독침수거 개인시점 - 한결 반응",
+   "title_history": [],
+   "broad_title": "나 없는동안 세상엔 무슨 일이 [이브닛]",
+   "unedited": false
+  },
+  {
+   "id": "210753451",
+   "type": "CATCH",
+   "title": "[캐치]대문자 T로 양도끼 피드백 하는 우왁굳 - 한결 반응",
+   "streamer_id": "hansonlee",
+   "streamer_nick": "낭닥",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21506431_1_r",
+   "date": "2026-10-25 12:12:52",
+   "views": "1410",
+   "duration": "0:53",
+   "url": "https://vod.afreecatv.com/player/210753451",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "210687051",
+   "org_timestamp": "1792897972",
+   "broad_no": "298076393",
+   "b_title": "[캐치]대문자 T로 양도끼 피드백 하는 우왁굳 - 한결 반응",
+   "title_history": [],
+   "broad_title": "나 없는동안 세상엔 무슨 일이 [이브닛]",
+   "unedited": false
+  },
+  {
    "id": "210752255",
    "type": "CLIP",
    "title": "[클립]양도끼에게 나쁜손 하는 힌콕) 한결: 와 슬요언니 허벅지가...",
@@ -5397,7 +5664,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503885_1_r",
    "date": "2026-10-25 03:25:00",
-   "views": "219",
+   "views": "234",
    "duration": "0:18",
    "url": "https://vod.afreecatv.com/player/210736707",
    "keywords": [
@@ -5406,7 +5673,14 @@
    "origin_ids": [
     "cocomizzang"
    ],
-   "origin_nick": "코코미짱"
+   "origin_nick": "코코미짱",
+   "org_title_no": "210642055",
+   "org_timestamp": "1792866300",
+   "broad_no": "298057867",
+   "b_title": "[캐치]양도끼 독침수거 2 / 코코미 반응",
+   "title_history": [],
+   "broad_title": "[와우 포에버즈] 타요 스타포스 이겨주마!!!!!!!!!!!!!!!!",
+   "unedited": false
   },
   {
    "id": "210736603",
@@ -5416,7 +5690,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503867_1_r",
    "date": "2026-10-25 03:23:32",
-   "views": "1000",
+   "views": "1007",
    "duration": "0:23",
    "url": "https://vod.afreecatv.com/player/210736603",
    "keywords": [
@@ -5425,7 +5699,14 @@
    "origin_ids": [
     "cocomizzang"
    ],
-   "origin_nick": "코코미짱"
+   "origin_nick": "코코미짱",
+   "org_title_no": "210642055",
+   "org_timestamp": "1792866212",
+   "broad_no": "298057867",
+   "b_title": "[캐치]양도끼 독침수거 / 코코미 반응",
+   "title_history": [],
+   "broad_title": "[와우 포에버즈] 타요 스타포스 이겨주마!!!!!!!!!!!!!!!!",
+   "unedited": false
   },
   {
    "id": "210736571",
@@ -5454,7 +5735,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503855_1_r",
    "date": "2026-10-25 03:20:55",
-   "views": "357",
+   "views": "383",
    "duration": "0:15",
    "url": "https://vod.afreecatv.com/player/210736459",
    "keywords": [
@@ -5463,7 +5744,14 @@
    "origin_ids": [
     "madaomm"
    ],
-   "origin_nick": "마다옴_"
+   "origin_nick": "마다옴_",
+   "org_title_no": "210642447",
+   "org_timestamp": "1792866055",
+   "broad_no": "298053127",
+   "b_title": "[캐치]양도끼 독침수거 2 / 마다옴 반응",
+   "title_history": [],
+   "broad_title": "내일은 간다",
+   "unedited": false
   },
   {
    "id": "210736377",
@@ -5473,7 +5761,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503839_1_r",
    "date": "2026-10-25 03:19:43",
-   "views": "603",
+   "views": "613",
    "duration": "0:23",
    "url": "https://vod.afreecatv.com/player/210736377",
    "keywords": [
@@ -5482,7 +5770,14 @@
    "origin_ids": [
     "madaomm"
    ],
-   "origin_nick": "마다옴_"
+   "origin_nick": "마다옴_",
+   "org_title_no": "210642447",
+   "org_timestamp": "1792865983",
+   "broad_no": "298053127",
+   "b_title": "[캐치]양도끼 독침수거 / 마다옴 반응",
+   "title_history": [],
+   "broad_title": "내일은 간다",
+   "unedited": false
   },
   {
    "id": "210736143",
@@ -5492,7 +5787,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503799_1_r",
    "date": "2026-10-25 03:15:52",
-   "views": "335",
+   "views": "339",
    "duration": "0:16",
    "url": "https://vod.afreecatv.com/player/210736143",
    "keywords": [
@@ -5501,7 +5796,14 @@
    "origin_ids": [
     "hye11u"
    ],
-   "origin_nick": "베베리"
+   "origin_nick": "베베리",
+   "org_title_no": "210629013",
+   "org_timestamp": "1792865752",
+   "broad_no": "298051731",
+   "b_title": "[캐치]양도끼 독침수거 2 / 베베리 반응",
+   "title_history": [],
+   "broad_title": "SBO 와우 포에버즈 VS 타요 스타포스 리그 두번째 날",
+   "unedited": false
   },
   {
    "id": "210736053",
@@ -5511,7 +5813,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503787_1_r",
    "date": "2026-10-25 03:14:28",
-   "views": "440",
+   "views": "445",
    "duration": "0:21",
    "url": "https://vod.afreecatv.com/player/210736053",
    "keywords": [
@@ -5520,7 +5822,14 @@
    "origin_ids": [
     "hye11u"
    ],
-   "origin_nick": "베베리"
+   "origin_nick": "베베리",
+   "org_title_no": "210629013",
+   "org_timestamp": "1792865668",
+   "broad_no": "298051731",
+   "b_title": "[캐치]양도끼 독침수거 / 베베리 반응",
+   "title_history": [],
+   "broad_title": "SBO 와우 포에버즈 VS 타요 스타포스 리그 두번째 날",
+   "unedited": false
   },
   {
    "id": "210735471",
@@ -5530,7 +5839,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503701_1_r",
    "date": "2026-10-25 03:05:12",
-   "views": "544",
+   "views": "552",
    "duration": "0:21",
    "url": "https://vod.afreecatv.com/player/210735471",
    "keywords": [
@@ -5539,7 +5848,14 @@
    "origin_ids": [
     "tdnlamuron"
    ],
-   "origin_nick": "다시바"
+   "origin_nick": "다시바",
+   "org_title_no": "210641975",
+   "org_timestamp": "1792865112",
+   "broad_no": "298051197",
+   "b_title": "[캐치]양도끼 독침수거 2 / 다시바 반응",
+   "title_history": [],
+   "broad_title": "[버블란] SBO 2일차 안타 치자 다시바!",
+   "unedited": false
   },
   {
    "id": "210735403",
@@ -5549,7 +5865,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503691_1_r",
    "date": "2026-10-25 03:03:43",
-   "views": "348",
+   "views": "369",
    "duration": "0:28",
    "url": "https://vod.afreecatv.com/player/210735403",
    "keywords": [
@@ -5558,7 +5874,14 @@
    "origin_ids": [
     "tdnlamuron"
    ],
-   "origin_nick": "다시바"
+   "origin_nick": "다시바",
+   "org_title_no": "210641975",
+   "org_timestamp": "1792865023",
+   "broad_no": "298051197",
+   "b_title": "[캐치]양도끼 독침수거 / 다시바 반응",
+   "title_history": [],
+   "broad_title": "[버블란] SBO 2일차 안타 치자 다시바!",
+   "unedited": false
   },
   {
    "id": "210735239",
@@ -5606,7 +5929,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503623_1_r",
    "date": "2026-10-25 02:57:25",
-   "views": "882",
+   "views": "951",
    "duration": "0:23",
    "url": "https://vod.afreecatv.com/player/210734933",
    "keywords": [
@@ -5615,7 +5938,14 @@
    "origin_ids": [
     "hachi97"
    ],
-   "origin_nick": "하치_HACHI"
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "210642521",
+   "org_timestamp": "1792864645",
+   "broad_no": "298052069",
+   "b_title": "[캐치]양도끼 독침수거 2 / 하치 반응",
+   "title_history": [],
+   "broad_title": "[10/23] SBO 와포즈 VS 타요 스타포스",
+   "unedited": false
   },
   {
    "id": "210734835",
@@ -5625,7 +5955,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261025_21503611_1_r",
    "date": "2026-10-25 02:56:04",
-   "views": "1021",
+   "views": "1087",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/210734835",
    "keywords": [
@@ -5634,7 +5964,14 @@
    "origin_ids": [
     "hachi97"
    ],
-   "origin_nick": "하치_HACHI"
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "210642521",
+   "org_timestamp": "1792864564",
+   "broad_no": "298052069",
+   "b_title": "[캐치]양도끼 독침수거 / 하치 반응",
+   "title_history": [],
+   "broad_title": "[10/23] SBO 와포즈 VS 타요 스타포스",
+   "unedited": false
   },
   {
    "id": "210734715",
