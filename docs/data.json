@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-02 10:50",
+ "updated_at": "2026-11-02 11:00",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-02 09:58:55",
+   "newest": "2026-11-02 10:58:21",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 09:00:37"
   },
@@ -120,7 +120,7 @@
    "streamer_nick": "해요",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21649653_1_r",
    "date": "2026-11-01 22:43:16",
-   "views": "66",
+   "views": "67",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211466177",
    "keywords": [
@@ -510,7 +510,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21638445_1_r",
    "date": "2026-11-01 14:28:43",
-   "views": "636",
+   "views": "641",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/211415197",
    "keywords": [
