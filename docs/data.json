@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 08:00",
+ "updated_at": "2026-11-03 08:10",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-03 06:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-03 01:22:14",
+   "newest": "2026-11-03 08:00:31",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 06:00:40"
   }
@@ -120,6 +120,32 @@
  },
  "items": [
   {
+   "id": "211597467",
+   "type": "CATCH",
+   "title": "[캐치]인보키어 합방(민결도끼타요릴파비챤)-설인",
+   "streamer_id": "hapi356",
+   "streamer_nick": "해피356",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21673915_1_r",
+   "date": "2026-11-03 08:00:31",
+   "views": "0",
+   "duration": "0:40",
+   "url": "https://vod.afreecatv.com/player/211597467",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "211495017",
+   "org_timestamp": "1793660431",
+   "broad_no": "298273147",
+   "b_title": "[캐치]인보키어 합방(민결도끼타요릴파비챤)-설인",
+   "title_history": [],
+   "broad_title": "10시 타요 릴파 양도끼 비찬 결희 인보키어합방",
+   "unedited": false
+  },
+  {
    "id": "211589229",
    "type": "CLIP",
    "title": "[클립]클로이 : 야 눈눈아 누가 영식이한테 도끼주래 / 채팅 : 여기도 왁타 뿌락치?",
@@ -127,7 +153,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "98",
+   "views": "102",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -153,7 +179,7 @@
    "streamer_nick": "도미니엘",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261103_151_656cd400-53fd-46aa-9fde-ce857f81752e_44337151_r&column=2&t=1793636095",
    "date": "2026-11-03 01:11:48",
-   "views": "74",
+   "views": "75",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211578837",
    "keywords": [
@@ -335,7 +361,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "65",
+   "views": "66",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
@@ -361,7 +387,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658355_1_r",
    "date": "2026-11-02 14:35:10",
-   "views": "54",
+   "views": "55",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211516523",
    "keywords": [
