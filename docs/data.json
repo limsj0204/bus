@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-03 01:00",
+ "updated_at": "2026-11-03 01:10",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-02 23:09:30",
+   "newest": "2026-11-03 01:06:36",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 00:00:42"
   },
@@ -114,9 +114,36 @@
   "298294229": "드래곤볼 카카로트 : 피콜로의 뿌리를 찾아서 나메크성으로 ...",
   "298055395": "7시) SBO 결승전까진 끝난게 아니다!! 리그전 2일차 (w.정재찬 캐스터)",
   "298294723": "와포 생각정리... / 할로윈 방셀 오늘까지 [이브닛]",
-  "298298545": "[머독] 공포의 산후조리원..."
+  "298298545": "[머독] 공포의 산후조리원...",
+  "298310015": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까"
  },
  "items": [
+  {
+   "id": "211578297",
+   "type": "CLIP",
+   "title": "[클립]와포 챙겨준다는거 믿는 도끼님 보고 지난 시즌 생각나서 예언한 리냐님 보는 왁굳형 ㅋㅋㅋㅋㅋㅋㅋ",
+   "streamer_id": "hita0930",
+   "streamer_nick": "Chan_찬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261103/995/d6600b9d-e1fa-476b-b6fa-102b15493e5a/44336995_r.jpg",
+   "date": "2026-11-03 01:06:36",
+   "views": "7",
+   "duration": "1:14",
+   "url": "https://vod.afreecatv.com/player/211578297",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1793635596",
+   "broad_no": "298310015",
+   "b_title": "[클립]와포 챙겨준다는거 믿는 도끼님 보고 지난 시즌 생각나서 예언한 리냐님 보는 왁굳형 ㅋㅋㅋㅋㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까",
+   "unedited": false
+  },
   {
    "id": "211564881",
    "type": "CLIP",
@@ -125,7 +152,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/173/40ddf8c3-7180-42c1-9dca-b15ee43dc364/44333173_r.jpg",
    "date": "2026-11-02 23:09:30",
-   "views": "18",
+   "views": "20",
    "duration": "1:17",
    "url": "https://vod.afreecatv.com/player/211564881",
    "keywords": [
@@ -135,7 +162,7 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "org_title_no": "",
+   "org_title_no": "211576373",
    "org_timestamp": "1793628570",
    "broad_no": "298298545",
    "b_title": "[클립]양도끼 커머스에서 링티 엄청나게 산 머독",
@@ -151,7 +178,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261102_533_ced35896-276c-48ce-888e-8c1530c4b83b_44322533_r&column=2&t=1793612417",
    "date": "2026-11-02 18:30:06",
-   "views": "88",
+   "views": "89",
    "duration": "2:05",
    "url": "https://vod.afreecatv.com/player/211532555",
    "keywords": [
@@ -229,7 +256,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658453_1_r",
    "date": "2026-11-02 14:47:45",
-   "views": "51",
+   "views": "52",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211517105",
    "keywords": [
@@ -255,7 +282,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "51",
+   "views": "52",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
@@ -307,7 +334,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/187/10d9bc97-25a8-4d52-8f00-f3493a36f2a2/44318187_r.jpg",
    "date": "2026-11-02 13:48:46",
-   "views": "107",
+   "views": "108",
    "duration": "1:24",
    "url": "https://vod.afreecatv.com/player/211514207",
    "keywords": [
@@ -333,7 +360,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
    "date": "2026-11-02 13:42:12",
-   "views": "293",
+   "views": "296",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211513891",
    "keywords": [
