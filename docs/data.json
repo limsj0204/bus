@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 00:40",
+ "updated_at": "2026-11-03 00:50",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-03 00:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-02 17:50:32",
+   "newest": "2026-11-03 00:49:38",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 00:00:42"
   }
@@ -229,7 +229,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658453_1_r",
    "date": "2026-11-02 14:47:45",
-   "views": "50",
+   "views": "51",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211517105",
    "keywords": [
@@ -255,7 +255,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "49",
+   "views": "51",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
@@ -281,7 +281,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658355_1_r",
    "date": "2026-11-02 14:35:10",
-   "views": "26",
+   "views": "27",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211516523",
    "keywords": [
@@ -333,7 +333,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
    "date": "2026-11-02 13:42:12",
-   "views": "292",
+   "views": "293",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211513891",
    "keywords": [
