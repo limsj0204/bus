@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02 14:48",
+ "updated_at": "2026-11-02 14:50",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-02 12:00:56"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-02 14:36:21",
+   "newest": "2026-11-02 14:47:45",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 12:00:56"
   }
@@ -114,6 +114,32 @@
  },
  "items": [
   {
+   "id": "211517105",
+   "type": "CATCH",
+   "title": "[캐치]인보키어 합방(민결+타요+릴파+도끼+비챤)",
+   "streamer_id": "hapi356",
+   "streamer_nick": "해피356",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658453_1_r",
+   "date": "2026-11-02 14:47:45",
+   "views": "1",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/211517105",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "211495017",
+   "org_timestamp": "1793598465",
+   "broad_no": "298273147",
+   "b_title": "[캐치]인보키어 합방(민결+타요+릴파+도끼+비챤)",
+   "title_history": [],
+   "broad_title": "10시 타요 릴파 양도끼 비찬 결희 인보키어합방",
+   "unedited": false
+  },
+  {
    "id": "211516595",
    "type": "CATCH",
    "title": "[캐치]인보키어 합방(민결+타요+릴파+도끼+비챤)-베스트자나",
@@ -147,7 +173,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658355_1_r",
    "date": "2026-11-02 14:35:10",
-   "views": "0",
+   "views": "1",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211516523",
    "keywords": [
@@ -225,7 +251,7 @@
    "streamer_nick": "해요",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21649653_1_r",
    "date": "2026-11-01 22:43:16",
-   "views": "96",
+   "views": "99",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211466177",
    "keywords": [
