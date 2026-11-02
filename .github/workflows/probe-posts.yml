@@ -5,7 +5,6 @@ on:
     branches:
       - ccr-91598e93-1wyp0d
     paths:
-      - .github/probe/**
       - .github/workflows/probe-posts.yml
 
 jobs:
@@ -16,4 +15,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python .github/probe/probe_posts.py
+      - run: pip install pyyaml
+      # 웹후크 없이 실행해서 디스코드로는 보내지 않는다. 기준 시각을 예전으로 잡아 실제 글이 모이는지 본다.
+      - run: |
+          echo '{"since": {"양도끼": "2026-10-28 00:00:00"}, "items": []}' > docs/posts.json
+          python scripts/posts.py
+          python -c "import json;d=json.load(open('docs/posts.json'));print(len(d['items']));[print(i['date'],i['station_nick'],i['title'][:30],i['url']) for i in d['items']]"
+          python scripts/posts.py
