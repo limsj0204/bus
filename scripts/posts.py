@@ -116,11 +116,14 @@ def main():
     authors = [str(a).strip() for a in settings.get("authors") or [] if str(a).strip()]
     author_ids = {str(a).strip().lower() for a in settings.get("author_ids") or [] if str(a).strip()}
     max_items = int(settings.get("max_items") or 500)
+    backfill_hours = float(settings.get("backfill_hours") or 0)
 
     saved = json.loads(DATA_PATH.read_text(encoding="utf-8")) if DATA_PATH.exists() else {}
     since = saved.get("since", {})
+    backfilled = saved.get("backfilled", {})
     items = {it["id"]: it for it in saved.get("items", [])}
-    now = datetime.now(KST).strftime(DATE_FORMAT)
+    now_dt = datetime.now(KST)
+    now = now_dt.strftime(DATE_FORMAT)
 
     successes = 0
     to_notify = []
@@ -129,8 +132,15 @@ def main():
             # 처음 보는 작성자는 지금부터 올라오는 글만 모은다.
             since[nickname] = now
             print(f"[게시글] '{nickname}': 지금({now})부터 새 글을 모아요")
+        # backfill_hours를 늘리면 한 번만 그만큼 앞선 글까지 채운다.
+        backfilling = backfill_hours > float(backfilled.get(nickname) or 0)
+        if backfilling:
+            earlier = (now_dt - timedelta(hours=backfill_hours)).strftime(DATE_FORMAT)
+            since[nickname] = min(since[nickname], earlier)
+            print(f"[게시글] '{nickname}': 최근 {backfill_hours:g}시간치({since[nickname]}부터)를 한 번 채워요")
         start = since[nickname]
         seen_ids = set()
+        fetched = False
         for page in range(1, MAX_PAGES + 1):
             try:
                 raw_items = search(nickname, page)
@@ -138,6 +148,7 @@ def main():
                 print(f"[게시글 실패] '{nickname}' {page}페이지: {error}", file=sys.stderr)
                 break
             successes += 1
+            fetched = True
             page_ids = {str(r.get("title_no")) for r in raw_items}
             if not raw_items or page_ids <= seen_ids:
                 break
@@ -165,6 +176,8 @@ def main():
             if not dates or min(dates) < start:
                 break
             time.sleep(1.5)
+        if backfilling and fetched:
+            backfilled[nickname] = backfill_hours
 
     if authors and successes == 0:
         print("게시글 요청이 모두 실패했어요. SOOP 쪽 주소나 형식이 바뀌었을 수 있어요.", file=sys.stderr)
@@ -172,6 +185,7 @@ def main():
 
     # 설정에서 빠진 작성자의 글은 지운다.
     since = {k: v for k, v in since.items() if k in authors}
+    backfilled = {k: v for k, v in backfilled.items() if k in authors}
     result = [it for it in items.values() if it["author_nick"] in since]
     result.sort(key=lambda it: (it.get("date", ""), it["id"]), reverse=True)
     result = result[:max_items]
@@ -183,6 +197,7 @@ def main():
                 "updated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
                 "authors": authors,
                 "since": since,
+                "backfilled": backfilled,
                 "items": result,
             },
             ensure_ascii=False,
