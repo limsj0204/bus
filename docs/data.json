@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-02 13:40",
+ "updated_at": "2026-11-02 13:50",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-02 10:58:21",
+   "newest": "2026-11-02 13:48:46",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 12:00:56"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-02 11:53:16",
+   "newest": "2026-11-02 13:42:12",
    "backfill_days": 7,
    "last_rescan": "2026-11-02 12:00:56"
   }
@@ -109,9 +109,62 @@
   "298053127": "내일은 간다",
   "298051731": "SBO 와우 포에버즈 VS 타요 스타포스 리그 두번째 날",
   "298051197": "[버블란] SBO 2일차 안타 치자 다시바!",
-  "298052069": "[10/23] SBO 와포즈 VS 타요 스타포스"
+  "298052069": "[10/23] SBO 와포즈 VS 타요 스타포스",
+  "298292179": "흐르미야~~~"
  },
  "items": [
+  {
+   "id": "211514207",
+   "type": "CLIP",
+   "title": "[클립]챙겨준다는 양도끼 클립을 보고 지난 시즌이 생각난 리냐",
+   "streamer_id": "ridmerong",
+   "streamer_nick": "Noh_Yeah",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261102/187/10d9bc97-25a8-4d52-8f00-f3493a36f2a2/44318187_r.jpg",
+   "date": "2026-11-02 13:48:46",
+   "views": "0",
+   "duration": "1:24",
+   "url": "https://vod.afreecatv.com/player/211514207",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "lina0108"
+   ],
+   "origin_nick": "리냐_LINYA",
+   "org_title_no": "",
+   "org_timestamp": "1793594926",
+   "broad_no": "298292179",
+   "b_title": "[클립]챙겨준다는 양도끼 클립을 보고 지난 시즌이 생각난 리냐",
+   "title_history": [],
+   "broad_title": "흐르미야~~~",
+   "unedited": false
+  },
+  {
+   "id": "211513891",
+   "type": "CATCH",
+   "title": "[캐치]챙겨준다는 형때문에 와우 시작한다는 양도끼 - 리냐반응",
+   "streamer_id": "ridmerong",
+   "streamer_nick": "Noh_Yeah",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
+   "date": "2026-11-02 13:42:12",
+   "views": "6",
+   "duration": "0:42",
+   "url": "https://vod.afreecatv.com/player/211513891",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "lina0108"
+   ],
+   "origin_nick": "리냐_LINYA",
+   "org_title_no": "",
+   "org_timestamp": "1793594532",
+   "broad_no": "298292179",
+   "b_title": "[캐치]챙겨준다는 형때문에 와우 시작한다는 양도끼 - 리냐반응",
+   "title_history": [],
+   "broad_title": "흐르미야~~~",
+   "unedited": false
+  },
   {
    "id": "211466177",
    "type": "CATCH",
@@ -120,7 +173,7 @@
    "streamer_nick": "해요",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261101_21649653_1_r",
    "date": "2026-11-01 22:43:16",
-   "views": "82",
+   "views": "83",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211466177",
    "keywords": [
