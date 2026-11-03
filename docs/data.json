@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-03 10:50",
+ "updated_at": "2026-11-03 11:00",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 08:30:13",
+   "newest": "2026-11-03 10:55:25",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 09:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-03 08:30:14",
+   "newest": "2026-11-03 10:56:20",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 09:00:40"
   }
@@ -121,6 +121,32 @@
  },
  "items": [
   {
+   "id": "211602519",
+   "type": "CATCH",
+   "title": "[캐치]결희 ASMR을 들은 도끼 : 뭐드세영?",
+   "streamer_id": "oneteps9",
+   "streamer_nick": "하이라잇생구",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r",
+   "date": "2026-11-03 10:56:20",
+   "views": "0",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/211602519",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "211590931",
+   "org_timestamp": "1793670980",
+   "broad_no": "298298063",
+   "b_title": "[캐치]결희 ASMR을 들은 도끼 : 뭐드세영?",
+   "title_history": [],
+   "broad_title": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께",
+   "unedited": false
+  },
+  {
    "id": "211598241",
    "type": "CATCH",
    "title": "[캐치]인보키어 합방(민결타요도끼릴파비챤)",
@@ -154,7 +180,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_44341301_1_r",
    "date": "2026-11-03 08:30:13",
-   "views": "14",
+   "views": "15",
    "duration": "1:33",
    "url": "https://vod.afreecatv.com/player/211598239",
    "keywords": [
@@ -232,7 +258,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "169",
+   "views": "172",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -284,7 +310,7 @@
    "streamer_nick": "Chan_찬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/995/d6600b9d-e1fa-476b-b6fa-102b15493e5a/44336995_r.jpg",
    "date": "2026-11-03 01:06:36",
-   "views": "43",
+   "views": "44",
    "duration": "1:14",
    "url": "https://vod.afreecatv.com/player/211578297",
    "keywords": [
@@ -310,7 +336,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/173/40ddf8c3-7180-42c1-9dca-b15ee43dc364/44333173_r.jpg",
    "date": "2026-11-02 23:09:30",
-   "views": "39",
+   "views": "40",
    "duration": "1:17",
    "url": "https://vod.afreecatv.com/player/211564881",
    "keywords": [
@@ -440,7 +466,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "75",
+   "views": "76",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
