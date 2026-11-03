@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-03 19:50",
+ "updated_at": "2026-11-03 19:55",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 15:23:07",
+   "newest": "2026-11-03 19:52:11",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 18:00:38"
   },
@@ -118,9 +118,36 @@
   "298310015": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까",
   "298144445": "로이세끼 시즌2 오늘은 탈출각 만들어놓기",
   "298298063": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께",
-  "298315615": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정"
+  "298315615": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정",
+  "298313797": "라멘팔기 w. 마왕 쵸로키 시리안"
  },
  "items": [
+  {
+   "id": "211633563",
+   "type": "CLIP",
+   "title": "[클립]할로윈 의상 극찬하는 하치 보며 헤어와 컨셉 설명해주는 양도끼 / 하치 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_44350227_1_r&column=2&t=1793703206",
+   "date": "2026-11-03 19:52:11",
+   "views": "6",
+   "duration": "3:36",
+   "url": "https://vod.afreecatv.com/player/211633563",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "211627897",
+   "org_timestamp": "1793703131",
+   "broad_no": "298313797",
+   "b_title": "[클립]할로윈 의상 극찬하는 하치 보며 헤어와 컨셉 설명해주는 양도끼 / 하치 반응",
+   "title_history": [],
+   "broad_title": "라멘팔기 w. 마왕 쵸로키 시리안",
+   "unedited": false
+  },
   {
    "id": "211613575",
    "type": "CLIP",
@@ -129,7 +156,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/825/c7f0ada1-d01a-443a-8744-6fb8c34ae96f/44344825_r.jpg",
    "date": "2026-11-03 15:23:07",
-   "views": "55",
+   "views": "56",
    "duration": "1:08",
    "url": "https://vod.afreecatv.com/player/211613575",
    "keywords": [
@@ -155,7 +182,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/561/9d05a81d-f7c1-4481-91e0-e8c793b23237/44344561_r.jpg",
    "date": "2026-11-03 15:00:43",
-   "views": "40",
+   "views": "41",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211612475",
    "keywords": [
@@ -233,7 +260,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r&column=2&t=1793671928",
    "date": "2026-11-03 10:56:20",
-   "views": "143",
+   "views": "149",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211602519",
    "keywords": [
@@ -259,7 +286,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "147",
+   "views": "150",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
@@ -285,7 +312,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_44341301_1_r",
    "date": "2026-11-03 08:30:13",
-   "views": "51",
+   "views": "53",
    "duration": "1:33",
    "url": "https://vod.afreecatv.com/player/211598239",
    "keywords": [
@@ -311,7 +338,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21673945_1_r",
    "date": "2026-11-03 08:10:18",
-   "views": "36",
+   "views": "37",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211597731",
    "keywords": [
@@ -337,7 +364,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21673915_1_r",
    "date": "2026-11-03 08:00:31",
-   "views": "58",
+   "views": "60",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/211597467",
    "keywords": [
@@ -363,7 +390,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "328",
+   "views": "329",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -623,7 +650,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/187/10d9bc97-25a8-4d52-8f00-f3493a36f2a2/44318187_r.jpg",
    "date": "2026-11-02 13:48:46",
-   "views": "120",
+   "views": "121",
    "duration": "1:24",
    "url": "https://vod.afreecatv.com/player/211514207",
    "keywords": [
