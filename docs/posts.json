@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 07:10",
+ "updated_at": "2026-11-04 07:15",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211688029",
+   "type": "POST",
+   "title": "👙┗( T﹏T )┛",
+   "content": "류파님♥️ 안녕하세요 류퍄님!이번에 양도끼 방셀을 구매해 주셔서 감사합니다!제가 배송을 너무 늦게해서 너무 죄송한 마음뿐인데요 ㅠㅠㅠ다음에는 이런 일 없도록 촬영 후에 바로바로 넘어갈 수 있도록퀵퀵한 진행과정으로 개선해보도록 하겠습니다..!믿어주셔서 감사합니다!오늘도 좋은 하루 되세요!!",
+   "date": "2026-11-04 07:14:41",
+   "url": "https://www.sooplive.com/station/eltm912/post/211688029",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "eltm912",
+   "station_nick": "류퍄",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/5/22711555/44381793743670475.png",
+   "photos": 3,
+   "views": 3,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211687701",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "푸앜",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/5/24494035/19941793743372944.png",
    "photos": 3,
-   "views": 13,
+   "views": 14,
    "likes": 0,
    "comments": 0
   },
@@ -40,7 +57,7 @@
    "station_nick": "대구금수",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/28419998/35391793743015462.png",
    "photos": 3,
-   "views": 10,
+   "views": 11,
    "likes": 0,
    "comments": 0
   },
@@ -227,7 +244,7 @@
    "station_nick": "난제대로했어",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26541199/63441793716202999.png",
    "photos": 2,
-   "views": 90,
+   "views": 91,
    "likes": 1,
    "comments": 0
   },
@@ -261,7 +278,7 @@
    "station_nick": "똥고냥이",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/0/27146010/22691793668669018.png",
    "photos": 3,
-   "views": 69,
+   "views": 70,
    "likes": 0,
    "comments": 0
   },
@@ -278,7 +295,7 @@
    "station_nick": "냥이키우고파",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26548619/33001793679489371.png",
    "photos": 3,
-   "views": 97,
+   "views": 98,
    "likes": 0,
    "comments": 0
   },
@@ -312,7 +329,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 919,
+   "views": 920,
    "likes": 73,
    "comments": 12
   },
