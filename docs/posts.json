@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 06:35",
+ "updated_at": "2026-11-04 06:40",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211686921",
+   "type": "POST",
+   "title": "👙 ╯︿╰",
+   "content": "지넝아님♥️ 안녕하세요 지넝아님! 양도끼입니다.우선, 늦어서 너무나 죄송합니다 지넝아님!!!여름 지나 겨울이 오고있지만.. 따뜻한 온천물에서 스파하고 있다는 느낌ㅠㅠ으로 봐주시면 감사할 거 같아요... 넘 죄송합니다...",
+   "date": "2026-11-04 06:36:30",
+   "url": "https://www.sooplive.com/station/rlaqkq219/post/211686921",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "rlaqkq219",
+   "station_nick": "지넝아",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/7/26982917/11521793739747641.png",
+   "photos": 3,
+   "views": 3,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211685751",
    "type": "POST",
@@ -108,7 +125,7 @@
    "station_nick": "다윈SJ",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/1/12725791/34101793733152691.png",
    "photos": 3,
-   "views": 50,
+   "views": 51,
    "likes": 0,
    "comments": 0
   },
