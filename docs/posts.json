@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 16:15",
+ "updated_at": "2026-11-03 16:20",
  "authors": [
   "양도끼"
  ],
@@ -23,7 +23,7 @@
    "station_nick": "건강주",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/3/26981913/83411793678849299.png",
    "photos": 3,
-   "views": 24,
+   "views": 25,
    "likes": 0,
    "comments": 0
   },
@@ -57,8 +57,8 @@
    "station_nick": "채널리",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/12364258/67461793647193886.png",
    "photos": 3,
-   "views": 33,
-   "likes": 0,
+   "views": 34,
+   "likes": 1,
    "comments": 0
   }
  ]
