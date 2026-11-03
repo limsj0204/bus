@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-04 00:10",
+ "updated_at": "2026-11-04 00:15",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 19:52:11",
+   "newest": "2026-11-04 00:12:28",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 00:00:58"
   },
@@ -120,9 +120,36 @@
   "298298063": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께",
   "298315615": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정",
   "298313797": "라멘팔기 w. 마왕 쵸로키 시리안",
-  "298326805": "[머독] 40만원 주고 산 귀신 들린 인형"
+  "298326805": "[머독] 40만원 주고 산 귀신 들린 인형",
+  "298323085": "강만식 로이세끼2 탈출갑니다"
  },
  "items": [
+  {
+   "id": "211663061",
+   "type": "CLIP",
+   "title": "[클립]마다옴 괴롭히는 강만식 ㅋㅋㅋ / 도끼 뺃어강 강만식 ㅋㅋ / 진짜 심각하게 귀여운 마다오무.. ㅋㅋㅋㅋ",
+   "streamer_id": "asod123",
+   "streamer_nick": "moo.전타성",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/717/f6585c7e-c963-4759-959b-8fd3e48a2a43/44358717_r.jpg",
+   "date": "2026-11-04 00:12:28",
+   "views": "2",
+   "duration": "2:23",
+   "url": "https://vod.afreecatv.com/player/211663061",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "rkdakstlr911"
+   ],
+   "origin_nick": "강만식",
+   "org_title_no": "",
+   "org_timestamp": "1793718748",
+   "broad_no": "298323085",
+   "b_title": "[클립]마다옴 괴롭히는 강만식 ㅋㅋㅋ / 도끼 뺃어강 강만식 ㅋㅋ / 진짜 심각하게 귀여운 마다오무.. ㅋㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "강만식 로이세끼2 탈출갑니다",
+   "unedited": false
+  },
   {
    "id": "211656915",
    "type": "CATCH",
@@ -131,7 +158,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/211/b938b282-e608-491c-81aa-b6a1c8521d6d/21685211_r.jpg",
    "date": "2026-11-03 23:18:52",
-   "views": "16",
+   "views": "17",
    "duration": "0:17",
    "url": "https://vod.afreecatv.com/player/211656915",
    "keywords": [
@@ -183,7 +210,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/825/c7f0ada1-d01a-443a-8744-6fb8c34ae96f/44344825_r.jpg",
    "date": "2026-11-03 15:23:07",
-   "views": "71",
+   "views": "72",
    "duration": "1:08",
    "url": "https://vod.afreecatv.com/player/211613575",
    "keywords": [
@@ -287,7 +314,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r&column=2&t=1793671928",
    "date": "2026-11-03 10:56:20",
-   "views": "267",
+   "views": "270",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211602519",
    "keywords": [
@@ -313,7 +340,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "222",
+   "views": "225",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
@@ -391,7 +418,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21673915_1_r",
    "date": "2026-11-03 08:00:31",
-   "views": "96",
+   "views": "97",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/211597467",
    "keywords": [
@@ -417,7 +444,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "341",
+   "views": "342",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -573,7 +600,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/945/7b3254f8-69ab-4225-9700-1635f20bc74f/44319945_r.jpg",
    "date": "2026-11-02 16:16:05",
-   "views": "209",
+   "views": "210",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/211522559",
    "keywords": [
@@ -625,7 +652,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "160",
+   "views": "162",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
