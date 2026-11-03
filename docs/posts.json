@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 05:30",
+ "updated_at": "2026-11-04 05:35",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211684899",
+   "type": "POST",
+   "title": "👗/(ㄒoㄒ)/~~",
+   "content": "쿠르팡♥️ 안녕하세요 쿠르팡님!양도끼입니다!!!!!!!쿠르팡님!! 기다리느라 너무 고생많으셨습니다ㅠㅠ제가 많이 늦었죠 너무 죄송합니다🙇‍♀️다음에는 조심하도록 하겠습니다!!!!!",
+   "date": "2026-11-04 05:35:19",
+   "url": "https://www.sooplive.com/station/rkd0226/post/211684899",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "rkd0226",
+   "station_nick": "쿠르팡",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/4/27881664/20161793737986479.png",
+   "photos": 3,
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211682049",
    "type": "POST",
@@ -40,7 +57,7 @@
    "station_nick": "다윈SJ",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/1/12725791/34101793733152691.png",
    "photos": 3,
-   "views": 36,
+   "views": 40,
    "likes": 0,
    "comments": 0
   },
@@ -91,7 +108,7 @@
    "station_nick": "난제대로했어",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26541199/63441793716202999.png",
    "photos": 2,
-   "views": 84,
+   "views": 85,
    "likes": 1,
    "comments": 0
   },
@@ -125,7 +142,7 @@
    "station_nick": "똥고냥이",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/0/27146010/22691793668669018.png",
    "photos": 3,
-   "views": 66,
+   "views": 67,
    "likes": 0,
    "comments": 0
   },
@@ -142,7 +159,7 @@
    "station_nick": "냥이키우고파",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26548619/33001793679489371.png",
    "photos": 3,
-   "views": 91,
+   "views": 93,
    "likes": 0,
    "comments": 0
   },
@@ -159,7 +176,7 @@
    "station_nick": "대구금수",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/28419998/65421793679447989.png",
    "photos": 3,
-   "views": 82,
+   "views": 83,
    "likes": 1,
    "comments": 1
   },
@@ -193,7 +210,7 @@
    "station_nick": "건강주",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/3/26981913/83411793678849299.png",
    "photos": 3,
-   "views": 84,
+   "views": 85,
    "likes": 1,
    "comments": 0
   },
