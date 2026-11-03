@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 13:00",
+ "updated_at": "2026-11-03 13:10",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211607413",
+   "type": "POST",
+   "title": "👗=￣ω￣=👗",
+   "content": "건강주님♥️ 안녕하세요 건강주님, 양도끼입니다.좋은 아침이지만.. 방셀 배송이 늦어진 점에 대해 일단 사죄의 머리를 박으며(쿵)ㅠㅠ넘 죄송합니다.. 그리고 기다려주셔서 감사합니다🥹다음에는 제때 꼭 올게요!!오늘도 좋은 하루 되세요♥️",
+   "date": "2026-11-03 13:08:27",
+   "url": "https://www.sooplive.com/station/joung6448/post/211607413",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "joung6448",
+   "station_nick": "건강주",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/3/26981913/83411793678849299.png",
+   "photos": 3,
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211600865",
    "type": "POST",
@@ -40,7 +57,7 @@
    "station_nick": "채널리",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/12364258/67461793647193886.png",
    "photos": 3,
-   "views": 23,
+   "views": 24,
    "likes": 0,
    "comments": 0
   }
