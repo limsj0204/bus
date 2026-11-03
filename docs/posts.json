@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 02:15",
+ "updated_at": "2026-11-04 02:20",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211674801",
+   "type": "POST",
+   "title": "👙( •̀ ω •́ )✧",
+   "content": "함장채널님♥️ 안녕하세요 함장채널님! 도끼입니다!드디어 마지막 방셀로 찾아왔네요.이번에는 유독 배송이 오기까지의 길이 길게 느껴진 거 같습니다..채널님께 닿기위해 머나 먼 우주를 건너온 그런 기분이 듭니다.(사실 그냥 제가 늦은 거지만....훌쩍)방셀은 매번 고민이 많네요 @-@다음에는 이번처럼 지연되는 일 없게 각고의 노력과 고심을 해오도록 하겠습니다...",
+   "date": "2026-11-04 02:17:44",
+   "url": "https://www.sooplive.com/station/max7167/post/211674801",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "max7167",
+   "station_nick": "채널리",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/12364258/27301793719938221.png",
+   "photos": 7,
+   "views": 8,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211658285",
    "type": "POST",
@@ -108,7 +125,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 885,
+   "views": 886,
    "likes": 72,
    "comments": 12
   },
