@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 23:15",
+ "updated_at": "2026-11-03 23:20",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-03 21:00:39"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-03 10:56:20",
+   "newest": "2026-11-03 23:18:52",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 21:00:39"
   }
@@ -119,9 +119,36 @@
   "298144445": "로이세끼 시즌2 오늘은 탈출각 만들어놓기",
   "298298063": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께",
   "298315615": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정",
-  "298313797": "라멘팔기 w. 마왕 쵸로키 시리안"
+  "298313797": "라멘팔기 w. 마왕 쵸로키 시리안",
+  "298326805": "[머독] 40만원 주고 산 귀신 들린 인형"
  },
  "items": [
+  {
+   "id": "211656915",
+   "type": "CATCH",
+   "title": "[캐치][신물쇼] 귀신 들린 인형 - 에블린의 에메랄드 눈이 만족스러운 머독 / 머독 : 양도끼님 눈처럼",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261103/211/b938b282-e608-491c-81aa-b6a1c8521d6d/21685211_r.jpg",
+   "date": "2026-11-03 23:18:52",
+   "views": "0",
+   "duration": "0:17",
+   "url": "https://vod.afreecatv.com/player/211656915",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793715532",
+   "broad_no": "298326805",
+   "b_title": "[캐치][신물쇼] 귀신 들린 인형 - 에블린의 에메랄드 눈이 만족스러운 머독 / 머독 : 양도끼님 눈처럼",
+   "title_history": [],
+   "broad_title": "[머독] 40만원 주고 산 귀신 들린 인형",
+   "unedited": false
+  },
   {
    "id": "211633563",
    "type": "CLIP",
@@ -156,7 +183,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/825/c7f0ada1-d01a-443a-8744-6fb8c34ae96f/44344825_r.jpg",
    "date": "2026-11-03 15:23:07",
-   "views": "68",
+   "views": "69",
    "duration": "1:08",
    "url": "https://vod.afreecatv.com/player/211613575",
    "keywords": [
@@ -286,7 +313,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "176",
+   "views": "180",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
@@ -390,7 +417,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "338",
+   "views": "339",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -468,7 +495,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/173/40ddf8c3-7180-42c1-9dca-b15ee43dc364/44333173_r.jpg",
    "date": "2026-11-02 23:09:30",
-   "views": "46",
+   "views": "47",
    "duration": "1:17",
    "url": "https://vod.afreecatv.com/player/211564881",
    "keywords": [
@@ -520,7 +547,7 @@
    "streamer_nick": "SBO월드컵",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21660795_1_r",
    "date": "2026-11-02 17:49:28",
-   "views": "100",
+   "views": "101",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/211528913",
    "keywords": [
