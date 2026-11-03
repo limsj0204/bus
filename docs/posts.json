@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 05:50",
+ "updated_at": "2026-11-04 05:55",
  "authors": [
   "양도끼"
  ],
@@ -23,7 +23,7 @@
    "station_nick": "하늘별품",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/18035398/73061793738410878.png",
    "photos": 3,
-   "views": 2,
+   "views": 7,
    "likes": 0,
    "comments": 0
   },
@@ -40,7 +40,7 @@
    "station_nick": "난제대로했어",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26541199/54521793738187121.png",
    "photos": 3,
-   "views": 4,
+   "views": 6,
    "likes": 0,
    "comments": 0
   },
@@ -57,7 +57,7 @@
    "station_nick": "쿠르팡",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/4/27881664/20161793737986479.png",
    "photos": 3,
-   "views": 10,
+   "views": 11,
    "likes": 0,
    "comments": 0
   },
@@ -227,7 +227,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 912,
+   "views": 913,
    "likes": 73,
    "comments": 12
   },
