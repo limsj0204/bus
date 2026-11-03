@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 02:30",
+ "updated_at": "2026-11-04 02:35",
  "authors": [
   "양도끼"
  ],
@@ -23,7 +23,7 @@
    "station_nick": "채널리",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/12364258/27301793719938221.png",
    "photos": 7,
-   "views": 19,
+   "views": 23,
    "likes": 0,
    "comments": 0
   },
@@ -108,7 +108,7 @@
    "station_nick": "대구금수",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/28419998/65421793679447989.png",
    "photos": 3,
-   "views": 68,
+   "views": 70,
    "likes": 1,
    "comments": 1
   },
@@ -125,7 +125,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 888,
+   "views": 889,
    "likes": 72,
    "comments": 12
   },
@@ -176,7 +176,7 @@
    "station_nick": "채널리",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/12364258/67461793647193886.png",
    "photos": 3,
-   "views": 91,
+   "views": 93,
    "likes": 1,
    "comments": 1
   }

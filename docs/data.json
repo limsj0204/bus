@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-04 02:30",
+ "updated_at": "2026-11-04 02:35",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-04 00:12:28",
+   "newest": "2026-11-04 02:32:41",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 00:00:58"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-04 02:27:49",
+   "newest": "2026-11-04 02:31:53",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 00:00:58"
   }
@@ -124,6 +124,110 @@
   "298323085": "강만식 로이세끼2 탈출갑니다"
  },
  "items": [
+  {
+   "id": "211675911",
+   "type": "CLIP",
+   "title": "[클립]양도끼 발셀을 확인한 머독 / 머독: 양도끼님 감사합니다~!",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/985/b66fcac3-4204-422d-ad91-88bc84ae5a3e/44361985_r.jpg",
+   "date": "2026-11-04 02:32:41",
+   "views": "2",
+   "duration": "4:59",
+   "url": "https://vod.afreecatv.com/player/211675911",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793727161",
+   "broad_no": "298326805",
+   "b_title": "[클립]양도끼 발셀을 확인한 머독 / 머독: 양도끼님 감사합니다~!",
+   "title_history": [],
+   "broad_title": "[머독] 40만원 주고 산 귀신 들린 인형",
+   "unedited": false
+  },
+  {
+   "id": "211675835",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 숙제가 방셀 전달인걸 깨달은 머독ㅋㅋ",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/185/33d7e9ac-ce91-4348-8d58-7e9d762ffa74/21688185_r.jpg",
+   "date": "2026-11-04 02:31:53",
+   "views": "0",
+   "duration": "0:25",
+   "url": "https://vod.afreecatv.com/player/211675835",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793727113",
+   "broad_no": "298326805",
+   "b_title": "[캐치]양도끼 숙제가 방셀 전달인걸 깨달은 머독ㅋㅋ",
+   "title_history": [],
+   "broad_title": "[머독] 40만원 주고 산 귀신 들린 인형",
+   "unedited": false
+  },
+  {
+   "id": "211675803",
+   "type": "CATCH",
+   "title": "[캐치]머독: 양도끼님 숙제가 방셀이었구만 ㅋㅋ",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/181/13ff6e34-167b-4d5a-8055-df20aa0abc2b/21688181_r.jpg",
+   "date": "2026-11-04 02:31:25",
+   "views": "0",
+   "duration": "0:40",
+   "url": "https://vod.afreecatv.com/player/211675803",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793727085",
+   "broad_no": "298326805",
+   "b_title": "[캐치]머독: 양도끼님 숙제가 방셀이었구만 ㅋㅋ",
+   "title_history": [],
+   "broad_title": "[머독] 40만원 주고 산 귀신 들린 인형",
+   "unedited": false
+  },
+  {
+   "id": "211675781",
+   "type": "CLIP",
+   "title": "[클립]양도끼 발셀 감상하는 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/961/e3edcfdb-3d71-4e91-8d13-6e3af5bdb381/44361961_r.jpg",
+   "date": "2026-11-04 02:31:16",
+   "views": "0",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/211675781",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793727076",
+   "broad_no": "298326805",
+   "b_title": "[클립]양도끼 발셀 감상하는 머독",
+   "title_history": [],
+   "broad_title": "[머독] 40만원 주고 산 귀신 들린 인형",
+   "unedited": false
+  },
   {
    "id": "211675527",
    "type": "CATCH",
@@ -366,7 +470,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "270",
+   "views": "272",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
