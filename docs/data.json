@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-03 14:20",
+ "updated_at": "2026-11-03 14:30",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-03 10:55:25",
+   "newest": "2026-11-03 14:22:11",
    "backfill_days": 7,
    "last_rescan": "2026-11-03 12:00:42"
   },
@@ -117,9 +117,62 @@
   "298298545": "[머독] 공포의 산후조리원...",
   "298310015": "이세돌 메들리 들어보고 신스멀게동 ED 보고 WOW관련 로이세끼 콜오브듀티 할까말까",
   "298144445": "로이세끼 시즌2 오늘은 탈출각 만들어놓기",
-  "298298063": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께"
+  "298298063": "1부 단결따독 헬로키티파티 + 2부 방구껴서 앞으로가는게임 + 3부 한국 pc방 시뮬레이터 따린이와함께",
+  "298315615": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정"
  },
  "items": [
+  {
+   "id": "211610687",
+   "type": "CLIP",
+   "title": "[클립]양도끼에게 대문자 t 공감을 해주는 우왁굳을 보는 하로하",
+   "streamer_id": "donkis",
+   "streamer_nick": "메론사이다",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261103/185/5d2059dd-ac5c-4f29-8f8b-9caa143e75f3/44344185_r.jpg",
+   "date": "2026-11-03 14:22:11",
+   "views": "6",
+   "duration": "1:12",
+   "url": "https://vod.afreecatv.com/player/211610687",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "haroha"
+   ],
+   "origin_nick": "하로하!",
+   "org_title_no": "",
+   "org_timestamp": "1793683331",
+   "broad_no": "298315615",
+   "b_title": "[클립]양도끼에게 대문자 t 공감을 해주는 우왁굳을 보는 하로하",
+   "title_history": [],
+   "broad_title": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정",
+   "unedited": false
+  },
+  {
+   "id": "211610603",
+   "type": "CLIP",
+   "title": "[클립][하로하 반응]양도끼에게 대문자 T 공감을 해주는 우왁굳",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261103/169/fdb86d04-a6c3-40e5-bef2-d44fe9296053/44344169_r.jpg",
+   "date": "2026-11-03 14:20:37",
+   "views": "13",
+   "duration": "1:13",
+   "url": "https://vod.afreecatv.com/player/211610603",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "haroha"
+   ],
+   "origin_nick": "하로하!",
+   "org_title_no": "",
+   "org_timestamp": "1793683237",
+   "broad_no": "298315615",
+   "b_title": "[클립][하로하 반응]양도끼에게 대문자 T 공감을 해주는 우왁굳",
+   "title_history": [],
+   "broad_title": "1부 소통 2부 카페보기 3부 콜오브듀티 사 4부 미정",
+   "unedited": false
+  },
   {
    "id": "211602519",
    "type": "CATCH",
@@ -128,7 +181,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r&column=2&t=1793671928",
    "date": "2026-11-03 10:56:20",
-   "views": "32",
+   "views": "33",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211602519",
    "keywords": [
@@ -154,7 +207,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "11",
+   "views": "13",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
@@ -180,7 +233,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_44341301_1_r",
    "date": "2026-11-03 08:30:13",
-   "views": "35",
+   "views": "36",
    "duration": "1:33",
    "url": "https://vod.afreecatv.com/player/211598239",
    "keywords": [
@@ -232,7 +285,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21673915_1_r",
    "date": "2026-11-03 08:00:31",
-   "views": "4",
+   "views": "6",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/211597467",
    "keywords": [
@@ -258,7 +311,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "233",
+   "views": "237",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
@@ -388,7 +441,7 @@
    "streamer_nick": "SBO월드컵",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21660795_1_r",
    "date": "2026-11-02 17:49:28",
-   "views": "59",
+   "views": "60",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/211528913",
    "keywords": [
@@ -414,7 +467,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/945/7b3254f8-69ab-4225-9700-1635f20bc74f/44319945_r.jpg",
    "date": "2026-11-02 16:16:05",
-   "views": "184",
+   "views": "185",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/211522559",
    "keywords": [
@@ -466,7 +519,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "92",
+   "views": "93",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
@@ -544,7 +597,7 @@
    "streamer_nick": "Noh_Yeah",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261102/787/a24207ac-0bbb-4a72-b810-d3ef01a03c16/21657787_r.jpg",
    "date": "2026-11-02 13:42:12",
-   "views": "349",
+   "views": "350",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211513891",
    "keywords": [
