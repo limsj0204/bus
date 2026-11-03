@@ -18,6 +18,7 @@ permissions:
   # 사이트를 이 작업에서 직접 배포한다. (브랜치 자동 빌드의 '한 시간 10번' 한도를 피함)
   pages: write
   id-token: write
+  deployments: read
 
 concurrency:
   group: update-clips
@@ -70,6 +71,24 @@ jobs:
         id: pages
         # Settings → Pages의 Source가 'GitHub Actions'일 때만 아래 배포 단계를 실행한다.
         run: echo "type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null || echo none)" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: 멈춘 배포 정리
+        # GitHub 쪽에서 '진행 중'으로 10분 넘게 멈춘 배포가 있으면 새 배포가 전부 거절되므로 취소한다.
+        if: steps.pages.outputs.type == 'workflow'
+        continue-on-error: true
+        run: |
+          cutoff=$(date -u -d '10 minutes ago' +%Y-%m-%dT%H:%M:%SZ)
+          gh api "repos/${GITHUB_REPOSITORY}/deployments?environment=github-pages&per_page=10" \
+            --jq '.[] | "\(.id) \(.sha) \(.created_at)"' |
+          while read -r id sha created; do
+            state=$(gh api "repos/${GITHUB_REPOSITORY}/deployments/${id}/statuses?per_page=1" --jq '.[0].state // "pending"')
+            echo "배포 ${sha:0:7} ${created} ${state}"
+            if [[ "$created" < "$cutoff" && ! "$state" =~ ^(success|inactive)$ ]]; then
+              echo "멈춘 배포 취소: ${sha} (${created}, ${state})"
+              gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/deployments/${sha}/cancel" || true
+            fi
+          done
         env:
           GH_TOKEN: ${{ github.token }}
       - uses: actions/configure-pages@v5
