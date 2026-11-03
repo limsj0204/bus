@@ -10,9 +10,14 @@ on:
       - scripts/fetch.py
       - scripts/icons.py
       - scripts/posts.py
+      - docs/**
+      - .github/workflows/update.yml
 
 permissions:
   contents: write
+  # 사이트를 이 작업에서 직접 배포한다. (브랜치 자동 빌드의 '한 시간 10번' 한도를 피함)
+  pages: write
+  id-token: write
 
 concurrency:
   group: update-clips
@@ -23,6 +28,9 @@ jobs:
     # 작업용 브랜치에 올린 수정으로는 돌지 않게 한다. (디스코드 알림이 두 번 가는 것을 막음)
     if: github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -58,3 +66,19 @@ jobs:
             done
             exit 1
           fi
+      - name: 사이트 배포 방식 확인
+        id: pages
+        # Settings → Pages의 Source가 'GitHub Actions'일 때만 아래 배포 단계를 실행한다.
+        run: echo "type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null || echo none)" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/configure-pages@v5
+        if: steps.pages.outputs.type == 'workflow'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.pages.outputs.type == 'workflow'
+        with:
+          path: docs
+      - name: 사이트 배포
+        id: deployment
+        if: steps.pages.outputs.type == 'workflow'
+        uses: actions/deploy-pages@v4
