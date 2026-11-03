@@ -81,4 +81,9 @@ jobs:
       - name: 사이트 배포
         id: deployment
         if: steps.pages.outputs.type == 'workflow'
+        # 평소 10초 안에 끝난다. GitHub Pages 쪽이 멈추면 오래 붙잡지 않고, 실행 전체를
+        # 실패로 만들지도 않는다. (수집 결과는 이미 저장돼 있어서 다음 실행 때 다시 배포됨)
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 180000
