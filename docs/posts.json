@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 20:45",
+ "updated_at": "2026-11-03 20:50",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211639349",
+   "type": "POST",
+   "title": "👗(●'◡'●)",
+   "content": "하고르님 안녕하세요!!!!!!!늦어져서 죄송합니닷!!!!!!이걸 덕분..이라고 해야하나(죄송합니다) 오른손이 나아서 정상적인 손글씨로 편지를 쓸 수 있었네요.오랜만에 펜을 쥐니 손이 낯설더라구요..극악의 확률이었던 손편지 방셀 당첨을 축하드리며!저는 이만 물러가보겠습니다.오늘도 좋은 하루 되세요!",
+   "date": "2026-11-03 20:48:08",
+   "url": "https://www.sooplive.com/station/themdhktl12/post/211639349",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "themdhktl12",
+   "station_nick": "하고르",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/1/17231921/49071793705923174.png",
+   "photos": 2,
+   "views": 3,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "211636357",
    "type": "POST",
@@ -74,7 +91,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 755,
+   "views": 774,
    "likes": 67,
    "comments": 12
   },
