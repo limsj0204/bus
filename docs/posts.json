@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 07:00",
+ "updated_at": "2026-11-04 07:05",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211687701",
+   "type": "POST",
+   "title": "👙",
+   "content": "푸앜님♥️ 안녕하세어 푸앜님!오랜시간 기다리게해서 너무 죄송합니다ㅠ다음에는 빠른 처리가 가능하게 단단하게준비해서 오도록 하겠습니다그때 오시면 진좌 이번같은 일은 없게끔 하겠숩니닷!!!방셀 구매해주셔서 넘.. 감사합니다 ㅠ-ㅠ",
+   "date": "2026-11-04 07:03:14",
+   "url": "https://www.sooplive.com/station/sungmin3643/post/211687701",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "sungmin3643",
+   "station_nick": "푸앜",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/5/24494035/19941793743372944.png",
+   "photos": 3,
+   "views": 5,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211687575",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "대구금수",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/28419998/35391793743015462.png",
    "photos": 3,
-   "views": 4,
+   "views": 6,
    "likes": 0,
    "comments": 0
   },
@@ -159,7 +176,7 @@
    "station_nick": "다윈SJ",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/1/12725791/34101793733152691.png",
    "photos": 3,
-   "views": 52,
+   "views": 53,
    "likes": 0,
    "comments": 0
   },
@@ -278,7 +295,7 @@
    "station_nick": "대구금수",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/28419998/65421793679447989.png",
    "photos": 3,
-   "views": 84,
+   "views": 85,
    "likes": 1,
    "comments": 1
   },
@@ -295,7 +312,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 918,
+   "views": 919,
    "likes": 73,
    "comments": 12
   },
