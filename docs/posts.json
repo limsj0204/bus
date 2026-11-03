@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 18:55",
+ "updated_at": "2026-11-03 19:00",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211628711",
+   "type": "POST",
+   "title": "오뱅구",
+   "content": "심야방송(?) 레츠고콜옵은 다른 날 다음 기회에...",
+   "date": "2026-11-03 19:00:40",
+   "url": "https://www.sooplive.com/station/yangdoki/post/211628711",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211607413",
    "type": "POST",
@@ -40,7 +57,7 @@
    "station_nick": "고양yeee",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/5/24728985/81371793667586799.png",
    "photos": 6,
-   "views": 34,
+   "views": 35,
    "likes": 1,
    "comments": 1
   },
