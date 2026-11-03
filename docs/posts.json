@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 00:15",
+ "updated_at": "2026-11-04 00:20",
  "authors": [
   "양도끼"
  ],
@@ -93,7 +93,7 @@
    "photos": 3,
    "views": 41,
    "likes": 1,
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "211628711",
@@ -108,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 867,
+   "views": 868,
    "likes": 72,
    "comments": 12
   },
