@@ -40,6 +40,9 @@ discord:
     - CATCH
   # 특정 원본 방송만 알리고 싶으면 스트리머 이름이나 ID를 적어요. 비워 두면 전부 알려요.
   only_origins: []
+  # 수집이나 사이트 배포가 이 시간(분) 넘게 멈추면 알려요. 끄려면 health_alerts: false
+  health_alerts: true
+  health_minutes: 30
 
 # 이 작성자가 새로 쓴 게시글을 모아요. (SOOP 통합검색 → 게시글 → 검색 범위: 닉네임)
 # 처음 실행한 때부터 올라오는 글만 모으고, 그 전 글은 넣지 않아요.

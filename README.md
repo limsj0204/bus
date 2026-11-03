@@ -60,3 +60,10 @@ python scripts/posts.py
    - Name: `DISCORD_WEBHOOK_URL`
    - Secret: 복사한 웹후크 URL
 3. 끄거나 특정 방송만 받으려면 `config.yml`의 `discord` 항목을 고쳐요. 게시글 알림만 끄려면 `posts`의 `discord: false`로 바꿔요.
+
+## 멈춤 알림
+
+수집할 때마다 아래를 확인해서 디스코드로 알려줘요. (`config.yml`의 `discord.health_alerts`, `health_minutes`)
+
+- 직전 수집과 30분 넘게 벌어졌으면 → cron-job.org가 멈췄을 수 있어요
+- 사이트 배포가 30분 넘게 성공하지 못했으면 → 3시간마다 다시 알리고, 회복되면 한 번 알려요

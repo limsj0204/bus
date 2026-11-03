@@ -10,6 +10,7 @@ on:
       - scripts/fetch.py
       - scripts/icons.py
       - scripts/posts.py
+      - scripts/health.py
       - docs/**
       - .github/workflows/update.yml
 
@@ -49,11 +50,18 @@ jobs:
         run: python scripts/posts.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      - name: 상태 점검 (수집·배포가 멈추면 디스코드로 알림)
+        continue-on-error: true
+        run: python scripts/health.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GH_TOKEN: ${{ github.token }}
       - name: 변경 사항 저장
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data.json docs/icons
+          if [ -f state/health.json ]; then git add state/health.json; fi
           if [ -f docs/posts.json ]; then git add docs/posts.json; fi
           if git diff --cached --quiet; then
             echo "변경 없음"
