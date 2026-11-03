@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04 06:40",
+ "updated_at": "2026-11-04 06:45",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "211687097",
+   "type": "POST",
+   "title": "👙（；´д｀）ゞ",
+   "content": "저먼핀셔님♥️ 안녕하세요 저먼핀셔님! 양도끼입니다.이번에 방셀 전달이 늦어져서 너무나 죄송합니다다음에는 늦어지지 않게 촬영 후 바로 정리하는 식으로작업 호딱호딱 진행하겠습니닷!!!기다려주셔서 감사합니다🙇‍♀️💦",
+   "date": "2026-11-04 06:43:10",
+   "url": "https://www.sooplive.com/station/kkkh6107/post/211687097",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "kkkh6107",
+   "station_nick": "저먼핀셔",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/3/26475743/86001793739835173.png",
+   "photos": 3,
+   "views": 5,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "211686921",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "지넝아",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/7/26982917/11521793739747641.png",
    "photos": 3,
-   "views": 3,
+   "views": 7,
    "likes": 0,
    "comments": 0
   },
@@ -40,7 +57,7 @@
    "station_nick": "타요게임잘해",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/12420459/80111793738294111.png",
    "photos": 4,
-   "views": 17,
+   "views": 19,
    "likes": 1,
    "comments": 1
   },
@@ -57,7 +74,7 @@
    "station_nick": "하늘별품",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/8/18035398/73061793738410878.png",
    "photos": 3,
-   "views": 19,
+   "views": 21,
    "likes": 0,
    "comments": 0
   },
@@ -74,7 +91,7 @@
    "station_nick": "난제대로했어",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26541199/54521793738187121.png",
    "photos": 3,
-   "views": 13,
+   "views": 15,
    "likes": 0,
    "comments": 0
   },
@@ -91,7 +108,7 @@
    "station_nick": "쿠르팡",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/4/27881664/20161793737986479.png",
    "photos": 3,
-   "views": 16,
+   "views": 18,
    "likes": 0,
    "comments": 0
   },
@@ -261,7 +278,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 916,
+   "views": 917,
    "likes": 73,
    "comments": 12
   },
