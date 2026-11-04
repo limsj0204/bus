@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-04 19:05",
+ "updated_at": "2026-11-04 19:10",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-04 18:40:04",
+   "newest": "2026-11-04 19:05:49",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 18:00:39"
   },
@@ -128,6 +128,32 @@
  },
  "items": [
   {
+   "id": "211720849",
+   "type": "CLIP",
+   "title": "[클립]단츄는 합방하고 있고 도끼는 비방이고 렛트는 포맷하고.. 결딴섬",
+   "streamer_id": "abwtzwkbh42",
+   "streamer_nick": "새결",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/575/85a53039-6dd4-46b2-a193-b292d8995d3a/44372575_r.jpg",
+   "date": "2026-11-04 19:05:49",
+   "views": "7",
+   "duration": "2:56",
+   "url": "https://vod.afreecatv.com/player/211720849",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "",
+   "org_timestamp": "1793786749",
+   "broad_no": "298341451",
+   "b_title": "[클립]단츄는 합방하고 있고 도끼는 비방이고 렛트는 포맷하고.. 결딴섬",
+   "title_history": [],
+   "broad_title": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]",
+   "unedited": false
+  },
+  {
    "id": "211718683",
    "type": "CLIP",
    "title": "[한결 반응] 양도끼 티팬티 보는 한결",
@@ -135,7 +161,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/963/48ec288e-3674-4f77-82d3-dfef68040bd6/44371963_r.jpg",
    "date": "2026-11-04 18:40:04",
-   "views": "58",
+   "views": "61",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/211718683",
    "keywords": [
@@ -213,7 +239,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/985/b66fcac3-4204-422d-ad91-88bc84ae5a3e/44361985_r.jpg",
    "date": "2026-11-04 02:32:41",
-   "views": "187",
+   "views": "188",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211675911",
    "keywords": [
@@ -265,7 +291,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/181/13ff6e34-167b-4d5a-8055-df20aa0abc2b/21688181_r.jpg",
    "date": "2026-11-04 02:31:25",
-   "views": "178",
+   "views": "179",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/211675803",
    "keywords": [
@@ -551,7 +577,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "373",
+   "views": "374",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
