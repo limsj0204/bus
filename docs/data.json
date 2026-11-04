@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05 08:30",
+ "updated_at": "2026-11-05 08:35",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-05 06:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-05 02:46:28",
+   "newest": "2026-11-05 08:30:14",
    "backfill_days": 7,
    "last_rescan": "2026-11-05 06:00:40"
   }
@@ -127,9 +127,36 @@
   "298341451": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]",
   "298347493": "4주년 기념 해킹툴 머냐고 ㅡㅡ",
   "298340523": "오랜만에 단코한끼",
-  "298350831": "[머독] 착하게 살기 1일차"
+  "298350831": "[머독] 착하게 살기 1일차",
+  "298343157": "12시 젤다시간의오카리나 오픈런"
  },
  "items": [
+  {
+   "id": "211778495",
+   "type": "CATCH",
+   "title": "[민결희] 다들 지금 일어나셨나보네? 와 코렛트 와모닝, 와 양도끼, 와 마이곰이, 거대별, 한결, 최또, 와 빙밍도.., 와 문모모, 캬앙, 나나문..!",
+   "streamer_id": "wkdwn427",
+   "streamer_nick": "주장._.",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261105_21705951_1_r",
+   "date": "2026-11-05 08:30:14",
+   "views": "8",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/211778495",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "211777667",
+   "org_timestamp": "1793835014",
+   "broad_no": "298343157",
+   "b_title": "[민결희] 다들 지금 일어나셨나보네? 와 코렛트 와모닝, 와 양도끼, 와 마이곰이, 거대별, 한결, 최또, 와 빙밍도.., 와 문모모, 캬앙, 나나문..!",
+   "title_history": [],
+   "broad_title": "12시 젤다시간의오카리나 오픈런",
+   "unedited": false
+  },
   {
    "id": "211754331",
    "type": "CATCH",
@@ -138,7 +165,7 @@
    "streamer_nick": "참새였던둘기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261105/571/fe6dc2b9-6bbc-4922-8a21-a7325aa9c5b9/21702571_r.jpg",
    "date": "2026-11-05 00:22:44",
-   "views": "129",
+   "views": "130",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211754331",
    "keywords": [
@@ -164,7 +191,7 @@
    "streamer_nick": "양그라양",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261105/217/848b1028-104c-4b1e-bd0e-477b9feb5dc1/44382217_r.jpg",
    "date": "2026-11-05 00:07:59",
-   "views": "92",
+   "views": "93",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/211752781",
    "keywords": [
@@ -190,7 +217,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261105/163/0c02faf4-516f-4818-9f11-2b162dea69f0/44382163_r.jpg",
    "date": "2026-11-05 00:06:40",
-   "views": "114",
+   "views": "115",
    "duration": "4:13",
    "url": "https://vod.afreecatv.com/player/211752607",
    "keywords": [
@@ -268,7 +295,7 @@
    "streamer_nick": "아르발레오",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/433/37e84a83-fc8c-4339-8d77-2effa63392ed/21701433_r.jpg",
    "date": "2026-11-04 23:15:59",
-   "views": "181",
+   "views": "183",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/211747071",
    "keywords": [
@@ -450,7 +477,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/575/85a53039-6dd4-46b2-a193-b292d8995d3a/44372575_r.jpg",
    "date": "2026-11-04 19:05:49",
-   "views": "206",
+   "views": "208",
    "duration": "2:56",
    "url": "https://vod.afreecatv.com/player/211720849",
    "keywords": [
@@ -554,7 +581,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/985/b66fcac3-4204-422d-ad91-88bc84ae5a3e/44361985_r.jpg",
    "date": "2026-11-04 02:32:41",
-   "views": "235",
+   "views": "236",
    "duration": "4:59",
    "url": "https://vod.afreecatv.com/player/211675911",
    "keywords": [
