@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-04 21:30",
+ "updated_at": "2026-11-04 21:35",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-04 20:24:36",
+   "newest": "2026-11-04 21:33:36",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 21:00:41"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-04 18:04:16",
+   "newest": "2026-11-04 21:30:43",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 21:00:41"
   }
@@ -126,9 +126,88 @@
   "298342121": "롤.. 챔프 다시 해보기 [쌍룡파]",
   "298341451": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]",
   "298347493": "4주년 기념 해킹툴 머냐고 ㅡㅡ",
-  "298340523": "오랜만에 단코한끼"
+  "298340523": "오랜만에 단코한끼",
+  "298350831": "[머독] 착하게 살기 1일차"
  },
  "items": [
+  {
+   "id": "211735185",
+   "type": "CLIP",
+   "title": "[클립][머독 반응] 생일 축하 영상 - Champion 실패작 보여주는 양도끼",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/041/883e0171-7b15-4a35-b790-70e4e3caa360/44377041_r.jpg",
+   "date": "2026-11-04 21:33:36",
+   "views": "3",
+   "duration": "3:33",
+   "url": "https://vod.afreecatv.com/player/211735185",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793795616",
+   "broad_no": "298350831",
+   "b_title": "[클립][머독 반응] 생일 축하 영상 - Champion 실패작 보여주는 양도끼",
+   "title_history": [],
+   "broad_title": "[머독] 착하게 살기 1일차",
+   "unedited": false
+  },
+  {
+   "id": "211735155",
+   "type": "CLIP",
+   "title": "[클립]BLACKPINK - ‘Champion 실패작 & 양도끼: 정말 웃겼어 ㅋㅋ / 머독",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/031/6f78acc2-16d5-4f9c-966b-3d5b7493374e/44377031_r.jpg",
+   "date": "2026-11-04 21:33:20",
+   "views": "0",
+   "duration": "3:27",
+   "url": "https://vod.afreecatv.com/player/211735155",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793795600",
+   "broad_no": "298350831",
+   "b_title": "[클립]BLACKPINK - ‘Champion 실패작 & 양도끼: 정말 웃겼어 ㅋㅋ / 머독",
+   "title_history": [],
+   "broad_title": "[머독] 착하게 살기 1일차",
+   "unedited": false
+  },
+  {
+   "id": "211734907",
+   "type": "CATCH",
+   "title": "[캐치]강시 양도끼가 마음에 든 단발충 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/001/7f95bba2-1d9e-47df-8e36-beade32b6e8b/21699001_r.jpg",
+   "date": "2026-11-04 21:30:43",
+   "views": "1",
+   "duration": "0:14",
+   "url": "https://vod.afreecatv.com/player/211734907",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793795443",
+   "broad_no": "298350831",
+   "b_title": "[캐치]강시 양도끼가 마음에 든 단발충 머독",
+   "title_history": [],
+   "broad_title": "[머독] 착하게 살기 1일차",
+   "unedited": false
+  },
   {
    "id": "211727277",
    "type": "CLIP",
@@ -137,7 +216,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/491/7fffa3e0-64db-403f-b601-4f593d1e7f47/44374491_r.jpg",
    "date": "2026-11-04 20:17:48",
-   "views": "60",
+   "views": "61",
    "duration": "2:36",
    "url": "https://vod.afreecatv.com/player/211727277",
    "keywords": [
@@ -163,7 +242,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/477/5cb987d8-51e0-41aa-b976-ac81f5a943bf/44374477_r.jpg",
    "date": "2026-11-04 20:17:18",
-   "views": "46",
+   "views": "47",
    "duration": "2:36",
    "url": "https://vod.afreecatv.com/player/211727223",
    "keywords": [
@@ -215,7 +294,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/575/85a53039-6dd4-46b2-a193-b292d8995d3a/44372575_r.jpg",
    "date": "2026-11-04 19:05:49",
-   "views": "132",
+   "views": "134",
    "duration": "2:56",
    "url": "https://vod.afreecatv.com/player/211720849",
    "keywords": [
@@ -631,7 +710,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r&column=2&t=1793671928",
    "date": "2026-11-03 10:56:20",
-   "views": "883",
+   "views": "885",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211602519",
    "keywords": [
@@ -657,7 +736,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "387",
+   "views": "388",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
@@ -891,7 +970,7 @@
    "streamer_nick": "SBO월드컵",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21660795_1_r",
    "date": "2026-11-02 17:49:28",
-   "views": "110",
+   "views": "111",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/211528913",
    "keywords": [
@@ -969,7 +1048,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261102_21658371_1_r",
    "date": "2026-11-02 14:36:21",
-   "views": "197",
+   "views": "198",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/211516595",
    "keywords": [
