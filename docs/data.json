@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-04 20:15",
+ "updated_at": "2026-11-04 20:19",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-04 20:13:07",
+   "newest": "2026-11-04 20:17:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-04 18:00:39"
   },
@@ -124,9 +124,89 @@
   "298323085": "강만식 로이세끼2 탈출갑니다",
   "298339615": "아제로스를 위해 살기 D-1.... 유기한 카페 싹 훑기 [이브닛]",
   "298342121": "롤.. 챔프 다시 해보기 [쌍룡파]",
-  "298341451": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]"
+  "298341451": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]",
+  "298347493": "4주년 기념 해킹툴 머냐고 ㅡㅡ",
+  "298340523": "오랜만에 단코한끼"
  },
  "items": [
+  {
+   "id": "211727277",
+   "type": "CLIP",
+   "title": "[클립][단코한끼] 재데뷔 때문에 와우 포에버 많이 못 한다는 양도끼와 얀데레 스토커 단츄 / 코렛트 : 옵세션!",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/491/7fffa3e0-64db-403f-b601-4f593d1e7f47/44374491_r.jpg",
+   "date": "2026-11-04 20:17:48",
+   "views": "3",
+   "duration": "2:36",
+   "url": "https://vod.afreecatv.com/player/211727277",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "collet11"
+   ],
+   "origin_nick": "코렛트",
+   "org_title_no": "",
+   "org_timestamp": "1793791068",
+   "broad_no": "298347493",
+   "b_title": "[클립][단코한끼] 재데뷔 때문에 와우 포에버 많이 못 한다는 양도끼와 얀데레 스토커 단츄 / 코렛트 : 옵세션!",
+   "title_history": [],
+   "broad_title": "4주년 기념 해킹툴 머냐고 ㅡㅡ",
+   "unedited": false
+  },
+  {
+   "id": "211727223",
+   "type": "CLIP",
+   "title": "[클립][단코한끼] 재데뷔 때문에 와우 포에버 많이 못 한다는 양도끼와 얀데레 스토커 단츄 / 코렛트 : 옵세션!",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/477/5cb987d8-51e0-41aa-b976-ac81f5a943bf/44374477_r.jpg",
+   "date": "2026-11-04 20:17:18",
+   "views": "1",
+   "duration": "2:36",
+   "url": "https://vod.afreecatv.com/player/211727223",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "danchu17"
+   ],
+   "origin_nick": "단츄♪",
+   "org_title_no": "",
+   "org_timestamp": "1793791038",
+   "broad_no": "298340523",
+   "b_title": "[클립][단코한끼] 재데뷔 때문에 와우 포에버 많이 못 한다는 양도끼와 얀데레 스토커 단츄 / 코렛트 : 옵세션!",
+   "title_history": [],
+   "broad_title": "오랜만에 단코한끼",
+   "unedited": false
+  },
+  {
+   "id": "211727059",
+   "type": "CLIP",
+   "title": "[클립][단코한끼] 재데뷔 때문에 와우 포에버 많이 못 한다는 양도끼와 얀데레 스토커 단츄 / 코렛트 : 옵세션!",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261104/419/77579b64-16aa-4a93-b4d5-173191d375a4/44374419_r.jpg",
+   "date": "2026-11-04 20:15:37",
+   "views": "0",
+   "duration": "2:35",
+   "url": "https://vod.afreecatv.com/player/211727059",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "",
+   "org_timestamp": "1793790937",
+   "broad_no": "298341451",
+   "b_title": "[클립][단코한끼] 재데뷔 때문에 와우 포에버 많이 못 한다는 양도끼와 얀데레 스토커 단츄 / 코렛트 : 옵세션!",
+   "title_history": [],
+   "broad_title": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]",
+   "unedited": false
+  },
   {
    "id": "211720849",
    "type": "CLIP",
@@ -135,7 +215,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/575/85a53039-6dd4-46b2-a193-b292d8995d3a/44372575_r.jpg",
    "date": "2026-11-04 19:05:49",
-   "views": "98",
+   "views": "100",
    "duration": "2:56",
    "url": "https://vod.afreecatv.com/player/211720849",
    "keywords": [
@@ -161,7 +241,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/963/48ec288e-3674-4f77-82d3-dfef68040bd6/44371963_r.jpg",
    "date": "2026-11-04 18:40:04",
-   "views": "95",
+   "views": "96",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/211718683",
    "keywords": [
@@ -213,7 +293,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/197/49d8cac3-e4ab-421d-9239-90523d40bfab/44368197_r.jpg",
    "date": "2026-11-04 15:01:21",
-   "views": "74",
+   "views": "75",
    "duration": "1:20",
    "url": "https://vod.afreecatv.com/player/211703947",
    "keywords": [
@@ -473,7 +553,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/561/9d05a81d-f7c1-4481-91e0-e8c793b23237/44344561_r.jpg",
    "date": "2026-11-03 15:00:43",
-   "views": "68",
+   "views": "69",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/211612475",
    "keywords": [
@@ -551,7 +631,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r&column=2&t=1793671928",
    "date": "2026-11-03 10:56:20",
-   "views": "869",
+   "views": "870",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211602519",
    "keywords": [
@@ -577,7 +657,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "376",
+   "views": "379",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
@@ -681,7 +761,7 @@
    "streamer_nick": "델농",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261103/507/02fb42b6-a3fc-4932-85b2-ef76288631f5/44339507_r.jpg",
    "date": "2026-11-03 03:43:22",
-   "views": "371",
+   "views": "372",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/211589229",
    "keywords": [
