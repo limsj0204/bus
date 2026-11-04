@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-05 02:51",
+ "updated_at": "2026-11-05 02:55",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-05 02:30:37",
+   "newest": "2026-11-05 02:51:38",
    "backfill_days": 7,
    "last_rescan": "2026-11-05 00:00:46"
   },
@@ -268,7 +268,7 @@
    "streamer_nick": "아르발레오",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/433/37e84a83-fc8c-4339-8d77-2effa63392ed/21701433_r.jpg",
    "date": "2026-11-04 23:15:59",
-   "views": "33",
+   "views": "34",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/211747071",
    "keywords": [
@@ -320,7 +320,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/031/6f78acc2-16d5-4f9c-966b-3d5b7493374e/44377031_r.jpg",
    "date": "2026-11-04 21:33:20",
-   "views": "51",
+   "views": "52",
    "duration": "3:27",
    "url": "https://vod.afreecatv.com/player/211735155",
    "keywords": [
@@ -330,7 +330,7 @@
     "spbabobj"
    ],
    "origin_nick": "머독",
-   "org_title_no": "",
+   "org_title_no": "211765681",
    "org_timestamp": "1793795600",
    "broad_no": "298350831",
    "b_title": "[클립]BLACKPINK - ‘Champion 실패작 & 양도끼: 정말 웃겼어 ㅋㅋ / 머독",
@@ -580,7 +580,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/185/33d7e9ac-ce91-4348-8d58-7e9d762ffa74/21688185_r.jpg",
    "date": "2026-11-04 02:31:53",
-   "views": "144",
+   "views": "145",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/211675835",
    "keywords": [
@@ -658,7 +658,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/139/647c7852-15dd-40b5-8ddc-c06a59db2d4d/21688139_r.jpg",
    "date": "2026-11-04 02:27:49",
-   "views": "259",
+   "views": "260",
    "duration": "0:15",
    "url": "https://vod.afreecatv.com/player/211675527",
    "keywords": [
@@ -866,7 +866,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674763_1_r&column=2&t=1793671928",
    "date": "2026-11-03 10:56:20",
-   "views": "930",
+   "views": "932",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211602519",
    "keywords": [
@@ -918,7 +918,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_44341301_1_r",
    "date": "2026-11-03 08:30:13",
-   "views": "86",
+   "views": "87",
    "duration": "1:33",
    "url": "https://vod.afreecatv.com/player/211598239",
    "keywords": [
