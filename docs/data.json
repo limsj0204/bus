@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-06 03:10",
+ "updated_at": "2026-11-06 03:15",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-05 23:25:15",
+   "newest": "2026-11-06 03:09:52",
    "backfill_days": 7,
    "last_rescan": "2026-11-06 03:00:42"
   },
@@ -133,9 +133,36 @@
   "298371583": "드디어 와포 발매 / 오늘 새로나온 인던 가봅시다",
   "298373677": "조금 피곤한 청년",
   "298375791": "응가함",
-  "298380383": "와포 정말 그정돈가?? 5시간자고 기상"
+  "298380383": "와포 정말 그정돈가?? 5시간자고 기상",
+  "298363613": "RPG는 처음이라...💙 같이 와포하쟝!"
  },
  "items": [
+  {
+   "id": "211853677",
+   "type": "CLIP",
+   "title": "[클립]미르님 코렛트님 양도끼님 한결님 권민님 파티 와우 첫 인던 클리어",
+   "streamer_id": "nandy7an10",
+   "streamer_nick": "구칠사",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261106/317/85105fac-5bcb-4622-9562-8686d3ebcce2/44408317_r.jpg",
+   "date": "2026-11-06 03:09:52",
+   "views": "1",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/211853677",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "",
+   "org_timestamp": "1793902192",
+   "broad_no": "298363613",
+   "b_title": "[클립]미르님 코렛트님 양도끼님 한결님 권민님 파티 와우 첫 인던 클리어",
+   "title_history": [],
+   "broad_title": "RPG는 처음이라...💙 같이 와포하쟝!",
+   "unedited": false
+  },
   {
    "id": "211846049",
    "type": "CATCH",
@@ -144,7 +171,7 @@
    "streamer_nick": "참새였던둘기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/979/80ab8a2e-721a-4e62-b73e-fd131600f2e6/21718979_r.jpg",
    "date": "2026-11-06 01:16:17",
-   "views": "49",
+   "views": "50",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211846049",
    "keywords": [
@@ -274,7 +301,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261105_21705951_1_r",
    "date": "2026-11-05 08:30:14",
-   "views": "2311",
+   "views": "2318",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211778495",
    "keywords": [
