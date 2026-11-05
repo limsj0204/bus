@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-05 09:01",
+ "updated_at": "2026-11-05 09:05",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-05 08:15:38",
+   "newest": "2026-11-05 09:04:19",
    "backfill_days": 7,
    "last_rescan": "2026-11-05 09:00:41"
   },
@@ -139,7 +139,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261105_21705951_1_r",
    "date": "2026-11-05 08:30:14",
-   "views": "43",
+   "views": "47",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211778495",
    "keywords": [
@@ -165,7 +165,7 @@
    "streamer_nick": "참새였던둘기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261105/571/fe6dc2b9-6bbc-4922-8a21-a7325aa9c5b9/21702571_r.jpg",
    "date": "2026-11-05 00:22:44",
-   "views": "142",
+   "views": "143",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211754331",
    "keywords": [
@@ -212,7 +212,7 @@
   {
    "id": "211752607",
    "type": "CLIP",
-   "title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결",
+   "title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결 ( w. 단즈 민결희 따린 머독 )",
    "streamer_id": "hong5312",
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261105/163/0c02faf4-516f-4818-9f11-2b162dea69f0/44382163_r.jpg",
@@ -230,7 +230,7 @@
    "org_title_no": "211754969",
    "org_timestamp": "1793804800",
    "broad_no": "298341451",
-   "b_title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결",
+   "b_title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결 ( w. 단즈 민결희 따린 머독 )",
    "title_history": [],
    "broad_title": "아제로스 지키기 전 단코한끼 마지막 만남.,.. [이브닛]",
    "unedited": false
@@ -238,7 +238,7 @@
   {
    "id": "211752491",
    "type": "CLIP",
-   "title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결",
+   "title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결 ( w. 단즈 민결희 따린 머독 )",
    "streamer_id": "hong5312",
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261105/141/30ed30bc-c745-4f5c-a974-bda71e61363e/44382141_r.jpg",
@@ -256,7 +256,7 @@
    "org_title_no": "211755767",
    "org_timestamp": "1793804749",
    "broad_no": "298340523",
-   "b_title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결",
+   "b_title": "[클립]뉴 단결따박 vs 단코한끼 / 양도끼&코렛트&단츄&한결 ( w. 단즈 민결희 따린 머독 )",
    "title_history": [],
    "broad_title": "오랜만에 단코한끼",
    "unedited": false
@@ -373,7 +373,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/001/7f95bba2-1d9e-47df-8e36-beade32b6e8b/21699001_r.jpg",
    "date": "2026-11-04 21:30:43",
-   "views": "46",
+   "views": "47",
    "duration": "0:14",
    "url": "https://vod.afreecatv.com/player/211734907",
    "keywords": [
@@ -919,7 +919,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "413",
+   "views": "414",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
