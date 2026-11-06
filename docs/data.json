@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-06 20:10",
+ "updated_at": "2026-11-06 20:15",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-06 18:48:17",
+   "newest": "2026-11-06 20:13:42",
    "backfill_days": 7,
    "last_rescan": "2026-11-06 18:00:39"
   },
@@ -139,6 +139,32 @@
  },
  "items": [
   {
+   "id": "211901141",
+   "type": "CLIP",
+   "title": "[클립][미르 반응] 양도끼가 공개한 생일 축하 영상- Champion 실패작을 보는 머독 / 감동의 제로투 갈기는 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_44419323_1_r",
+   "date": "2026-11-06 20:13:42",
+   "views": "1",
+   "duration": "3:29",
+   "url": "https://vod.afreecatv.com/player/211901141",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "211856449",
+   "org_timestamp": "1793963622",
+   "broad_no": "298363613",
+   "b_title": "[클립][미르 반응] 양도끼가 공개한 생일 축하 영상- Champion 실패작을 보는 머독 / 감동의 제로투 갈기는 머독",
+   "title_history": [],
+   "broad_title": "RPG는 처음이라...💙 같이 와포하쟝!",
+   "unedited": false
+  },
+  {
    "id": "211893541",
    "type": "CLIP",
    "title": "[클립]벽에 끼인 양도끼 우왁굳 반응",
@@ -146,7 +172,7 @@
    "streamer_nick": "라트",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/211/18b32dcb-33ac-42c5-88db-4c2349da5280/44417211_r.jpg",
    "date": "2026-11-06 18:48:17",
-   "views": "34",
+   "views": "35",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/211893541",
    "keywords": [
@@ -172,7 +198,7 @@
    "streamer_nick": "달토스트",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/205/5017742e-5e3e-434a-b2fb-759a9427a13b/44417205_r.jpg",
    "date": "2026-11-06 18:48:06",
-   "views": "42",
+   "views": "44",
    "duration": "0:39",
    "url": "https://vod.afreecatv.com/player/211893525",
    "keywords": [
@@ -224,7 +250,7 @@
    "streamer_nick": "달토스트",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/007/f4a1be50-21e2-4b59-8201-83a35c9df585/44417007_r.jpg",
    "date": "2026-11-06 18:38:19",
-   "views": "35",
+   "views": "38",
    "duration": "0:49",
    "url": "https://vod.afreecatv.com/player/211892743",
    "keywords": [
@@ -250,7 +276,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_44410017_1_r",
    "date": "2026-11-06 07:22:18",
-   "views": "239",
+   "views": "240",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/211862699",
    "keywords": [
@@ -276,7 +302,7 @@
    "streamer_nick": "구칠사",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/317/85105fac-5bcb-4622-9562-8686d3ebcce2/44408317_r.jpg",
    "date": "2026-11-06 03:09:52",
-   "views": "224",
+   "views": "226",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/211853677",
    "keywords": [
@@ -432,7 +458,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261105_21705951_1_r",
    "date": "2026-11-05 08:30:14",
-   "views": "3709",
+   "views": "3714",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211778495",
    "keywords": [
@@ -666,7 +692,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/001/7f95bba2-1d9e-47df-8e36-beade32b6e8b/21699001_r.jpg",
    "date": "2026-11-04 21:30:43",
-   "views": "154",
+   "views": "155",
    "duration": "0:14",
    "url": "https://vod.afreecatv.com/player/211734907",
    "keywords": [
