@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-06 18:45",
+ "updated_at": "2026-11-06 18:50",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-06 18:38:47",
+   "newest": "2026-11-06 18:48:17",
    "backfill_days": 7,
    "last_rescan": "2026-11-06 18:00:39"
   },
@@ -139,6 +139,58 @@
  },
  "items": [
   {
+   "id": "211893541",
+   "type": "CLIP",
+   "title": "[클립]벽에 끼인 양도끼 우왁굳 반응",
+   "streamer_id": "atrat0",
+   "streamer_nick": "라트",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261106/211/18b32dcb-33ac-42c5-88db-4c2349da5280/44417211_r.jpg",
+   "date": "2026-11-06 18:48:17",
+   "views": "2",
+   "duration": "0:44",
+   "url": "https://vod.afreecatv.com/player/211893541",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1793958497",
+   "broad_no": "298393129",
+   "b_title": "[클립]벽에 끼인 양도끼 우왁굳 반응",
+   "title_history": [],
+   "broad_title": "할 말이 많습니다. 와포NEWS /  9시)신스멀게동",
+   "unedited": false
+  },
+  {
+   "id": "211893525",
+   "type": "CLIP",
+   "title": "[클립] 벽에 끼인 양도끼 보는 우왁굳 : 이게 와우야",
+   "streamer_id": "dbswlsgml920",
+   "streamer_nick": "달토스트",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261106/205/5017742e-5e3e-434a-b2fb-759a9427a13b/44417205_r.jpg",
+   "date": "2026-11-06 18:48:06",
+   "views": "3",
+   "duration": "0:39",
+   "url": "https://vod.afreecatv.com/player/211893525",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1793958486",
+   "broad_no": "298393129",
+   "b_title": "[클립] 벽에 끼인 양도끼 보는 우왁굳 : 이게 와우야",
+   "title_history": [],
+   "broad_title": "할 말이 많습니다. 와포NEWS /  9시)신스멀게동",
+   "unedited": false
+  },
+  {
    "id": "211892777",
    "type": "CLIP",
    "title": "[클립]왁굳형 쉴드쳐주는 양도끼 우왁굳 반응",
@@ -146,7 +198,7 @@
    "streamer_nick": "라트",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/013/34fbb961-bf1d-4d31-a939-f620bdacf2a8/44417013_r.jpg",
    "date": "2026-11-06 18:38:47",
-   "views": "4",
+   "views": "6",
    "duration": "0:50",
    "url": "https://vod.afreecatv.com/player/211892777",
    "keywords": [
@@ -172,7 +224,7 @@
    "streamer_nick": "달토스트",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/007/f4a1be50-21e2-4b59-8201-83a35c9df585/44417007_r.jpg",
    "date": "2026-11-06 18:38:19",
-   "views": "3",
+   "views": "6",
    "duration": "0:49",
    "url": "https://vod.afreecatv.com/player/211892743",
    "keywords": [
@@ -1160,7 +1212,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261103_21674005_1_r",
    "date": "2026-11-03 08:30:14",
-   "views": "449",
+   "views": "450",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/211598241",
    "keywords": [
