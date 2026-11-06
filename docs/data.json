@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-06 21:30",
+ "updated_at": "2026-11-06 21:35",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-06 20:13:42",
+   "newest": "2026-11-06 21:32:40",
    "backfill_days": 7,
    "last_rescan": "2026-11-06 21:00:43"
   },
@@ -135,9 +135,36 @@
   "298375791": "응가함",
   "298380383": "와포 정말 그정돈가?? 5시간자고 기상",
   "298363613": "RPG는 처음이라...💙 같이 와포하쟝!",
-  "298393129": "할 말이 많습니다. 와포NEWS /  9시)신스멀게동"
+  "298393129": "할 말이 많습니다. 와포NEWS /  9시)신스멀게동",
+  "298399353": "[머독] 나쁘게 살기 1일차;"
  },
  "items": [
+  {
+   "id": "211909085",
+   "type": "CLIP",
+   "title": "[클립][신물쇼] 치이카와 랜덤박스 - 누구에게 선물할지 고민하는 머독 (우정잉, 미르, 징버거, 양도끼)",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261106/855/c22df7cc-a72e-4955-b2e1-6a26d4082c39/44421855_r.jpg",
+   "date": "2026-11-06 21:32:40",
+   "views": "3",
+   "duration": "2:42",
+   "url": "https://vod.afreecatv.com/player/211909085",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1793968360",
+   "broad_no": "298399353",
+   "b_title": "[클립][신물쇼] 치이카와 랜덤박스 - 누구에게 선물할지 고민하는 머독 (우정잉, 미르, 징버거, 양도끼)",
+   "title_history": [],
+   "broad_title": "[머독] 나쁘게 살기 1일차;",
+   "unedited": false
+  },
   {
    "id": "211901141",
    "type": "CLIP",
@@ -146,7 +173,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_44419323_1_r",
    "date": "2026-11-06 20:13:42",
-   "views": "33",
+   "views": "36",
    "duration": "3:29",
    "url": "https://vod.afreecatv.com/player/211901141",
    "keywords": [
@@ -458,7 +485,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261105_21705951_1_r",
    "date": "2026-11-05 08:30:14",
-   "views": "3783",
+   "views": "3787",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211778495",
    "keywords": [
@@ -614,7 +641,7 @@
    "streamer_nick": "아르발레오",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/433/37e84a83-fc8c-4339-8d77-2effa63392ed/21701433_r.jpg",
    "date": "2026-11-04 23:15:59",
-   "views": "732",
+   "views": "733",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/211747071",
    "keywords": [
