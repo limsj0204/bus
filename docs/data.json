@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07 00:05",
+ "updated_at": "2026-11-07 00:10",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-07 00:00:46"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-06 10:00:03",
+   "newest": "2026-11-07 00:08:15",
    "backfill_days": 7,
    "last_rescan": "2026-11-07 00:00:46"
   }
@@ -136,9 +136,62 @@
   "298380383": "와포 정말 그정돈가?? 5시간자고 기상",
   "298363613": "RPG는 처음이라...💙 같이 와포하쟝!",
   "298393129": "할 말이 많습니다. 와포NEWS /  9시)신스멀게동",
-  "298399353": "[머독] 나쁘게 살기 1일차;"
+  "298399353": "[머독] 나쁘게 살기 1일차;",
+  "298387087": "와포 2일차 오늘은 폐사동과 폐광갈 준비"
  },
  "items": [
+  {
+   "id": "211922051",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 뭐야",
+   "streamer_id": "rlaalsdnr858",
+   "streamer_nick": "²밍누크",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261107/583/fda3cc83-87d1-414c-948d-54ca322a8fe9/21732583_r.jpg",
+   "date": "2026-11-07 00:08:15",
+   "views": "1",
+   "duration": "0:31",
+   "url": "https://vod.afreecatv.com/player/211922051",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "imha22"
+   ],
+   "origin_nick": "임하밍",
+   "org_title_no": "",
+   "org_timestamp": "1793977695",
+   "broad_no": "298387087",
+   "b_title": "[캐치]양도끼 뭐야",
+   "title_history": [],
+   "broad_title": "와포 2일차 오늘은 폐사동과 폐광갈 준비",
+   "unedited": false
+  },
+  {
+   "id": "211922019",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 뭐야",
+   "streamer_id": "rlaalsdnr858",
+   "streamer_nick": "²밍누크",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261107/579/463853ce-f91e-4794-9684-073db96abd07/21732579_r.jpg",
+   "date": "2026-11-07 00:07:58",
+   "views": "0",
+   "duration": "0:31",
+   "url": "https://vod.afreecatv.com/player/211922019",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "imha22"
+   ],
+   "origin_nick": "임하밍",
+   "org_title_no": "",
+   "org_timestamp": "1793977678",
+   "broad_no": "298387087",
+   "b_title": "[캐치]양도끼 뭐야",
+   "title_history": [],
+   "broad_title": "와포 2일차 오늘은 폐사동과 폐광갈 준비",
+   "unedited": false
+  },
   {
    "id": "211909085",
    "type": "CLIP",
@@ -485,7 +538,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261105_21705951_1_r",
    "date": "2026-11-05 08:30:14",
-   "views": "3889",
+   "views": "3891",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/211778495",
    "keywords": [
