@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08 20:25",
+ "updated_at": "2026-11-08 20:30",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212077733",
+   "type": "POST",
+   "title": "11/09 방송일정 미리안내~",
+   "content": "원래 예정되어있던 구플 촬영 방송이 스태프분의 개인사정으로(다행히 좋은일이더라구요)다음날 11/10(화) 저녁 9시쯤으로 변경되었습니다!저는 주말동안 산 좋고 물 좋은 템플스테이를 다녀왔는데요.밤하늘 별자리가 전부 보였던 장관을 잊지못하겠네요.왜냐면 그거빼고는(....) 기억에 남는 게 없어서요.그리고 돌아오는 길이 가관이었는데.. 거의 6시간이 넘게 걸렸...",
+   "date": "2026-11-08 20:29:02",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212077733",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 240,
+   "likes": 32,
+   "comments": 8
+  },
   {
    "id": "211815831",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1158,
+   "views": 1159,
    "likes": 77,
    "comments": 18
   },
