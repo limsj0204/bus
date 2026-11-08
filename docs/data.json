@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-08 20:30",
+ "updated_at": "2026-11-08 20:35",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-08 10:37:43",
+   "newest": "2026-11-08 20:33:23",
    "backfill_days": 7,
    "last_rescan": "2026-11-08 18:00:38"
   },
@@ -139,9 +139,62 @@
   "298399353": "[머독] 나쁘게 살기 1일차;",
   "298387087": "와포 2일차 오늘은 폐사동과 폐광갈 준비",
   "298419283": "[첫 24시간] 7시 숲 버추얼 콘서트 월드컵",
-  "298425551": "[머독] ㅇㅇ 안녕하세요 ㅇㅇ"
+  "298425551": "[머독] ㅇㅇ 안녕하세요 ㅇㅇ",
+  "298448129": "따린 등장!!"
  },
  "items": [
+  {
+   "id": "212078199",
+   "type": "CLIP",
+   "title": "[클립][따린 반응] 크루 종겜대결(뉴 단결따박(머독)vs단코한끼) 어떻게 뜰지 고민하는 단코한끼(양도끼&코렛트&단츄&한결) (2/2)",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261108/431/6cca8b64-541f-43a3-8ca8-1a244bf5385c/44463431_r.jpg",
+   "date": "2026-11-08 20:33:23",
+   "views": "2",
+   "duration": "0:38",
+   "url": "https://vod.afreecatv.com/player/212078199",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "",
+   "org_timestamp": "1794137603",
+   "broad_no": "298448129",
+   "b_title": "[클립][따린 반응] 크루 종겜대결(뉴 단결따박(머독)vs단코한끼) 어떻게 뜰지 고민하는 단코한끼(양도끼&코렛트&단츄&한결) (2/2)",
+   "title_history": [],
+   "broad_title": "따린 등장!!",
+   "unedited": false
+  },
+  {
+   "id": "212078095",
+   "type": "CLIP",
+   "title": "[클립][따린 반응] 크루 종겜대결(뉴 단결따박(머독)vs단코한끼) 어떻게 뜰지 고민하는 단코한끼(양도끼&코렛트&단츄&한결)",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261108/399/631f9da7-21c5-4119-96f4-5d67c25932de/44463399_r.jpg",
+   "date": "2026-11-08 20:32:27",
+   "views": "7",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/212078095",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "",
+   "org_timestamp": "1794137547",
+   "broad_no": "298448129",
+   "b_title": "[클립][따린 반응] 크루 종겜대결(뉴 단결따박(머독)vs단코한끼) 어떻게 뜰지 고민하는 단코한끼(양도끼&코렛트&단츄&한결)",
+   "title_history": [],
+   "broad_title": "따린 등장!!",
+   "unedited": false
+  },
   {
    "id": "212061295",
    "type": "CATCH",
@@ -174,7 +227,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261108_21753127_1_r",
    "date": "2026-11-08 09:14:40",
-   "views": "224",
+   "views": "228",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212035665",
    "keywords": [
@@ -200,7 +253,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261107/975/7e515497-98c4-487f-af7b-e4145d9dacd0/21743975_r.jpg",
    "date": "2026-11-07 20:47:13",
-   "views": "177",
+   "views": "178",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/211987231",
    "keywords": [
