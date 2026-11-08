@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08 17:15",
+ "updated_at": "2026-11-08 17:20",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-08 15:00:38"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-08 09:14:40",
+   "newest": "2026-11-08 17:19:21",
    "backfill_days": 7,
    "last_rescan": "2026-11-08 15:00:38"
   }
@@ -143,6 +143,30 @@
  },
  "items": [
   {
+   "id": "212061295",
+   "type": "CATCH",
+   "title": "[캐치]이상한 도끼를 든 이유",
+   "streamer_id": "catchttagae",
+   "streamer_nick": "값싼캐치따개",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261108_21758445_1_r",
+   "date": "2026-11-08 17:19:21",
+   "views": "0",
+   "duration": "0:22",
+   "url": "https://vod.afreecatv.com/player/212061295",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beautifulday"
+   ],
+   "origin_nick": "esy",
+   "org_title_no": "211067899",
+   "org_timestamp": "1794125961",
+   "broad_no": "298178395",
+   "b_title": "[캐치]이상한 도끼를 든 이유",
+   "title_history": []
+  },
+  {
    "id": "212035665",
    "type": "CATCH",
    "title": "[캐치]점프하다가 울타리 벽 안에 레전드로 끼인 양도끼 (양도끼임) / 우왁굳 반응",
@@ -150,7 +174,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261108_21753127_1_r",
    "date": "2026-11-08 09:14:40",
-   "views": "146",
+   "views": "150",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212035665",
    "keywords": [
@@ -176,7 +200,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261107/975/7e515497-98c4-487f-af7b-e4145d9dacd0/21743975_r.jpg",
    "date": "2026-11-07 20:47:13",
-   "views": "161",
+   "views": "164",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/211987231",
    "keywords": [
@@ -306,7 +330,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261106/855/c22df7cc-a72e-4955-b2e1-6a26d4082c39/44421855_r.jpg",
    "date": "2026-11-06 21:32:40",
-   "views": "222",
+   "views": "223",
    "duration": "2:42",
    "url": "https://vod.afreecatv.com/player/211909085",
    "keywords": [
@@ -1190,7 +1214,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261104/139/647c7852-15dd-40b5-8ddc-c06a59db2d4d/21688139_r.jpg",
    "date": "2026-11-04 02:27:49",
-   "views": "344",
+   "views": "346",
    "duration": "0:15",
    "url": "https://vod.afreecatv.com/player/211675527",
    "keywords": [
