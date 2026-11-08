@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08 17:20",
+ "updated_at": "2026-11-08 17:25",
  "keywords": [
   "도끼"
  ],
@@ -145,12 +145,12 @@
   {
    "id": "212061295",
    "type": "CATCH",
-   "title": "[캐치]이상한 도끼를 든 이유",
+   "title": "이상한 도끼를 든 이유",
    "streamer_id": "catchttagae",
    "streamer_nick": "값싼캐치따개",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261108_21758445_1_r",
    "date": "2026-11-08 17:19:21",
-   "views": "0",
+   "views": "2",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/212061295",
    "keywords": [
@@ -163,7 +163,7 @@
    "org_title_no": "211067899",
    "org_timestamp": "1794125961",
    "broad_no": "298178395",
-   "b_title": "[캐치]이상한 도끼를 든 이유",
+   "b_title": "이상한 도끼를 든 이유",
    "title_history": []
   },
   {
@@ -174,7 +174,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261108_21753127_1_r",
    "date": "2026-11-08 09:14:40",
-   "views": "150",
+   "views": "153",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212035665",
    "keywords": [
