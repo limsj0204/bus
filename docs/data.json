@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09 18:55",
+ "updated_at": "2026-11-09 19:00",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-09 18:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-09 17:45:40",
+   "newest": "2026-11-09 18:55:01",
    "backfill_days": 7,
    "last_rescan": "2026-11-09 18:00:42"
   }
@@ -230,7 +230,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261108/297/8a482ab1-4ddf-44c1-b9aa-2145a15d9241/44463297_r.jpg",
    "date": "2026-11-08 20:29:12",
-   "views": "941",
+   "views": "942",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212077765",
    "keywords": [
