@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09 17:15",
+ "updated_at": "2026-11-09 17:20",
  "keywords": [
   "도끼"
  ],
@@ -230,7 +230,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261108/297/8a482ab1-4ddf-44c1-b9aa-2145a15d9241/44463297_r.jpg",
    "date": "2026-11-08 20:29:12",
-   "views": "912",
+   "views": "914",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212077765",
    "keywords": [
@@ -270,7 +270,8 @@
    "org_timestamp": "1794125961",
    "broad_no": "298178395",
    "b_title": "이상한 도끼를 든 이유",
-   "title_history": []
+   "title_history": [],
+   "unedited": false
   },
   {
    "id": "212035665",
@@ -280,7 +281,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261108_21753127_1_r",
    "date": "2026-11-08 09:14:40",
-   "views": "777",
+   "views": "778",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212035665",
    "keywords": [
@@ -358,7 +359,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261107_21736083_1_r",
    "date": "2026-11-07 09:46:45",
-   "views": "1013",
+   "views": "1014",
    "duration": "0:50",
    "url": "https://vod.afreecatv.com/player/211946355",
    "keywords": [
@@ -384,7 +385,7 @@
    "streamer_nick": "²밍누크",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261107/583/fda3cc83-87d1-414c-948d-54ca322a8fe9/21732583_r.jpg",
    "date": "2026-11-07 00:08:15",
-   "views": "437",
+   "views": "438",
    "duration": "0:31",
    "url": "https://vod.afreecatv.com/player/211922051",
    "keywords": [
