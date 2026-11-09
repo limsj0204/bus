@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09 14:15",
+ "updated_at": "2026-11-09 14:20",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212137243",
+   "type": "POST",
+   "title": "4시쯤에 올게요!",
+   "content": "일이좀 생겼사ㅜㅜ기둘!!",
+   "date": "2026-11-09 14:19:20",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212137243",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 81,
+   "likes": 19,
+   "comments": 6
+  },
   {
    "id": "212077733",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2054,
+   "views": 2065,
    "likes": 143,
    "comments": 23
   },
