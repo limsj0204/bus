@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-10 06:40",
+ "updated_at": "2026-11-10 06:45",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-10 06:17:35",
+   "newest": "2026-11-10 06:40:50",
    "backfill_days": 7,
    "last_rescan": "2026-11-10 06:00:42"
   },
@@ -180,7 +180,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/385/06c53bff-f590-4102-b6bb-3053980628ed/44481385_r.jpg",
    "date": "2026-11-09 19:11:26",
-   "views": "1037",
+   "views": "1038",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/212155853",
    "keywords": [
@@ -206,7 +206,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "1510",
+   "views": "1512",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
@@ -439,7 +439,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261107_21736083_1_r",
    "date": "2026-11-07 09:46:45",
-   "views": "1030",
+   "views": "1031",
    "duration": "0:50",
    "url": "https://vod.afreecatv.com/player/211946355",
    "keywords": [
