@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-10 02:00",
+ "updated_at": "2026-11-10 02:05",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-09 20:49:09",
+   "newest": "2026-11-10 02:04:11",
    "backfill_days": 7,
    "last_rescan": "2026-11-10 00:00:44"
   },
@@ -142,9 +142,36 @@
   "298425551": "[머독] ㅇㅇ 안녕하세요 ㅇㅇ",
   "298448129": "따린 등장!!",
   "298446459": "올라프 장인을 꿈꾼다",
-  "298468645": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다"
+  "298468645": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
+  "298466847": "11시) 왁치동 분들과 지하감옥"
  },
  "items": [
+  {
+   "id": "212195681",
+   "type": "CLIP",
+   "title": "[클립]본인 소환수랑 대화하는 도끼님 보는 왁굳형",
+   "streamer_id": "hita0930",
+   "streamer_nick": "Chan_찬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261110/677/cd39573f-8043-4fcf-9cdb-b32ad72eb976/44492677_r.jpg",
+   "date": "2026-11-10 02:04:11",
+   "views": "0",
+   "duration": "0:35",
+   "url": "https://vod.afreecatv.com/player/212195681",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1794243851",
+   "broad_no": "298466847",
+   "b_title": "[클립]본인 소환수랑 대화하는 도끼님 보는 왁굳형",
+   "title_history": [],
+   "broad_title": "11시) 왁치동 분들과 지하감옥",
+   "unedited": false
+  },
   {
    "id": "212155853",
    "type": "CLIP",
@@ -153,7 +180,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/385/06c53bff-f590-4102-b6bb-3053980628ed/44481385_r.jpg",
    "date": "2026-11-09 19:11:26",
-   "views": "976",
+   "views": "977",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/212155853",
    "keywords": [
@@ -179,7 +206,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "1369",
+   "views": "1378",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
@@ -283,7 +310,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261108/297/8a482ab1-4ddf-44c1-b9aa-2145a15d9241/44463297_r.jpg",
    "date": "2026-11-08 20:29:12",
-   "views": "991",
+   "views": "992",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212077765",
    "keywords": [
