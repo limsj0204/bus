@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10 19:30",
+ "updated_at": "2026-11-10 19:35",
  "keywords": [
   "도끼"
  ],
@@ -10,7 +10,7 @@
    "last_rescan": "2026-11-10 18:00:41"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-10 10:40:28",
+   "newest": "2026-11-10 19:31:26",
    "backfill_days": 7,
    "last_rescan": "2026-11-10 18:00:41"
   }
@@ -145,9 +145,36 @@
   "298468645": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
   "298466847": "11시) 왁치동 분들과 지하감옥",
   "292107857": "버조디아 너덜트 유현규 대기방",
-  "298488113": "오늘은 와우를 할수도 있고 안할수도 있습니다"
+  "298488113": "오늘은 와우를 할수도 있고 안할수도 있습니다",
+  "298467897": "【26.11.09】와우 포에버 5일차 (폐광w.양도끼 / 통곡의 동굴 w.김마렌, 설레지히, 미스정)"
  },
  "items": [
+  {
+   "id": "212242599",
+   "type": "CATCH",
+   "title": "[캐치]사제 마나 챙겨주는 양도끼 / 채두나 반응",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261110_21793283_1_r",
+   "date": "2026-11-10 19:31:26",
+   "views": "0",
+   "duration": "0:36",
+   "url": "https://vod.afreecatv.com/player/212242599",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "chaeduna"
+   ],
+   "origin_nick": "채두나",
+   "org_title_no": "212202903",
+   "org_timestamp": "1794306686",
+   "broad_no": "298467897",
+   "b_title": "[캐치]사제 마나 챙겨주는 양도끼 / 채두나 반응",
+   "title_history": [],
+   "broad_title": "【26.11.09】와우 포에버 5일차 (폐광w.양도끼 / 통곡의 동굴 w.김마렌, 설레지히, 미스정)",
+   "unedited": false
+  },
   {
    "id": "212227769",
    "type": "CLIP",
@@ -156,7 +183,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261110_991_963c22e4-996b-4f83-b915-586734bd3ae1_44499991_r&column=2&t=1794295537",
    "date": "2026-11-10 16:22:29",
-   "views": "136",
+   "views": "139",
    "duration": "1:04",
    "url": "https://vod.afreecatv.com/player/212227769",
    "keywords": [
@@ -234,7 +261,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261110_21786753_1_r",
    "date": "2026-11-10 10:40:28",
-   "views": "378",
+   "views": "380",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/212212703",
    "keywords": [
@@ -286,7 +313,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/385/06c53bff-f590-4102-b6bb-3053980628ed/44481385_r.jpg",
    "date": "2026-11-09 19:11:26",
-   "views": "1147",
+   "views": "1148",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/212155853",
    "keywords": [
@@ -312,7 +339,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "1929",
+   "views": "1931",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
