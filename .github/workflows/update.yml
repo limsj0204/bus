@@ -79,8 +79,22 @@ jobs:
           fi
       - name: 사이트 배포 방식 확인
         id: pages
-        # Settings → Pages의 Source가 'GitHub Actions'일 때만 아래 배포 단계를 실행한다.
-        run: echo "type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null || echo none)" >> "$GITHUB_OUTPUT"
+        # Settings → Pages의 Source가 'GitHub Actions'이고, 배포할 필요가 있을 때만 아래 배포 단계를 실행한다.
+        # 목록(data.json·posts.json)은 사이트가 저장소 원본에서 직접 읽으므로, 화면 파일이 바뀌었을 때만
+        # 배포하고 예비용으로 한 시간에 한 번 배포한다. (GitHub Pages 대기열이 막혀도 영향을 덜 받음)
+        run: |
+          type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null || echo none)
+          if [ "$type" = "workflow" ]; then
+            need=no
+            for f in index.html sw.js manifest.webmanifest; do
+              live=$(curl -fsSL "https://limsj0204.github.io/bus/${f}?t=$(date +%s)" 2>/dev/null | sha256sum | cut -c1-64)
+              mine=$(sha256sum "docs/${f}" | cut -c1-64)
+              if [ "$live" != "$mine" ]; then echo "${f} 바뀜 → 배포"; need=yes; fi
+            done
+            if [ "$(date -u +%M)" -lt 5 ]; then echo "정각 예비 배포"; need=yes; fi
+            if [ "$need" = "yes" ]; then type=workflow; else type=skip; echo "배포할 것 없음"; fi
+          fi
+          echo "type=$type" >> "$GITHUB_OUTPUT"
         env:
           GH_TOKEN: ${{ github.token }}
       - name: 멈춘 배포 정리
@@ -110,9 +124,9 @@ jobs:
       - name: 사이트 배포
         id: deployment
         if: steps.pages.outputs.type == 'workflow'
-        # 평소 10초 안에 끝난다. GitHub Pages 쪽이 멈추면 오래 붙잡지 않고, 실행 전체를
-        # 실패로 만들지도 않는다. (수집 결과는 이미 저장돼 있어서 다음 실행 때 다시 배포됨)
+        # 평소 10초 안에 끝나지만 GitHub Pages 대기열이 밀리면 몇 분 걸린다. 배포가 드물어서 10분까지 기다린다.
+        # 실패해도 실행 전체를 실패로 만들지 않는다. (다음 실행이 다시 배포함)
         continue-on-error: true
         uses: actions/deploy-pages@v4
         with:
-          timeout: 180000
+          timeout: 600000

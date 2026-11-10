@@ -18,6 +18,8 @@ KST = timezone(timedelta(hours=9))
 FORMAT = "%Y-%m-%d %H:%M:%S"
 # 배포가 계속 안 될 때 다시 알리는 간격
 REMIND_EVERY = timedelta(hours=3)
+# 사이트 배포는 화면 파일이 바뀔 때와 한 시간에 한 번만 하므로, 이보다 오래 성공이 없을 때만 알린다.
+DEPLOY_LIMIT = timedelta(hours=2)
 
 
 def github(path):
@@ -93,11 +95,11 @@ def main():
     if success is not None:
         age = now - success
         alerted = state.get("deploy_alert_at")
-        if age > limit:
+        if age > max(limit, DEPLOY_LIMIT):
             if not alerted or now - datetime.strptime(alerted, FORMAT) >= REMIND_EVERY:
                 say(
                     f"⚠️ 사이트 배포가 **{minutes(age)}분째** 안 되고 있어요 (마지막 성공: {success.strftime('%m-%d %H:%M')}).\n"
-                    "수집과 알림은 계속 돌고 있고, GitHub Pages가 회복되면 자동으로 다시 배포돼요."
+                    "수집과 알림, 사이트 목록 갱신은 계속 되고 있어요. 화면 파일 변경만 GitHub Pages가 회복되면 반영돼요."
                 )
                 state["deploy_alert_at"] = now.strftime(FORMAT)
         elif alerted:
