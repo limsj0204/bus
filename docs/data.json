@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-10 16:20",
+ "updated_at": "2026-11-10 16:25",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-10 15:42:35",
+   "newest": "2026-11-10 16:22:29",
    "backfill_days": 7,
    "last_rescan": "2026-11-10 15:00:40"
   },
@@ -144,9 +144,36 @@
   "298446459": "올라프 장인을 꿈꾼다",
   "298468645": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
   "298466847": "11시) 왁치동 분들과 지하감옥",
-  "292107857": "버조디아 너덜트 유현규 대기방"
+  "292107857": "버조디아 너덜트 유현규 대기방",
+  "298488113": "오늘은 와우를 할수도 있고 안할수도 있습니다"
  },
  "items": [
+  {
+   "id": "212227769",
+   "type": "CLIP",
+   "title": "[클립]길들이던 집게발을 죽여버려서 비명 지르는 양도끼 / 하치 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261110/991/963c22e4-996b-4f83-b915-586734bd3ae1/44499991_r.jpg",
+   "date": "2026-11-10 16:22:29",
+   "views": "4",
+   "duration": "1:04",
+   "url": "https://vod.afreecatv.com/player/212227769",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "",
+   "org_timestamp": "1794295349",
+   "broad_no": "298488113",
+   "b_title": "[클립]길들이던 집게발을 죽여버려서 비명 지르는 양도끼 / 하치 반응",
+   "title_history": [],
+   "broad_title": "오늘은 와우를 할수도 있고 안할수도 있습니다",
+   "unedited": false
+  },
   {
    "id": "212225357",
    "type": "CLIP",
@@ -155,7 +182,7 @@
    "streamer_nick": "Tissues",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44499309_1_r",
    "date": "2026-11-10 15:42:35",
-   "views": "5",
+   "views": "6",
    "duration": "3:43",
    "url": "https://vod.afreecatv.com/player/212225357",
    "keywords": [
@@ -181,7 +208,7 @@
    "streamer_nick": "파랑냥냥._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44497719_1_r",
    "date": "2026-11-10 13:24:04",
-   "views": "134",
+   "views": "137",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/212218321",
    "keywords": [
@@ -207,7 +234,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261110_21786753_1_r",
    "date": "2026-11-10 10:40:28",
-   "views": "184",
+   "views": "191",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/212212703",
    "keywords": [
@@ -285,7 +312,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "1816",
+   "views": "1820",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
