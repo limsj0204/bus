@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10 13:05",
+ "updated_at": "2026-11-10 13:10",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212217659",
+   "type": "POST",
+   "title": "오뱅은 구플이당 ㅋㅋ!",
+   "content": "잠도 잘 잤고 ..할 것도 많군 ..저는 구플 촬영뱅! 9시에 올게용~~~",
+   "date": "2026-11-10 13:08:09",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212217659",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 90,
+   "likes": 19,
+   "comments": 9
+  },
   {
    "id": "212137243",
    "type": "POST",
