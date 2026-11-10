@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-10 15:40",
+ "updated_at": "2026-11-10 15:45",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-10 13:24:04",
+   "newest": "2026-11-10 15:42:35",
    "backfill_days": 7,
    "last_rescan": "2026-11-10 15:00:40"
   },
@@ -143,9 +143,36 @@
   "298448129": "따린 등장!!",
   "298446459": "올라프 장인을 꿈꾼다",
   "298468645": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
-  "298466847": "11시) 왁치동 분들과 지하감옥"
+  "298466847": "11시) 왁치동 분들과 지하감옥",
+  "292107857": "버조디아 너덜트 유현규 대기방"
  },
  "items": [
+  {
+   "id": "212225357",
+   "type": "CLIP",
+   "title": "[클립]아바타요 주술회전 AI 콜라보 팬메이드 영상 - 미르님&양도끼님 반응",
+   "streamer_id": "donghun0119",
+   "streamer_nick": "Tissues",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44499309_1_r",
+   "date": "2026-11-10 15:42:35",
+   "views": "2",
+   "duration": "3:43",
+   "url": "https://vod.afreecatv.com/player/212225357",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "188698023",
+   "org_timestamp": "1794292955",
+   "broad_no": "292107857",
+   "b_title": "[클립]아바타요 주술회전 AI 콜라보 팬메이드 영상 - 미르님&양도끼님 반응",
+   "title_history": [],
+   "broad_title": "버조디아 너덜트 유현규 대기방",
+   "unedited": false
+  },
   {
    "id": "212218321",
    "type": "CLIP",
@@ -154,7 +181,7 @@
    "streamer_nick": "파랑냥냥._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44497719_1_r",
    "date": "2026-11-10 13:24:04",
-   "views": "111",
+   "views": "117",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/212218321",
    "keywords": [
@@ -180,7 +207,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261110_21786753_1_r",
    "date": "2026-11-10 10:40:28",
-   "views": "139",
+   "views": "154",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/212212703",
    "keywords": [
@@ -232,7 +259,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/385/06c53bff-f590-4102-b6bb-3053980628ed/44481385_r.jpg",
    "date": "2026-11-09 19:11:26",
-   "views": "1130",
+   "views": "1131",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/212155853",
    "keywords": [
@@ -258,7 +285,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "1800",
+   "views": "1801",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
