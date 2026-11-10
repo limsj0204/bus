@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-11 03:20",
+ "updated_at": "2026-11-11 03:25",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-11 03:18:24",
+   "newest": "2026-11-11 03:20:51",
    "backfill_days": 7,
    "last_rescan": "2026-11-11 03:00:43"
   },
@@ -148,9 +148,36 @@
   "298488113": "오늘은 와우를 할수도 있고 안할수도 있습니다",
   "298467897": "【26.11.09】와우 포에버 5일차 (폐광w.양도끼 / 통곡의 동굴 w.김마렌, 설레지히, 미스정)",
   "298494499": "따린 후후여르",
-  "298500377": "다들 노래 어떠셨나염~~"
+  "298500377": "다들 노래 어떠셨나염~~",
+  "298503335": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여"
  },
  "items": [
+  {
+   "id": "212288399",
+   "type": "CLIP",
+   "title": "[클립][릴파 반응] AI 팬영상 (민결희, 따린, 단즈, 양도끼, 최또, 머독) - REBELS (이세계아이돌)",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44516737_1_r",
+   "date": "2026-11-11 03:20:51",
+   "views": "12",
+   "duration": "2:20",
+   "url": "https://vod.afreecatv.com/player/212288399",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "212280861",
+   "org_timestamp": "1794334851",
+   "broad_no": "298503335",
+   "b_title": "[클립][릴파 반응] AI 팬영상 (민결희, 따린, 단즈, 양도끼, 최또, 머독) - REBELS (이세계아이돌)",
+   "title_history": [],
+   "broad_title": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
+   "unedited": false
+  },
   {
    "id": "212288273",
    "type": "CLIP",
@@ -159,7 +186,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44516719_1_r",
    "date": "2026-11-11 03:18:24",
-   "views": "0",
+   "views": "7",
    "duration": "2:23",
    "url": "https://vod.afreecatv.com/player/212288273",
    "keywords": [
@@ -185,7 +212,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44516673_1_r",
    "date": "2026-11-11 03:14:01",
-   "views": "9",
+   "views": "10",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/212288043",
    "keywords": [
@@ -289,7 +316,7 @@
    "streamer_nick": "안척추",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/691/f0e33caf-3f1e-46c4-ab86-64d6273e366e/44512691_r.jpg",
    "date": "2026-11-11 00:10:37",
-   "views": "245",
+   "views": "248",
    "duration": "2:19",
    "url": "https://vod.afreecatv.com/player/212272193",
    "keywords": [
@@ -315,7 +342,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/239/7bf05558-e4c4-416b-9f70-d138b5cb6ab8/44512239_r.jpg",
    "date": "2026-11-11 00:01:27",
-   "views": "317",
+   "views": "320",
    "duration": "3:19",
    "url": "https://vod.afreecatv.com/player/212270761",
    "keywords": [
@@ -445,7 +472,7 @@
    "streamer_nick": "파랑냥냥._.",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44497719_1_r",
    "date": "2026-11-10 13:24:04",
-   "views": "418",
+   "views": "419",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/212218321",
    "keywords": [
@@ -471,7 +498,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261110_21786753_1_r",
    "date": "2026-11-10 10:40:28",
-   "views": "582",
+   "views": "586",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/212212703",
    "keywords": [
