@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-10 13:25",
+ "updated_at": "2026-11-10 13:30",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-10 06:40:50",
+   "newest": "2026-11-10 13:24:04",
    "backfill_days": 7,
    "last_rescan": "2026-11-10 12:00:42"
   },
@@ -147,6 +147,32 @@
  },
  "items": [
   {
+   "id": "212218321",
+   "type": "CLIP",
+   "title": "REBELS AI (ft.따린, 양도끼, 단즈, 최또, 머독) / 민결희 반응",
+   "streamer_id": "ssfw0410",
+   "streamer_nick": "파랑냥냥._.",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44497719_1_r",
+   "date": "2026-11-10 13:24:04",
+   "views": "8",
+   "duration": "1:26",
+   "url": "https://vod.afreecatv.com/player/212218321",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212207005",
+   "org_timestamp": "1794284644",
+   "broad_no": "298468645",
+   "b_title": "REBELS AI (ft.따린, 양도끼, 단즈, 최또, 머독) / 민결희 반응",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
+   "unedited": false
+  },
+  {
    "id": "212212703",
    "type": "CATCH",
    "title": "[캐치]양도끼 소환수 보고 감탄하는 왁굳",
@@ -232,7 +258,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "1741",
+   "views": "1743",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
