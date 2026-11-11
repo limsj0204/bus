@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11 13:35",
+ "updated_at": "2026-11-11 13:40",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212309411",
+   "type": "POST",
+   "title": "11/11 원래 휴방인데 방송안내🍪",
+   "content": "..하기전에12시전까지 와포 20레벨이 23레벨 찍으려면 여유잡아서 몇시간 걸릴까요? 이거에 따라 방송시간 결정될 예정.24 - (레벨링 시간(?) + 2시간 예열토크) = 뱅온시간기억해두도록.",
+   "date": "2026-11-11 13:37:49",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212309411",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 170,
+   "likes": 24,
+   "comments": 5
+  },
   {
    "id": "212217659",
    "type": "POST",
