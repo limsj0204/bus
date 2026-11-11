@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12 06:02",
+ "updated_at": "2026-11-12 06:06",
  "keywords": [
   "도끼"
  ],
@@ -7,12 +7,12 @@
   "도끼|CLIP": {
    "newest": "2026-11-11 21:21:23",
    "backfill_days": 7,
-   "last_rescan": "2026-11-12 06:02:32"
+   "last_rescan": "2026-11-12 06:06:25"
   },
   "도끼|CATCH": {
    "newest": "2026-11-12 05:41:46",
    "backfill_days": 7,
-   "last_rescan": "2026-11-12 06:02:32"
+   "last_rescan": "2026-11-12 06:06:25"
   }
  },
  "broad_titles": {
@@ -162,7 +162,7 @@
    "streamer_nick": "편지받는4월",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/313/2c64f5ef-75c7-4550-beb3-d1f038cbc4d1/21815313_r.jpg",
    "date": "2026-11-11 21:14:47",
-   "views": "1",
+   "views": "2",
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/212346879",
    "keywords": [
@@ -656,7 +656,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261110_21786753_1_r",
    "date": "2026-11-10 10:40:28",
-   "views": "895",
+   "views": "896",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/212212703",
    "keywords": [
