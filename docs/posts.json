@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11 18:35",
+ "updated_at": "2026-11-11 18:40",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212329605",
+   "type": "POST",
+   "title": "환장할얘기해줄게",
+   "content": "방송에서 ㅇㅇ근데 진짜 내가 지금 환장할 거 같아서 한시간만 쉬다옴니다8시에 보자...",
+   "date": "2026-11-11 18:36:46",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212329605",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 453,
+   "likes": 60,
+   "comments": 8
+  },
   {
    "id": "212309411",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1220,
+   "views": 1236,
    "likes": 99,
    "comments": 21
   },
