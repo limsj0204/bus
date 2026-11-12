@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-12 17:40",
+ "updated_at": "2026-11-12 17:45",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-11 21:21:23",
+   "newest": "2026-11-12 17:42:46",
    "backfill_days": 7,
    "last_rescan": "2026-11-12 15:00:39"
   },
@@ -151,9 +151,36 @@
   "298500377": "다들 노래 어떠셨나염~~",
   "298503335": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
   "298509507": "[영웅👑]서든 셀리 나도 쥬아행 빼빼로 ♥뚱이옵빵♥",
-  "298515609": "친해지길 바래 (w. 하루네, 찌밍)"
+  "298515609": "친해지길 바래 (w. 하루네, 찌밍)",
+  "298538807": "1부 블점 일본 여행 관찰자 시점 후기 2부 커버곡 최초공개 3부 카페 4부 화양님 미스테리 5부 취침"
  },
  "items": [
+  {
+   "id": "212419953",
+   "type": "CLIP",
+   "title": "[클립]로니가 그려준 블점 프사 보여주는 도끼 로하 반응 / 현재 디코 프사",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261112/107/c7ea4555-ff51-45e5-8c09-ede0328e531a/44549107_r.jpg",
+   "date": "2026-11-12 17:42:46",
+   "views": "1",
+   "duration": "2:59",
+   "url": "https://vod.afreecatv.com/player/212419953",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "haroha"
+   ],
+   "origin_nick": "하로하!",
+   "org_title_no": "",
+   "org_timestamp": "1794472966",
+   "broad_no": "298538807",
+   "b_title": "[클립]로니가 그려준 블점 프사 보여주는 도끼 로하 반응 / 현재 디코 프사",
+   "title_history": [],
+   "broad_title": "1부 블점 일본 여행 관찰자 시점 후기 2부 커버곡 최초공개 3부 카페 4부 화양님 미스테리 5부 취침",
+   "unedited": false
+  },
   {
    "id": "212346879",
    "type": "CATCH",
@@ -214,7 +241,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44517141_1_r&column=2&t=1794339041",
    "date": "2026-11-11 04:19:27",
-   "views": "651",
+   "views": "652",
    "duration": "2:15",
    "url": "https://vod.afreecatv.com/player/212290953",
    "keywords": [
@@ -318,7 +345,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/269/7662efce-9255-4ef3-9370-f08ef08d8531/44513269_r.jpg",
    "date": "2026-11-11 00:27:38",
-   "views": "1760",
+   "views": "1761",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/212274169",
    "keywords": [
@@ -448,7 +475,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/679/71bece90-c7c0-4e0d-be54-f3d8e312dcfd/44512679_r.jpg",
    "date": "2026-11-11 00:10:29",
-   "views": "1242",
+   "views": "1245",
    "duration": "2:16",
    "url": "https://vod.afreecatv.com/player/212272167",
    "keywords": [
@@ -474,7 +501,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/471/63e5b072-f72a-42eb-b70c-598d174a45e9/44512471_r.jpg",
    "date": "2026-11-11 00:06:24",
-   "views": "1847",
+   "views": "1849",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/212271533",
    "keywords": [
@@ -578,7 +605,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261110_991_963c22e4-996b-4f83-b915-586734bd3ae1_44499991_r&column=2&t=1794295537",
    "date": "2026-11-10 16:22:29",
-   "views": "312",
+   "views": "313",
    "duration": "1:04",
    "url": "https://vod.afreecatv.com/player/212227769",
    "keywords": [
@@ -734,7 +761,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/365/e3d586bd-1d9a-45dd-8838-93b3da2a6d84/44481365_r.jpg",
    "date": "2026-11-09 19:10:44",
-   "views": "2371",
+   "views": "2372",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212155777",
    "keywords": [
