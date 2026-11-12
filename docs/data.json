@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-13 01:00",
+ "updated_at": "2026-11-13 01:05",
  "keywords": [
   "도끼"
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-12 23:59:49",
+   "newest": "2026-11-13 01:01:54",
    "backfill_days": 7,
    "last_rescan": "2026-11-13 00:00:46"
   },
@@ -158,9 +158,36 @@
   "298543815": "1440데뷔 ^_^ 아놔 다시 켯어요;;;",
   "298537225": "여행다녀왔더니 감기걸린것같애요",
   "298544069": "9시) VR챗 품앗이 동아리 - 햇비",
-  "298542519": "지하감옥 던전!!! [양도끼 다키 카우리 수박]"
+  "298542519": "지하감옥 던전!!! [양도끼 다키 카우리 수박]",
+  "298536353": "예열 와우 챱챱 + 브품동 풀트로 모입니다!! [햇비편]"
  },
  "items": [
+  {
+   "id": "212461893",
+   "type": "CLIP",
+   "title": "[클립]Ai REBELS 단결따끼또독 / 단즈 ( w. 민결희 따린 양도끼 최또 머독 )",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_44561009_1_r",
+   "date": "2026-11-13 01:01:54",
+   "views": "3",
+   "duration": "1:31",
+   "url": "https://vod.afreecatv.com/player/212461893",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "danz59"
+   ],
+   "origin_nick": "단즈_",
+   "org_title_no": "212459501",
+   "org_timestamp": "1794499314",
+   "broad_no": "298536353",
+   "b_title": "[클립]Ai REBELS 단결따끼또독 / 단즈 ( w. 민결희 따린 양도끼 최또 머독 )",
+   "title_history": [],
+   "broad_title": "예열 와우 챱챱 + 브품동 풀트로 모입니다!! [햇비편]",
+   "unedited": false
+  },
   {
    "id": "212443035",
    "type": "CATCH",
@@ -221,7 +248,7 @@
    "streamer_nick": "라트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261112_345_0baf370a-c68a-49a6-9759-0fd89b09ad95_44553345_r&column=2&t=1794484299",
    "date": "2026-11-12 20:31:28",
-   "views": "175",
+   "views": "179",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212434173",
    "keywords": [
@@ -273,7 +300,7 @@
    "streamer_nick": "어머멍",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261112/123/b820b02f-aba8-44f2-9422-1aa475c2c106/21831123_r.jpg",
    "date": "2026-11-12 20:02:14",
-   "views": "66",
+   "views": "67",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212431377",
    "keywords": [
@@ -299,7 +326,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261112/323/3a009912-583a-4d42-899c-0a58a80f9e9e/44551323_r.jpg",
    "date": "2026-11-12 19:19:02",
-   "views": "414",
+   "views": "415",
    "duration": "3:23",
    "url": "https://vod.afreecatv.com/player/212427623",
    "keywords": [
@@ -325,7 +352,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261112/041/3456981e-4808-4bd5-95e8-60ab172b6815/44551041_r.jpg",
    "date": "2026-11-12 19:07:49",
-   "views": "411",
+   "views": "414",
    "duration": "2:50",
    "url": "https://vod.afreecatv.com/player/212426695",
    "keywords": [
@@ -611,7 +638,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/269/7662efce-9255-4ef3-9370-f08ef08d8531/44513269_r.jpg",
    "date": "2026-11-11 00:27:38",
-   "views": "1858",
+   "views": "1860",
    "duration": "1:40",
    "url": "https://vod.afreecatv.com/player/212274169",
    "keywords": [
