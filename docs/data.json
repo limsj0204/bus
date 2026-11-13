@@ -1,9 +1,10 @@
 {
- "updated_at": "2026-11-13 14:45",
+ "updated_at": "2026-11-13 14:47",
  "keywords": [
   "도끼",
   "단코한끼",
-  "함장"
+  "함장",
+  "돆"
  ],
  "progress": {
   "도끼|CLIP": {
@@ -35,6 +36,16 @@
    "newest": "2026-11-01 04:27:23",
    "backfill_days": 7,
    "last_rescan": "2026-11-13 14:42:12"
+  },
+  "돆|CLIP": {
+   "newest": "2026-11-12 19:06:28",
+   "backfill_days": 7,
+   "last_rescan": "2026-11-13 14:47:26"
+  },
+  "돆|CATCH": {
+   "newest": "2026-11-11 15:03:37",
+   "backfill_days": 7,
+   "last_rescan": "2026-11-13 14:47:26"
   }
  },
  "broad_titles": {
@@ -191,7 +202,25 @@
   "297936905": "후열",
   "297830959": "1014  1차 스나",
   "297720071": "[광우상사] 미도 ♥ 아이 ♥ 밥전쟁 !!!!",
-  "297450365": "타요 서바이벌로그 좀비생존로그라이크 60초같은 죽으면 첨부터하는 좀비게임"
+  "297450365": "타요 서바이벌로그 좀비생존로그라이크 60초같은 죽으면 첨부터하는 좀비게임",
+  "298523273": "놈리건와쑴니다 w.코렛트,마이곰이,파깡",
+  "298514463": "[노움 흑마법사 27~28렙] 저습지 이 미친 곳 여긴 진짜 존재해서는 안됨;",
+  "297854763": "곰마돆야구연습",
+  "297335261": "후열 결따끼 방탈출2 새로나온 DLC 먹기",
+  "297241551": "선셋서밋 합방ㅣ결희x단즈x도끼x타요x얼그레x또오냥",
+  "297230175": "어제 너무 달려서 오늘은 느긋허이",
+  "297140655": "뽀뽀한 따냥과 돈독한 결코의 합방 [how to fish]",
+  "297121185": "[머독] 도난당한 택배 랜덤박스 20kg 언박싱",
+  "297088717": "귀무자 체험 + 메이플스토리 익검 벨로나 뿌시기",
+  "296574015": "[머독] 3시) 레드윙즈 전원 소집 (양도끼 민결희 따린 햇비 최또 강희또 아르바 미르 호발 유현규)",
+  "296451065": "[08/18] difficult 합방+후열 롤내전",
+  "296250573": "2부) 결돆엶곰밤 커버곡 공개와 빅워크 [이브닛] ",
+  "296403041": "메이플샤타포스 민결희 500억 증발",
+  "296278441": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+  "296349229": "스탈존 릴파팀 응원단장 미현영입니다! (w.릴파,난워니,주드,리냐,황정민)",
+  "296321149": "[08/13] 잔디찍먹+신스멀 워터파크 합방",
+  "296254127": "8시) 나히아 같이보기",
+  "296252837": "7시) ???? 커버곡 공개 "
  },
  "items": [
   {
@@ -202,7 +231,7 @@
    "streamer_nick": "움직이는바지",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261113_21842317_1_r",
    "date": "2026-11-13 13:58:49",
-   "views": "16",
+   "views": "17",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212493015",
    "keywords": [
@@ -254,7 +283,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_44567063_1_r&column=2&t=1794540303",
    "date": "2026-11-13 12:22:23",
-   "views": "114",
+   "views": "118",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212488953",
    "keywords": [
@@ -306,7 +335,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_44563229_1_r",
    "date": "2026-11-13 03:18:00",
-   "views": "298",
+   "views": "299",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212471469",
    "keywords": [
@@ -559,6 +588,58 @@
    "unedited": false
   },
   {
+   "id": "212426567",
+   "type": "CLIP",
+   "title": "[민결희 반응] 결따단또돆 REBELS 챌린지 릴파 반응 보는 민결희",
+   "streamer_id": "abwtzwkbh42",
+   "streamer_nick": "새결",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261112/007/6938e41a-0ecd-4109-a4f1-ff2de69fc2a4/44551007_r.jpg",
+   "date": "2026-11-12 19:06:28",
+   "views": "134",
+   "duration": "2:41",
+   "url": "https://vod.afreecatv.com/player/212426567",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212480515",
+   "org_timestamp": "1794477988",
+   "broad_no": "298539559",
+   "b_title": "[민결희 반응] 결따단또돆 REBELS 챌린지 릴파 반응 보는 민결희",
+   "title_history": [],
+   "broad_title": "대회준비 중~",
+   "unedited": false
+  },
+  {
+   "id": "212426047",
+   "type": "CLIP",
+   "title": "[민결희 반응] 결따단또돆 REBELS 챌린지 징버거 반응 보는 민결희",
+   "streamer_id": "abwtzwkbh42",
+   "streamer_nick": "새결",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261112/891/c3d1bc54-dedb-4367-b883-dbe65e7d328e/44550891_r.jpg",
+   "date": "2026-11-12 19:01:16",
+   "views": "156",
+   "duration": "2:22",
+   "url": "https://vod.afreecatv.com/player/212426047",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212480515",
+   "org_timestamp": "1794477676",
+   "broad_no": "298539559",
+   "b_title": "[민결희 반응] 결따단또돆 REBELS 챌린지 징버거 반응 보는 민결희",
+   "title_history": [],
+   "broad_title": "대회준비 중~",
+   "unedited": false
+  },
+  {
    "id": "212420911",
    "type": "CLIP",
    "title": "[클립]로니는 블점 멤버들을 흐믓하게 본다는 로하 도끼 반응을 보는 로하",
@@ -663,6 +744,32 @@
    "unedited": false
   },
   {
+   "id": "212418373",
+   "type": "CLIP",
+   "title": "[클립]결따단또돆 'Born to be REBELS' 댄스 챌린지 (릴파, 징버거 반응) / 묭씨님 반응ㅋㅋㅋ",
+   "streamer_id": "chastity40",
+   "streamer_nick": "민트파이_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_44548669_1_r&column=2&t=1794471635",
+   "date": "2026-11-12 17:18:02",
+   "views": "137",
+   "duration": "3:07",
+   "url": "https://vod.afreecatv.com/player/212418373",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "secymyong"
+   ],
+   "origin_nick": "묭씨",
+   "org_title_no": "212390553",
+   "org_timestamp": "1794471482",
+   "broad_no": "298523273",
+   "b_title": "[클립]결따단또돆 'Born to be REBELS' 댄스 챌린지 (릴파, 징버거 반응) / 묭씨님 반응ㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "놈리건와쑴니다 w.코렛트,마이곰이,파깡",
+   "unedited": false
+  },
+  {
    "id": "212346879",
    "type": "CATCH",
    "title": "[캐치]믿는 도끼에 발등찍힘",
@@ -689,6 +796,110 @@
    "unedited": false
   },
   {
+   "id": "212340067",
+   "type": "CLIP",
+   "title": "[클립]견따단또돆+@ 'Born to be REBELS' 댄스 챌린지 (민결희 반응) / 미현영님 반응ㅋㅋㅋ",
+   "streamer_id": "chastity40",
+   "streamer_nick": "민트파이_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261111/349/97e97881-6c9f-41cd-8066-437e1a164387/44529349_r.jpg",
+   "date": "2026-11-11 20:17:52",
+   "views": "236",
+   "duration": "1:26",
+   "url": "https://vod.afreecatv.com/player/212340067",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "nunknown314"
+   ],
+   "origin_nick": "미현영♡",
+   "org_title_no": "212382163",
+   "org_timestamp": "1794395872",
+   "broad_no": "298514463",
+   "b_title": "[클립]견따단또돆+@ 'Born to be REBELS' 댄스 챌린지 (민결희 반응) / 미현영님 반응ㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "[노움 흑마법사 27~28렙] 저습지 이 미친 곳 여긴 진짜 존재해서는 안됨;",
+   "unedited": false
+  },
+  {
+   "id": "212314197",
+   "type": "CATCH",
+   "title": "[AI]결따단또돆 REBELS 챌린지 보는 민결희를 보는 릴파 반응ㅋㅋㅋㅋㅋ",
+   "streamer_id": "mrabcv2364",
+   "streamer_nick": "김릴파",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807797_1_r&column=2&t=1794378243",
+   "date": "2026-11-11 15:03:37",
+   "views": "1800",
+   "duration": "0:59",
+   "url": "https://vod.afreecatv.com/player/212314197",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "212280861",
+   "org_timestamp": "1794377017",
+   "broad_no": "298503335",
+   "b_title": "[AI]결따단또돆 REBELS 챌린지 보는 민결희를 보는 릴파 반응ㅋㅋㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
+   "unedited": false
+  },
+  {
+   "id": "212313375",
+   "type": "CATCH",
+   "title": "[AI]결따단또돆 REBELS 챌린지 보는 민결희를 보는 부가땅 반응ㅋㅋㅋㅋㅋ",
+   "streamer_id": "mrabcv2364",
+   "streamer_nick": "징버거세트",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807605_1_r&column=2&t=1794376490",
+   "date": "2026-11-11 14:52:35",
+   "views": "5565",
+   "duration": "0:42",
+   "url": "https://vod.afreecatv.com/player/212313375",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "jingburger1"
+   ],
+   "origin_nick": "징버거☆",
+   "org_title_no": "212276817",
+   "org_timestamp": "1794376355",
+   "broad_no": "298500377",
+   "b_title": "[AI]결따단또돆 REBELS 챌린지 보는 민결희를 보는 부가땅 반응ㅋㅋㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "다들 노래 어떠셨나염~~",
+   "unedited": false
+  },
+  {
+   "id": "212308287",
+   "type": "CLIP",
+   "title": "[클립] 민결희 Ai 결따단또돆 REBELS 챌린지 반응",
+   "streamer_id": "topstar90",
+   "streamer_nick": "바른_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44520639_1_r",
+   "date": "2026-11-11 13:15:05",
+   "views": "96",
+   "duration": "1:36",
+   "url": "https://vod.afreecatv.com/player/212308287",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212207005",
+   "org_timestamp": "1794370505",
+   "broad_no": "298468645",
+   "b_title": "[클립] 민결희 Ai 결따단또돆 REBELS 챌린지 반응",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
+   "unedited": false
+  },
+  {
    "id": "212304853",
    "type": "CATCH",
    "title": "[캐치]ㅋㅋ 손도끼 살인마",
@@ -712,6 +923,84 @@
    "b_title": "[캐치]ㅋㅋ 손도끼 살인마",
    "title_history": [],
    "broad_title": "[영웅👑]서든 셀리 나도 쥬아행 빼빼로 ♥뚱이옵빵♥",
+   "unedited": false
+  },
+  {
+   "id": "212302817",
+   "type": "CLIP",
+   "title": "[클립](Ai) 결따단또돆+?? REBELS 챌린지 / 민결희 반응",
+   "streamer_id": "ansehrbs",
+   "streamer_nick": "아거라니",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44519245_1_r",
+   "date": "2026-11-11 11:19:44",
+   "views": "64",
+   "duration": "1:08",
+   "url": "https://vod.afreecatv.com/player/212302817",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212207005",
+   "org_timestamp": "1794363584",
+   "broad_no": "298468645",
+   "b_title": "[클립](Ai) 결따단또돆+?? REBELS 챌린지 / 민결희 반응",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
+   "unedited": false
+  },
+  {
+   "id": "212300353",
+   "type": "CLIP",
+   "title": "[클립]이세계아이돌 (ISEGYE IDOL) \"REBELS\" 결따단또돆 챌린지 보는 민결희 (기습 머독 등장) / 릴파 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44518747_1_r",
+   "date": "2026-11-11 10:05:04",
+   "views": "649",
+   "duration": "2:22",
+   "url": "https://vod.afreecatv.com/player/212300353",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "212280861",
+   "org_timestamp": "1794359104",
+   "broad_no": "298503335",
+   "b_title": "[클립]이세계아이돌 (ISEGYE IDOL) \"REBELS\" 결따단또돆 챌린지 보는 민결희 (기습 머독 등장) / 릴파 반응",
+   "title_history": [],
+   "broad_title": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
+   "unedited": false
+  },
+  {
+   "id": "212299933",
+   "type": "CLIP",
+   "title": "[클립]이세계아이돌 (ISEGYE IDOL) \"REBELS\" 결따단또돆 챌린지 보는 민결희 (기습 머독 등장) / 징버거 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44518675_1_r&column=2&t=1794358202",
+   "date": "2026-11-11 09:48:53",
+   "views": "563",
+   "duration": "2:18",
+   "url": "https://vod.afreecatv.com/player/212299933",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "jingburger1"
+   ],
+   "origin_nick": "징버거☆",
+   "org_title_no": "212276817",
+   "org_timestamp": "1794358133",
+   "broad_no": "298500377",
+   "b_title": "[클립]이세계아이돌 (ISEGYE IDOL) \"REBELS\" 결따단또돆 챌린지 보는 민결희 (기습 머독 등장) / 징버거 반응",
+   "title_history": [],
+   "broad_title": "다들 노래 어떠셨나염~~",
    "unedited": false
   },
   {
@@ -819,6 +1108,84 @@
    "unedited": false
   },
   {
+   "id": "212286171",
+   "type": "CLIP",
+   "title": "[AI영상반응] 결따단또돆 - REBELS 챌린지 (릴파님 반응)",
+   "streamer_id": "dnfla9781",
+   "streamer_nick": "레인_RAIN",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44516321_1_r",
+   "date": "2026-11-11 02:42:26",
+   "views": "176",
+   "duration": "2:21",
+   "url": "https://vod.afreecatv.com/player/212286171",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "212280861",
+   "org_timestamp": "1794332546",
+   "broad_no": "298503335",
+   "b_title": "[AI영상반응] 결따단또돆 - REBELS 챌린지 (릴파님 반응)",
+   "title_history": [],
+   "broad_title": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
+   "unedited": false
+  },
+  {
+   "id": "212286049",
+   "type": "CLIP",
+   "title": "[AI영상반응] 결따단또돆 - REBELS 챌린지 (징버거님 반응)",
+   "streamer_id": "dnfla9781",
+   "streamer_nick": "레인_RAIN",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44516303_1_r",
+   "date": "2026-11-11 02:40:20",
+   "views": "190",
+   "duration": "2:01",
+   "url": "https://vod.afreecatv.com/player/212286049",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "jingburger1"
+   ],
+   "origin_nick": "징버거☆",
+   "org_title_no": "212276817",
+   "org_timestamp": "1794332420",
+   "broad_no": "298500377",
+   "b_title": "[AI영상반응] 결따단또돆 - REBELS 챌린지 (징버거님 반응)",
+   "title_history": [],
+   "broad_title": "다들 노래 어떠셨나염~~",
+   "unedited": false
+  },
+  {
+   "id": "212285877",
+   "type": "CLIP",
+   "title": "REBELS 챌린지 - 결따단또돆 / 민결희: 😨😨😨　💛: 당신 누구야~!! ㅋㅋㅋㅋㅋㅋㅋ",
+   "streamer_id": "polite957234",
+   "streamer_nick": "초코레빗",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44516259_1_r",
+   "date": "2026-11-11 02:37:23",
+   "views": "190",
+   "duration": "2:13",
+   "url": "https://vod.afreecatv.com/player/212285877",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "jingburger1"
+   ],
+   "origin_nick": "징버거☆",
+   "org_title_no": "212276817",
+   "org_timestamp": "1794332243",
+   "broad_no": "298500377",
+   "b_title": "REBELS 챌린지 - 결따단또돆 / 민결희: 😨😨😨　💛: 당신 누구야~!! ㅋㅋㅋㅋㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "다들 노래 어떠셨나염~~",
+   "unedited": false
+  },
+  {
    "id": "212278211",
    "type": "CLIP",
    "title": "[클립]뉴 단결따박 vs 단코한끼 & 따린 반응 / 단즈",
@@ -842,6 +1209,58 @@
    "b_title": "[클립]뉴 단결따박 vs 단코한끼 & 따린 반응 / 단즈",
    "title_history": [],
    "broad_title": "와우에 진심인 사람들과 인던 멸망전",
+   "unedited": false
+  },
+  {
+   "id": "212274245",
+   "type": "CLIP",
+   "title": "[클립][이세돌] 징버거 Ai 결따단또돆 REBELS 챌린지 반응",
+   "streamer_id": "topstar90",
+   "streamer_nick": "바른_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261111/293/e5fdc4bf-bb56-4638-bab2-8a9c121df7eb/44513293_r.jpg",
+   "date": "2026-11-11 00:28:12",
+   "views": "40",
+   "duration": "2:20",
+   "url": "https://vod.afreecatv.com/player/212274245",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "jingburger1"
+   ],
+   "origin_nick": "징버거☆",
+   "org_title_no": "212276817",
+   "org_timestamp": "1794324492",
+   "broad_no": "298500377",
+   "b_title": "[클립][이세돌] 징버거 Ai 결따단또돆 REBELS 챌린지 반응",
+   "title_history": [],
+   "broad_title": "다들 노래 어떠셨나염~~",
+   "unedited": false
+  },
+  {
+   "id": "212274241",
+   "type": "CLIP",
+   "title": "[클립]  결따단또돆 AI 'REBELS' 챌린지 / 부가땅 반응",
+   "streamer_id": "ndyat254",
+   "streamer_nick": "아잉네지박령",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261111/291/8392bd96-fb22-498f-9549-f2211f2d609a/44513291_r.jpg",
+   "date": "2026-11-11 00:28:10",
+   "views": "341",
+   "duration": "1:46",
+   "url": "https://vod.afreecatv.com/player/212274241",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "jingburger1"
+   ],
+   "origin_nick": "징버거☆",
+   "org_title_no": "212276817",
+   "org_timestamp": "1794324490",
+   "broad_no": "298500377",
+   "b_title": "[클립]  결따단또돆 AI 'REBELS' 챌린지 / 부가땅 반응",
+   "title_history": [],
+   "broad_title": "다들 노래 어떠셨나염~~",
    "unedited": false
   },
   {
@@ -1001,6 +1420,58 @@
    "unedited": false
   },
   {
+   "id": "212272099",
+   "type": "CLIP",
+   "title": "[클립] 결따단또돆 AI 'REBELS' 챌린지 / 릴파넴 반응",
+   "streamer_id": "ndyat254",
+   "streamer_nick": "아잉네지박령",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261111/641/948c9938-1a13-49df-a73b-0675ade0c0dd/44512641_r.jpg",
+   "date": "2026-11-11 00:10:02",
+   "views": "355",
+   "duration": "2:10",
+   "url": "https://vod.afreecatv.com/player/212272099",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "212280861",
+   "org_timestamp": "1794323402",
+   "broad_no": "298503335",
+   "b_title": "[클립] 결따단또돆 AI 'REBELS' 챌린지 / 릴파넴 반응",
+   "title_history": [],
+   "broad_title": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
+   "unedited": false
+  },
+  {
+   "id": "212271601",
+   "type": "CLIP",
+   "title": "[클립][이세돌] 릴파 Ai 결따단또돆 REBELS 챌린지 반응",
+   "streamer_id": "topstar90",
+   "streamer_nick": "바른_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261111/489/6632c2cc-3c86-48ca-bf16-13e088808a49/44512489_r.jpg",
+   "date": "2026-11-11 00:06:46",
+   "views": "48",
+   "duration": "2:31",
+   "url": "https://vod.afreecatv.com/player/212271601",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "212280861",
+   "org_timestamp": "1794323206",
+   "broad_no": "298503335",
+   "b_title": "[클립][이세돌] 릴파 Ai 결따단또돆 REBELS 챌린지 반응",
+   "title_history": [],
+   "broad_title": "이세계에서는교복모범생인내가차원을넘어레이싱언니가되어있던건에대하여",
+   "unedited": false
+  },
+  {
    "id": "212271533",
    "type": "CLIP",
    "title": "[클립]Ai REBELS 단결따끼또독 / 릴파: 미치겠다 ㅋㅋㅋ ( w. 단즈 민결희 최또 머독 양도끼 )",
@@ -1050,6 +1521,32 @@
    "b_title": "[클립]조매력 결혼식에 못 간 따린 ( w. 양도끼 민결희 머독 )",
    "title_history": [],
    "broad_title": "따린 후후여르",
+   "unedited": false
+  },
+  {
+   "id": "212270233",
+   "type": "CLIP",
+   "title": "[클립]결따단또돆(AI) REBELS | 민결희 반응",
+   "streamer_id": "doght",
+   "streamer_nick": "잔잔벼리♬",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44512101_1_r",
+   "date": "2026-11-10 23:57:12",
+   "views": "92",
+   "duration": "1:19",
+   "url": "https://vod.afreecatv.com/player/212270233",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212207005",
+   "org_timestamp": "1794322632",
+   "broad_no": "298468645",
+   "b_title": "[클립]결따단또돆(AI) REBELS | 민결희 반응",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
    "unedited": false
   },
   {
@@ -1284,6 +1781,32 @@
    "b_title": "[클립]본인 소환수랑 대화하는 도끼님 보는 왁굳형",
    "title_history": [],
    "broad_title": "11시) 왁치동 분들과 지하감옥",
+   "unedited": false
+  },
+  {
+   "id": "212156085",
+   "type": "CLIP",
+   "title": "[클립][AI] REBELS 결따단또돆 +@ 결희 반응",
+   "streamer_id": "neversecond",
+   "streamer_nick": "낫애니모어",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261109/477/c612b8b2-c5c5-47f3-bb64-37ee1ccdcd2e/44481477_r.jpg",
+   "date": "2026-11-09 19:14:08",
+   "views": "9598",
+   "duration": "1:13",
+   "url": "https://vod.afreecatv.com/player/212156085",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "212207005",
+   "org_timestamp": "1794219248",
+   "broad_no": "298468645",
+   "b_title": "[클립][AI] REBELS 결따단또돆 +@ 결희 반응",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 막내왜 소개팅하러감? 211개만 받습니다",
    "unedited": false
   },
   {
@@ -10818,6 +11341,578 @@
    "b_title": "[타요] 단호한 야구 철학과 함장에게 관심없다는 타요",
    "title_history": [],
    "broad_title": "타요 서바이벌로그 좀비생존로그라이크 60초같은 죽으면 첨부터하는 좀비게임",
+   "unedited": false
+  },
+  {
+   "id": "207935007",
+   "type": "CLIP",
+   "title": "[클립]서로 껴안고 있는 결돆 - 따린시점",
+   "streamer_id": "ovheejune",
+   "streamer_nick": "감성꼬마",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260924/283/55ec4cd5-f1f0-438c-8a7b-5cc7cad8ac61/43352283_r.jpg",
+   "date": "2026-09-24 01:42:24",
+   "views": "109",
+   "duration": "0:20",
+   "url": "https://vod.afreecatv.com/player/207935007",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "207947271",
+   "org_timestamp": "1790181744",
+   "broad_no": "297335261",
+   "b_title": "[클립]서로 껴안고 있는 결돆 - 따린시점",
+   "title_history": [],
+   "broad_title": "후열 결따끼 방탈출2 새로나온 DLC 먹기",
+   "unedited": false
+  },
+  {
+   "id": "207557355",
+   "type": "CLIP",
+   "title": "레드윙즈 MT가서 계산한 이유와 햇결따돆 팬들 스코프 쬐는 머독 / 따린 반응",
+   "streamer_id": "tedd6975",
+   "streamer_nick": "안척추",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260919/287/043f7f29-0259-4eb5-88f6-04af450c3ce0/43251287_r.jpg",
+   "date": "2026-09-19 20:14:02",
+   "views": "132",
+   "duration": "2:16",
+   "url": "https://vod.afreecatv.com/player/207557355",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "207603123",
+   "org_timestamp": "1789816442",
+   "broad_no": "297241551",
+   "b_title": "레드윙즈 MT가서 계산한 이유와 햇결따돆 팬들 스코프 쬐는 머독 / 따린 반응",
+   "title_history": [],
+   "broad_title": "선셋서밋 합방ㅣ결희x단즈x도끼x타요x얼그레x또오냥",
+   "unedited": false
+  },
+  {
+   "id": "207520939",
+   "type": "CLIP",
+   "title": "[클립]방음부스에서 벌레 발견 한 양도끼의 돆이렌 / 마왕 반응",
+   "streamer_id": "kid147147",
+   "streamer_nick": "boraJoa●",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260919/161/48d8cdc4-964a-4459-96e3-284133d53d87/43241161_r.jpg",
+   "date": "2026-09-19 10:57:20",
+   "views": "121",
+   "duration": "2:37",
+   "url": "https://vod.afreecatv.com/player/207520939",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mawang0216"
+   ],
+   "origin_nick": "마왕0216",
+   "org_title_no": "207561769",
+   "org_timestamp": "1789783040",
+   "broad_no": "297230175",
+   "b_title": "[클립]방음부스에서 벌레 발견 한 양도끼의 돆이렌 / 마왕 반응",
+   "title_history": [],
+   "broad_title": "어제 너무 달려서 오늘은 느긋허이",
+   "unedited": false
+  },
+  {
+   "id": "207205065",
+   "type": "CLIP",
+   "title": "[클립][민결희] 햇결따돆 팬들 스코프 쬐는 머독 / 민결희 반응",
+   "streamer_id": "wkdwn427",
+   "streamer_nick": "주장._.",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260915/257/85bb2e61-acdb-4360-9be5-96469f98e68c/43158257_r.jpg",
+   "date": "2026-09-15 19:52:22",
+   "views": "226",
+   "duration": "4:53",
+   "url": "https://vod.afreecatv.com/player/207205065",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "207253469",
+   "org_timestamp": "1789469542",
+   "broad_no": "297140655",
+   "b_title": "[클립][민결희] 햇결따돆 팬들 스코프 쬐는 머독 / 민결희 반응",
+   "title_history": [],
+   "broad_title": "뽀뽀한 따냥과 돈독한 결코의 합방 [how to fish]",
+   "unedited": false
+  },
+  {
+   "id": "207142073",
+   "type": "CLIP",
+   "title": "[클립]햇결따돆 못봐서 서운했던 속마음 말하는 머독 ㅋㅋ",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "뚱냐링배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260914/623/7c81ce90-3bfc-4ae0-9b4c-ef59dfc63bb7/43142623_r.jpg",
+   "date": "2026-09-14 23:01:56",
+   "views": "151",
+   "duration": "2:26",
+   "url": "https://vod.afreecatv.com/player/207142073",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "207162429",
+   "org_timestamp": "1789394516",
+   "broad_no": "297121185",
+   "b_title": "[클립]햇결따돆 못봐서 서운했던 속마음 말하는 머독 ㅋㅋ",
+   "title_history": [],
+   "broad_title": "[머독] 도난당한 택배 랜덤박스 20kg 언박싱",
+   "unedited": false
+  },
+  {
+   "id": "207138679",
+   "type": "CLIP",
+   "title": "[클립]건배사로 햇결따돆 말하려다 미르한테 실수한 머독",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "뚱냐링배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260914/645/aba93632-12a4-4bf8-8f53-dad7bc110bb6/43141645_r.jpg",
+   "date": "2026-09-14 22:31:06",
+   "views": "91",
+   "duration": "1:39",
+   "url": "https://vod.afreecatv.com/player/207138679",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "207162429",
+   "org_timestamp": "1789392666",
+   "broad_no": "297121185",
+   "b_title": "[클립]건배사로 햇결따돆 말하려다 미르한테 실수한 머독",
+   "title_history": [],
+   "broad_title": "[머독] 도난당한 택배 랜덤박스 20kg 언박싱",
+   "unedited": false
+  },
+  {
+   "id": "207133855",
+   "type": "CLIP",
+   "title": "[클립]계산한 이유와 햇결따돆 팬들 스코프 하는 머독",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "뚱냐링배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260914/347/06149c10-d84b-459d-b862-525a5ac2dc6b/43140347_r.jpg",
+   "date": "2026-09-14 21:45:41",
+   "views": "216",
+   "duration": "1:36",
+   "url": "https://vod.afreecatv.com/player/207133855",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "207162429",
+   "org_timestamp": "1789389941",
+   "broad_no": "297121185",
+   "b_title": "[클립]계산한 이유와 햇결따돆 팬들 스코프 하는 머독",
+   "title_history": [],
+   "broad_title": "[머독] 도난당한 택배 랜덤박스 20kg 언박싱",
+   "unedited": false
+  },
+  {
+   "id": "207128739",
+   "type": "CATCH",
+   "title": "[캐치]썰풀이 전 햇결따돆 메모장 박제하는 머독",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "뚱냐링배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260914/415/c78b0754-7ab1-4703-9b6a-1a2c5af0fe8f/20791415_r.jpg",
+   "date": "2026-09-14 20:53:44",
+   "views": "397",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/207128739",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "207162429",
+   "org_timestamp": "1789386824",
+   "broad_no": "297121185",
+   "b_title": "[캐치]썰풀이 전 햇결따돆 메모장 박제하는 머독",
+   "title_history": [],
+   "broad_title": "[머독] 도난당한 택배 랜덤박스 20kg 언박싱",
+   "unedited": false
+  },
+  {
+   "id": "207009917",
+   "type": "CLIP",
+   "title": "[클립]MT 안온 햇따결돆 꼽냐링 줬다는 머독/ 민결희님",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "귀찮은배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260913/087/525cfcb1-8953-4d69-b2b6-08db9879f7fe/43105087_r.jpg",
+   "date": "2026-09-13 14:59:30",
+   "views": "351",
+   "duration": "2:27",
+   "url": "https://vod.afreecatv.com/player/207009917",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "207064171",
+   "org_timestamp": "1789279170",
+   "broad_no": "297088717",
+   "b_title": "[클립]MT 안온 햇따결돆 꼽냐링 줬다는 머독/ 민결희님",
+   "title_history": [],
+   "broad_title": "귀무자 체험 + 메이플스토리 익검 벨로나 뿌시기",
+   "unedited": false
+  },
+  {
+   "id": "205094287",
+   "type": "CLIP",
+   "title": "[클립]양돆2 땀 통제하는 머독 feat 보자마자 웃음나는 아르바님",
+   "streamer_id": "cjw6844",
+   "streamer_nick": "이안_P",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260823/947/8e356434-f8fe-433b-8650-c009d1fb71ac/42585947_r.jpg",
+   "date": "2026-08-23 14:54:10",
+   "views": "77",
+   "duration": "1:19",
+   "url": "https://vod.afreecatv.com/player/205094287",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "205159937",
+   "org_timestamp": "1787464450",
+   "broad_no": "296574015",
+   "b_title": "[클립]양돆2 땀 통제하는 머독 feat 보자마자 웃음나는 아르바님",
+   "title_history": [],
+   "broad_title": "[머독] 3시) 레드윙즈 전원 소집 (양도끼 민결희 따린 햇비 최또 강희또 아르바 미르 호발 유현규)",
+   "unedited": false
+  },
+  {
+   "id": "204715071",
+   "type": "CLIP",
+   "title": "[클립]\"양돆함장\"을 처음 알게 된 하치 보는 양도끼가 들려주는 버축대1 이야기 / 하치 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_42486533_1_r&column=2&t=1787097900",
+   "date": "2026-08-19 09:03:21",
+   "views": "304",
+   "duration": "2:51",
+   "url": "https://vod.afreecatv.com/player/204715071",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "204698279",
+   "org_timestamp": "1787097801",
+   "broad_no": "296451065",
+   "b_title": "[클립]\"양돆함장\"을 처음 알게 된 하치 보는 양도끼가 들려주는 버축대1 이야기 / 하치 반응",
+   "title_history": [],
+   "broad_title": "[08/18] difficult 합방+후열 롤내전",
+   "unedited": false
+  },
+  {
+   "id": "204512317",
+   "type": "CATCH",
+   "title": "[민결희] 다급해진 타요 보면서 같이 급해지는 결따돆",
+   "streamer_id": "wkdwn427",
+   "streamer_nick": "주장._.",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260816/443/56b7ccc4-1ade-4e30-80d8-7b2a5842ce37/20278443_r.jpg",
+   "date": "2026-08-16 23:58:28",
+   "views": "1033",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/204512317",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204517917",
+   "org_timestamp": "1786892308",
+   "broad_no": "296403041",
+   "b_title": "[민결희] 다급해진 타요 보면서 같이 급해지는 결따돆",
+   "title_history": [],
+   "broad_title": "메이플샤타포스 민결희 500억 증발",
+   "unedited": false
+  },
+  {
+   "id": "204290795",
+   "type": "CLIP",
+   "title": "후닝님이 토템인 거 같아! 　┃　 [클립]#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "streamer_id": "dayrainbow94",
+   "streamer_nick": "해요",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_42379119_1_r",
+   "date": "2026-08-14 18:51:12",
+   "views": "6",
+   "duration": "2:59",
+   "url": "https://vod.afreecatv.com/player/204290795",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204062621",
+   "org_timestamp": "1786701072",
+   "broad_no": "296278441",
+   "b_title": "후닝님이 토템인 거 같아! 　┃　 [클립]#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "title_history": [],
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
+  },
+  {
+   "id": "204288085",
+   "type": "CLIP",
+   "title": "[클립]결돆엶곰밤 - Rude! / 미현영 반응",
+   "streamer_id": "khj63014",
+   "streamer_nick": "POOPYPUPPY",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260814/381/d47ad43d-6f46-4570-bfa8-ff65166ff357/42378381_r.jpg",
+   "date": "2026-08-14 18:17:37",
+   "views": "126",
+   "duration": "4:32",
+   "url": "https://vod.afreecatv.com/player/204288085",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "nunknown314"
+   ],
+   "origin_nick": "미현영♡",
+   "org_title_no": "204330269",
+   "org_timestamp": "1786699057",
+   "broad_no": "296349229",
+   "b_title": "[클립]결돆엶곰밤 - Rude! / 미현영 반응",
+   "title_history": [],
+   "broad_title": "스탈존 릴파팀 응원단장 미현영입니다! (w.릴파,난워니,주드,리냐,황정민)",
+   "unedited": false
+  },
+  {
+   "id": "204185041",
+   "type": "CATCH",
+   "title": "[캐치]양돆함장이었어? 양도끼가아니고?ㅇ0ㅇ",
+   "streamer_id": "pandasell2",
+   "streamer_nick": "판다싸게판다",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260813/511/2f000693-1ab4-4b0a-8685-24d970b00e7f/20205511_r.jpg",
+   "date": "2026-08-13 16:04:46",
+   "views": "317",
+   "duration": "0:35",
+   "url": "https://vod.afreecatv.com/player/204185041",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "204229137",
+   "org_timestamp": "1786604686",
+   "broad_no": "296321149",
+   "b_title": "[캐치]양돆함장이었어? 양도끼가아니고?ㅇ0ㅇ",
+   "title_history": [],
+   "broad_title": "[08/13] 잔디찍먹+신스멀 워터파크 합방",
+   "unedited": false
+  },
+  {
+   "id": "204062577",
+   "type": "CATCH",
+   "title": "[캐치]0811 결희 뱅종인사💙💜 소통 + 결따돆 주보돌이 + 후닝님과 스펙업",
+   "streamer_id": "neversecond",
+   "streamer_nick": "낫애니모어",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260812/025/43cfb385-3fba-4de3-9bfd-310b59b74d8d/20180025_r.jpg",
+   "date": "2026-08-12 02:34:50",
+   "views": "78",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/204062577",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204062621",
+   "org_timestamp": "1786469690",
+   "broad_no": "296278441",
+   "b_title": "[캐치]0811 결희 뱅종인사💙💜 소통 + 결따돆 주보돌이 + 후닝님과 스펙업",
+   "title_history": [],
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
+  },
+  {
+   "id": "204054379",
+   "type": "CATCH",
+   "title": "[캐치]섬세한 후닝님 　┃　 [캐치]#결하 오늘 결따돆 모임스",
+   "streamer_id": "dayrainbow94",
+   "streamer_nick": "해요",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260812/495/35bd41ad-3381-4d11-bdac-9c1ee3ea53ae/20178495_r.jpg",
+   "date": "2026-08-12 01:02:47",
+   "views": "319",
+   "duration": "0:24",
+   "url": "https://vod.afreecatv.com/player/204054379",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204062621",
+   "org_timestamp": "1786464167",
+   "broad_no": "296278441",
+   "b_title": "[캐치]섬세한 후닝님 　┃　 [캐치]#결하 오늘 결따돆 모임스",
+   "title_history": [],
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
+  },
+  {
+   "id": "204041257",
+   "type": "CATCH",
+   "title": "[캐치]#결하 오늘 결따돆 모임스",
+   "streamer_id": "kyungpkw85",
+   "streamer_nick": "문도°",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260811/239/87359461-52a9-4921-866b-7895bb5f4e4c/20176239_r.jpg",
+   "date": "2026-08-11 23:02:14",
+   "views": "243",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/204041257",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204062621",
+   "org_timestamp": "1786456934",
+   "broad_no": "296278441",
+   "b_title": "[캐치]#결하 오늘 결따돆 모임스",
+   "title_history": [],
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
+  },
+  {
+   "id": "204023087",
+   "type": "CATCH",
+   "title": "[캐치]#결하 오늘 결따돆 모임스",
+   "streamer_id": "seokpsj55",
+   "streamer_nick": "Saber77",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260811/085/d99a21b8-0bc5-47f2-ada4-455746d8aac3/20172085_r.jpg",
+   "date": "2026-08-11 20:13:05",
+   "views": "2",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/204023087",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204062621",
+   "org_timestamp": "1786446785",
+   "broad_no": "296278441",
+   "b_title": "[캐치]#결하 오늘 결따돆 모임스",
+   "title_history": [],
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
+  },
+  {
+   "id": "204022925",
+   "type": "CLIP",
+   "title": "[클립]#결하 오늘 결따돆 모임스",
+   "streamer_id": "aek8234",
+   "streamer_nick": "츄라이1",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260811/993/8c7031f2-193e-4cf5-b5d2-108258f1ab93/42313993_r.jpg",
+   "date": "2026-08-11 20:11:46",
+   "views": "7",
+   "duration": "1:40",
+   "url": "https://vod.afreecatv.com/player/204022925",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "204062621",
+   "org_timestamp": "1786446706",
+   "broad_no": "296278441",
+   "b_title": "[클립]#결하 오늘 결따돆 모임스",
+   "title_history": [],
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
+  },
+  {
+   "id": "203932989",
+   "type": "CLIP",
+   "title": "[클립]결돆엶곰밤  RUDE - 밍턴님 반응",
+   "streamer_id": "yurichang2",
+   "streamer_nick": "유리창이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260810/959/2a607d3e-b0b3-4616-b32d-e4b0fc3c3607/42291959_r.jpg",
+   "date": "2026-08-10 19:55:59",
+   "views": "54",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/203932989",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mingturn97"
+   ],
+   "origin_nick": "밍턴_",
+   "org_title_no": "203934163",
+   "org_timestamp": "1786359359",
+   "broad_no": "296254127",
+   "b_title": "[클립]결돆엶곰밤  RUDE - 밍턴님 반응",
+   "title_history": [],
+   "broad_title": "8시) 나히아 같이보기",
+   "unedited": false
+  },
+  {
+   "id": "203931933",
+   "type": "CLIP",
+   "title": "[클립]RUDE!(하츠투하츠) 커버곡 / 마이곰이(w.결돆엶밤) 2회차 반응",
+   "streamer_id": "chastity40",
+   "streamer_nick": "민트파이_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260810/659/f00273cd-32b5-4ad6-9343-80db909d5ce3/42291659_r.jpg",
+   "date": "2026-08-10 19:45:39",
+   "views": "53",
+   "duration": "3:35",
+   "url": "https://vod.afreecatv.com/player/203931933",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "mygomiee"
+   ],
+   "origin_nick": "마이곰이",
+   "org_title_no": "203959625",
+   "org_timestamp": "1786358739",
+   "broad_no": "296252837",
+   "b_title": "[클립]RUDE!(하츠투하츠) 커버곡 / 마이곰이(w.결돆엶밤) 2회차 반응",
+   "title_history": [],
+   "broad_title": "7시) ???? 커버곡 공개 ",
    "unedited": false
   }
  ]
