@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13 20:10",
+ "updated_at": "2026-11-13 20:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-13 18:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-13 20:05:53",
+   "newest": "2026-11-13 20:11:05",
    "backfill_days": 7,
    "last_rescan": "2026-11-13 18:00:40"
   },
@@ -260,7 +260,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/403/796e605d-0ca9-4b57-b269-f5120d39e873/21847403_r.jpg",
    "date": "2026-11-13 20:02:29",
-   "views": "1",
+   "views": "2",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517623",
    "keywords": [
@@ -936,7 +936,7 @@
    "streamer_nick": "징버거세트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807605_1_r&column=2&t=1794376490",
    "date": "2026-11-11 14:52:35",
-   "views": "5712",
+   "views": "5716",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212313375",
    "keywords": [
