@@ -1,7 +1,9 @@
 {
- "updated_at": "2026-11-13 14:40",
+ "updated_at": "2026-11-13 14:43",
  "keywords": [
-  "도끼"
+  "도끼",
+  "단코한끼",
+  "함장"
  ],
  "progress": {
   "도끼|CLIP": {
@@ -13,6 +15,26 @@
    "newest": "2026-11-13 13:58:49",
    "backfill_days": 7,
    "last_rescan": "2026-11-13 12:00:41"
+  },
+  "단코한끼|CLIP": {
+   "newest": "2026-11-13 14:37:14",
+   "backfill_days": 7,
+   "last_rescan": "2026-11-13 14:42:12"
+  },
+  "단코한끼|CATCH": {
+   "newest": "2026-11-13 14:23:49",
+   "backfill_days": 7,
+   "last_rescan": "2026-11-13 14:42:12"
+  },
+  "함장|CLIP": {
+   "newest": "2026-11-12 22:08:18",
+   "backfill_days": 7,
+   "last_rescan": "2026-11-13 14:42:12"
+  },
+  "함장|CATCH": {
+   "newest": "2026-11-01 04:27:23",
+   "backfill_days": 7,
+   "last_rescan": "2026-11-13 14:42:12"
   }
  },
  "broad_titles": {
@@ -161,7 +183,15 @@
   "298542519": "지하감옥 던전!!! [양도끼 다키 카우리 수박]",
   "298536353": "예열 와우 챱챱 + 브품동 풀트로 모입니다!! [햇비편]",
   "298519089": "와우 안접었습니다 아직은.. ",
-  "298558627": "와포 7일차 오늘은 왁굿님과 던전을 갈 수 있으까요... [이브닛]"
+  "298558627": "와포 7일차 오늘은 왁굿님과 던전을 갈 수 있으까요... [이브닛]",
+  "298462303": "와우에 진심인 사람들과 인던 멸망전",
+  "298496611": "와포 5일차 멸호 [이브닛]",
+  "298022033": "[광고] '월드오브워쉽' 설레랑 섬장이 된 썰. / 레랑쿠데타 면접 후 합격자 발표",
+  "298000957": "분좋카 / 벤치에서 발롱도르",
+  "297936905": "후열",
+  "297830959": "1014  1차 스나",
+  "297720071": "[광우상사] 미도 ♥ 아이 ♥ 밥전쟁 !!!!",
+  "297450365": "타요 서바이벌로그 좀비생존로그라이크 60초같은 죽으면 첨부터하는 좀비게임"
  },
  "items": [
   {
@@ -198,7 +228,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261113_957_3ff50496-dd82-4643-871a-32ad2878ea19_44567957_r&column=2&t=1794545118",
    "date": "2026-11-13 13:43:45",
-   "views": "45",
+   "views": "48",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212492363",
    "keywords": [
@@ -208,7 +238,7 @@
     "kaksjak0730"
    ],
    "origin_nick": "한결___",
-   "org_title_no": "",
+   "org_title_no": "212494917",
    "org_timestamp": "1794545025",
    "broad_no": "298558627",
    "b_title": "[클립]빼빼로데이 도끼가 뭔가 야하다는 한결 : 너네 근데 나쁘다, 나만 변태로..",
@@ -250,7 +280,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_44563269_1_r",
    "date": "2026-11-13 03:21:52",
-   "views": "259",
+   "views": "260",
    "duration": "1:21",
    "url": "https://vod.afreecatv.com/player/212471671",
    "keywords": [
@@ -318,6 +348,32 @@
    "b_title": "[클립]Ai REBELS 단결따끼또독 / 단즈 ( w. 민결희 따린 양도끼 최또 머독 )",
    "title_history": [],
    "broad_title": "예열 와우 챱챱 + 브품동 풀트로 모입니다!! [햇비편]",
+   "unedited": false
+  },
+  {
+   "id": "212443883",
+   "type": "CLIP",
+   "title": "[클립]함장한테 혼나는 미르치국수 미르님",
+   "streamer_id": "nandy7an10",
+   "streamer_nick": "구칠사",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261112/255/d5c4f136-0d9e-4ceb-9059-9e0c645641e0/44556255_r.jpg",
+   "date": "2026-11-12 22:08:18",
+   "views": "14",
+   "duration": "1:49",
+   "url": "https://vod.afreecatv.com/player/212443883",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "212466727",
+   "org_timestamp": "1794488898",
+   "broad_no": "298542519",
+   "b_title": "[클립]함장한테 혼나는 미르치국수 미르님",
+   "title_history": [],
+   "broad_title": "지하감옥 던전!!! [양도끼 다키 카우리 수박]",
    "unedited": false
   },
   {
@@ -763,6 +819,32 @@
    "unedited": false
   },
   {
+   "id": "212278211",
+   "type": "CLIP",
+   "title": "[클립]뉴 단결따박 vs 단코한끼 & 따린 반응 / 단즈",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44514397_1_r",
+   "date": "2026-11-11 01:03:39",
+   "views": "171",
+   "duration": "1:48",
+   "url": "https://vod.afreecatv.com/player/212278211",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "danz59"
+   ],
+   "origin_nick": "단즈_",
+   "org_title_no": "212203003",
+   "org_timestamp": "1794326619",
+   "broad_no": "298462303",
+   "b_title": "[클립]뉴 단결따박 vs 단코한끼 & 따린 반응 / 단즈",
+   "title_history": [],
+   "broad_title": "와우에 진심인 사람들과 인던 멸망전",
+   "unedited": false
+  },
+  {
    "id": "212274169",
    "type": "CLIP",
    "title": "[클립]Ai REBELS 단결따끼또독 / 징버거: 깜짝이야!! ( w. 단즈 따린 민결희 최또 머독 양도끼)",
@@ -971,6 +1053,32 @@
    "unedited": false
   },
   {
+   "id": "212250927",
+   "type": "CLIP",
+   "title": "[클립]와포에 친구를 빼앗기고 단무룩한 표정으로 눈빛발사하는 단츄 보는 한결 반응 (쿠키영상: 단코한끼 결랄)",
+   "streamer_id": "msneerm",
+   "streamer_nick": "밤별사",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261110/341/7dcd9d36-c674-47f3-87c6-9e6eae76afd3/44506341_r.jpg",
+   "date": "2026-11-10 20:58:32",
+   "views": "327",
+   "duration": "3:10",
+   "url": "https://vod.afreecatv.com/player/212250927",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "212293599",
+   "org_timestamp": "1794311912",
+   "broad_no": "298496611",
+   "b_title": "[클립]와포에 친구를 빼앗기고 단무룩한 표정으로 눈빛발사하는 단츄 보는 한결 반응 (쿠키영상: 단코한끼 결랄)",
+   "title_history": [],
+   "broad_title": "와포 5일차 멸호 [이브닛]",
+   "unedited": false
+  },
+  {
    "id": "212243119",
    "type": "CATCH",
    "title": "[캐치]성격 급한 거 간파한 양도끼 / 채두나 반응",
@@ -1101,6 +1209,32 @@
    "unedited": false
   },
   {
+   "id": "212213023",
+   "type": "CLIP",
+   "title": "[클립]뉴 단결따박 vs 단코한끼 / 단즈님 반응",
+   "streamer_id": "shi9129",
+   "streamer_nick": "식량꽁처",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261110_44496471_1_r",
+   "date": "2026-11-10 10:51:02",
+   "views": "714",
+   "duration": "2:08",
+   "url": "https://vod.afreecatv.com/player/212213023",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "danz59"
+   ],
+   "origin_nick": "단즈_",
+   "org_title_no": "212203003",
+   "org_timestamp": "1794275462",
+   "broad_no": "298462303",
+   "b_title": "[클립]뉴 단결따박 vs 단코한끼 / 단즈님 반응",
+   "title_history": [],
+   "broad_title": "와우에 진심인 사람들과 인던 멸망전",
+   "unedited": false
+  },
+  {
    "id": "212212703",
    "type": "CATCH",
    "title": "[캐치]양도끼 소환수 보고 감탄하는 왁굳",
@@ -1205,6 +1339,58 @@
    "unedited": false
   },
   {
+   "id": "212130209",
+   "type": "CLIP",
+   "title": "뉴 단결따박 vs 단코한끼 / 따린 반응 (2/2)",
+   "streamer_id": "tedd6975",
+   "streamer_nick": "안척추",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261109_44475777_1_r",
+   "date": "2026-11-09 11:13:55",
+   "views": "209",
+   "duration": "0:36",
+   "url": "https://vod.afreecatv.com/player/212130209",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "212129655",
+   "org_timestamp": "1794190435",
+   "broad_no": "298448129",
+   "b_title": "뉴 단결따박 vs 단코한끼 / 따린 반응 (2/2)",
+   "title_history": [],
+   "broad_title": "따린 등장!!",
+   "unedited": false
+  },
+  {
+   "id": "212130185",
+   "type": "CLIP",
+   "title": "뉴 단결따박 vs 단코한끼 / 따린 반응 (1/2)",
+   "streamer_id": "tedd6975",
+   "streamer_nick": "안척추",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261109_44475771_1_r",
+   "date": "2026-11-09 11:13:26",
+   "views": "295",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/212130185",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "212129655",
+   "org_timestamp": "1794190406",
+   "broad_no": "298448129",
+   "b_title": "뉴 단결따박 vs 단코한끼 / 따린 반응 (1/2)",
+   "title_history": [],
+   "broad_title": "따린 등장!!",
+   "unedited": false
+  },
+  {
    "id": "212091599",
    "type": "CLIP",
    "title": "[클립]도끼한명을조시매",
@@ -1242,6 +1428,7 @@
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/212078199",
    "keywords": [
+    "단코한끼",
     "도끼"
    ],
    "origin_ids": [
@@ -1268,6 +1455,7 @@
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212078095",
    "keywords": [
+    "단코한끼",
     "도끼"
    ],
    "origin_ids": [
@@ -1294,6 +1482,7 @@
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212077765",
    "keywords": [
+    "단코한끼",
     "도끼"
    ],
    "origin_ids": [
@@ -10291,6 +10480,84 @@
    "origin_nick": "마왕0216"
   },
   {
+   "id": "210519591",
+   "type": "CLIP",
+   "title": "[클립]함장 설레랑",
+   "streamer_id": "cnanrlf12",
+   "streamer_nick": "왈랑멕시코",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_44049437_1_r",
+   "date": "2026-10-22 21:21:57",
+   "views": "3",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/210519591",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "dnwnwjdqhr53"
+   ],
+   "origin_nick": "설레랑",
+   "org_title_no": "210507371",
+   "org_timestamp": "1792671717",
+   "broad_no": "298022033",
+   "b_title": "[클립]함장 설레랑",
+   "title_history": [],
+   "broad_title": "[광고] '월드오브워쉽' 설레랑 섬장이 된 썰. / 레랑쿠데타 면접 후 합격자 발표",
+   "unedited": false
+  },
+  {
+   "id": "210519191",
+   "type": "CLIP",
+   "title": "[클립]적을 마구 쏘다가 자신의 배 신경안쓰다 배 침몰 당한 함장 설레랑",
+   "streamer_id": "cnanrlf12",
+   "streamer_nick": "왈랑멕시코",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_44049325_1_r",
+   "date": "2026-10-22 21:18:02",
+   "views": "13",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/210519191",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "dnwnwjdqhr53"
+   ],
+   "origin_nick": "설레랑",
+   "org_title_no": "210507371",
+   "org_timestamp": "1792671482",
+   "broad_no": "298022033",
+   "b_title": "[클립]적을 마구 쏘다가 자신의 배 신경안쓰다 배 침몰 당한 함장 설레랑",
+   "title_history": [],
+   "broad_title": "[광고] '월드오브워쉽' 설레랑 섬장이 된 썰. / 레랑쿠데타 면접 후 합격자 발표",
+   "unedited": false
+  },
+  {
+   "id": "210518379",
+   "type": "CLIP",
+   "title": "[클립]적을 마구 쏘다가 자신의 배 신경안쓰는 함장 설레랑",
+   "streamer_id": "cnanrlf12",
+   "streamer_nick": "왈랑멕시코",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_44049105_1_r",
+   "date": "2026-10-22 21:10:53",
+   "views": "2",
+   "duration": "4:25",
+   "url": "https://vod.afreecatv.com/player/210518379",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "dnwnwjdqhr53"
+   ],
+   "origin_nick": "설레랑",
+   "org_title_no": "210507371",
+   "org_timestamp": "1792671053",
+   "broad_no": "298022033",
+   "b_title": "[클립]적을 마구 쏘다가 자신의 배 신경안쓰는 함장 설레랑",
+   "title_history": [],
+   "broad_title": "[광고] '월드오브워쉽' 설레랑 섬장이 된 썰. / 레랑쿠데타 면접 후 합격자 발표",
+   "unedited": false
+  },
+  {
    "id": "210491327",
    "type": "CATCH",
    "title": "[캐치]양도끼 뽀뽀 윤이제 시점",
@@ -10422,6 +10689,136 @@
     "b13246"
    ],
    "origin_nick": "타요~"
+  },
+  {
+   "id": "210404437",
+   "type": "CLIP",
+   "title": "[단츄] 100개 역팬 이벤트 - 43개 쏴서 1등 탈환 (함장 다음 역팬 언제지..?)",
+   "streamer_id": "kty724",
+   "streamer_nick": "소세지빵사와",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261021_475_a25ae3ff-4f7c-4bfe-b9e7-5be2db33060e_44017475_r&column=2&t=1792567073",
+   "date": "2026-10-21 16:00:59",
+   "views": "82",
+   "duration": "2:38",
+   "url": "https://vod.afreecatv.com/player/210404437",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "danchu17"
+   ],
+   "origin_nick": "단츄♪",
+   "org_title_no": "210413115",
+   "org_timestamp": "1792566059",
+   "broad_no": "298000957",
+   "b_title": "[단츄] 100개 역팬 이벤트 - 43개 쏴서 1등 탈환 (함장 다음 역팬 언제지..?)",
+   "title_history": [],
+   "broad_title": "분좋카 / 벤치에서 발롱도르",
+   "unedited": false
+  },
+  {
+   "id": "210175285",
+   "type": "CATCH",
+   "title": "【얼그레】 얼그레)도끼, 우주선 보유중입니다. 함장이라서. 타요)얼그레, 나 진지하게 적는 중이라고. 그레)저도 진지하게 말하고 있어요.",
+   "streamer_id": "zkdhtm777",
+   "streamer_nick": "고려_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261018/907/7846e99d-03dd-4645-b2dc-f36f6cecaf2c/21391907_r.jpg",
+   "date": "2026-10-18 21:22:26",
+   "views": "603",
+   "duration": "0:25",
+   "url": "https://vod.afreecatv.com/player/210175285",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "earlgre0u0"
+   ],
+   "origin_nick": "얼그레",
+   "org_title_no": "210192857",
+   "org_timestamp": "1792326146",
+   "broad_no": "297936905",
+   "b_title": "【얼그레】 얼그레)도끼, 우주선 보유중입니다. 함장이라서. 타요)얼그레, 나 진지하게 적는 중이라고. 그레)저도 진지하게 말하고 있어요.",
+   "title_history": [],
+   "broad_title": "후열",
+   "unedited": false
+  },
+  {
+   "id": "209826781",
+   "type": "CATCH",
+   "title": "[캐치]쇼츠 마무리는 막는 사람 함장ㅡㅡ",
+   "streamer_id": "bbb0123",
+   "streamer_nick": "백팔업업업",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261015_21324191_1_r",
+   "date": "2026-10-15 00:24:52",
+   "views": "27",
+   "duration": "0:25",
+   "url": "https://vod.afreecatv.com/player/209826781",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "bbb0123"
+   ],
+   "origin_nick": "백팔업업업",
+   "org_title_no": "209778181",
+   "org_timestamp": "1791991492",
+   "broad_no": "297830959",
+   "b_title": "[캐치]쇼츠 마무리는 막는 사람 함장ㅡㅡ",
+   "title_history": [],
+   "broad_title": "1014  1차 스나",
+   "unedited": false
+  },
+  {
+   "id": "209437859",
+   "type": "CATCH",
+   "title": "[캐치] 함장군",
+   "streamer_id": "k11dkxl",
+   "streamer_nick": "함밀크",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261010_21244765_1_r",
+   "date": "2026-10-10 20:45:11",
+   "views": "11",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/209437859",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "rox0x0x"
+   ],
+   "origin_nick": "함지아♥",
+   "org_title_no": "209381793",
+   "org_timestamp": "1791632711",
+   "broad_no": "297720071",
+   "b_title": "[캐치] 함장군",
+   "title_history": [],
+   "broad_title": "[광우상사] 미도 ♥ 아이 ♥ 밥전쟁 !!!!",
+   "unedited": false
+  },
+  {
+   "id": "208353999",
+   "type": "CLIP",
+   "title": "[타요] 단호한 야구 철학과 함장에게 관심없다는 타요",
+   "streamer_id": "bug1839",
+   "streamer_nick": "AfterHours",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260928/509/c0ebf391-c00d-4630-a47e-83d4b3cf7fbe/43472509_r.jpg",
+   "date": "2026-09-28 23:03:27",
+   "views": "166",
+   "duration": "2:20",
+   "url": "https://vod.afreecatv.com/player/208353999",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "208372927",
+   "org_timestamp": "1790604207",
+   "broad_no": "297450365",
+   "b_title": "[타요] 단호한 야구 철학과 함장에게 관심없다는 타요",
+   "title_history": [],
+   "broad_title": "타요 서바이벌로그 좀비생존로그라이크 60초같은 죽으면 첨부터하는 좀비게임",
+   "unedited": false
   }
  ]
 }
