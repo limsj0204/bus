@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14 06:40",
+ "updated_at": "2026-11-14 06:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-14 06:00:39"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-14 05:08:52",
+   "newest": "2026-11-14 06:41:05",
    "backfill_days": 7,
    "last_rescan": "2026-11-14 06:00:39"
   },
@@ -235,7 +235,7 @@
    "streamer_nick": "구칠사",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/107/dda0ec4b-61ef-4f04-adf4-a2e8868f93af/44581107_r.jpg",
    "date": "2026-11-13 22:49:22",
-   "views": "154",
+   "views": "155",
    "duration": "2:29",
    "url": "https://vod.afreecatv.com/player/212535777",
    "keywords": [
