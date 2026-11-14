@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 04:20",
+ "updated_at": "2026-11-15 04:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-15 03:00:37"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-15 01:49:14",
+   "newest": "2026-11-15 04:20:34",
    "backfill_days": 7,
    "last_rescan": "2026-11-15 03:00:37"
   },
@@ -235,6 +235,32 @@
  },
  "items": [
   {
+   "id": "212657793",
+   "type": "CATCH",
+   "title": "[캐치]저습지  [양도끼 윤이제 쿠우 꿈틀]",
+   "streamer_id": "nandy7an10",
+   "streamer_nick": "구칠사",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261115/783/ef215a2b-4e31-4a8a-a95d-d86a3e515de8/21873783_r.jpg",
+   "date": "2026-11-15 04:20:34",
+   "views": "0",
+   "duration": "0:16",
+   "url": "https://vod.afreecatv.com/player/212657793",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "",
+   "org_timestamp": "1794684034",
+   "broad_no": "298592885",
+   "b_title": "[캐치]저습지  [양도끼 윤이제 쿠우 꿈틀]",
+   "title_history": [],
+   "broad_title": "[드롭스] 나락 [양도끼 윤이제 쿠우 꿈틀]",
+   "unedited": false
+  },
+  {
    "id": "212635991",
    "type": "CATCH",
    "title": "[나비] 나비방은 육수방이지 농도 개찐해 / 단츄 양도끼 민결희 한결.. 인정합니다",
@@ -268,7 +294,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "74",
+   "views": "77",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -320,7 +346,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/655/fd23ed59-24f1-4511-a5d8-58b2eb18f74b/44604655_r.jpg",
    "date": "2026-11-14 22:20:28",
-   "views": "85",
+   "views": "86",
    "duration": "1:38",
    "url": "https://vod.afreecatv.com/player/212625479",
    "keywords": [
@@ -346,7 +372,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/717/db36fb2e-bf74-495f-b20e-2920690738d4/44602717_r.jpg",
    "date": "2026-11-14 21:28:17",
-   "views": "554",
+   "views": "556",
    "duration": "3:56",
    "url": "https://vod.afreecatv.com/player/212619257",
    "keywords": [
@@ -372,7 +398,7 @@
    "streamer_nick": "한날",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/825/33da6c3c-5d32-4f8c-aa1c-018badcdac7e/44598825_r.jpg",
    "date": "2026-11-14 19:13:06",
-   "views": "67",
+   "views": "68",
    "duration": "0:41",
    "url": "https://vod.afreecatv.com/player/212606271",
    "keywords": [
@@ -424,7 +450,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261114_057_e2b11efe-1b70-45c3-956a-e3900e05ccca_44597057_r&column=2&t=1794646104",
    "date": "2026-11-14 17:47:27",
-   "views": "721",
+   "views": "723",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/212599611",
    "keywords": [
@@ -450,7 +476,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "545",
+   "views": "546",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
