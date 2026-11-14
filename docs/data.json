@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14 13:40",
+ "updated_at": "2026-11-14 13:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-14 12:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-14 13:13:06",
+   "newest": "2026-11-14 13:44:47",
    "backfill_days": 7,
    "last_rescan": "2026-11-14 12:00:40"
   },
@@ -235,7 +235,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "51",
+   "views": "53",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -313,7 +313,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/403/796e605d-0ca9-4b57-b269-f5120d39e873/21847403_r.jpg",
    "date": "2026-11-13 20:02:29",
-   "views": "533",
+   "views": "536",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517623",
    "keywords": [
@@ -339,7 +339,7 @@
    "streamer_nick": "먹물오징어_5",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/331/ddaa936d-19ea-4a1b-a5f1-f0a7b252fc42/21847331_r.jpg",
    "date": "2026-11-13 19:58:32",
-   "views": "72",
+   "views": "73",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517237",
    "keywords": [
@@ -365,7 +365,7 @@
    "streamer_nick": "움직이는바지",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261113_21842317_1_r",
    "date": "2026-11-13 13:58:49",
-   "views": "459",
+   "views": "463",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212493015",
    "keywords": [
@@ -391,7 +391,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261113_957_3ff50496-dd82-4643-871a-32ad2878ea19_44567957_r&column=2&t=1794545118",
    "date": "2026-11-13 13:43:45",
-   "views": "208",
+   "views": "209",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212492363",
    "keywords": [
@@ -469,7 +469,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_44563229_1_r",
    "date": "2026-11-13 03:18:00",
-   "views": "476",
+   "views": "477",
    "duration": "1:35",
    "url": "https://vod.afreecatv.com/player/212471469",
    "keywords": [
@@ -651,7 +651,7 @@
    "streamer_nick": "어머멍",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261112/123/b820b02f-aba8-44f2-9422-1aa475c2c106/21831123_r.jpg",
    "date": "2026-11-12 20:02:14",
-   "views": "229",
+   "views": "230",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212431377",
    "keywords": [
@@ -885,7 +885,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_44548669_1_r&column=2&t=1794471635",
    "date": "2026-11-12 17:18:02",
-   "views": "163",
+   "views": "164",
    "duration": "3:07",
    "url": "https://vod.afreecatv.com/player/212418373",
    "keywords": [
@@ -1431,7 +1431,7 @@
    "streamer_nick": "움직이는바지",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21800135_1_r",
    "date": "2026-11-11 00:14:41",
-   "views": "437",
+   "views": "438",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212272687",
    "keywords": [
@@ -1613,7 +1613,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/471/63e5b072-f72a-42eb-b70c-598d174a45e9/44512471_r.jpg",
    "date": "2026-11-11 00:06:24",
-   "views": "2053",
+   "views": "2054",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/212271533",
    "keywords": [
@@ -2265,7 +2265,7 @@
    "streamer_nick": "해피356",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261107_21736083_1_r",
    "date": "2026-11-07 09:46:45",
-   "views": "1058",
+   "views": "1059",
    "duration": "0:50",
    "url": "https://vod.afreecatv.com/player/211946355",
    "keywords": [
