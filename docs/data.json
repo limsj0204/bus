@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 03:20",
+ "updated_at": "2026-11-15 03:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -230,7 +230,8 @@
   "298595137": "[머독] 안녕하세요;;",
   "298592885": "[드롭스] 나락 [양도끼 윤이제 쿠우 꿈틀]",
   "298596625": "음악중심 엔딩요정 릴파 등장",
-  "298599785": "토요일 토요일 밤에"
+  "298599785": "토요일 토요일 밤에",
+  "298589171": "주말이니까 놀아주셈"
  },
  "items": [
   {
@@ -241,7 +242,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://res.sooplive.com/images/thumb/vod/0082_480x270_light.png",
    "date": "2026-11-14 23:58:48",
-   "views": "95",
+   "views": "96",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212635991",
    "keywords": [
@@ -255,7 +256,9 @@
    "org_timestamp": "1794668328",
    "broad_no": "298589171",
    "b_title": "[나비] 나비방은 육수방이지 농도 개찐해 / 단츄 양도끼 민결희 한결.. 인정합니다",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "주말이니까 놀아주셈",
+   "unedited": false
   },
   {
    "id": "212633893",
@@ -265,7 +268,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "53",
+   "views": "54",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -291,7 +294,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/879/efc6e5e9-edb4-4d22-bbe5-2a199d614737/44605879_r.jpg",
    "date": "2026-11-14 23:01:21",
-   "views": "168",
+   "views": "170",
    "duration": "2:07",
    "url": "https://vod.afreecatv.com/player/212629703",
    "keywords": [
@@ -447,7 +450,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "517",
+   "views": "520",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -525,7 +528,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/403/796e605d-0ca9-4b57-b269-f5120d39e873/21847403_r.jpg",
    "date": "2026-11-13 20:02:29",
-   "views": "957",
+   "views": "960",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517623",
    "keywords": [
