@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14 17:35",
+ "updated_at": "2026-11-14 17:40",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212598859",
+   "type": "POST",
+   "title": "여러분 오늘 방송은",
+   "content": "▼ 이거 영상에 ♥️하트 1,000개 찍히면 방송 키러올게요 ^_^/",
+   "date": "2026-11-14 17:36:55",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212598859",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 362,
+   "likes": 42,
+   "comments": 9
+  },
   {
    "id": "212435039",
    "type": "POST",
@@ -23,8 +40,8 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/83141794483426585.jpeg",
    "photos": 1,
-   "views": 2553,
-   "likes": 137,
+   "views": 2555,
+   "likes": 138,
    "comments": 16
   },
   {
@@ -74,7 +91,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 722,
+   "views": 723,
    "likes": 91,
    "comments": 19
   },
