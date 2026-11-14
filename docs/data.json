@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14 13:05",
+ "updated_at": "2026-11-14 13:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-14 12:00:40"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-14 11:57:25",
+   "newest": "2026-11-14 13:07:38",
    "backfill_days": 7,
    "last_rescan": "2026-11-14 12:00:40"
   },
@@ -235,7 +235,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "48",
+   "views": "49",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -313,7 +313,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/403/796e605d-0ca9-4b57-b269-f5120d39e873/21847403_r.jpg",
    "date": "2026-11-13 20:02:29",
-   "views": "513",
+   "views": "516",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517623",
    "keywords": [
@@ -365,7 +365,7 @@
    "streamer_nick": "움직이는바지",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261113_21842317_1_r",
    "date": "2026-11-13 13:58:49",
-   "views": "452",
+   "views": "453",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212493015",
    "keywords": [
@@ -391,7 +391,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261113_957_3ff50496-dd82-4643-871a-32ad2878ea19_44567957_r&column=2&t=1794545118",
    "date": "2026-11-13 13:43:45",
-   "views": "206",
+   "views": "207",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212492363",
    "keywords": [
@@ -937,7 +937,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/349/97e97881-6c9f-41cd-8066-437e1a164387/44529349_r.jpg",
    "date": "2026-11-11 20:17:52",
-   "views": "243",
+   "views": "244",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/212340067",
    "keywords": [
