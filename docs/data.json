@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14 14:01",
+ "updated_at": "2026-11-14 14:05",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-14 12:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-14 13:44:47",
+   "newest": "2026-11-14 14:00:45",
    "backfill_days": 7,
    "last_rescan": "2026-11-14 12:00:40"
   },
@@ -989,7 +989,7 @@
    "streamer_nick": "징버거세트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807605_1_r&column=2&t=1794376490",
    "date": "2026-11-11 14:52:35",
-   "views": "6060",
+   "views": "6061",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212313375",
    "keywords": [
@@ -1145,7 +1145,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44517141_1_r&column=2&t=1794339041",
    "date": "2026-11-11 04:19:27",
-   "views": "745",
+   "views": "746",
    "duration": "2:15",
    "url": "https://vod.afreecatv.com/player/212290953",
    "keywords": [
