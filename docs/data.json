@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 10:45",
+ "updated_at": "2026-11-15 10:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-15 09:00:46"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-15 04:20:34",
+   "newest": "2026-11-15 10:49:54",
    "backfill_days": 7,
    "last_rescan": "2026-11-15 09:00:46"
   },
@@ -231,9 +231,36 @@
   "298592885": "[드롭스] 나락 [양도끼 윤이제 쿠우 꿈틀]",
   "298596625": "음악중심 엔딩요정 릴파 등장",
   "298599785": "토요일 토요일 밤에",
-  "298589171": "주말이니까 놀아주셈"
+  "298589171": "주말이니까 놀아주셈",
+  "298605805": "와포 레전드 도태 열심히 키웁니다 [이브닛]"
  },
  "items": [
+  {
+   "id": "212670503",
+   "type": "CATCH",
+   "title": "[캐치]곧 재데뷔하는 양도끼 뉴아바타(여르미 반응)",
+   "streamer_id": "tulip0509",
+   "streamer_nick": "자연스러워따",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261115/131/ec490d9f-0cdb-4e39-9c37-d12224e9649f/21876131_r.jpg",
+   "date": "2026-11-15 10:49:54",
+   "views": "0",
+   "duration": "0:55",
+   "url": "https://vod.afreecatv.com/player/212670503",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "yeorumi030"
+   ],
+   "origin_nick": "여르미_",
+   "org_title_no": "",
+   "org_timestamp": "1794707394",
+   "broad_no": "298605805",
+   "b_title": "[캐치]곧 재데뷔하는 양도끼 뉴아바타(여르미 반응)",
+   "title_history": [],
+   "broad_title": "와포 레전드 도태 열심히 키웁니다 [이브닛]",
+   "unedited": false
+  },
   {
    "id": "212657793",
    "type": "CATCH",
@@ -268,7 +295,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://res.sooplive.com/images/thumb/vod/0082_480x270_light.png",
    "date": "2026-11-14 23:58:48",
-   "views": "175",
+   "views": "178",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212635991",
    "keywords": [
@@ -294,7 +321,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "163",
+   "views": "166",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -320,7 +347,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/879/efc6e5e9-edb4-4d22-bbe5-2a199d614737/44605879_r.jpg",
    "date": "2026-11-14 23:01:21",
-   "views": "235",
+   "views": "236",
    "duration": "2:07",
    "url": "https://vod.afreecatv.com/player/212629703",
    "keywords": [
@@ -346,7 +373,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/655/fd23ed59-24f1-4511-a5d8-58b2eb18f74b/44604655_r.jpg",
    "date": "2026-11-14 22:20:28",
-   "views": "97",
+   "views": "98",
    "duration": "1:38",
    "url": "https://vod.afreecatv.com/player/212625479",
    "keywords": [
@@ -372,7 +399,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/717/db36fb2e-bf74-495f-b20e-2920690738d4/44602717_r.jpg",
    "date": "2026-11-14 21:28:17",
-   "views": "660",
+   "views": "664",
    "duration": "3:56",
    "url": "https://vod.afreecatv.com/player/212619257",
    "keywords": [
@@ -450,7 +477,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261114_057_e2b11efe-1b70-45c3-956a-e3900e05ccca_44597057_r&column=2&t=1794646104",
    "date": "2026-11-14 17:47:27",
-   "views": "809",
+   "views": "810",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/212599611",
    "keywords": [
@@ -476,7 +503,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "757",
+   "views": "760",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -1126,7 +1153,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_44548669_1_r&column=2&t=1794471635",
    "date": "2026-11-12 17:18:02",
-   "views": "175",
+   "views": "176",
    "duration": "3:07",
    "url": "https://vod.afreecatv.com/player/212418373",
    "keywords": [
