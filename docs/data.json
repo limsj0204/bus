@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 18:30",
+ "updated_at": "2026-11-15 18:35",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-15 15:17:45",
+   "newest": "2026-11-15 18:34:29",
    "backfill_days": 7,
    "last_rescan": "2026-11-15 18:00:37"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-15 18:00:37"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-15 18:29:30",
+   "newest": "2026-11-15 18:34:37",
    "backfill_days": 7,
    "last_rescan": "2026-11-15 18:00:37"
   },
@@ -234,9 +234,63 @@
   "298589171": "주말이니까 놀아주셈",
   "298605805": "와포 레전드 도태 열심히 키웁니다 [이브닛]",
   "298609773": "4시) 한 소녀가 찾아왔습니다",
-  "298613101": "일요일 일요일 낮에"
+  "298613101": "일요일 일요일 낮에",
+  "298614729": "레전드 재밌는 더빙게임 w. 민결희 우정잉 단즈 머독",
+  "298614049": "오늘 찢습니다"
  },
  "items": [
+  {
+   "id": "212697997",
+   "type": "CLIP",
+   "title": "[클립][최또 반응] AI 팬영상 (민결희, 따린, 단즈, 양도끼, 최또, 머독) - REBELS (이세계아이돌) 감상하는 머독",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261115/783/662f3ae4-faed-4195-b705-c104eb3f8b78/44622783_r.jpg",
+   "date": "2026-11-15 18:34:29",
+   "views": "1",
+   "duration": "3:47",
+   "url": "https://vod.afreecatv.com/player/212697997",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "choiagain"
+   ],
+   "origin_nick": "최또",
+   "org_title_no": "",
+   "org_timestamp": "1794735269",
+   "broad_no": "298614729",
+   "b_title": "[클립][최또 반응] AI 팬영상 (민결희, 따린, 단즈, 양도끼, 최또, 머독) - REBELS (이세계아이돌) 감상하는 머독",
+   "title_history": [],
+   "broad_title": "레전드 재밌는 더빙게임 w. 민결희 우정잉 단즈 머독",
+   "unedited": false
+  },
+  {
+   "id": "212697843",
+   "type": "CLIP",
+   "title": "[클립]곧 재데뷔하는 양도끼 뉴아바타 실루엣 / 마이곰이 반응",
+   "streamer_id": "byeolpillar",
+   "streamer_nick": "서엉기랑화원",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261115/741/63962e1c-2f43-48f8-91d4-941cd9ec431e/44622741_r.jpg",
+   "date": "2026-11-15 18:32:39",
+   "views": "6",
+   "duration": "1:15",
+   "url": "https://vod.afreecatv.com/player/212697843",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mygomiee"
+   ],
+   "origin_nick": "마이곰이",
+   "org_title_no": "",
+   "org_timestamp": "1794735159",
+   "broad_no": "298614049",
+   "b_title": "[클립]곧 재데뷔하는 양도끼 뉴아바타 실루엣 / 마이곰이 반응",
+   "title_history": [],
+   "broad_title": "오늘 찢습니다",
+   "unedited": false
+  },
   {
    "id": "212691719",
    "type": "CATCH",
@@ -245,7 +299,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/435/5f6da440-691e-4c4e-aedd-6b2c3c043966/21880435_r.jpg",
    "date": "2026-11-15 17:25:43",
-   "views": "59",
+   "views": "60",
    "duration": "0:31",
    "url": "https://vod.afreecatv.com/player/212691719",
    "keywords": [
@@ -349,7 +403,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://res.sooplive.com/images/thumb/vod/0082_480x270_light.png",
    "date": "2026-11-14 23:58:48",
-   "views": "272",
+   "views": "273",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212635991",
    "keywords": [
@@ -453,7 +507,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/717/db36fb2e-bf74-495f-b20e-2920690738d4/44602717_r.jpg",
    "date": "2026-11-14 21:28:17",
-   "views": "763",
+   "views": "765",
    "duration": "3:56",
    "url": "https://vod.afreecatv.com/player/212619257",
    "keywords": [
@@ -531,7 +585,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261114_057_e2b11efe-1b70-45c3-956a-e3900e05ccca_44597057_r&column=2&t=1794646104",
    "date": "2026-11-14 17:47:27",
-   "views": "878",
+   "views": "879",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/212599611",
    "keywords": [
