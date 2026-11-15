@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 17:25",
+ "updated_at": "2026-11-15 17:30",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-15 15:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-15 10:49:54",
+   "newest": "2026-11-15 17:25:43",
    "backfill_days": 7,
    "last_rescan": "2026-11-15 15:00:40"
   },
@@ -233,9 +233,36 @@
   "298599785": "토요일 토요일 밤에",
   "298589171": "주말이니까 놀아주셈",
   "298605805": "와포 레전드 도태 열심히 키웁니다 [이브닛]",
-  "298609773": "4시) 한 소녀가 찾아왔습니다"
+  "298609773": "4시) 한 소녀가 찾아왔습니다",
+  "298613101": "일요일 일요일 낮에"
  },
  "items": [
+  {
+   "id": "212691719",
+   "type": "CATCH",
+   "title": "[캐치]AI가 꿈틀님을 인식못해서 와우 초상화를 잡는데 빵터진 양도끼 / 왁굳님 반응ㅋㅋㅋ",
+   "streamer_id": "chastity40",
+   "streamer_nick": "민트파이_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261115/435/5f6da440-691e-4c4e-aedd-6b2c3c043966/21880435_r.jpg",
+   "date": "2026-11-15 17:25:43",
+   "views": "2",
+   "duration": "0:31",
+   "url": "https://vod.afreecatv.com/player/212691719",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1794731143",
+   "broad_no": "298613101",
+   "b_title": "[캐치]AI가 꿈틀님을 인식못해서 와우 초상화를 잡는데 빵터진 양도끼 / 왁굳님 반응ㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "일요일 일요일 낮에",
+   "unedited": false
+  },
   {
    "id": "212683091",
    "type": "CLIP",
@@ -244,7 +271,7 @@
    "streamer_nick": "스밀로돈_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/875/8a690b64-00f7-4a31-8f2f-c7e559b99a67/44618875_r.jpg",
    "date": "2026-11-15 15:17:45",
-   "views": "54",
+   "views": "56",
    "duration": "1:23",
    "url": "https://vod.afreecatv.com/player/212683091",
    "keywords": [
@@ -348,7 +375,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "389",
+   "views": "390",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -374,7 +401,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/879/efc6e5e9-edb4-4d22-bbe5-2a199d614737/44605879_r.jpg",
    "date": "2026-11-14 23:01:21",
-   "views": "288",
+   "views": "290",
    "duration": "2:07",
    "url": "https://vod.afreecatv.com/player/212629703",
    "keywords": [
@@ -426,7 +453,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/717/db36fb2e-bf74-495f-b20e-2920690738d4/44602717_r.jpg",
    "date": "2026-11-14 21:28:17",
-   "views": "755",
+   "views": "757",
    "duration": "3:56",
    "url": "https://vod.afreecatv.com/player/212619257",
    "keywords": [
@@ -504,7 +531,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261114_057_e2b11efe-1b70-45c3-956a-e3900e05ccca_44597057_r&column=2&t=1794646104",
    "date": "2026-11-14 17:47:27",
-   "views": "872",
+   "views": "874",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/212599611",
    "keywords": [
@@ -530,7 +557,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "1130",
+   "views": "1136",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -1050,7 +1077,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261112/891/c3d1bc54-dedb-4367-b883-dbe65e7d328e/44550891_r.jpg",
    "date": "2026-11-12 19:01:16",
-   "views": "221",
+   "views": "222",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/212426047",
    "keywords": [
