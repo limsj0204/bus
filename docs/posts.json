@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 18:20",
+ "updated_at": "2026-11-15 18:25",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212696619",
+   "type": "POST",
+   "title": "오뱅 일곱띠",
+   "content": "빙하기전 막뱅 ~_~좀따올게요~!",
+   "date": "2026-11-15 18:21:22",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212696619",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 124,
+   "likes": 31,
+   "comments": 13
+  },
   {
    "id": "212604203",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1851,
+   "views": 1852,
    "likes": 125,
    "comments": 27
   },
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2163,
+   "views": 2166,
    "likes": 131,
    "comments": 16
   },
@@ -91,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1361,
+   "views": 1362,
    "likes": 106,
    "comments": 21
   },
@@ -142,7 +159,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2236,
+   "views": 2237,
    "likes": 147,
    "comments": 23
   },
