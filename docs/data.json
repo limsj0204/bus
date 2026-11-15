@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15 21:10",
+ "updated_at": "2026-11-15 21:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-15 21:03:28",
+   "newest": "2026-11-15 21:13:33",
    "backfill_days": 7,
    "last_rescan": "2026-11-15 21:00:38"
   },
@@ -244,6 +244,32 @@
  },
  "items": [
   {
+   "id": "212715487",
+   "type": "CLIP",
+   "title": "[타요 반응] 민결희 너랑 같이 모캡 했다면 카푸킥으로 다신 못 걷게 했을텐데 / 언젠가 한번 때려보고 싶은 사람 민결희 양도끼",
+   "streamer_id": "abwtzwkbh42",
+   "streamer_nick": "새결",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261115/093/1ee8d92e-6c38-43e0-9dba-9677051665ff/44628093_r.jpg",
+   "date": "2026-11-15 21:13:33",
+   "views": "7",
+   "duration": "1:01",
+   "url": "https://vod.afreecatv.com/player/212715487",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1794744813",
+   "broad_no": "298618659",
+   "b_title": "[타요 반응] 민결희 너랑 같이 모캡 했다면 카푸킥으로 다신 못 걷게 했을텐데 / 언젠가 한번 때려보고 싶은 사람 민결희 양도끼",
+   "title_history": [],
+   "broad_title": "타요 영웅등장!!!!!!!!!!",
+   "unedited": false
+  },
+  {
    "id": "212714283",
    "type": "CLIP",
    "title": "[클립]청백 회의때 구슬요x따린 듀엣곡 엠바고때메 말도 못하고 맞기만 했던 양도끼",
@@ -251,7 +277,7 @@
    "streamer_nick": "달화숭",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/687/d29d8e8f-3c35-49d2-a473-3fc680328d6e/44627687_r.jpg",
    "date": "2026-11-15 21:03:28",
-   "views": "4",
+   "views": "6",
    "duration": "1:54",
    "url": "https://vod.afreecatv.com/player/212714283",
    "keywords": [
@@ -272,12 +298,12 @@
   {
    "id": "212713167",
    "type": "CLIP",
-   "title": "[클립]타요 th 발음 귀엽다고 따라하는 양도끼 / 타요 반응",
+   "title": "[타요 반응] 타요 th 발음 귀엽다고 따라하는 양도끼",
    "streamer_id": "abwtzwkbh42",
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/345/f59b2b23-b70a-4ca4-8a12-ef726ba8ce8f/44627345_r.jpg",
    "date": "2026-11-15 20:53:33",
-   "views": "22",
+   "views": "30",
    "duration": "0:36",
    "url": "https://vod.afreecatv.com/player/212713167",
    "keywords": [
@@ -290,7 +316,7 @@
    "org_title_no": "",
    "org_timestamp": "1794743613",
    "broad_no": "298618659",
-   "b_title": "[클립]타요 th 발음 귀엽다고 따라하는 양도끼 / 타요 반응",
+   "b_title": "[타요 반응] 타요 th 발음 귀엽다고 따라하는 양도끼",
    "title_history": [],
    "broad_title": "타요 영웅등장!!!!!!!!!!",
    "unedited": false
@@ -303,7 +329,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/809/fcb07bdc-223d-46a9-a62d-526230d755f7/44625809_r.jpg",
    "date": "2026-11-15 20:12:22",
-   "views": "40",
+   "views": "41",
    "duration": "2:28",
    "url": "https://vod.afreecatv.com/player/212708685",
    "keywords": [
@@ -329,7 +355,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/991/dc34bd16-3b7d-42e2-ba6d-7fc402fcd454/44624991_r.jpg",
    "date": "2026-11-15 19:49:58",
-   "views": "33",
+   "views": "34",
    "duration": "1:20",
    "url": "https://vod.afreecatv.com/player/212706043",
    "keywords": [
@@ -433,7 +459,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/783/662f3ae4-faed-4195-b705-c104eb3f8b78/44622783_r.jpg",
    "date": "2026-11-15 18:34:29",
-   "views": "120",
+   "views": "122",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/212697997",
    "keywords": [
@@ -485,7 +511,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/435/5f6da440-691e-4c4e-aedd-6b2c3c043966/21880435_r.jpg",
    "date": "2026-11-15 17:25:43",
-   "views": "110",
+   "views": "113",
    "duration": "0:31",
    "url": "https://vod.afreecatv.com/player/212691719",
    "keywords": [
@@ -615,7 +641,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "429",
+   "views": "430",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -641,7 +667,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/879/efc6e5e9-edb4-4d22-bbe5-2a199d614737/44605879_r.jpg",
    "date": "2026-11-14 23:01:21",
-   "views": "302",
+   "views": "304",
    "duration": "2:07",
    "url": "https://vod.afreecatv.com/player/212629703",
    "keywords": [
@@ -797,7 +823,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "1275",
+   "views": "1279",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -875,7 +901,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/403/796e605d-0ca9-4b57-b269-f5120d39e873/21847403_r.jpg",
    "date": "2026-11-13 20:02:29",
-   "views": "1166",
+   "views": "1167",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517623",
    "keywords": [
