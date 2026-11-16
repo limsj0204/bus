@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16 19:40",
+ "updated_at": "2026-11-16 19:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-16 18:22:19",
+   "newest": "2026-11-16 19:43:01",
    "backfill_days": 7,
    "last_rescan": "2026-11-16 18:03:40"
   },
@@ -249,6 +249,58 @@
  },
  "items": [
   {
+   "id": "212795543",
+   "type": "CLIP",
+   "title": "[클립]양도끼 뉴아바타 실루엣 쇼츠 / 하치 반응 [2/2]",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_44649097_1_r",
+   "date": "2026-11-16 19:43:01",
+   "views": "0",
+   "duration": "0:47",
+   "url": "https://vod.afreecatv.com/player/212795543",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "212648945",
+   "org_timestamp": "1794825781",
+   "broad_no": "298586519",
+   "b_title": "[클립]양도끼 뉴아바타 실루엣 쇼츠 / 하치 반응 [2/2]",
+   "title_history": [],
+   "broad_title": "와!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+   "unedited": false
+  },
+  {
+   "id": "212795419",
+   "type": "CLIP",
+   "title": "[클립]양도끼 뉴아바타 실루엣 쇼츠 / 하치 반응 [1/2]",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_44649055_1_r",
+   "date": "2026-11-16 19:41:34",
+   "views": "3",
+   "duration": "1:53",
+   "url": "https://vod.afreecatv.com/player/212795419",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "212648945",
+   "org_timestamp": "1794825694",
+   "broad_no": "298586519",
+   "b_title": "[클립]양도끼 뉴아바타 실루엣 쇼츠 / 하치 반응 [1/2]",
+   "title_history": [],
+   "broad_title": "와!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+   "unedited": false
+  },
+  {
    "id": "212788281",
    "type": "CLIP",
    "title": "[클립]보템 도끼 선물받은 엶님",
@@ -282,7 +334,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1116/17/thumb/1794818879173769_R_7.jpg",
    "date": "2026-11-16 17:47:16",
-   "views": "102",
+   "views": "109",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/212785333",
    "keywords": [
@@ -308,7 +360,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261116_21899147_1_r&column=2&t=1794812108",
    "date": "2026-11-16 15:54:41",
-   "views": "42",
+   "views": "44",
    "duration": "0:34",
    "url": "https://vod.afreecatv.com/player/212777379",
    "keywords": [
@@ -334,7 +386,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1116/15/thumb/1794812155858542_R_7.jpg",
    "date": "2026-11-16 15:46:29",
-   "views": "78",
+   "views": "96",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212776915",
    "keywords": [
@@ -360,7 +412,7 @@
    "streamer_nick": "지샌달",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261116_21898955_1_r&column=2&t=1794811762",
    "date": "2026-11-16 15:37:50",
-   "views": "31",
+   "views": "33",
    "duration": "0:43",
    "url": "https://vod.afreecatv.com/player/212776461",
    "keywords": [
@@ -412,7 +464,7 @@
    "streamer_nick": "힌시코기_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/851/5714df4f-b864-4b0a-b850-e2c35133a406/44643851_r.jpg",
    "date": "2026-11-16 15:27:24",
-   "views": "33",
+   "views": "34",
    "duration": "1:07",
    "url": "https://vod.afreecatv.com/player/212775921",
    "keywords": [
@@ -516,7 +568,7 @@
    "streamer_nick": "밤별사",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/979/35502e80-762f-4ba6-8e86-1c4f5054e0c0/44634979_r.jpg",
    "date": "2026-11-16 00:23:33",
-   "views": "331",
+   "views": "333",
    "duration": "1:30",
    "url": "https://vod.afreecatv.com/player/212737799",
    "keywords": [
@@ -568,7 +620,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/835/cd0cb2ca-461c-40ce-b180-543f5469b29d/44629835_r.jpg",
    "date": "2026-11-15 21:55:12",
-   "views": "95",
+   "views": "96",
    "duration": "1:06",
    "url": "https://vod.afreecatv.com/player/212720499",
    "keywords": [
@@ -672,7 +724,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/809/fcb07bdc-223d-46a9-a62d-526230d755f7/44625809_r.jpg",
    "date": "2026-11-15 20:12:22",
-   "views": "196",
+   "views": "197",
    "duration": "2:28",
    "url": "https://vod.afreecatv.com/player/212708685",
    "keywords": [
@@ -854,7 +906,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/435/5f6da440-691e-4c4e-aedd-6b2c3c043966/21880435_r.jpg",
    "date": "2026-11-15 17:25:43",
-   "views": "2357",
+   "views": "2372",
    "duration": "0:31",
    "url": "https://vod.afreecatv.com/player/212691719",
    "keywords": [
@@ -984,7 +1036,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "730",
+   "views": "731",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -1140,7 +1192,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261114_057_e2b11efe-1b70-45c3-956a-e3900e05ccca_44597057_r&column=2&t=1794646104",
    "date": "2026-11-14 17:47:27",
-   "views": "966",
+   "views": "967",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/212599611",
    "keywords": [
@@ -1270,7 +1322,7 @@
    "streamer_nick": "먹물오징어_5",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261113/331/ddaa936d-19ea-4a1b-a5f1-f0a7b252fc42/21847331_r.jpg",
    "date": "2026-11-13 19:58:32",
-   "views": "137",
+   "views": "140",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212517237",
    "keywords": [
