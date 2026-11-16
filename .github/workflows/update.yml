@@ -35,6 +35,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 요청된 시점이 아니라 실제로 시작한 시점의 최신 저장소를 받는다.
+          # (GitHub 대기열에서 오래 기다린 실행이 오래된 목록·상태로 판단하지 않도록)
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
