@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16 14:30",
+ "updated_at": "2026-11-16 14:35",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-16 12:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-16 13:16:00",
+   "newest": "2026-11-16 14:34:06",
    "backfill_days": 7,
    "last_rescan": "2026-11-16 12:00:40"
   },
@@ -253,7 +253,7 @@
    "streamer_nick": "감각_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/637/9496fb52-223a-463e-a999-04520324daa9/44638637_r.jpg",
    "date": "2026-11-16 03:34:08",
-   "views": "126",
+   "views": "127",
    "duration": "0:48",
    "url": "https://vod.afreecatv.com/player/212752441",
    "keywords": [
@@ -331,7 +331,7 @@
    "streamer_nick": "밤별사",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/979/35502e80-762f-4ba6-8e86-1c4f5054e0c0/44634979_r.jpg",
    "date": "2026-11-16 00:23:33",
-   "views": "289",
+   "views": "290",
    "duration": "1:30",
    "url": "https://vod.afreecatv.com/player/212737799",
    "keywords": [
@@ -669,7 +669,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/435/5f6da440-691e-4c4e-aedd-6b2c3c043966/21880435_r.jpg",
    "date": "2026-11-15 17:25:43",
-   "views": "1776",
+   "views": "1789",
    "duration": "0:31",
    "url": "https://vod.afreecatv.com/player/212691719",
    "keywords": [
@@ -799,7 +799,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "693",
+   "views": "695",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
@@ -1111,7 +1111,7 @@
    "streamer_nick": "움직이는바지",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261113_21842317_1_r",
    "date": "2026-11-13 13:58:49",
-   "views": "544",
+   "views": "545",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212493015",
    "keywords": [
