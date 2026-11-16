@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16 15:45",
+ "updated_at": "2026-11-16 15:47",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,17 +13,17 @@
    "last_rescan": "2026-11-16 15:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-16 15:37:50",
+   "newest": "2026-11-16 15:46:29",
    "backfill_days": 7,
    "last_rescan": "2026-11-16 15:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-16 15:44:51",
+   "newest": "2026-11-16 15:46:57",
    "backfill_days": 7,
    "last_rescan": "2026-11-16 15:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-16 15:43:12",
+   "newest": "2026-11-16 15:46:29",
    "backfill_days": 7,
    "last_rescan": "2026-11-16 15:00:42"
   },
@@ -247,6 +247,32 @@
  },
  "items": [
   {
+   "id": "212776915",
+   "type": "CATCH",
+   "title": "[캐치]한결 : 왜 어흐? 양도끼에요???",
+   "streamer_id": "oneteps9",
+   "streamer_nick": "하이라잇생구",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261116/045/42fca319-99cc-49fb-8399-f595646a405d/21899045_r.jpg",
+   "date": "2026-11-16 15:46:29",
+   "views": "0",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/212776915",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "",
+   "org_timestamp": "1794811589",
+   "broad_no": "298631863",
+   "b_title": "[캐치]한결 : 왜 어흐? 양도끼에요???",
+   "title_history": [],
+   "broad_title": "1부 밥 먹으면서 진한 소통과 카페털기 [이브닛]",
+   "unedited": false
+  },
+  {
    "id": "212776461",
    "type": "CATCH",
    "title": "사이드붑 확인했습니다. 도끼님",
@@ -280,7 +306,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/931/58492baf-72f6-4e38-ad8c-4f2814f66678/44643931_r.jpg",
    "date": "2026-11-16 15:31:55",
-   "views": "3",
+   "views": "6",
    "duration": "1:02",
    "url": "https://vod.afreecatv.com/player/212776167",
    "keywords": [
@@ -436,7 +462,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261116_909_794de1b3-b3d9-4602-841a-2914d087dc6a_44634909_r&column=2&t=1794756179",
    "date": "2026-11-16 00:20:28",
-   "views": "626",
+   "views": "627",
    "duration": "1:02",
    "url": "https://vod.afreecatv.com/player/212737457",
    "keywords": [
@@ -592,7 +618,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/991/dc34bd16-3b7d-42e2-ba6d-7fc402fcd454/44624991_r.jpg",
    "date": "2026-11-15 19:49:58",
-   "views": "82",
+   "views": "83",
    "duration": "1:20",
    "url": "https://vod.afreecatv.com/player/212706043",
    "keywords": [
@@ -748,7 +774,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/435/5f6da440-691e-4c4e-aedd-6b2c3c043966/21880435_r.jpg",
    "date": "2026-11-15 17:25:43",
-   "views": "1934",
+   "views": "1938",
    "duration": "0:31",
    "url": "https://vod.afreecatv.com/player/212691719",
    "keywords": [
@@ -1060,7 +1086,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "1502",
+   "views": "1503",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
@@ -1190,7 +1216,7 @@
    "streamer_nick": "움직이는바지",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261113_21842317_1_r",
    "date": "2026-11-13 13:58:49",
-   "views": "548",
+   "views": "549",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212493015",
    "keywords": [
