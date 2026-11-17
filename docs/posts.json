@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 11:25",
+ "updated_at": "2026-11-17 11:30",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212855997",
+   "type": "POST",
+   "title": "🔵 블루점프 4기생 양도끼 데뷔 PV가 오늘 공개됩니다!",
+   "content": "https://youtu.be/oeFbY0PeorQ?si=EOxrAueLb5RgBygR",
+   "date": "2026-11-17 11:27:58",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212855997",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/77261794882447143.jpeg",
+   "photos": 1,
+   "views": 236,
+   "likes": 36,
+   "comments": 16
+  },
   {
    "id": "212696619",
    "type": "POST",
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1957,
+   "views": 1958,
    "likes": 129,
    "comments": 27
   },
