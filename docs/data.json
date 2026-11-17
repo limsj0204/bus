@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18 08:45",
+ "updated_at": "2026-11-18 08:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-18 01:02:08",
+   "newest": "2026-11-18 08:49:41",
    "backfill_days": 7,
    "last_rescan": "2026-11-18 06:00:41"
   },
@@ -265,6 +265,32 @@
  },
  "items": [
   {
+   "id": "212940615",
+   "type": "CLIP",
+   "title": "[클립]블루점프 양도끼 재데뷔 뉴 아바타 예고 PV / 마이곰이 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44689549_1_r",
+   "date": "2026-11-18 08:49:41",
+   "views": "2",
+   "duration": "1:34",
+   "url": "https://vod.afreecatv.com/player/212940615",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mygomiee"
+   ],
+   "origin_nick": "마이곰이",
+   "org_title_no": "212929215",
+   "org_timestamp": "1794959381",
+   "broad_no": "298656923",
+   "b_title": "[클립]블루점프 양도끼 재데뷔 뉴 아바타 예고 PV / 마이곰이 반응",
+   "title_history": [],
+   "broad_title": "1개 쏴도 열혈된다고..?",
+   "unedited": false
+  },
+  {
    "id": "212911959",
    "type": "CATCH",
    "title": "[캐치]열혈 \"머독\" 공룡화하는 양도끼 / 수탉",
@@ -272,7 +298,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/653/c0312216-103c-46d3-9380-4f5cb8606157/21924653_r.jpg",
    "date": "2026-11-17 23:49:59",
-   "views": "127",
+   "views": "130",
    "duration": "0:43",
    "url": "https://vod.afreecatv.com/player/212911959",
    "keywords": [
@@ -506,7 +532,7 @@
    "streamer_nick": "밍드위치",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261117_871_e8c90b40-4ee8-40f0-a899-0935759dd533_44672871_r&column=2&t=1794910366",
    "date": "2026-11-17 19:07:41",
-   "views": "30",
+   "views": "31",
    "duration": "1:27",
    "url": "https://vod.afreecatv.com/player/212882491",
    "keywords": [
@@ -688,7 +714,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/023/6cdd6cb3-c44f-4bda-8607-bac4133ff0b4/21918023_r.jpg",
    "date": "2026-11-17 17:57:51",
-   "views": "314",
+   "views": "320",
    "duration": "0:10",
    "url": "https://vod.afreecatv.com/player/212875917",
    "keywords": [
@@ -818,7 +844,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/497/286f7bdf-a22a-42ff-86a3-36269fb220c9/44669497_r.jpg",
    "date": "2026-11-17 16:55:34",
-   "views": "169",
+   "views": "170",
    "duration": "3:38",
    "url": "https://vod.afreecatv.com/player/212871441",
    "keywords": [
@@ -974,7 +1000,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261117_44662599_1_r",
    "date": "2026-11-17 03:15:05",
-   "views": "200",
+   "views": "201",
    "duration": "1:16",
    "url": "https://vod.afreecatv.com/player/212840335",
    "keywords": [
@@ -2820,7 +2846,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/349/97e97881-6c9f-41cd-8066-437e1a164387/44529349_r.jpg",
    "date": "2026-11-11 20:17:52",
-   "views": "260",
+   "views": "261",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/212340067",
    "keywords": [
@@ -2872,7 +2898,7 @@
    "streamer_nick": "징버거세트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807605_1_r&column=2&t=1794376490",
    "date": "2026-11-11 14:52:35",
-   "views": "6482",
+   "views": "6483",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212313375",
    "keywords": [
