@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 17:10",
+ "updated_at": "2026-11-17 17:15",
  "authors": [
   "양도끼"
  ],
@@ -23,9 +23,9 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1979,
-   "likes": 151,
-   "comments": 21
+   "views": 2009,
+   "likes": 155,
+   "comments": 22
   },
   {
    "id": "212863819",
@@ -40,8 +40,8 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/37941794893842366.jpeg",
    "photos": 1,
-   "views": 3344,
-   "likes": 227,
+   "views": 3361,
+   "likes": 228,
    "comments": 45
   },
   {
@@ -57,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/77261794882447143.jpeg",
    "photos": 1,
-   "views": 2141,
+   "views": 2144,
    "likes": 174,
    "comments": 42
   },
@@ -74,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 775,
+   "views": 776,
    "likes": 79,
    "comments": 17
   },
@@ -261,7 +261,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1927,
+   "views": 1928,
    "likes": 117,
    "comments": 3
   },
