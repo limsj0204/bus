@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 14:35",
+ "updated_at": "2026-11-17 14:40",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "212863819",
+   "type": "POST",
+   "title": "열혈 공룡화합니다",
+   "content": "무분별한 식데요청 공룡화합니다.진압해주세요",
+   "date": "2026-11-17 14:37:52",
+   "url": "https://www.sooplive.com/station/yangdoki/post/212863819",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/37941794893842366.jpeg",
+   "photos": 1,
+   "views": 492,
+   "likes": 58,
+   "comments": 11
+  },
   {
    "id": "212855997",
    "type": "POST",
@@ -23,9 +40,9 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/77261794882447143.jpeg",
    "photos": 1,
-   "views": 1805,
-   "likes": 163,
-   "comments": 40
+   "views": 1835,
+   "likes": 166,
+   "comments": 42
   },
   {
    "id": "212696619",
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 757,
+   "views": 759,
    "likes": 79,
    "comments": 17
   },
@@ -74,7 +91,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2276,
+   "views": 2277,
    "likes": 135,
    "comments": 16
   },
