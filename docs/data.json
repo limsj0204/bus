@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18 09:15",
+ "updated_at": "2026-11-18 09:20",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-18 08:49:41",
+   "newest": "2026-11-18 09:18:01",
    "backfill_days": 7,
    "last_rescan": "2026-11-18 09:00:41"
   },
@@ -261,9 +261,62 @@
   "298659763": "열혈 선생님 불참 죄송합니다.. | D-8 듀엣곡 발매🔥",
   "298661681": "디아블로스 합방!💙",
   "298662499": "[머독] 8시) 디아블로스 14인 후열 합방",
-  "298670989": "^^"
+  "298670989": "^^",
+  "298653191": "로이세끼 시즌2 몰래와서 시간까기"
  },
  "items": [
+  {
+   "id": "212941335",
+   "type": "CLIP",
+   "title": "[클립]구슬요 양도끼 여르미 힌콕 - WONDERLAND / 클로이: ㅈㄴ다가가기 힘들게 생겼는데 누구세요",
+   "streamer_id": "gsghost",
+   "streamer_nick": "주륵주륵르르",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
+   "date": "2026-11-18 09:18:01",
+   "views": "68",
+   "duration": "3:49",
+   "url": "https://vod.afreecatv.com/player/212941335",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "vf3366"
+   ],
+   "origin_nick": "클로이",
+   "org_title_no": "",
+   "org_timestamp": "1794961081",
+   "broad_no": "298653191",
+   "b_title": "[클립]구슬요 양도끼 여르미 힌콕 - WONDERLAND / 클로이: ㅈㄴ다가가기 힘들게 생겼는데 누구세요",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 몰래와서 시간까기",
+   "unedited": false
+  },
+  {
+   "id": "212941267",
+   "type": "CLIP",
+   "title": "[클로이 반응] 여르미x양도끼x힌콕x구슬요 - Wonderland / 콕식이는 어디갔고 누구세요?",
+   "streamer_id": "abwtzwkbh42",
+   "streamer_nick": "새결",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261118/679/325445c3-d6aa-453d-a943-6fbb6470679d/44689679_r.jpg",
+   "date": "2026-11-18 09:15:16",
+   "views": "30",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/212941267",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "vf3366"
+   ],
+   "origin_nick": "클로이",
+   "org_title_no": "",
+   "org_timestamp": "1794960916",
+   "broad_no": "298653191",
+   "b_title": "[클로이 반응] 여르미x양도끼x힌콕x구슬요 - Wonderland / 콕식이는 어디갔고 누구세요?",
+   "title_history": [],
+   "broad_title": "로이세끼 시즌2 몰래와서 시간까기",
+   "unedited": false
+  },
   {
    "id": "212940615",
    "type": "CLIP",
@@ -272,7 +325,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44689549_1_r&column=2&t=1794959485",
    "date": "2026-11-18 08:49:41",
-   "views": "17",
+   "views": "19",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212940615",
    "keywords": [
@@ -298,7 +351,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/653/c0312216-103c-46d3-9380-4f5cb8606157/21924653_r.jpg",
    "date": "2026-11-17 23:49:59",
-   "views": "137",
+   "views": "138",
    "duration": "0:43",
    "url": "https://vod.afreecatv.com/player/212911959",
    "keywords": [
@@ -454,7 +507,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/497/c03d3623-f52a-4033-b1f3-3410f6b136ba/44673497_r.jpg",
    "date": "2026-11-17 19:31:39",
-   "views": "350",
+   "views": "351",
    "duration": "1:54",
    "url": "https://vod.afreecatv.com/player/212884497",
    "keywords": [
@@ -636,7 +689,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/229/a59c368b-d283-486e-80b8-0f0177b4dcd2/44671229_r.jpg",
    "date": "2026-11-17 18:18:14",
-   "views": "167",
+   "views": "168",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212877653",
    "keywords": [
@@ -688,7 +741,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/793/630cfdea-e078-4fe1-9c64-8e27a862a61a/44670793_r.jpg",
    "date": "2026-11-17 18:04:58",
-   "views": "65",
+   "views": "66",
    "duration": "0:35",
    "url": "https://vod.afreecatv.com/player/212876491",
    "keywords": [
@@ -714,7 +767,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/023/6cdd6cb3-c44f-4bda-8607-bac4133ff0b4/21918023_r.jpg",
    "date": "2026-11-17 17:57:51",
-   "views": "336",
+   "views": "338",
    "duration": "0:10",
    "url": "https://vod.afreecatv.com/player/212875917",
    "keywords": [
@@ -948,7 +1001,7 @@
    "streamer_nick": "달화숭",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261117_685_81cc78f5-6275-4843-8f82-c610fc41e231_44668685_r&column=2&t=1794899167",
    "date": "2026-11-17 16:05:52",
-   "views": "138",
+   "views": "139",
    "duration": "3:24",
    "url": "https://vod.afreecatv.com/player/212868483",
    "keywords": [
@@ -1312,7 +1365,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1116/15/thumb/1794812155858542_R_7.jpg",
    "date": "2026-11-16 15:46:29",
-   "views": "2644",
+   "views": "2645",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212776915",
    "keywords": [
@@ -1468,7 +1521,7 @@
    "streamer_nick": "코사민",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/869/c7e1f7fa-54b0-45af-a1ae-f95ba998033f/21892869_r.jpg",
    "date": "2026-11-16 01:31:26",
-   "views": "349",
+   "views": "351",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/212744761",
    "keywords": [
@@ -3834,7 +3887,7 @@
    "streamer_nick": "낫애니모어",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/477/c612b8b2-c5c5-47f3-bb64-37ee1ccdcd2e/44481477_r.jpg",
    "date": "2026-11-09 19:14:08",
-   "views": "9860",
+   "views": "9861",
    "duration": "1:13",
    "url": "https://vod.afreecatv.com/player/212156085",
    "keywords": [
@@ -13654,7 +13707,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_42486533_1_r&column=2&t=1787097900",
    "date": "2026-08-19 09:03:21",
-   "views": "305",
+   "views": "306",
    "duration": "2:51",
    "url": "https://vod.afreecatv.com/player/204715071",
    "keywords": [
