@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19 00:45",
+ "updated_at": "2026-11-19 00:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-18 19:21:31",
+   "newest": "2026-11-19 00:46:18",
    "backfill_days": 7,
    "last_rescan": "2026-11-19 00:00:48"
   },
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-19 00:00:48"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-19 00:37:50",
+   "newest": "2026-11-19 00:45:32",
    "backfill_days": 7,
    "last_rescan": "2026-11-19 00:00:48"
   },
@@ -263,9 +263,36 @@
   "298662499": "[머독] 8시) 디아블로스 14인 후열 합방",
   "298670989": "^^",
   "298653191": "로이세끼 시즌2 몰래와서 시간까기",
-  "298662689": "[로이세끼 시즌2] 콕식이"
+  "298662689": "[로이세끼 시즌2] 콕식이",
+  "298684963": "킴성태 999개 레전드스케줄 3바퀴갑니다 레전드 호나우두 뽑습니다"
  },
  "items": [
+  {
+   "id": "213004931",
+   "type": "CLIP",
+   "title": "[클립][킴성태 반응] ATEEZ - WONDERLAND (구슬요 양도끼 여르미 힌콕) / 청백가요대전2",
+   "streamer_id": "193711",
+   "streamer_nick": "숙주나물_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
+   "date": "2026-11-19 00:46:18",
+   "views": "12",
+   "duration": "4:05",
+   "url": "https://vod.afreecatv.com/player/213004931",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "rrvv17"
+   ],
+   "origin_nick": "항상#킴성태",
+   "org_title_no": "",
+   "org_timestamp": "1795016778",
+   "broad_no": "298684963",
+   "b_title": "[클립][킴성태 반응] ATEEZ - WONDERLAND (구슬요 양도끼 여르미 힌콕) / 청백가요대전2",
+   "title_history": [],
+   "broad_title": "킴성태 999개 레전드스케줄 3바퀴갑니다 레전드 호나우두 뽑습니다",
+   "unedited": false
+  },
   {
    "id": "212969649",
    "type": "CLIP",
@@ -274,7 +301,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44696025_1_r",
    "date": "2026-11-18 19:21:31",
-   "views": "180",
+   "views": "181",
    "duration": "1:38",
    "url": "https://vod.afreecatv.com/player/212969649",
    "keywords": [
@@ -352,7 +379,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
    "date": "2026-11-18 09:18:01",
-   "views": "10184",
+   "views": "10190",
    "duration": "3:49",
    "url": "https://vod.afreecatv.com/player/212941335",
    "keywords": [
@@ -404,7 +431,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44689549_1_r&column=2&t=1794959485",
    "date": "2026-11-18 08:49:41",
-   "views": "219",
+   "views": "221",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212940615",
    "keywords": [
@@ -742,7 +769,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/247/5fc925c2-7464-4fbe-9ecd-38b87de3db22/44671247_r.jpg",
    "date": "2026-11-17 18:18:46",
-   "views": "726",
+   "views": "727",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212877707",
    "keywords": [
@@ -846,7 +873,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/023/6cdd6cb3-c44f-4bda-8607-bac4133ff0b4/21918023_r.jpg",
    "date": "2026-11-17 17:57:51",
-   "views": "717",
+   "views": "718",
    "duration": "0:10",
    "url": "https://vod.afreecatv.com/player/212875917",
    "keywords": [
@@ -3134,7 +3161,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261111_44518747_1_r",
    "date": "2026-11-11 10:05:04",
-   "views": "702",
+   "views": "703",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/212300353",
    "keywords": [
