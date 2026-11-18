@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19 07:35",
+ "updated_at": "2026-11-19 07:40",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-19 00:46:18",
+   "newest": "2026-11-19 07:14:38",
    "backfill_days": 7,
    "last_rescan": "2026-11-19 06:00:43"
   },
@@ -264,9 +264,36 @@
   "298670989": "^^",
   "298653191": "로이세끼 시즌2 몰래와서 시간까기",
   "298662689": "[로이세끼 시즌2] 콕식이",
-  "298684963": "킴성태 999개 레전드스케줄 3바퀴갑니다 레전드 호나우두 뽑습니다"
+  "298684963": "킴성태 999개 레전드스케줄 3바퀴갑니다 레전드 호나우두 뽑습니다",
+  "298656269": "풀트 춤 방송 + 디아블로스 합방 (나무 피하는 게임,미니게임,구구덕)"
  },
  "items": [
+  {
+   "id": "213023963",
+   "type": "CLIP",
+   "title": "[클립]양도끼 Debut PV 【BlueJump】 / 호발 반응",
+   "streamer_id": "usjiw6",
+   "streamer_nick": "보라빛둘기",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261119_44710867_1_r",
+   "date": "2026-11-19 07:14:38",
+   "views": "1",
+   "duration": "1:44",
+   "url": "https://vod.afreecatv.com/player/213023963",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hobal115end"
+   ],
+   "origin_nick": "호발",
+   "org_title_no": "212929401",
+   "org_timestamp": "1795040078",
+   "broad_no": "298656269",
+   "b_title": "[클립]양도끼 Debut PV 【BlueJump】 / 호발 반응",
+   "title_history": [],
+   "broad_title": "풀트 춤 방송 + 디아블로스 합방 (나무 피하는 게임,미니게임,구구덕)",
+   "unedited": false
+  },
   {
    "id": "213004931",
    "type": "CLIP",
@@ -275,7 +302,7 @@
    "streamer_nick": "숙주나물_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
    "date": "2026-11-19 00:46:18",
-   "views": "277",
+   "views": "280",
    "duration": "4:05",
    "url": "https://vod.afreecatv.com/player/213004931",
    "keywords": [
@@ -379,7 +406,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
    "date": "2026-11-18 09:18:01",
-   "views": "10415",
+   "views": "10417",
    "duration": "3:49",
    "url": "https://vod.afreecatv.com/player/212941335",
    "keywords": [
@@ -873,7 +900,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/023/6cdd6cb3-c44f-4bda-8607-bac4133ff0b4/21918023_r.jpg",
    "date": "2026-11-17 17:57:51",
-   "views": "758",
+   "views": "759",
    "duration": "0:10",
    "url": "https://vod.afreecatv.com/player/212875917",
    "keywords": [
