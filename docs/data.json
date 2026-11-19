@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19 17:50",
+ "updated_at": "2026-11-19 17:55",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-19 17:48:52",
+   "newest": "2026-11-19 17:50:07",
    "backfill_days": 7,
    "last_rescan": "2026-11-19 15:00:40"
   },
@@ -271,6 +271,32 @@
  },
  "items": [
   {
+   "id": "213048249",
+   "type": "CLIP",
+   "title": "[클립]금자 약골이라서 무릎에 앉기 싫다는 도끼를 보는 제갈금자",
+   "streamer_id": "donkis",
+   "streamer_nick": "메론사이다",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261119/703/c1d6ad27-3f6c-4292-9622-afa744d74931/44716703_r.jpg",
+   "date": "2026-11-19 17:50:07",
+   "views": "4",
+   "duration": "4:25",
+   "url": "https://vod.afreecatv.com/player/213048249",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "dlsn9911"
+   ],
+   "origin_nick": "제갈금자",
+   "org_title_no": "",
+   "org_timestamp": "1795078207",
+   "broad_no": "298705913",
+   "b_title": "[클립]금자 약골이라서 무릎에 앉기 싫다는 도끼를 보는 제갈금자",
+   "title_history": [],
+   "broad_title": "오늘은 뱅온가왕!! 전에 뭘 해볼까",
+   "unedited": false
+  },
+  {
    "id": "213048149",
    "type": "CLIP",
    "title": "[클립]금자 약골이라서 무릎에 앉기 싫다는 도끼 말에 제대로 긁힌 금자",
@@ -278,7 +304,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/675/a4cdada5-c6d6-4b97-b8a2-216bea7adc1c/44716675_r.jpg",
    "date": "2026-11-19 17:48:52",
-   "views": "0",
+   "views": "4",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213048149",
    "keywords": [
@@ -304,7 +330,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261119_44711133_1_r&column=2&t=1795043082",
    "date": "2026-11-19 07:58:56",
-   "views": "304",
+   "views": "306",
    "duration": "0:56",
    "url": "https://vod.afreecatv.com/player/213024979",
    "keywords": [
@@ -356,7 +382,7 @@
    "streamer_nick": "숙주나물_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
    "date": "2026-11-19 00:46:18",
-   "views": "587",
+   "views": "591",
    "duration": "4:05",
    "url": "https://vod.afreecatv.com/player/213004931",
    "keywords": [
@@ -460,7 +486,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
    "date": "2026-11-18 09:18:01",
-   "views": "10698",
+   "views": "10701",
    "duration": "3:49",
    "url": "https://vod.afreecatv.com/player/212941335",
    "keywords": [
@@ -486,7 +512,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/679/325445c3-d6aa-453d-a943-6fbb6470679d/44689679_r.jpg",
    "date": "2026-11-18 09:15:16",
-   "views": "922",
+   "views": "923",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212941267",
    "keywords": [
@@ -538,7 +564,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/653/c0312216-103c-46d3-9380-4f5cb8606157/21924653_r.jpg",
    "date": "2026-11-17 23:49:59",
-   "views": "350",
+   "views": "351",
    "duration": "0:43",
    "url": "https://vod.afreecatv.com/player/212911959",
    "keywords": [
@@ -1162,7 +1188,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261117_691_8b72570e-4e3d-4a39-b666-faa2695bbdcb_44668691_r&column=2&t=1794899393",
    "date": "2026-11-17 16:06:10",
-   "views": "238",
+   "views": "239",
    "duration": "3:18",
    "url": "https://vod.afreecatv.com/player/212868499",
    "keywords": [
