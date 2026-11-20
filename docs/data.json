@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20 21:10",
+ "updated_at": "2026-11-20 21:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-20 21:00:52"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-20 20:48:55",
+   "newest": "2026-11-20 21:13:21",
    "backfill_days": 7,
    "last_rescan": "2026-11-20 21:00:52"
   },
@@ -281,7 +281,7 @@
    "streamer_nick": "한날",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261120/515/013cb19d-9316-48c5-9df3-2edaf4e0bd72/44739515_r.jpg",
    "date": "2026-11-20 20:27:38",
-   "views": "10",
+   "views": "11",
    "duration": "1:16",
    "url": "https://vod.afreecatv.com/player/213144623",
    "keywords": [
@@ -307,7 +307,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261120_44736555_1_r",
    "date": "2026-11-20 18:39:18",
-   "views": "29",
+   "views": "30",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213134437",
    "keywords": [
@@ -385,7 +385,7 @@
    "streamer_nick": "탱시브",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261120/303/3fc49a6f-7f88-4ff0-81cf-f59e124b9e21/44733303_r.jpg",
    "date": "2026-11-20 14:44:06",
-   "views": "37",
+   "views": "38",
    "duration": "1:41",
    "url": "https://vod.afreecatv.com/player/213119423",
    "keywords": [
@@ -437,7 +437,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "1520",
+   "views": "1521",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -3323,7 +3323,7 @@
    "streamer_nick": "김릴파",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807797_1_r&column=2&t=1794378243",
    "date": "2026-11-11 15:03:37",
-   "views": "2079",
+   "views": "2080",
    "duration": "0:59",
    "url": "https://vod.afreecatv.com/player/212314197",
    "keywords": [
@@ -3349,7 +3349,7 @@
    "streamer_nick": "징버거세트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807605_1_r&column=2&t=1794376490",
    "date": "2026-11-11 14:52:35",
-   "views": "6569",
+   "views": "6570",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212313375",
    "keywords": [
