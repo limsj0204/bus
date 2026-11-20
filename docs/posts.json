@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20 15:05",
+ "updated_at": "2026-11-20 15:10",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213120799",
+   "type": "POST",
+   "title": "🏴‍☠️╰（‵□′）╯",
+   "content": "안녕하세요 나기보면컹컹님!(구)도끼의 마지막 방셀을 구매해 주셔서 감사드립니다!다음 주 24일에 있을 (뉴)도끼의 새로운 재데뷔 방송도 많은 관심 부탁드릴게요! 헷",
+   "date": "2026-11-20 15:07:05",
+   "url": "https://www.sooplive.com/station/rbtjr58/post/213120799",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "rbtjr58",
+   "station_nick": "나기보면컹컹",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/1/12013171/60001795154761432.png",
+   "photos": 2,
+   "views": 5,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "212867457",
    "type": "POST",
@@ -601,7 +618,7 @@
    "station_nick": "건강주",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/3/26981913/83411793678849299.png",
    "photos": 3,
-   "views": 162,
+   "views": 163,
    "likes": 1,
    "comments": 0
   },
