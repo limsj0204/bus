@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20 16:55",
+ "updated_at": "2026-11-20 17:01",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-20 15:00:49"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-20 16:42:56",
+   "newest": "2026-11-20 16:58:12",
    "backfill_days": 7,
    "last_rescan": "2026-11-20 15:00:49"
   },
@@ -331,7 +331,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "1365",
+   "views": "1370",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -461,7 +461,7 @@
    "streamer_nick": "숙주나물_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
    "date": "2026-11-19 00:46:18",
-   "views": "834",
+   "views": "835",
    "duration": "4:05",
    "url": "https://vod.afreecatv.com/player/213004931",
    "keywords": [
@@ -1813,7 +1813,7 @@
    "streamer_nick": "코사민",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/869/c7e1f7fa-54b0-45af-a1ae-f95ba998033f/21892869_r.jpg",
    "date": "2026-11-16 01:31:26",
-   "views": "484",
+   "views": "486",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/212744761",
    "keywords": [
