@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20 14:40",
+ "updated_at": "2026-11-20 14:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-19 18:03:30",
+   "newest": "2026-11-20 14:44:06",
    "backfill_days": 7,
    "last_rescan": "2026-11-20 12:00:39"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-20 12:00:39"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-20 14:38:11",
+   "newest": "2026-11-20 14:44:06",
    "backfill_days": 7,
    "last_rescan": "2026-11-20 12:00:39"
   },
@@ -267,9 +267,36 @@
   "298684963": "킴성태 999개 레전드스케줄 3바퀴갑니다 레전드 호나우두 뽑습니다",
   "298656269": "풀트 춤 방송 + 디아블로스 합방 (나무 피하는 게임,미니게임,구구덕)",
   "298689353": "🌹 유기동 vs 로이세끼 종겜대결!!! + 견이봤🌹",
-  "298705913": "오늘은 뱅온가왕!! 전에 뭘 해볼까"
+  "298705913": "오늘은 뱅온가왕!! 전에 뭘 해볼까",
+  "298728305": "3시) 치킨 드롭스와 함께하는 AGF 커머스 첫경험 [이브닛]"
  },
  "items": [
+  {
+   "id": "213119423",
+   "type": "CLIP",
+   "title": "[클립]뉴도끼 PV 보는 한결",
+   "streamer_id": "yeol5724",
+   "streamer_nick": "탱시브",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261120/303/3fc49a6f-7f88-4ff0-81cf-f59e124b9e21/44733303_r.jpg",
+   "date": "2026-11-20 14:44:06",
+   "views": "0",
+   "duration": "1:41",
+   "url": "https://vod.afreecatv.com/player/213119423",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "",
+   "org_timestamp": "1795153446",
+   "broad_no": "298728305",
+   "b_title": "[클립]뉴도끼 PV 보는 한결",
+   "title_history": [],
+   "broad_title": "3시) 치킨 드롭스와 함께하는 AGF 커머스 첫경험 [이브닛]",
+   "unedited": false
+  },
   {
    "id": "213049121",
    "type": "CLIP",
@@ -304,7 +331,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "1289",
+   "views": "1290",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -434,7 +461,7 @@
    "streamer_nick": "숙주나물_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
    "date": "2026-11-19 00:46:18",
-   "views": "825",
+   "views": "827",
    "duration": "4:05",
    "url": "https://vod.afreecatv.com/player/213004931",
    "keywords": [
@@ -1786,7 +1813,7 @@
    "streamer_nick": "코사민",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/869/c7e1f7fa-54b0-45af-a1ae-f95ba998033f/21892869_r.jpg",
    "date": "2026-11-16 01:31:26",
-   "views": "460",
+   "views": "461",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/212744761",
    "keywords": [
