@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20 18:25",
+ "updated_at": "2026-11-20 18:31",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-20 18:02:52",
+   "newest": "2026-11-20 18:27:45",
    "backfill_days": 7,
    "last_rescan": "2026-11-20 18:00:43"
   },
@@ -273,6 +273,32 @@
  },
  "items": [
   {
+   "id": "213133467",
+   "type": "CLIP",
+   "title": "[클립][하로하 반응]블루점프 4기 양도끼 데뷔 PV 공개 / 'Yangdoki' Debut PV 【BlueJump】",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261120_44736285_1_r&column=2&t=1795166905",
+   "date": "2026-11-20 18:27:45",
+   "views": "0",
+   "duration": "1:31",
+   "url": "https://vod.afreecatv.com/player/213133467",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "haroha"
+   ],
+   "origin_nick": "하로하!",
+   "org_title_no": "213128777",
+   "org_timestamp": "1795166865",
+   "broad_no": "298727741",
+   "b_title": "[클립][하로하 반응]블루점프 4기 양도끼 데뷔 PV 공개 / 'Yangdoki' Debut PV 【BlueJump】",
+   "title_history": [],
+   "broad_title": "일단 켜",
+   "unedited": false
+  },
+  {
    "id": "213131631",
    "type": "CLIP",
    "title": "[클립][하로하 반응]양도끼 재데뷔 아바타 실루엣 쇼츠",
@@ -358,7 +384,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "1422",
+   "views": "1430",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -488,7 +514,7 @@
    "streamer_nick": "숙주나물_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
    "date": "2026-11-19 00:46:18",
-   "views": "842",
+   "views": "843",
    "duration": "4:05",
    "url": "https://vod.afreecatv.com/player/213004931",
    "keywords": [
@@ -566,7 +592,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261118_21928861_1_r&column=2&t=1794961814",
    "date": "2026-11-18 09:29:25",
-   "views": "1022",
+   "views": "1023",
    "duration": "0:32",
    "url": "https://vod.afreecatv.com/player/212941609",
    "keywords": [
@@ -592,7 +618,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
    "date": "2026-11-18 09:18:01",
-   "views": "10982",
+   "views": "10984",
    "duration": "3:49",
    "url": "https://vod.afreecatv.com/player/212941335",
    "keywords": [
@@ -1086,7 +1112,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261117/023/6cdd6cb3-c44f-4bda-8607-bac4133ff0b4/21918023_r.jpg",
    "date": "2026-11-17 17:57:51",
-   "views": "958",
+   "views": "959",
    "duration": "0:10",
    "url": "https://vod.afreecatv.com/player/212875917",
    "keywords": [
@@ -1840,7 +1866,7 @@
    "streamer_nick": "코사민",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/869/c7e1f7fa-54b0-45af-a1ae-f95ba998033f/21892869_r.jpg",
    "date": "2026-11-16 01:31:26",
-   "views": "503",
+   "views": "505",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/212744761",
    "keywords": [
@@ -3218,7 +3244,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261111/349/97e97881-6c9f-41cd-8066-437e1a164387/44529349_r.jpg",
    "date": "2026-11-11 20:17:52",
-   "views": "264",
+   "views": "265",
    "duration": "1:26",
    "url": "https://vod.afreecatv.com/player/212340067",
    "keywords": [
@@ -4206,7 +4232,7 @@
    "streamer_nick": "낫애니모어",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/477/c612b8b2-c5c5-47f3-bb64-37ee1ccdcd2e/44481477_r.jpg",
    "date": "2026-11-09 19:14:08",
-   "views": "9910",
+   "views": "9911",
    "duration": "1:13",
    "url": "https://vod.afreecatv.com/player/212156085",
    "keywords": [
