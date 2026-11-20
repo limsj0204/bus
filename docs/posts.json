@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 05:10",
+ "updated_at": "2026-11-21 05:15",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213188963",
+   "type": "POST",
+   "title": "🏴‍☠️ᕦ(ò_óˇ)ᕤ",
+   "content": "단단결님 안녕하세요 도끼입니다 >_",
+   "date": "2026-11-21 05:13:53",
+   "url": "https://www.sooplive.com/station/smsmsm25/post/213188963",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "smsmsm25",
+   "station_nick": "단단결",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/2/22342742/68981795205546368.png",
+   "photos": 2,
+   "views": 2,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "213120799",
    "type": "POST",
@@ -91,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1165,
+   "views": 1166,
    "likes": 80,
    "comments": 17
   },
@@ -278,7 +295,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2291,
+   "views": 2292,
    "likes": 117,
    "comments": 3
   },
