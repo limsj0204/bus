@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 06:35",
+ "updated_at": "2026-11-21 06:40",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-21 06:00:53"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-21 06:34:55",
+   "newest": "2026-11-21 06:36:47",
    "backfill_days": 7,
    "last_rescan": "2026-11-21 06:00:53"
   },
@@ -464,7 +464,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "1838",
+   "views": "1839",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -516,7 +516,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/675/a4cdada5-c6d6-4b97-b8a2-216bea7adc1c/44716675_r.jpg",
    "date": "2026-11-19 17:48:52",
-   "views": "130",
+   "views": "131",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213048149",
    "keywords": [
@@ -672,7 +672,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261118_21928861_1_r&column=2&t=1794961814",
    "date": "2026-11-18 09:29:25",
-   "views": "1051",
+   "views": "1052",
    "duration": "0:32",
    "url": "https://vod.afreecatv.com/player/212941609",
    "keywords": [
@@ -2362,7 +2362,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261115/131/ec490d9f-0cdb-4e39-9c37-d12224e9649f/21876131_r.jpg",
    "date": "2026-11-15 10:49:54",
-   "views": "549",
+   "views": "550",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/212670503",
    "keywords": [
@@ -2622,7 +2622,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261114_21857089_1_r",
    "date": "2026-11-14 10:34:15",
-   "views": "1580",
+   "views": "1581",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/212574867",
    "keywords": [
