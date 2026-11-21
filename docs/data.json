@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22 07:20",
+ "updated_at": "2026-11-22 07:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-21 22:12:22",
+   "newest": "2026-11-22 07:22:32",
    "backfill_days": 7,
    "last_rescan": "2026-11-22 06:00:41"
   },
@@ -273,9 +273,36 @@
   "298732853": "베이룽 베이봤",
   "298735351": "[Trees Hate You] 똥겜 켠왕..ㄷㄷ  // 쏴라있네 도톨🩷 #겜태룡",
   "298706411": "[드롭스] 2027년도 영어 수능 대결!!",
-  "298757601": "[드롭스] 바이스시티 가기전 드롭스 쌀먹하고 주보돌이"
+  "298757601": "[드롭스] 바이스시티 가기전 드롭스 쌀먹하고 주보돌이",
+  "298763275": "오늘 저녁메뉴 김장김치와 수육 미쳤다"
  },
  "items": [
+  {
+   "id": "213284363",
+   "type": "CLIP",
+   "title": "[클립]와우 하다가 우왁굳처럼 타령하는 본인 바이브 보고 수치사하는 양도끼 / 뽀린걸 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44776307_1_r",
+   "date": "2026-11-22 07:22:32",
+   "views": "0",
+   "duration": "1:52",
+   "url": "https://vod.afreecatv.com/player/213284363",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "bboringirl"
+   ],
+   "origin_nick": "뽀린걸",
+   "org_title_no": "213258811",
+   "org_timestamp": "1795299752",
+   "broad_no": "298763275",
+   "b_title": "[클립]와우 하다가 우왁굳처럼 타령하는 본인 바이브 보고 수치사하는 양도끼 / 뽀린걸 반응",
+   "title_history": [],
+   "broad_title": "오늘 저녁메뉴 김장김치와 수육 미쳤다",
+   "unedited": false
+  },
   {
    "id": "213225661",
    "type": "CATCH",
@@ -284,7 +311,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261121/907/80f73379-b2bf-40e9-a9ef-54442f3244f2/21978907_r.jpg",
    "date": "2026-11-21 18:58:15",
-   "views": "158",
+   "views": "159",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/213225661",
    "keywords": [
@@ -2494,7 +2521,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261114/653/64904a53-2802-453f-93ba-06915234fe7a/21869653_r.jpg",
    "date": "2026-11-14 23:38:45",
-   "views": "861",
+   "views": "862",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/212633893",
    "keywords": [
