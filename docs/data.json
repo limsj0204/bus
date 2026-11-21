@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 12:05",
+ "updated_at": "2026-11-21 12:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -38,7 +38,7 @@
    "last_rescan": "2026-11-21 12:00:45"
   },
   "돆|CLIP": {
-   "newest": "2026-11-16 00:23:33",
+   "newest": "2026-11-21 12:08:43",
    "backfill_days": 7,
    "last_rescan": "2026-11-21 12:00:45"
   },
@@ -271,9 +271,36 @@
   "298728305": "3시) 치킨 드롭스와 함께하는 AGF 커머스 첫경험 [이브닛]",
   "298727741": "일단 켜",
   "298732853": "베이룽 베이봤",
-  "298735351": "[Trees Hate You] 똥겜 켠왕..ㄷㄷ  // 쏴라있네 도톨🩷 #겜태룡"
+  "298735351": "[Trees Hate You] 똥겜 켠왕..ㄷㄷ  // 쏴라있네 도톨🩷 #겜태룡",
+  "298706411": "[드롭스] 2027년도 영어 수능 대결!!"
  },
  "items": [
+  {
+   "id": "213202069",
+   "type": "CLIP",
+   "title": "[클립]결따단또돆 REBELS 챌린지 보다가 기습 머독 등장에 빵터진 릴파 / 단즈 반응 (+관 보낸 AI로 만든 릴파먹은단즈 쇼츠)",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261121_44754227_1_r",
+   "date": "2026-11-21 12:08:43",
+   "views": "4",
+   "duration": "2:22",
+   "url": "https://vod.afreecatv.com/player/213202069",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "danz59"
+   ],
+   "origin_nick": "단즈_",
+   "org_title_no": "213059895",
+   "org_timestamp": "1795230523",
+   "broad_no": "298706411",
+   "b_title": "[클립]결따단또돆 REBELS 챌린지 보다가 기습 머독 등장에 빵터진 릴파 / 단즈 반응 (+관 보낸 AI로 만든 릴파먹은단즈 쇼츠)",
+   "title_history": [],
+   "broad_title": "[드롭스] 2027년도 영어 수능 대결!!",
+   "unedited": false
+  },
   {
    "id": "213151575",
    "type": "CATCH",
@@ -334,7 +361,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261120_44736555_1_r",
    "date": "2026-11-20 18:39:18",
-   "views": "109",
+   "views": "110",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213134437",
    "keywords": [
@@ -464,7 +491,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "1942",
+   "views": "1945",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -698,7 +725,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
    "date": "2026-11-18 09:18:01",
-   "views": "11122",
+   "views": "11123",
    "duration": "3:49",
    "url": "https://vod.afreecatv.com/player/212941335",
    "keywords": [
@@ -1816,7 +1843,7 @@
    "streamer_nick": "지샌달",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261116_21898955_1_r&column=2&t=1794811762",
    "date": "2026-11-16 15:37:50",
-   "views": "337",
+   "views": "338",
    "duration": "0:43",
    "url": "https://vod.afreecatv.com/player/212776461",
    "keywords": [
@@ -1998,7 +2025,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261116_909_794de1b3-b3d9-4602-841a-2914d087dc6a_44634909_r&column=2&t=1794756179",
    "date": "2026-11-16 00:20:28",
-   "views": "838",
+   "views": "839",
    "duration": "1:02",
    "url": "https://vod.afreecatv.com/player/212737457",
    "keywords": [
