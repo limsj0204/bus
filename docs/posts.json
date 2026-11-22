@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22 20:50",
+ "updated_at": "2026-11-22 20:55",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213329289",
+   "type": "POST",
+   "title": "오늘 분위기 좋았다",
+   "content": "ㅇㅈ?24일 오후 4시 양도끼 블루점프 데뷔 많관부로니야 딱 기달려 ^^♡",
+   "date": "2026-11-22 20:51:47",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213329289",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/26801795348243605.png",
+   "photos": 1,
+   "views": 731,
+   "likes": 120,
+   "comments": 25
+  },
   {
    "id": "213328085",
    "type": "POST",
@@ -23,8 +40,8 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1661,
-   "likes": 156,
+   "views": 1843,
+   "likes": 168,
    "comments": 31
   },
   {
@@ -40,8 +57,8 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1446,
-   "likes": 153,
+   "views": 1585,
+   "likes": 164,
    "comments": 17
   },
   {
@@ -57,8 +74,8 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1502,
-   "likes": 151,
+   "views": 1638,
+   "likes": 163,
    "comments": 20
   },
   {
@@ -74,8 +91,8 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/18641795347376137.jpeg",
    "photos": 1,
-   "views": 1970,
-   "likes": 135,
+   "views": 2140,
+   "likes": 146,
    "comments": 26
   },
   {
@@ -125,7 +142,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 3310,
+   "views": 3312,
    "likes": 202,
    "comments": 23
   },
@@ -142,7 +159,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/37941794893842366.jpeg",
    "photos": 1,
-   "views": 4635,
+   "views": 4639,
    "likes": 277,
    "comments": 46
   },
@@ -703,7 +720,7 @@
    "station_nick": "건강주",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/3/26981913/83411793678849299.png",
    "photos": 3,
-   "views": 174,
+   "views": 175,
    "likes": 1,
    "comments": 0
   },
