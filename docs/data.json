@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22 18:25",
+ "updated_at": "2026-11-22 18:30",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-22 11:55:16",
+   "newest": "2026-11-22 18:25:16",
    "backfill_days": 7,
    "last_rescan": "2026-11-22 18:00:38"
   },
@@ -275,9 +275,36 @@
   "298706411": "[드롭스] 2027년도 영어 수능 대결!!",
   "298757601": "[드롭스] 바이스시티 가기전 드롭스 쌀먹하고 주보돌이",
   "298763275": "오늘 저녁메뉴 김장김치와 수육 미쳤다",
-  "298774785": "세상에. 왁굳님의 편지. 아직도 안읽었음. 열혈의 편지읽기 컨텐츠. [이브닛]"
+  "298774785": "세상에. 왁굳님의 편지. 아직도 안읽었음. 열혈의 편지읽기 컨텐츠. [이브닛]",
+  "298763405": "미르랑 놀아!!!💙"
  },
  "items": [
+  {
+   "id": "213316173",
+   "type": "CLIP",
+   "title": "[클립][미르 반응] AI 팬영상 (민결희, 따린, 단즈, 양도끼, 최또, 머독) - REBELS (이세계아이돌) 박제하는 징버거",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44784209_1_r",
+   "date": "2026-11-22 18:25:16",
+   "views": "5",
+   "duration": "1:51",
+   "url": "https://vod.afreecatv.com/player/213316173",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "213274821",
+   "org_timestamp": "1795339516",
+   "broad_no": "298763405",
+   "b_title": "[클립][미르 반응] AI 팬영상 (민결희, 따린, 단즈, 양도끼, 최또, 머독) - REBELS (이세계아이돌) 박제하는 징버거",
+   "title_history": [],
+   "broad_title": "미르랑 놀아!!!💙",
+   "unedited": false
+  },
   {
    "id": "213292705",
    "type": "CLIP",
@@ -312,7 +339,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44776307_1_r&column=2&t=1795300092",
    "date": "2026-11-22 07:22:32",
-   "views": "268",
+   "views": "269",
    "duration": "1:52",
    "url": "https://vod.afreecatv.com/player/213284363",
    "keywords": [
@@ -338,7 +365,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261121/907/80f73379-b2bf-40e9-a9ef-54442f3244f2/21978907_r.jpg",
    "date": "2026-11-21 18:58:15",
-   "views": "622",
+   "views": "626",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/213225661",
    "keywords": [
@@ -442,7 +469,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261120_44736555_1_r",
    "date": "2026-11-20 18:39:18",
-   "views": "167",
+   "views": "168",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213134437",
    "keywords": [
@@ -572,7 +599,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261119/437/5c2aaeae-bb10-447b-8c50-67cb0ebc686e/21947437_r.jpg",
    "date": "2026-11-19 18:03:13",
-   "views": "2403",
+   "views": "2405",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213049095",
    "keywords": [
@@ -650,7 +677,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261119_44711133_1_r&column=2&t=1795043082",
    "date": "2026-11-19 07:58:56",
-   "views": "445",
+   "views": "446",
    "duration": "0:56",
    "url": "https://vod.afreecatv.com/player/213024979",
    "keywords": [
@@ -728,7 +755,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44696025_1_r",
    "date": "2026-11-18 19:21:31",
-   "views": "304",
+   "views": "305",
    "duration": "1:38",
    "url": "https://vod.afreecatv.com/player/212969649",
    "keywords": [
@@ -858,7 +885,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44689549_1_r&column=2&t=1794959485",
    "date": "2026-11-18 08:49:41",
-   "views": "364",
+   "views": "365",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212940615",
    "keywords": [
