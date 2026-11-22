@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22 15:45",
+ "updated_at": "2026-11-22 15:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,12 +18,12 @@
    "last_rescan": "2026-11-22 15:00:41"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-22 15:41:59",
+   "newest": "2026-11-22 15:48:09",
    "backfill_days": 7,
    "last_rescan": "2026-11-22 15:00:41"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-22 15:42:12",
+   "newest": "2026-11-22 15:45:23",
    "backfill_days": 7,
    "last_rescan": "2026-11-22 15:00:41"
   },
@@ -286,7 +286,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261122/145/2ec2fb2b-501f-49dd-b254-f299ddf17296/44778145_r.jpg",
    "date": "2026-11-22 11:55:16",
-   "views": "60",
+   "views": "61",
    "duration": "1:19",
    "url": "https://vod.afreecatv.com/player/213292705",
    "keywords": [
@@ -312,7 +312,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44776307_1_r&column=2&t=1795300092",
    "date": "2026-11-22 07:22:32",
-   "views": "229",
+   "views": "231",
    "duration": "1:52",
    "url": "https://vod.afreecatv.com/player/213284363",
    "keywords": [
@@ -338,7 +338,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261121/907/80f73379-b2bf-40e9-a9ef-54442f3244f2/21978907_r.jpg",
    "date": "2026-11-21 18:58:15",
-   "views": "482",
+   "views": "490",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/213225661",
    "keywords": [
@@ -364,7 +364,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261121_44754227_1_r&column=2&t=1795230635",
    "date": "2026-11-21 12:08:43",
-   "views": "395",
+   "views": "396",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/213202069",
    "keywords": [
@@ -442,7 +442,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261120_44736555_1_r",
    "date": "2026-11-20 18:39:18",
-   "views": "163",
+   "views": "164",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213134437",
    "keywords": [
@@ -806,7 +806,7 @@
    "streamer_nick": "주륵주륵르르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/699/9a9f8062-e756-417a-996c-27a4e4bd231f/44689699_r.jpg",
    "date": "2026-11-18 09:18:01",
-   "views": "11242",
+   "views": "11245",
    "duration": "3:49",
    "url": "https://vod.afreecatv.com/player/212941335",
    "keywords": [
@@ -832,7 +832,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261118/679/325445c3-d6aa-453d-a943-6fbb6470679d/44689679_r.jpg",
    "date": "2026-11-18 09:15:16",
-   "views": "1155",
+   "views": "1156",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/212941267",
    "keywords": [
@@ -1898,7 +1898,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1116/15/thumb/1794812155858542_R_7.jpg",
    "date": "2026-11-16 15:46:29",
-   "views": "2986",
+   "views": "2987",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/212776915",
    "keywords": [
@@ -4420,7 +4420,7 @@
    "streamer_nick": "낫애니모어",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/477/c612b8b2-c5c5-47f3-bb64-37ee1ccdcd2e/44481477_r.jpg",
    "date": "2026-11-09 19:14:08",
-   "views": "9951",
+   "views": "9952",
    "duration": "1:13",
    "url": "https://vod.afreecatv.com/player/212156085",
    "keywords": [
