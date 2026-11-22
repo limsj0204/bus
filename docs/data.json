@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22 20:40",
+ "updated_at": "2026-11-22 20:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-22 20:02:51",
+   "newest": "2026-11-22 20:42:39",
    "backfill_days": 7,
    "last_rescan": "2026-11-22 18:00:38"
   },
@@ -278,9 +278,36 @@
   "298774785": "세상에. 왁굳님의 편지. 아직도 안읽었음. 열혈의 편지읽기 컨텐츠. [이브닛]",
   "298763405": "미르랑 놀아!!!💙",
   "298762257": "타요 내일뭐하지?",
-  "298784961": "앙용하세요리"
+  "298784961": "앙용하세요리",
+  "298777419": "블루점프 드릴 말씀 있습니다 위기입니다"
  },
  "items": [
+  {
+   "id": "213328375",
+   "type": "CLIP",
+   "title": "[클립] 멘헤라쇼에 참전한 양도끼",
+   "streamer_id": "youn11125",
+   "streamer_nick": "historia",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261122/627/12493ac5-cf86-4155-b978-ec0f3dd633fb/44787627_r.jpg",
+   "date": "2026-11-22 20:42:39",
+   "views": "2",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213328375",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "dlsn9911"
+   ],
+   "origin_nick": "제갈금자",
+   "org_title_no": "",
+   "org_timestamp": "1795347759",
+   "broad_no": "298777419",
+   "b_title": "[클립] 멘헤라쇼에 참전한 양도끼",
+   "title_history": [],
+   "broad_title": "블루점프 드릴 말씀 있습니다 위기입니다",
+   "unedited": false
+  },
   {
    "id": "213324777",
    "type": "CLIP",
@@ -289,7 +316,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261122/635/6dbff6ec-799c-42f2-bde5-db59fd0f3a71/44786635_r.jpg",
    "date": "2026-11-22 20:02:51",
-   "views": "106",
+   "views": "112",
    "duration": "1:53",
    "url": "https://vod.afreecatv.com/player/213324777",
    "keywords": [
@@ -315,7 +342,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44785035_1_r",
    "date": "2026-11-22 19:04:50",
-   "views": "252",
+   "views": "259",
    "duration": "1:37",
    "url": "https://vod.afreecatv.com/player/213319359",
    "keywords": [
@@ -341,7 +368,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44784209_1_r",
    "date": "2026-11-22 18:25:16",
-   "views": "96",
+   "views": "98",
    "duration": "1:51",
    "url": "https://vod.afreecatv.com/player/213316173",
    "keywords": [
@@ -393,7 +420,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44776307_1_r&column=2&t=1795300092",
    "date": "2026-11-22 07:22:32",
-   "views": "294",
+   "views": "296",
    "duration": "1:52",
    "url": "https://vod.afreecatv.com/player/213284363",
    "keywords": [
@@ -419,7 +446,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261121/907/80f73379-b2bf-40e9-a9ef-54442f3244f2/21978907_r.jpg",
    "date": "2026-11-21 18:58:15",
-   "views": "697",
+   "views": "700",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/213225661",
    "keywords": [
@@ -2135,7 +2162,7 @@
    "streamer_nick": "코사민",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261116/869/c7e1f7fa-54b0-45af-a1ae-f95ba998033f/21892869_r.jpg",
    "date": "2026-11-16 01:31:26",
-   "views": "739",
+   "views": "740",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/212744761",
    "keywords": [
