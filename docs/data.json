@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23 11:15",
+ "updated_at": "2026-11-23 11:20",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-23 09:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-23 03:22:34",
+   "newest": "2026-11-23 11:17:41",
    "backfill_days": 7,
    "last_rescan": "2026-11-23 09:00:42"
   },
@@ -527,7 +527,7 @@
    "streamer_nick": "historia",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261122/627/12493ac5-cf86-4155-b978-ec0f3dd633fb/44787627_r.jpg",
    "date": "2026-11-22 20:42:39",
-   "views": "143",
+   "views": "144",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213328375",
    "keywords": [
@@ -553,7 +553,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261122/635/6dbff6ec-799c-42f2-bde5-db59fd0f3a71/44786635_r.jpg",
    "date": "2026-11-22 20:02:51",
-   "views": "413",
+   "views": "414",
    "duration": "1:53",
    "url": "https://vod.afreecatv.com/player/213324777",
    "keywords": [
@@ -579,7 +579,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261122_44785035_1_r",
    "date": "2026-11-22 19:04:50",
-   "views": "622",
+   "views": "625",
    "duration": "1:37",
    "url": "https://vod.afreecatv.com/player/213319359",
    "keywords": [
@@ -683,7 +683,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261121/907/80f73379-b2bf-40e9-a9ef-54442f3244f2/21978907_r.jpg",
    "date": "2026-11-21 18:58:15",
-   "views": "963",
+   "views": "965",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/213225661",
    "keywords": [
@@ -1047,7 +1047,7 @@
    "streamer_nick": "숙주나물_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261119_801_4ecd54d3-db0f-422f-831b-153d7a44f878_44706801_r&column=2&t=1795016999",
    "date": "2026-11-19 00:46:18",
-   "views": "1030",
+   "views": "1031",
    "duration": "4:05",
    "url": "https://vod.afreecatv.com/player/213004931",
    "keywords": [
