@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24 01:05",
+ "updated_at": "2026-11-24 01:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-24 00:00:43"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-23 22:12:29",
+   "newest": "2026-11-24 01:08:13",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 00:00:43"
   },
@@ -285,9 +285,37 @@
   "298786195": "후열 와우 포에버즈",
   "298806109": "오늘진짜 끝짱을 본닷 단단히 각오햇따",
   "298809667": "타요 타이괜",
-  "298809685": "북한 스트리머 채팅창 관리해주기 ( 신작 / 해피 프로파간다 ) ( !굿즈 )"
+  "298809685": "북한 스트리머 채팅창 관리해주기 ( 신작 / 해피 프로파간다 ) ( !굿즈 )",
+  "298801555": "우왁굳x천양x리냐x제로 알카즈",
+  "298815657": "12시 땡 하면 오퍼레이션 M 지원자 확정합니다 과연 누구일까"
  },
  "items": [
+  {
+   "id": "213437271",
+   "type": "CATCH",
+   "title": "[캐치]왁굳님의 송도키를 손도끼로 들은 빙밍 ㅋㅋㅋㅋㅋㅋㅋ[26.11.23]",
+   "streamer_id": "nksad11",
+   "streamer_nick": "수쨔",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/919/848e6838-4d83-491c-8d8d-2809b844de8c/22019919_r.jpg",
+   "date": "2026-11-24 01:08:13",
+   "views": "0",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/213437271",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "tleod1818"
+   ],
+   "origin_nick": "빙밍_",
+   "org_title_no": "",
+   "org_timestamp": "1795450093",
+   "broad_no": "298801555",
+   "b_title": "[캐치]왁굳님의 송도키를 손도끼로 들은 빙밍 ㅋㅋㅋㅋㅋㅋㅋ[26.11.23]",
+   "title_history": [],
+   "broad_title": "우왁굳x천양x리냐x제로 알카즈",
+   "unedited": false
+  },
   {
    "id": "213436951",
    "type": "CLIP",
@@ -296,7 +324,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/677/caca73df-7525-4e20-a7ff-d8609f28ae59/44814677_r.jpg",
    "date": "2026-11-24 01:04:43",
-   "views": "0",
+   "views": "1",
    "duration": "1:13",
    "url": "https://vod.afreecatv.com/player/213436951",
    "keywords": [
@@ -306,11 +334,13 @@
     "wjdfogur98"
    ],
    "origin_nick": "대월향",
-   "org_title_no": "",
+   "org_title_no": "213437029",
    "org_timestamp": "1795449883",
    "broad_no": "298815657",
    "b_title": "[클립]양도끼 데뷔방송 준비하러 가는 대월향",
-   "title_history": []
+   "title_history": [],
+   "broad_title": "12시 땡 하면 오퍼레이션 M 지원자 확정합니다 과연 누구일까",
+   "unedited": false
   },
   {
    "id": "213417899",
@@ -476,7 +506,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261123/615/9ae9f513-b230-460a-9fc8-e5505f9e051c/22012615_r.jpg",
    "date": "2026-11-23 19:38:50",
-   "views": "265",
+   "views": "275",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/213402895",
    "keywords": [
@@ -892,7 +922,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261121/907/80f73379-b2bf-40e9-a9ef-54442f3244f2/21978907_r.jpg",
    "date": "2026-11-21 18:58:15",
-   "views": "1160",
+   "views": "1161",
    "duration": "0:22",
    "url": "https://vod.afreecatv.com/player/213225661",
    "keywords": [
@@ -1412,7 +1442,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261118_44689549_1_r&column=2&t=1794959485",
    "date": "2026-11-18 08:49:41",
-   "views": "388",
+   "views": "389",
    "duration": "1:34",
    "url": "https://vod.afreecatv.com/player/212940615",
    "keywords": [
@@ -2478,7 +2508,7 @@
    "streamer_nick": "지샌달",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261116_21898955_1_r&column=2&t=1794811762",
    "date": "2026-11-16 15:37:50",
-   "views": "368",
+   "views": "369",
    "duration": "0:43",
    "url": "https://vod.afreecatv.com/player/212776461",
    "keywords": [
