@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23 20:40",
+ "updated_at": "2026-11-23 20:45",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213408463",
+   "type": "POST",
+   "title": "내일 오후 4시) 블루점프 데뷔방송 있습니다 (●ˇ∀ˇ●)",
+   "content": "여러분 저 내일 데뷔합니다데뷔 굿즈도 나온대요~",
+   "date": "2026-11-23 20:41:16",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213408463",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/67221795433990381.jpeg",
+   "photos": 2,
+   "views": 257,
+   "likes": 54,
+   "comments": 15
+  },
   {
    "id": "213352071",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/47711795361640839.jpeg",
    "photos": 1,
-   "views": 2464,
+   "views": 2465,
    "likes": 170,
    "comments": 18
   },
@@ -159,7 +176,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 3364,
+   "views": 3365,
    "likes": 202,
    "comments": 23
   },
@@ -210,7 +227,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1431,
+   "views": 1432,
    "likes": 81,
    "comments": 17
   },
