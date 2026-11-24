@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 04:20",
+ "updated_at": "2026-11-25 04:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -1437,7 +1437,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/265/83ba28eb-ee1f-4ca1-a96d-c60e03b1ac0d/44828265_r.jpg",
    "date": "2026-11-24 20:42:39",
-   "views": "34",
+   "views": "35",
    "duration": "4:21",
    "url": "https://vod.afreecatv.com/player/213494361",
    "keywords": [
@@ -1723,7 +1723,7 @@
    "streamer_nick": "한날",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/795/1eb76d6a-1c3e-420a-8217-93d5ca047683/44827795_r.jpg",
    "date": "2026-11-24 20:28:23",
-   "views": "81",
+   "views": "84",
    "duration": "4:12",
    "url": "https://vod.afreecatv.com/player/213493041",
    "keywords": [
@@ -1827,7 +1827,7 @@
    "streamer_nick": "메론사이다",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/675/66e81fa3-9662-40d8-beb9-c78fa968c7b6/44827675_r.jpg",
    "date": "2026-11-24 20:24:58",
-   "views": "132",
+   "views": "137",
    "duration": "1:23",
    "url": "https://vod.afreecatv.com/player/213492723",
    "keywords": [
@@ -1931,7 +1931,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44827553_1_r",
    "date": "2026-11-24 20:20:38",
-   "views": "113",
+   "views": "115",
    "duration": "0:59",
    "url": "https://vod.afreecatv.com/player/213492333",
    "keywords": [
@@ -2192,7 +2192,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44827339_1_r",
    "date": "2026-11-24 20:14:25",
-   "views": "84",
+   "views": "92",
    "duration": "1:57",
    "url": "https://vod.afreecatv.com/player/213491725",
    "keywords": [
@@ -2272,7 +2272,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44827171_1_r",
    "date": "2026-11-24 20:08:02",
-   "views": "101",
+   "views": "106",
    "duration": "4:53",
    "url": "https://vod.afreecatv.com/player/213491153",
    "keywords": [
@@ -2402,7 +2402,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44826797_1_r",
    "date": "2026-11-24 19:55:05",
-   "views": "95",
+   "views": "99",
    "duration": "1:46",
    "url": "https://vod.afreecatv.com/player/213489929",
    "keywords": [
@@ -2428,7 +2428,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44826751_1_r",
    "date": "2026-11-24 19:53:28",
-   "views": "51",
+   "views": "52",
    "duration": "1:49",
    "url": "https://vod.afreecatv.com/player/213489795",
    "keywords": [
@@ -2532,7 +2532,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44826631_1_r",
    "date": "2026-11-24 19:49:00",
-   "views": "74",
+   "views": "77",
    "duration": "1:37",
    "url": "https://vod.afreecatv.com/player/213489389",
    "keywords": [
@@ -2688,7 +2688,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44826251_1_r",
    "date": "2026-11-24 19:36:26",
-   "views": "80",
+   "views": "82",
    "duration": "1:45",
    "url": "https://vod.afreecatv.com/player/213488231",
    "keywords": [
@@ -2792,7 +2792,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44826139_1_r",
    "date": "2026-11-24 19:31:26",
-   "views": "39",
+   "views": "40",
    "duration": "2:13",
    "url": "https://vod.afreecatv.com/player/213487741",
    "keywords": [
@@ -3286,7 +3286,7 @@
    "streamer_nick": "달화숭",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261124_573_420b2f24-3514-44ca-8d44-327385858710_44825573_r&column=2&t=1795514851",
    "date": "2026-11-24 19:06:58",
-   "views": "105",
+   "views": "107",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213485643",
    "keywords": [
@@ -18325,6 +18325,56 @@
    "unedited": false
   },
   {
+   "id": "206398651",
+   "type": "CLIP",
+   "title": "[클립]함장이 메이플 열심히하는지 검사하는 타요",
+   "streamer_id": "bug1839",
+   "streamer_nick": "AfterHours",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260906/589/eb450c32-8bf7-43b3-abe0-f77158acfd1c/42928589_r.jpg",
+   "date": "2026-09-06 21:20:14",
+   "views": "226",
+   "duration": "0:33",
+   "url": "https://vod.afreecatv.com/player/206398651",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "206458175",
+   "org_timestamp": "1788697214",
+   "broad_no": "296929859",
+   "b_title": "[클립]함장이 메이플 열심히하는지 검사하는 타요",
+   "title_history": [],
+   "unedited": false
+  },
+  {
+   "id": "205209449",
+   "type": "CLIP",
+   "title": "[클립][타요] 함장이 겁나 귀엽고, 왜 개똥겜을 해야하냐는 당당한 타요",
+   "streamer_id": "bug1839",
+   "streamer_nick": "AfterHours",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260824/321/61a1fb4c-10a0-4ed2-8332-3633e37f5466/42615321_r.jpg",
+   "date": "2026-08-24 20:41:27",
+   "views": "140",
+   "duration": "1:47",
+   "url": "https://vod.afreecatv.com/player/205209449",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "205257183",
+   "org_timestamp": "1787571687",
+   "broad_no": "296606945",
+   "b_title": "[클립][타요] 함장이 겁나 귀엽고, 왜 개똥겜을 해야하냐는 당당한 타요",
+   "title_history": [],
+   "unedited": false
+  },
+  {
    "id": "205094287",
    "type": "CLIP",
    "title": "[클립]양돆2 땀 통제하는 머독 feat 보자마자 웃음나는 아르바님",
@@ -18660,6 +18710,132 @@
    "b_title": "[클립]RUDE!(하츠투하츠) 커버곡 / 마이곰이(w.결돆엶밤) 2회차 반응",
    "title_history": [],
    "broad_title": "7시) ???? 커버곡 공개 ",
+   "unedited": false
+  },
+  {
+   "id": "203926991",
+   "type": "CATCH",
+   "title": "[캐치]1부) new 숲 버츄얼 이상형 월드컵 2부) 결돆엶곰밤 커버곡 공개와 빅워크 [이브닛]",
+   "streamer_id": "ikm0911",
+   "streamer_nick": "jlkll",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260810/265/f4afc477-760b-4ee6-b649-bc47d4342b6c/20153265_r.jpg",
+   "date": "2026-08-10 18:54:38",
+   "views": "481",
+   "duration": "0:17",
+   "url": "https://vod.afreecatv.com/player/203926991",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "203951763",
+   "org_timestamp": "1786355678",
+   "broad_no": "296250573",
+   "b_title": "[캐치]1부) new 숲 버츄얼 이상형 월드컵 2부) 결돆엶곰밤 커버곡 공개와 빅워크 [이브닛]",
+   "title_history": [],
+   "broad_title": "2부) 결돆엶곰밤 커버곡 공개와 빅워크 [이브닛] ",
+   "unedited": false
+  },
+  {
+   "id": "203047639",
+   "type": "CATCH",
+   "title": "[캐치]릴파님 공포게임 또 시킬려고하는 타결돆",
+   "streamer_id": "doght",
+   "streamer_nick": "잔잔벼리♬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260801/029/9a39cbcb-e7a1-4b5e-8b19-8203b7e48ed3/19975029_r.jpg",
+   "date": "2026-08-01 03:16:34",
+   "views": "382",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/203047639",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "203047899",
+   "org_timestamp": "1785521794",
+   "broad_no": "295995567",
+   "b_title": "[캐치]릴파님 공포게임 또 시킬려고하는 타결돆",
+   "title_history": [],
+   "unedited": false
+  },
+  {
+   "id": "201292387",
+   "type": "CATCH",
+   "title": "[캐치]미 머 돆 : 헤로롱~",
+   "streamer_id": "wjdalsdud02",
+   "streamer_nick": "일로진",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260712/869/797aa56c-6df7-4edd-853f-0a56a823d1a3/19617869_r.jpg",
+   "date": "2026-07-12 22:02:05",
+   "views": "44",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/201292387",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "alice427"
+   ],
+   "origin_nick": "미르_MIR",
+   "org_title_no": "201331055",
+   "org_timestamp": "1783861325",
+   "broad_no": "295521243",
+   "b_title": "[캐치]미 머 돆 : 헤로롱~",
+   "title_history": [],
+   "unedited": false
+  },
+  {
+   "id": "199510623",
+   "type": "CATCH",
+   "title": "[캐치]믿고 있었습니다 돆머니",
+   "streamer_id": "rachaaa02",
+   "streamer_nick": "참새였던둘기",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20260624/223/7636e5de-a871-4ef1-8690-e1f4facf9230/19262223_r.jpg",
+   "date": "2026-06-24 00:34:39",
+   "views": "634",
+   "duration": "0:49",
+   "url": "https://vod.afreecatv.com/player/199510623",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "collet11"
+   ],
+   "origin_nick": "코렛트",
+   "org_title_no": "199521107",
+   "org_timestamp": "1782228879",
+   "broad_no": "295055293",
+   "b_title": "[캐치]믿고 있었습니다 돆머니",
+   "title_history": [],
+   "unedited": false
+  },
+  {
+   "id": "192000729",
+   "type": "CATCH",
+   "title": "[캐치]\"또 데뷔하는 양돆함장(양도끼)\"/제갈금자\"애 너무 느려 진짜로... 아... 제발 그만해~\"반응",
+   "streamer_id": "mingdwich",
+   "streamer_nick": "밍드위치",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20260407_17780837_1_r",
+   "date": "2026-04-07 01:52:18",
+   "views": "393",
+   "duration": "0:57",
+   "url": "https://vod.afreecatv.com/player/192000729",
+   "keywords": [
+    "돆"
+   ],
+   "origin_ids": [
+    "dlsn9911"
+   ],
+   "origin_nick": "제갈금자",
+   "org_title_no": "191990157",
+   "org_timestamp": "1775494338",
+   "broad_no": "293000689",
+   "b_title": "[캐치]\"또 데뷔하는 양돆함장(양도끼)\"/제갈금자\"애 너무 느려 진짜로... 아... 제발 그만해~\"반응",
+   "title_history": [],
    "unedited": false
   }
  ]
