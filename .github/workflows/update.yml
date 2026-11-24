@@ -125,11 +125,26 @@ jobs:
         if: steps.pages.outputs.type == 'workflow'
         with:
           path: docs
+      - name: 업로드 반영 대기
+        # 업로드 직후 바로 배포하면 GitHub이 방금 올린 파일을 못 찾을 때가 있어 잠깐 기다린다.
+        if: steps.pages.outputs.type == 'workflow'
+        run: sleep 15
       - name: 사이트 배포
         id: deployment
         if: steps.pages.outputs.type == 'workflow'
         # 평소 10초 안에 끝나지만 GitHub Pages 대기열이 밀리면 몇 분 걸린다. 배포가 드물어서 10분까지 기다린다.
         # 실패해도 실행 전체를 실패로 만들지 않는다. (다음 실행이 다시 배포함)
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
+      - name: 사이트 배포 (다시 시도)
+        if: steps.pages.outputs.type == 'workflow' && steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        run: sleep 30
+      - name: 사이트 배포 (두 번째)
+        id: deployment_retry
+        if: steps.pages.outputs.type == 'workflow' && steps.deployment.outcome == 'failure'
         continue-on-error: true
         uses: actions/deploy-pages@v4
         with:
