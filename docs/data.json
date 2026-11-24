@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24 18:01",
+ "updated_at": "2026-11-24 18:05",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-24 18:00:16",
+   "newest": "2026-11-24 18:00:56",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 18:00:42"
   },
@@ -293,9 +293,36 @@
   "298824491": "[블루점프] 도끼 데뷔 같이보기!! ",
   "298825009": "우리 양도끼 데뷔 같이봐용!",
   "298823573": "[로이세끼2] 이제 시간을 까볼까나 ~",
-  "298825617": "카페를 보자!"
+  "298825617": "카페를 보자!",
+  "298826985": "강만식 안녕하세요~~! 오늘은"
  },
  "items": [
+  {
+   "id": "213480179",
+   "type": "CLIP",
+   "title": "[클립][만이봤] 블루점프 재데뷔하는 양도끼 보는 강만식 반응 - 강만식: 오~~~ 뭔가 동글동글하게 바뀌었네? 도끼님",
+   "streamer_id": "denope",
+   "streamer_nick": "드높이denope",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/253/54cab821-67f1-4f86-80ba-92b14fe01af1/44824253_r.jpg",
+   "date": "2026-11-24 18:00:56",
+   "views": "9",
+   "duration": "1:29",
+   "url": "https://vod.afreecatv.com/player/213480179",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "rkdakstlr911"
+   ],
+   "origin_nick": "강만식",
+   "org_title_no": "",
+   "org_timestamp": "1795510856",
+   "broad_no": "298826985",
+   "b_title": "[클립][만이봤] 블루점프 재데뷔하는 양도끼 보는 강만식 반응 - 강만식: 오~~~ 뭔가 동글동글하게 바뀌었네? 도끼님",
+   "title_history": [],
+   "broad_title": "강만식 안녕하세요~~! 오늘은",
+   "unedited": false
+  },
   {
    "id": "213476087",
    "type": "CLIP",
@@ -304,7 +331,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/371/0e1e1517-890e-4b57-9ac1-38f1ba0c22a3/44823371_r.jpg",
    "date": "2026-11-24 17:09:32",
-   "views": "211",
+   "views": "232",
    "duration": "4:50",
    "url": "https://vod.afreecatv.com/player/213476087",
    "keywords": [
@@ -330,7 +357,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/319/023c0224-885a-407f-82bc-26bca2dfbed2/44823319_r.jpg",
    "date": "2026-11-24 17:06:05",
-   "views": "397",
+   "views": "433",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213475851",
    "keywords": [
@@ -356,7 +383,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/233/4093aa72-b667-4ab9-8a11-1602b07b09f2/44823233_r.jpg",
    "date": "2026-11-24 16:58:38",
-   "views": "15",
+   "views": "18",
    "duration": "4:35",
    "url": "https://vod.afreecatv.com/player/213475403",
    "keywords": [
@@ -382,7 +409,7 @@
    "streamer_nick": "EJ_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/115/212fce37-6eff-4c9d-910c-f7966cd3ee99/22026115_r.jpg",
    "date": "2026-11-24 16:52:28",
-   "views": "875",
+   "views": "884",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213475021",
    "keywords": [
@@ -408,7 +435,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/065/8815b4d9-22f7-4be7-b815-74d9a9388aaf/22026065_r.jpg",
    "date": "2026-11-24 16:45:26",
-   "views": "20",
+   "views": "22",
    "duration": "0:14",
    "url": "https://vod.afreecatv.com/player/213474665",
    "keywords": [
@@ -434,7 +461,7 @@
    "streamer_nick": "수쨔",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/993/971f09d0-38b8-4bae-9e27-0cca02ecd4ad/44822993_r.jpg",
    "date": "2026-11-24 16:41:26",
-   "views": "43",
+   "views": "44",
    "duration": "3:07",
    "url": "https://vod.afreecatv.com/player/213474477",
    "keywords": [
@@ -460,7 +487,7 @@
    "streamer_nick": "빙이닝",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/989/f85e96df-d102-4b00-9b9d-749a4395a0d2/44822989_r.jpg",
    "date": "2026-11-24 16:41:09",
-   "views": "41",
+   "views": "42",
    "duration": "3:06",
    "url": "https://vod.afreecatv.com/player/213474455",
    "keywords": [
