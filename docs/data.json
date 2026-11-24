@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 05:55",
+ "updated_at": "2026-11-25 06:00",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -10,42 +10,42 @@
   "도끼|CLIP": {
    "newest": "2026-11-25 03:41:51",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "도끼|CATCH": {
    "newest": "2026-11-25 03:48:10",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "단코한끼|CLIP": {
    "newest": "2026-11-25 03:41:51",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "단코한끼|CATCH": {
    "newest": "2026-11-25 03:52:54",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "함장|CLIP": {
    "newest": "2026-11-24 21:24:31",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "함장|CATCH": {
    "newest": "2026-11-24 18:13:13",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "돆|CLIP": {
    "newest": "2026-11-24 18:59:06",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   },
   "돆|CATCH": {
    "newest": "2026-11-24 17:52:00",
    "backfill_days": 7,
-   "last_rescan": "2026-11-25 03:00:42"
+   "last_rescan": "2026-11-25 06:00:40"
   }
  },
  "broad_titles": {
