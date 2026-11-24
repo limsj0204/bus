@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24 19:05",
+ "updated_at": "2026-11-24 19:11",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-24 19:04:43",
+   "newest": "2026-11-24 19:10:00",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 18:00:42"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-24 18:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-24 19:04:43",
+   "newest": "2026-11-24 19:09:12",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 18:00:42"
   },
@@ -295,9 +295,296 @@
   "298823573": "[로이세끼2] 이제 시간을 까볼까나 ~",
   "298825617": "카페를 보자!",
   "298826985": "강만식 안녕하세요~~! 오늘은",
-  "298826155": "방제를 뭘할지 모르겠을땐 일단 켜[33/330]"
+  "298826155": "방제를 뭘할지 모르겠을땐 일단 켜[33/330]",
+  "298828143": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥"
  },
  "items": [
+  {
+   "id": "213485841",
+   "type": "CLIP",
+   "title": "[클립][블루점프 양도끼 재데뷔] 양도끼 뉴아바타 극찬하는 머독(발, 시계) / 머독 : 뒷꿈치 아킬레스 보여주실래요? / 양도끼 : 데려온 보람이 있네 / 모구구 : 키모",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44825643_1_r",
+   "date": "2026-11-24 19:10:00",
+   "views": "0",
+   "duration": "3:00",
+   "url": "https://vod.afreecatv.com/player/213485841",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "9mogu9"
+   ],
+   "origin_nick": "모구구",
+   "org_title_no": "213483029",
+   "org_timestamp": "1795515000",
+   "broad_no": "298825009",
+   "b_title": "[클립][블루점프 양도끼 재데뷔] 양도끼 뉴아바타 극찬하는 머독(발, 시계) / 머독 : 뒷꿈치 아킬레스 보여주실래요? / 양도끼 : 데려온 보람이 있네 / 모구구 : 키모",
+   "title_history": [],
+   "broad_title": "우리 양도끼 데뷔 같이봐용!",
+   "unedited": false
+  },
+  {
+   "id": "213485821",
+   "type": "CLIP",
+   "title": "[클립]도끼님 아클레스건 극착하는 머독님본 슬요님",
+   "streamer_id": "yjb2013",
+   "streamer_nick": "모자수집가",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/629/98a12bb4-913b-490c-90c4-21fa4e4176bd/44825629_r.jpg",
+   "date": "2026-11-24 19:09:46",
+   "views": "0",
+   "duration": "1:10",
+   "url": "https://vod.afreecatv.com/player/213485821",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514986",
+   "broad_no": "298828143",
+   "b_title": "[클립]도끼님 아클레스건 극착하는 머독님본 슬요님",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485771",
+   "type": "CLIP",
+   "title": "[클립]🍀 머독의 진상행동에 죽빵치는 양도끼 / 구슬요 반응",
+   "streamer_id": "hwj3282",
+   "streamer_nick": "찌닝♬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/613/cc704f91-1238-497d-9f4f-fb0264ea8795/44825613_r.jpg",
+   "date": "2026-11-24 19:08:51",
+   "views": "2",
+   "duration": "1:09",
+   "url": "https://vod.afreecatv.com/player/213485771",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514931",
+   "broad_no": "298828143",
+   "b_title": "[클립]🍀 머독의 진상행동에 죽빵치는 양도끼 / 구슬요 반응",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485745",
+   "type": "CLIP",
+   "title": "[클립]양도끼 아킬레스건을 극찬하는 머독 / 구슬요",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/605/92d11aa5-c7c9-4cd4-be7b-3e1ccc408a1b/44825605_r.jpg",
+   "date": "2026-11-24 19:08:35",
+   "views": "6",
+   "duration": "2:07",
+   "url": "https://vod.afreecatv.com/player/213485745",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514915",
+   "broad_no": "298828143",
+   "b_title": "[클립]양도끼 아킬레스건을 극찬하는 머독 / 구슬요",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485709",
+   "type": "CLIP",
+   "title": "[클립]블루점프 재데뷔한 양도끼님을 본 구슬요님 반응 - 2",
+   "streamer_id": "yjb2013",
+   "streamer_nick": "모자수집가",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/597/7a0c4462-6f70-4089-8340-cf706d0e4a3a/44825597_r.jpg",
+   "date": "2026-11-24 19:07:58",
+   "views": "1",
+   "duration": "1:06",
+   "url": "https://vod.afreecatv.com/player/213485709",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514878",
+   "broad_no": "298828143",
+   "b_title": "[클립]블루점프 재데뷔한 양도끼님을 본 구슬요님 반응 - 2",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485687",
+   "type": "CLIP",
+   "title": "🍀 양도끼 아킬레스건 보며 극찬하는 머독 / 구슬요 반응",
+   "streamer_id": "hwj3282",
+   "streamer_nick": "찌닝♬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/591/8a200186-933e-43ac-a064-35d63580b68d/44825591_r.jpg",
+   "date": "2026-11-24 19:07:40",
+   "views": "1",
+   "duration": "1:03",
+   "url": "https://vod.afreecatv.com/player/213485687",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514860",
+   "broad_no": "298828143",
+   "b_title": "🍀 양도끼 아킬레스건 보며 극찬하는 머독 / 구슬요 반응",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485679",
+   "type": "CLIP",
+   "title": "[클립]블루점프 재데뷔한 양도끼님을 본 구슬요님 반응 - 1",
+   "streamer_id": "yjb2013",
+   "streamer_nick": "모자수집가",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/587/1d730b76-8230-40e1-848b-cdd125d8f5f5/44825587_r.jpg",
+   "date": "2026-11-24 19:07:23",
+   "views": "1",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213485679",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514843",
+   "broad_no": "298828143",
+   "b_title": "[클립]블루점프 재데뷔한 양도끼님을 본 구슬요님 반응 - 1",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485669",
+   "type": "CLIP",
+   "title": "[클립]재데뷔한 블점 막내 양도끼 / 구슬요 반응 (2)",
+   "streamer_id": "dldudwns32",
+   "streamer_nick": "달화숭",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/581/e3820c79-8e9b-437d-b7e7-95548475c145/44825581_r.jpg",
+   "date": "2026-11-24 19:07:19",
+   "views": "1",
+   "duration": "0:59",
+   "url": "https://vod.afreecatv.com/player/213485669",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514839",
+   "broad_no": "298828143",
+   "b_title": "[클립]재데뷔한 블점 막내 양도끼 / 구슬요 반응 (2)",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485643",
+   "type": "CLIP",
+   "title": "[클립]재데뷔한 블점 막내 양도끼 / 구슬요 반응",
+   "streamer_id": "dldudwns32",
+   "streamer_nick": "달화숭",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261124_573_420b2f24-3514-44ca-8d44-327385858710_44825573_r&column=2&t=1795514851",
+   "date": "2026-11-24 19:06:58",
+   "views": "2",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213485643",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beadyo97"
+   ],
+   "origin_nick": "구슬요",
+   "org_title_no": "",
+   "org_timestamp": "1795514818",
+   "broad_no": "298828143",
+   "b_title": "[클립]재데뷔한 블점 막내 양도끼 / 구슬요 반응",
+   "title_history": [],
+   "broad_title": "치이카와 티켓팅 왜 8만명인데...  | D-1 듀엣곡 발매🔥",
+   "unedited": false
+  },
+  {
+   "id": "213485553",
+   "type": "CLIP",
+   "title": "[클립][블루점프 양도끼 재데뷔] 머독에게 기내식 대접하는 양도끼와 꼬장부리는 머독 / 양도끼 : 돼지새끼 / 머독 : 대월향이랑 친하고 제갈금자랑 볼거 못 볼거 다 본 사인데!",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44825549_1_r",
+   "date": "2026-11-24 19:05:38",
+   "views": "2",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213485553",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kgoyangyeeee"
+   ],
+   "origin_nick": "누눙지",
+   "org_title_no": "213484319",
+   "org_timestamp": "1795514738",
+   "broad_no": "298824491",
+   "b_title": "[클립][블루점프 양도끼 재데뷔] 머독에게 기내식 대접하는 양도끼와 꼬장부리는 머독 / 양도끼 : 돼지새끼 / 머독 : 대월향이랑 친하고 제갈금자랑 볼거 못 볼거 다 본 사인데!",
+   "title_history": [],
+   "broad_title": "[블루점프] 도끼 데뷔 같이보기!! ",
+   "unedited": false
+  },
+  {
+   "id": "213485521",
+   "type": "CLIP",
+   "title": "[클립][블루점프 양도끼 재데뷔] 머독에게 기내식 대접하는 양도끼와 꼬장부리는 머독 / 양도끼 : 돼지새끼 / 머독 : 대월향이랑 친하고 제갈금자랑 볼거 못 볼거 다 본 사인데!",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44825541_1_r",
+   "date": "2026-11-24 19:05:20",
+   "views": "3",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213485521",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "9mogu9"
+   ],
+   "origin_nick": "모구구",
+   "org_title_no": "213483029",
+   "org_timestamp": "1795514720",
+   "broad_no": "298825009",
+   "b_title": "[클립][블루점프 양도끼 재데뷔] 머독에게 기내식 대접하는 양도끼와 꼬장부리는 머독 / 양도끼 : 돼지새끼 / 머독 : 대월향이랑 친하고 제갈금자랑 볼거 못 볼거 다 본 사인데!",
+   "title_history": [],
+   "broad_title": "우리 양도끼 데뷔 같이봐용!",
+   "unedited": false
+  },
   {
    "id": "213480981",
    "type": "CLIP",
@@ -306,7 +593,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/431/fe2f157d-c15c-46c8-81e0-0b8c4173a27d/44824431_r.jpg",
    "date": "2026-11-24 18:08:26",
-   "views": "46",
+   "views": "49",
    "duration": "3:15",
    "url": "https://vod.afreecatv.com/player/213480981",
    "keywords": [
@@ -332,7 +619,7 @@
    "streamer_nick": "드높이denope",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/253/54cab821-67f1-4f86-80ba-92b14fe01af1/44824253_r.jpg",
    "date": "2026-11-24 18:00:56",
-   "views": "65",
+   "views": "69",
    "duration": "1:29",
    "url": "https://vod.afreecatv.com/player/213480179",
    "keywords": [
