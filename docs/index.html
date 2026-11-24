@@ -1445,16 +1445,22 @@
   let loadedAt = 0;
   // GitHub Pages 배포가 막혀도 최신 목록을 보이도록, 저장소 원본 파일도 함께 받아 더 최신인 쪽을 쓴다.
   const RAW_BASE = "https://raw.githubusercontent.com/limsj0204/bus/refs/heads/claude/inspiring-feynman-ycivo1/docs/";
-  function getJson(url) {
-    return fetch(url, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  // raw 주소는 CDN이 최대 5분 캐시하므로, 캐시 없이 받을 수 있는 GitHub API 주소도 함께 읽는다.
+  // (API는 접속한 곳마다 시간당 60번까지라, 막히면 나머지 두 곳으로 동작한다)
+  const API_BASE = "https://api.github.com/repos/limsj0204/bus/contents/docs/";
+  const API_REF = "?ref=claude/inspiring-feynman-ycivo1";
+  function getJson(url, headers) {
+    return fetch(url, { cache: "no-store", headers }).then(r => r.ok ? r.json() : null).catch(() => null);
   }
   function loadFresh(name) {
-    const t = "?t=" + Math.floor(Date.now() / 60000);  // 1분 단위로 캐시를 넘긴다
-    return Promise.all([getJson(name + t), getJson(RAW_BASE + name + t)]).then(([site, raw]) => {
-      if (!site) return raw;
-      if (!raw) return site;
-      return String(raw.updated_at || "") > String(site.updated_at || "") ? raw : site;
-    });
+    const t = "?t=" + Math.floor(Date.now() / 60000);
+    return Promise.all([
+      getJson(name + t),
+      getJson(RAW_BASE + name + t),
+      getJson(API_BASE + name + API_REF, { Accept: "application/vnd.github.raw+json" }),
+    ]).then(sources => sources
+      .filter(j => j && typeof j === "object")
+      .reduce((best, j) => !best || String(j.updated_at || "") > String(best.updated_at || "") ? j : best, null));
   }
   function loadPosts() {
     // 게시글 목록은 없거나 못 불러와도 영상 목록은 그대로 보여준다.
