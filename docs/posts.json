@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24 16:56",
+ "updated_at": "2026-11-24 17:01",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213475499",
+   "type": "POST",
+   "title": "【AXE함 재출항!: YANGDOKI DEBUT MD】양도끼 재데뷔 기념 굿즈 오픈",
+   "content": "모두 출항할 준비 됐나요~!🌊 양도끼의 재데뷔를 기념한 AXE함 재출항! 굿즈판매가 시작 되었습니다!!✨ 📌판매일정｜11/24 (화) 17:00 ~ 12/8 (화) 23:59 📌본 MD는 프리오더(선주문 후제작)로 진행되며, 2027년 1월 중 발송 예정입니다. 📢굿즈 관련 문의는 반드시 네이버 1:1 톡톡 또는 스콘스토어 카카오채널을 이용해주세요. (유선...",
+   "date": "2026-11-24 17:00:06",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213475499",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
+   "photos": 1,
+   "views": 239,
+   "likes": 24,
+   "comments": 2
+  },
   {
    "id": "213408463",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/67221795433990381.jpeg",
    "photos": 2,
-   "views": 2405,
+   "views": 2423,
    "likes": 244,
    "comments": 38
   },
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/47711795361640839.jpeg",
    "photos": 1,
-   "views": 2677,
+   "views": 2688,
    "likes": 177,
    "comments": 18
   },
@@ -57,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/26801795348243605.png",
    "photos": 1,
-   "views": 3205,
+   "views": 3209,
    "likes": 288,
    "comments": 36
   },
@@ -74,7 +91,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2910,
+   "views": 2911,
    "likes": 217,
    "comments": 34
   },
@@ -91,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2459,
+   "views": 2460,
    "likes": 202,
    "comments": 19
   },
@@ -108,7 +125,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2514,
+   "views": 2515,
    "likes": 205,
    "comments": 22
   },
@@ -125,7 +142,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/18641795347376137.jpeg",
    "photos": 1,
-   "views": 3354,
+   "views": 3358,
    "likes": 199,
    "comments": 28
   },
@@ -193,7 +210,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/37941794893842366.jpeg",
    "photos": 1,
-   "views": 4736,
+   "views": 4738,
    "likes": 279,
    "comments": 46
   },
