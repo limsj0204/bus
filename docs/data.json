@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24 16:05",
+ "updated_at": "2026-11-24 16:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,22 +8,22 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-24 16:04:56",
+   "newest": "2026-11-24 16:09:58",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 15:00:38"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-24 16:04:55",
+   "newest": "2026-11-24 16:08:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 15:00:38"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-24 16:04:56",
+   "newest": "2026-11-24 16:09:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 15:00:38"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-24 16:04:55",
+   "newest": "2026-11-24 16:08:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 15:00:38"
   },
@@ -288,9 +288,116 @@
   "298809685": "북한 스트리머 채팅창 관리해주기 ( 신작 / 해피 프로파간다 ) ( !굿즈 )",
   "298801555": "우왁굳x천양x리냐x제로 알카즈",
   "298815657": "12시 땡 하면 오퍼레이션 M 지원자 확정합니다 과연 누구일까",
-  "298825057": "발창서버 OPEN"
+  "298825057": "발창서버 OPEN",
+  "298821961": "학카르 선행퀘는 진짜 ....",
+  "298824491": "[블루점프] 도끼 데뷔 같이보기!! ",
+  "298825009": "우리 양도끼 데뷔 같이봐용!"
  },
  "items": [
+  {
+   "id": "213472781",
+   "type": "CLIP",
+   "title": "[클립][하치] 양도끼 블루점프 데뷔 아바타 반응",
+   "streamer_id": "kty724",
+   "streamer_nick": "소세지빵사와",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/627/c8e7f358-b553-4b07-ac0b-9aac66b8963f/44822627_r.jpg",
+   "date": "2026-11-24 16:09:58",
+   "views": "0",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213472781",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "hachi97"
+   ],
+   "origin_nick": "하치_HACHI",
+   "org_title_no": "",
+   "org_timestamp": "1795504198",
+   "broad_no": "298821961",
+   "b_title": "[클립][하치] 양도끼 블루점프 데뷔 아바타 반응",
+   "title_history": [],
+   "broad_title": "학카르 선행퀘는 진짜 ....",
+   "unedited": false
+  },
+  {
+   "id": "213472751",
+   "type": "CLIP",
+   "title": "[클립][블루점프] 양도끼 뉴 아바타 보는 누눙지와 모구구",
+   "streamer_id": "youn11125",
+   "streamer_nick": "historia",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/617/708525b2-045a-4337-b3f9-37266e0351be/44822617_r.jpg",
+   "date": "2026-11-24 16:09:31",
+   "views": "0",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213472751",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kgoyangyeeee"
+   ],
+   "origin_nick": "누눙지",
+   "org_title_no": "",
+   "org_timestamp": "1795504171",
+   "broad_no": "298824491",
+   "b_title": "[클립][블루점프] 양도끼 뉴 아바타 보는 누눙지와 모구구",
+   "title_history": [],
+   "broad_title": "[블루점프] 도끼 데뷔 같이보기!! ",
+   "unedited": false
+  },
+  {
+   "id": "213472731",
+   "type": "CLIP",
+   "title": "[클립]양도끼 블루점프 데뷔 아바타 소개 구구x눙지 반응",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/611/8e207f38-f5c2-46f3-a517-ed33f7023690/44822611_r.jpg",
+   "date": "2026-11-24 16:09:18",
+   "views": "0",
+   "duration": "3:47",
+   "url": "https://vod.afreecatv.com/player/213472731",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "9mogu9"
+   ],
+   "origin_nick": "모구구",
+   "org_title_no": "",
+   "org_timestamp": "1795504158",
+   "broad_no": "298825009",
+   "b_title": "[클립]양도끼 블루점프 데뷔 아바타 소개 구구x눙지 반응",
+   "title_history": [],
+   "broad_title": "우리 양도끼 데뷔 같이봐용!",
+   "unedited": false
+  },
+  {
+   "id": "213472659",
+   "type": "CLIP",
+   "title": "[클립]양도끼 블루점프 데뷔 아바타 공개 구구x눙지 반응",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261124/591/33d1b271-d4ee-46f9-9878-6325a5196fe6/44822591_r.jpg",
+   "date": "2026-11-24 16:07:44",
+   "views": "1",
+   "duration": "1:12",
+   "url": "https://vod.afreecatv.com/player/213472659",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "9mogu9"
+   ],
+   "origin_nick": "모구구",
+   "org_title_no": "",
+   "org_timestamp": "1795504064",
+   "broad_no": "298825009",
+   "b_title": "[클립]양도끼 블루점프 데뷔 아바타 공개 구구x눙지 반응",
+   "title_history": [],
+   "broad_title": "우리 양도끼 데뷔 같이봐용!",
+   "unedited": false
+  },
   {
    "id": "213472303",
    "type": "CATCH",
@@ -299,7 +406,7 @@
    "streamer_nick": "비틀즈마시썽",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/657/a2e0770c-69d8-42a3-985b-e09357a4e825/22025657_r.jpg",
    "date": "2026-11-24 16:00:46",
-   "views": "1",
+   "views": "3",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213472303",
    "keywords": [
@@ -325,7 +432,7 @@
    "streamer_nick": "제갈뿡뿡띠",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44821539_1_r",
    "date": "2026-11-24 14:34:01",
-   "views": "28",
+   "views": "29",
    "duration": "4:30",
    "url": "https://vod.afreecatv.com/player/213467949",
    "keywords": [
@@ -351,7 +458,7 @@
    "streamer_nick": "수쨔",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/919/848e6838-4d83-491c-8d8d-2809b844de8c/22019919_r.jpg",
    "date": "2026-11-24 01:08:13",
-   "views": "304",
+   "views": "309",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213437271",
    "keywords": [
