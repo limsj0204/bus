@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24 18:25",
+ "updated_at": "2026-11-24 18:31",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-24 18:23:19",
+   "newest": "2026-11-24 18:29:01",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 18:00:42"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-24 18:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-24 18:23:19",
+   "newest": "2026-11-24 18:29:01",
    "backfill_days": 7,
    "last_rescan": "2026-11-24 18:00:42"
   },
@@ -306,7 +306,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/431/fe2f157d-c15c-46c8-81e0-0b8c4173a27d/44824431_r.jpg",
    "date": "2026-11-24 18:08:26",
-   "views": "19",
+   "views": "25",
    "duration": "3:15",
    "url": "https://vod.afreecatv.com/player/213480981",
    "keywords": [
@@ -332,7 +332,7 @@
    "streamer_nick": "드높이denope",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/253/54cab821-67f1-4f86-80ba-92b14fe01af1/44824253_r.jpg",
    "date": "2026-11-24 18:00:56",
-   "views": "39",
+   "views": "44",
    "duration": "1:29",
    "url": "https://vod.afreecatv.com/player/213480179",
    "keywords": [
@@ -358,7 +358,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/371/0e1e1517-890e-4b57-9ac1-38f1ba0c22a3/44823371_r.jpg",
    "date": "2026-11-24 17:09:32",
-   "views": "300",
+   "views": "319",
    "duration": "4:50",
    "url": "https://vod.afreecatv.com/player/213476087",
    "keywords": [
