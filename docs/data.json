@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 20:15",
+ "updated_at": "2026-11-25 20:20",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,22 +8,22 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 20:14:49",
+   "newest": "2026-11-25 20:18:17",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 20:01:37",
+   "newest": "2026-11-25 20:17:02",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 20:14:49",
+   "newest": "2026-11-25 20:16:21",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 20:01:37",
+   "newest": "2026-11-25 20:19:04",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -318,6 +318,84 @@
  },
  "items": [
   {
+   "id": "213573711",
+   "type": "CLIP",
+   "title": "[클립]양도끼 뉴 아바타 공개 / 연초록 반응",
+   "streamer_id": "yh0505",
+   "streamer_nick": "ez3",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/601/5b212462-05c9-4bf0-9150-73596a0e8b23/44847601_r.jpg",
+   "date": "2026-11-25 20:18:17",
+   "views": "1",
+   "duration": "1:51",
+   "url": "https://vod.afreecatv.com/player/213573711",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "whatcherry4"
+   ],
+   "origin_nick": "연초록♪",
+   "org_title_no": "",
+   "org_timestamp": "1795605497",
+   "broad_no": "298852703",
+   "b_title": "[클립]양도끼 뉴 아바타 공개 / 연초록 반응",
+   "title_history": [],
+   "broad_title": "🌱｜[하데스] 스포왕 카페 제초하기",
+   "unedited": false
+  },
+  {
+   "id": "213573707",
+   "type": "CLIP",
+   "title": "[클립][따린 반응] 양도끼 서비스에 극락가는 머독과 표정 썩은 타요",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/599/007a965a-f31d-48f6-b221-314ac105018e/44847599_r.jpg",
+   "date": "2026-11-25 20:18:15",
+   "views": "3",
+   "duration": "1:28",
+   "url": "https://vod.afreecatv.com/player/213573707",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "",
+   "org_timestamp": "1795605495",
+   "broad_no": "298854547",
+   "b_title": "[클립][따린 반응] 양도끼 서비스에 극락가는 머독과 표정 썩은 타요",
+   "title_history": [],
+   "broad_title": "와 따린 등장!ㅣ[그날 우리처럼] 발매!",
+   "unedited": false
+  },
+  {
+   "id": "213573593",
+   "type": "CLIP",
+   "title": "[클립]도끼님 보고 좋아하는 머독/ 따린님 ㅋㅋ",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "귀찮은배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/553/bf8592e1-c99b-442c-bd85-42ff16e628ff/44847553_r.jpg",
+   "date": "2026-11-25 20:17:07",
+   "views": "6",
+   "duration": "1:29",
+   "url": "https://vod.afreecatv.com/player/213573593",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "",
+   "org_timestamp": "1795605427",
+   "broad_no": "298854547",
+   "b_title": "[클립]도끼님 보고 좋아하는 머독/ 따린님 ㅋㅋ",
+   "title_history": [],
+   "broad_title": "와 따린 등장!ㅣ[그날 우리처럼] 발매!",
+   "unedited": false
+  },
+  {
    "id": "213573285",
    "type": "CLIP",
    "title": "[클립]양도끼 뉴바타 연초록 반응",
@@ -325,7 +403,7 @@
    "streamer_nick": "부왘키오∫",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/453/066a04f4-71f1-4198-ba0c-d3d59daa40f1/44847453_r.jpg",
    "date": "2026-11-25 20:14:07",
-   "views": "2",
+   "views": "6",
    "duration": "2:09",
    "url": "https://vod.afreecatv.com/player/213573285",
    "keywords": [
@@ -351,7 +429,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/355/b9290637-c6aa-4741-99fe-468d8891a0bf/44847355_r.jpg",
    "date": "2026-11-25 20:10:21",
-   "views": "21",
+   "views": "39",
    "duration": "3:22",
    "url": "https://vod.afreecatv.com/player/213572949",
    "keywords": [
@@ -377,7 +455,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/273/8ef303f1-2ee8-4617-b8f7-6f5982a9743a/44847273_r.jpg",
    "date": "2026-11-25 20:07:44",
-   "views": "14",
+   "views": "20",
    "duration": "2:12",
    "url": "https://vod.afreecatv.com/player/213572721",
    "keywords": [
@@ -403,7 +481,7 @@
    "streamer_nick": "망개♪",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/677/09ab4cb8-0679-4743-b748-36caedb4f442/44846677_r.jpg",
    "date": "2026-11-25 19:45:50",
-   "views": "15",
+   "views": "16",
    "duration": "2:00",
    "url": "https://vod.afreecatv.com/player/213570755",
    "keywords": [
