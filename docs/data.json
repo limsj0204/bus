@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 02:25",
+ "updated_at": "2026-11-26 02:30",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-26 00:00:58"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-26 02:24:34",
+   "newest": "2026-11-26 02:25:46",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 00:00:58"
   },
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-26 00:00:58"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-26 02:24:34",
+   "newest": "2026-11-26 02:25:46",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 00:00:58"
   },
@@ -337,7 +337,7 @@
    "streamer_nick": "융스로",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44857919_1_r",
    "date": "2026-11-26 01:58:26",
-   "views": "7",
+   "views": "8",
    "duration": "0:52",
    "url": "https://vod.afreecatv.com/player/213609037",
    "keywords": [
@@ -363,7 +363,7 @@
    "streamer_nick": "항상별로",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/361/6e6d98f4-0ab9-432b-99e0-89871593ed85/44857361_r.jpg",
    "date": "2026-11-26 01:36:15",
-   "views": "151",
+   "views": "159",
    "duration": "1:11",
    "url": "https://vod.afreecatv.com/player/213607235",
    "keywords": [
@@ -373,7 +373,7 @@
     "jrdart"
    ],
    "origin_nick": "이지상:)",
-   "org_title_no": "",
+   "org_title_no": "213611113",
    "org_timestamp": "1795624575",
    "broad_no": "298850091",
    "b_title": "[클립][로이세끼2] 데바데) 살인마 이지상 도끼 에임 처참해서 신나게 괴롭히는 일반인 거지 ㅋㅋㅋㅋㅋ",
@@ -519,7 +519,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/323/951d115b-5f29-4d79-9520-53e875b537e6/44852323_r.jpg",
    "date": "2026-11-25 22:40:56",
-   "views": "52",
+   "views": "54",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/213588917",
    "keywords": [
@@ -597,7 +597,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
    "date": "2026-11-25 22:09:39",
-   "views": "54",
+   "views": "55",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213585547",
    "keywords": [
@@ -649,7 +649,7 @@
    "streamer_nick": "비올라크산틴",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/255/c74eaf31-f574-4e1f-8e1d-8137762f0f2a/44851255_r.jpg",
    "date": "2026-11-25 22:08:53",
-   "views": "461",
+   "views": "462",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/213585465",
    "keywords": [
