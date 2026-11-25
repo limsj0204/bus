@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 22:01",
+ "updated_at": "2026-11-25 22:05",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 21:58:46",
+   "newest": "2026-11-25 22:04:18",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-25 21:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 21:58:46",
+   "newest": "2026-11-25 22:04:18",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -317,9 +317,36 @@
   "298852703": "🌱｜[하데스] 스포왕 카페 제초하기",
   "298857145": "타요",
   "298844773": "로이세끼2!!",
-  "298853891": "방송 3주년~"
+  "298853891": "방송 3주년~",
+  "298858145": "[UR:L] 모카의 방송입니다!"
  },
  "items": [
+  {
+   "id": "213584981",
+   "type": "CLIP",
+   "title": "[클립]양도끼 뉴 아바타 성간비행 / 모카 반응",
+   "streamer_id": "kksw0212",
+   "streamer_nick": "작은별:b",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/131/4e5de594-fc79-4d16-adb1-193c55af81d5/44851131_r.jpg",
+   "date": "2026-11-25 22:04:17",
+   "views": "0",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213584981",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mocamu2"
+   ],
+   "origin_nick": "모카:b",
+   "org_title_no": "",
+   "org_timestamp": "1795611857",
+   "broad_no": "298858145",
+   "b_title": "[클립]양도끼 뉴 아바타 성간비행 / 모카 반응",
+   "title_history": [],
+   "broad_title": "[UR:L] 모카의 방송입니다!",
+   "unedited": false
+  },
   {
    "id": "213582701",
    "type": "CLIP",
@@ -328,7 +355,7 @@
    "streamer_nick": "탱시브",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/435/3cc5a8b4-fc79-4a5a-84e0-9130eb7232a0/44850435_r.jpg",
    "date": "2026-11-25 21:42:23",
-   "views": "17",
+   "views": "20",
    "duration": "3:06",
    "url": "https://vod.afreecatv.com/player/213582701",
    "keywords": [
@@ -432,7 +459,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/201/c5f5ad69-b506-46c1-9a07-25334e23cf1a/44848201_r.jpg",
    "date": "2026-11-25 20:40:57",
-   "views": "219",
+   "views": "220",
    "duration": "3:29",
    "url": "https://vod.afreecatv.com/player/213575957",
    "keywords": [
@@ -562,7 +589,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/599/007a965a-f31d-48f6-b221-314ac105018e/44847599_r.jpg",
    "date": "2026-11-25 20:18:15",
-   "views": "93",
+   "views": "94",
    "duration": "1:28",
    "url": "https://vod.afreecatv.com/player/213573707",
    "keywords": [
@@ -666,7 +693,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/273/8ef303f1-2ee8-4617-b8f7-6f5982a9743a/44847273_r.jpg",
    "date": "2026-11-25 20:07:44",
-   "views": "94",
+   "views": "97",
    "duration": "2:12",
    "url": "https://vod.afreecatv.com/player/213572721",
    "keywords": [
