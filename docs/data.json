@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 03:10",
+ "updated_at": "2026-11-26 03:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 03:02:57",
+   "newest": "2026-11-26 03:10:20",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
@@ -338,7 +338,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44858741_1_r",
    "date": "2026-11-26 02:43:07",
-   "views": "12",
+   "views": "15",
    "duration": "1:31",
    "url": "https://vod.afreecatv.com/player/213612033",
    "keywords": [
@@ -364,7 +364,7 @@
    "streamer_nick": "융스로",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44857919_1_r",
    "date": "2026-11-26 01:58:26",
-   "views": "22",
+   "views": "24",
    "duration": "0:52",
    "url": "https://vod.afreecatv.com/player/213609037",
    "keywords": [
@@ -390,7 +390,7 @@
    "streamer_nick": "항상별로",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/361/6e6d98f4-0ab9-432b-99e0-89871593ed85/44857361_r.jpg",
    "date": "2026-11-26 01:36:15",
-   "views": "184",
+   "views": "185",
    "duration": "1:11",
    "url": "https://vod.afreecatv.com/player/213607235",
    "keywords": [
@@ -416,7 +416,7 @@
    "streamer_nick": "래플리",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/159/8b6fcd68-ba06-4f23-9afb-3fb59a6f8b32/44855159_r.jpg",
    "date": "2026-11-26 00:08:20",
-   "views": "26",
+   "views": "28",
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/213598789",
    "keywords": [
@@ -494,7 +494,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "159",
+   "views": "161",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -520,7 +520,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
    "date": "2026-11-25 22:41:28",
-   "views": "69",
+   "views": "70",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/213588957",
    "keywords": [
