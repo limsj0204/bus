@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 16:40",
+ "updated_at": "2026-11-25 16:45",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213556467",
+   "type": "POST",
+   "title": "부지런한거 봐라..",
+   "content": "강철체력 누눙지 존경하고..저는 지금 일어나서방송에 필요한것좀 챙겨서 6시쯤 오겠습니다",
+   "date": "2026-11-25 16:45:35",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213556467",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 3,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "213475499",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
    "photos": 1,
-   "views": 2975,
+   "views": 2978,
    "likes": 143,
    "comments": 14
   },
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/67221795433990381.jpeg",
    "photos": 2,
-   "views": 2780,
+   "views": 2781,
    "likes": 247,
    "comments": 38
   },
@@ -91,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 3012,
+   "views": 3013,
    "likes": 221,
    "comments": 34
   },
@@ -108,7 +125,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2540,
+   "views": 2541,
    "likes": 206,
    "comments": 19
   },
@@ -125,7 +142,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2602,
+   "views": 2603,
    "likes": 209,
    "comments": 22
   },
@@ -142,7 +159,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/18641795347376137.jpeg",
    "photos": 1,
-   "views": 3482,
+   "views": 3483,
    "likes": 203,
    "comments": 28
   },
