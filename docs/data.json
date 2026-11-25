@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 03:45",
+ "updated_at": "2026-11-26 03:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 03:17:36",
+   "newest": "2026-11-26 03:46:26",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-26 03:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-26 03:17:36",
+   "newest": "2026-11-26 03:46:26",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
@@ -390,7 +390,7 @@
    "streamer_nick": "항상별로",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/361/6e6d98f4-0ab9-432b-99e0-89871593ed85/44857361_r.jpg",
    "date": "2026-11-26 01:36:15",
-   "views": "192",
+   "views": "193",
    "duration": "1:11",
    "url": "https://vod.afreecatv.com/player/213607235",
    "keywords": [
@@ -494,7 +494,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "177",
+   "views": "179",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -504,7 +504,7 @@
     "kaksjak0730"
    ],
    "origin_nick": "한결___",
-   "org_title_no": "",
+   "org_title_no": "213615205",
    "org_timestamp": "1795614153",
    "broad_no": "298852997",
    "b_title": "이런 모핑을 원한거에요? 우리도 딱딱 말고? (도끼 제로투)",
@@ -520,7 +520,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
    "date": "2026-11-25 22:41:28",
-   "views": "73",
+   "views": "76",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/213588957",
    "keywords": [
@@ -530,7 +530,7 @@
     "htvv2i"
    ],
    "origin_nick": "햇비",
-   "org_title_no": "",
+   "org_title_no": "213614969",
    "org_timestamp": "1795614088",
    "broad_no": "298853891",
    "b_title": "[캐치]햇슬렁 하다가 와우 하는 양도끼 보고 가는 햇비 / 💛: 도끼야 너를 보는게 재밌네~",
@@ -572,7 +572,7 @@
    "streamer_nick": "숲돚거",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/23/thumb/1795618523590100_R_7.jpg",
    "date": "2026-11-25 22:11:40",
-   "views": "31",
+   "views": "32",
    "duration": "0:53",
    "url": "https://vod.afreecatv.com/player/213585781",
    "keywords": [
@@ -624,7 +624,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
    "date": "2026-11-25 22:09:39",
-   "views": "61",
+   "views": "63",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213585547",
    "keywords": [
