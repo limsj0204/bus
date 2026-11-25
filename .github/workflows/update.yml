@@ -90,7 +90,7 @@ jobs:
           type=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null || echo none)
           if [ "$type" = "workflow" ]; then
             need=no
-            for f in index.html sw.js manifest.webmanifest; do
+            for f in index.html sw.js manifest.webmanifest icons/icon-192.png icons/apple-touch-icon.png; do
               live=$(curl -fsSL "https://limsj0204.github.io/bus/${f}?t=$(date +%s)" 2>/dev/null | sha256sum | cut -c1-64)
               mine=$(sha256sum "docs/${f}" | cut -c1-64)
               if [ "$live" != "$mine" ]; then echo "${f} 바뀜 → 배포"; need=yes; fi
