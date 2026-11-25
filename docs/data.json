@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 04:01",
+ "updated_at": "2026-11-26 04:05",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 03:46:26",
+   "newest": "2026-11-26 04:02:07",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
@@ -18,12 +18,12 @@
    "last_rescan": "2026-11-26 03:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-26 03:56:45",
+   "newest": "2026-11-26 04:02:07",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-26 03:59:59",
+   "newest": "2026-11-26 04:04:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
@@ -390,7 +390,7 @@
    "streamer_nick": "항상별로",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/361/6e6d98f4-0ab9-432b-99e0-89871593ed85/44857361_r.jpg",
    "date": "2026-11-26 01:36:15",
-   "views": "194",
+   "views": "195",
    "duration": "1:11",
    "url": "https://vod.afreecatv.com/player/213607235",
    "keywords": [
@@ -494,7 +494,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "181",
+   "views": "183",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
