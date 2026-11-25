@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 19:45",
+ "updated_at": "2026-11-25 19:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,22 +8,22 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 19:45:07",
+   "newest": "2026-11-25 19:46:25",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 19:41:13",
+   "newest": "2026-11-25 19:45:32",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 19:45:07",
+   "newest": "2026-11-25 19:46:25",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 19:41:13",
+   "newest": "2026-11-25 19:45:32",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -311,9 +311,36 @@
   "298843847": "오늘은 브산동이 있음",
   "298848979": "안녕하세요 ~",
   "298850005": "폴 600km 같이보기 (5시쯤?)",
-  "298851039": "보고싶었음 ㅎㅡㅎ"
+  "298851039": "보고싶었음 ㅎㅡㅎ",
+  "298854539": "난 망곰임"
  },
  "items": [
+  {
+   "id": "213570755",
+   "type": "CLIP",
+   "title": "[클립]양도끼 재데뷔 망개 반응",
+   "streamer_id": "gsghost",
+   "streamer_nick": "망개♪",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/677/09ab4cb8-0679-4743-b748-36caedb4f442/44846677_r.jpg",
+   "date": "2026-11-25 19:45:50",
+   "views": "1",
+   "duration": "2:00",
+   "url": "https://vod.afreecatv.com/player/213570755",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mmange2"
+   ],
+   "origin_nick": "망개",
+   "org_title_no": "",
+   "org_timestamp": "1795603550",
+   "broad_no": "298854539",
+   "b_title": "[클립]양도끼 재데뷔 망개 반응",
+   "title_history": [],
+   "broad_title": "난 망곰임",
+   "unedited": false
+  },
   {
    "id": "213563937",
    "type": "CATCH",
@@ -322,7 +349,7 @@
    "streamer_nick": "플래너",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/787/82e26835-f98e-4f1c-b856-a35a120bfb9a/22041787_r.jpg",
    "date": "2026-11-25 18:30:26",
-   "views": "55",
+   "views": "63",
    "duration": "0:50",
    "url": "https://vod.afreecatv.com/player/213563937",
    "keywords": [
@@ -348,7 +375,7 @@
    "streamer_nick": "플래너",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/395/0de013d7-e10c-4f94-be7e-2d172efcd571/44844395_r.jpg",
    "date": "2026-11-25 18:14:13",
-   "views": "46",
+   "views": "50",
    "duration": "1:03",
    "url": "https://vod.afreecatv.com/player/213562653",
    "keywords": [
@@ -452,7 +479,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/815/36dd2982-437f-416e-abf9-657812cb22bf/22037815_r.jpg",
    "date": "2026-11-25 10:52:58",
-   "views": "379",
+   "views": "383",
    "duration": "0:50",
    "url": "https://vod.afreecatv.com/player/213540675",
    "keywords": [
@@ -504,7 +531,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22037419_1_r",
    "date": "2026-11-25 09:48:31",
-   "views": "282",
+   "views": "284",
    "duration": "0:23",
    "url": "https://vod.afreecatv.com/player/213538897",
    "keywords": [
