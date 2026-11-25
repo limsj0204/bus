@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 19:50",
+ "updated_at": "2026-11-25 19:55",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,22 +8,22 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 19:46:25",
+   "newest": "2026-11-25 19:53:59",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 19:45:32",
+   "newest": "2026-11-25 19:54:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 19:46:25",
+   "newest": "2026-11-25 19:53:59",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 19:45:32",
+   "newest": "2026-11-25 19:54:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -33,7 +33,7 @@
    "last_rescan": "2026-11-25 18:00:40"
   },
   "함장|CATCH": {
-   "newest": "2026-11-25 18:41:51",
+   "newest": "2026-11-25 19:54:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -323,7 +323,7 @@
    "streamer_nick": "망개♪",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/677/09ab4cb8-0679-4743-b748-36caedb4f442/44846677_r.jpg",
    "date": "2026-11-25 19:45:50",
-   "views": "1",
+   "views": "4",
    "duration": "2:00",
    "url": "https://vod.afreecatv.com/player/213570755",
    "keywords": [
@@ -401,7 +401,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/825/bf09fbe3-655a-4eae-8a1e-c33184b30393/44842825_r.jpg",
    "date": "2026-11-25 16:25:31",
-   "views": "83",
+   "views": "85",
    "duration": "2:25",
    "url": "https://vod.afreecatv.com/player/213555239",
    "keywords": [
