@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 22:40",
+ "updated_at": "2026-11-25 22:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,12 +8,12 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 22:11:10",
+   "newest": "2026-11-25 22:40:56",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 22:11:40",
+   "newest": "2026-11-25 22:42:33",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-25 21:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 22:35:24",
+   "newest": "2026-11-25 22:42:33",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -319,9 +319,88 @@
   "298844773": "로이세끼2!!",
   "298853891": "방송 3주년~",
   "298858145": "[UR:L] 모카의 방송입니다!",
-  "298860481": "잠깐 수다떨러온사람"
+  "298860481": "잠깐 수다떨러온사람",
+  "298852997": "8시) AGF 앨범 스포하기 / 드롭스 on!  [이브닛]"
  },
  "items": [
+  {
+   "id": "213589095",
+   "type": "CATCH",
+   "title": "이런 모핑을 원한거에요? 우리도 딱딱 말고?? (도끼 제로투)",
+   "streamer_id": "oneteps9",
+   "streamer_nick": "하이라잇생구",
+   "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
+   "date": "2026-11-25 22:42:33",
+   "views": "5",
+   "duration": "1:00",
+   "url": "https://vod.afreecatv.com/player/213589095",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kaksjak0730"
+   ],
+   "origin_nick": "한결___",
+   "org_title_no": "",
+   "org_timestamp": "1795614153",
+   "broad_no": "298852997",
+   "b_title": "이런 모핑을 원한거에요? 우리도 딱딱 말고?? (도끼 제로투)",
+   "title_history": [],
+   "broad_title": "8시) AGF 앨범 스포하기 / 드롭스 on!  [이브닛]",
+   "unedited": false
+  },
+  {
+   "id": "213588957",
+   "type": "CATCH",
+   "title": "[캐치]햇슬렁 하다가 와우 하는 양도끼 보고 가는 햇비 / 💛: 도끼야 너를 보는게 재밌네~",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
+   "date": "2026-11-25 22:41:28",
+   "views": "2",
+   "duration": "0:33",
+   "url": "https://vod.afreecatv.com/player/213588957",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "htvv2i"
+   ],
+   "origin_nick": "햇비",
+   "org_title_no": "",
+   "org_timestamp": "1795614088",
+   "broad_no": "298853891",
+   "b_title": "[캐치]햇슬렁 하다가 와우 하는 양도끼 보고 가는 햇비 / 💛: 도끼야 너를 보는게 재밌네~",
+   "title_history": [],
+   "broad_title": "방송 3주년~",
+   "unedited": false
+  },
+  {
+   "id": "213588917",
+   "type": "CLIP",
+   "title": "[클립]그냥 양도끼 보는 게 재밌는 햇비",
+   "streamer_id": "kid147147",
+   "streamer_nick": "boraJoa●",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/323/951d115b-5f29-4d79-9520-53e875b537e6/44852323_r.jpg",
+   "date": "2026-11-25 22:40:56",
+   "views": "7",
+   "duration": "0:30",
+   "url": "https://vod.afreecatv.com/player/213588917",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "htvv2i"
+   ],
+   "origin_nick": "햇비",
+   "org_title_no": "",
+   "org_timestamp": "1795614056",
+   "broad_no": "298853891",
+   "b_title": "[클립]그냥 양도끼 보는 게 재밌는 햇비",
+   "title_history": [],
+   "broad_title": "방송 3주년~",
+   "unedited": false
+  },
   {
    "id": "213585781",
    "type": "CATCH",
@@ -356,7 +435,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/337/ff9bb882-e91b-4b9f-83f0-f48b6ec8a94a/44851337_r.jpg",
    "date": "2026-11-25 22:11:10",
-   "views": "37",
+   "views": "44",
    "duration": "1:50",
    "url": "https://vod.afreecatv.com/player/213585727",
    "keywords": [
@@ -408,7 +487,7 @@
    "streamer_nick": "유리창이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/265/719e2b5c-836f-4555-a476-f2843b3c26eb/44851265_r.jpg",
    "date": "2026-11-25 22:09:01",
-   "views": "6",
+   "views": "7",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/213585489",
    "keywords": [
@@ -434,7 +513,7 @@
    "streamer_nick": "비올라크산틴",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/255/c74eaf31-f574-4e1f-8e1d-8137762f0f2a/44851255_r.jpg",
    "date": "2026-11-25 22:08:53",
-   "views": "302",
+   "views": "313",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/213585465",
    "keywords": [
@@ -460,7 +539,7 @@
    "streamer_nick": "작은별:b",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/131/4e5de594-fc79-4d16-adb1-193c55af81d5/44851131_r.jpg",
    "date": "2026-11-25 22:04:17",
-   "views": "21",
+   "views": "24",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213584981",
    "keywords": [
@@ -486,7 +565,7 @@
    "streamer_nick": "탱시브",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/435/3cc5a8b4-fc79-4a5a-84e0-9130eb7232a0/44850435_r.jpg",
    "date": "2026-11-25 21:42:23",
-   "views": "37",
+   "views": "41",
    "duration": "3:06",
    "url": "https://vod.afreecatv.com/player/213582701",
    "keywords": [
@@ -538,7 +617,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "11",
+   "views": "12",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
