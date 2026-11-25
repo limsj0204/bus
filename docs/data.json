@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 09:45",
+ "updated_at": "2026-11-25 09:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,12 +8,12 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 08:55:11",
+   "newest": "2026-11-25 09:46:19",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 09:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 08:57:01",
+   "newest": "2026-11-25 09:48:31",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 09:00:42"
   },
@@ -311,6 +311,58 @@
  },
  "items": [
   {
+   "id": "213538897",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 - REBELS (이세계아이돌) 모캡 라이브 댄스 챌린지 / 우왁굳 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22037419_1_r",
+   "date": "2026-11-25 09:48:31",
+   "views": "0",
+   "duration": "0:23",
+   "url": "https://vod.afreecatv.com/player/213538897",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "213534481",
+   "org_timestamp": "1795567711",
+   "broad_no": "298830995",
+   "b_title": "[캐치]양도끼 - REBELS (이세계아이돌) 모캡 라이브 댄스 챌린지 / 우왁굳 반응",
+   "title_history": [],
+   "broad_title": "8시이후) 숲취해소 / 9시) 왁타버스 보물찾기",
+   "unedited": false
+  },
+  {
+   "id": "213538847",
+   "type": "CLIP",
+   "title": "[클립]양도끼 블루점프 데뷔 기념 뉴 아바타 공개 / 우왁굳 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261125_44839151_1_r&column=2&t=1795567763",
+   "date": "2026-11-25 09:46:19",
+   "views": "5",
+   "duration": "1:06",
+   "url": "https://vod.afreecatv.com/player/213538847",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "213534481",
+   "org_timestamp": "1795567579",
+   "broad_no": "298830995",
+   "b_title": "[클립]양도끼 블루점프 데뷔 기념 뉴 아바타 공개 / 우왁굳 반응",
+   "title_history": [],
+   "broad_title": "8시이후) 숲취해소 / 9시) 왁타버스 보물찾기",
+   "unedited": false
+  },
+  {
    "id": "213537439",
    "type": "CLIP",
    "title": "[클립]재데뷔 기념 양도끼의 성간비행 / 우왁굳 반응",
@@ -318,7 +370,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261125_44838885_1_r",
    "date": "2026-11-25 08:52:47",
-   "views": "20",
+   "views": "21",
    "duration": "1:23",
    "url": "https://vod.afreecatv.com/player/213537439",
    "keywords": [
@@ -344,7 +396,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261125_44838873_1_r",
    "date": "2026-11-25 08:49:57",
-   "views": "16",
+   "views": "19",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/213537381",
    "keywords": [
@@ -396,7 +448,7 @@
    "streamer_nick": "척화비",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/637/850fd40d-b60f-4baf-a85f-bbd2278e7323/44835637_r.jpg",
    "date": "2026-11-25 00:27:56",
-   "views": "99",
+   "views": "101",
    "duration": "4:01",
    "url": "https://vod.afreecatv.com/player/213518915",
    "keywords": [
@@ -422,7 +474,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261125_597_ca924661-0b73-4667-ad76-6f68933083b3_44835597_r&column=2&t=1795534090",
    "date": "2026-11-25 00:26:41",
-   "views": "190",
+   "views": "194",
    "duration": "3:56",
    "url": "https://vod.afreecatv.com/player/213518787",
    "keywords": [
@@ -604,7 +656,7 @@
    "streamer_nick": "∑:동경",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/237/f7bd586b-98b3-435e-bb1b-892d4e53ed98/44831237_r.jpg",
    "date": "2026-11-24 22:17:46",
-   "views": "197",
+   "views": "198",
    "duration": "4:18",
    "url": "https://vod.afreecatv.com/player/213504109",
    "keywords": [
@@ -630,7 +682,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/161/9268904a-69cb-4bd1-b86b-c8b66320bc78/44831161_r.jpg",
    "date": "2026-11-24 22:16:17",
-   "views": "392",
+   "views": "394",
    "duration": "3:20",
    "url": "https://vod.afreecatv.com/player/213503947",
    "keywords": [
@@ -708,7 +760,7 @@
    "streamer_nick": "강철과자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261124_44830211_1_r",
    "date": "2026-11-24 21:47:05",
-   "views": "123",
+   "views": "124",
    "duration": "1:32",
    "url": "https://vod.afreecatv.com/player/213500937",
    "keywords": [
@@ -864,7 +916,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/325/7700e8f1-1b1b-405e-8340-156eb3181432/22030325_r.jpg",
    "date": "2026-11-24 21:07:15",
-   "views": "74",
+   "views": "75",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/213496735",
    "keywords": [
@@ -1072,7 +1124,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/177/9479976e-81b4-4479-b6b9-68fee5fd44e4/22030177_r.jpg",
    "date": "2026-11-24 21:02:23",
-   "views": "273",
+   "views": "275",
    "duration": "0:48",
    "url": "https://vod.afreecatv.com/player/213496251",
    "keywords": [
@@ -1281,7 +1333,7 @@
    "streamer_nick": "뚱냐링배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/909/7fbad73a-83dd-40c9-8a72-fe5709fca70c/22029909_r.jpg",
    "date": "2026-11-24 20:51:32",
-   "views": "30",
+   "views": "31",
    "duration": "0:58",
    "url": "https://vod.afreecatv.com/player/213495131",
    "keywords": [
@@ -1307,7 +1359,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261124/895/ae1c661f-6f08-44bb-b9d2-390081e5ad47/22029895_r.jpg",
    "date": "2026-11-24 20:50:53",
-   "views": "47",
+   "views": "48",
    "duration": "0:40",
    "url": "https://vod.afreecatv.com/player/213495077",
    "keywords": [
