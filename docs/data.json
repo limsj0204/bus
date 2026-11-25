@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 22:10",
+ "updated_at": "2026-11-25 22:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,17 +8,17 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 22:08:53",
+   "newest": "2026-11-25 22:11:10",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 22:09:39",
+   "newest": "2026-11-25 22:11:40",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 22:07:49",
+   "newest": "2026-11-25 22:14:35",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -323,6 +323,58 @@
  },
  "items": [
   {
+   "id": "213585781",
+   "type": "CATCH",
+   "title": "[캐치]🚀양도끼 뉴아바타 보는👑밍턴 공주",
+   "streamer_id": "rohats",
+   "streamer_nick": "숲돚거",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/733/150dc0be-1f17-4c15-b2cb-2b2632ad40ca/22046733_r.jpg",
+   "date": "2026-11-25 22:11:40",
+   "views": "1",
+   "duration": "0:53",
+   "url": "https://vod.afreecatv.com/player/213585781",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingturn97"
+   ],
+   "origin_nick": "밍턴_",
+   "org_title_no": "",
+   "org_timestamp": "1795612300",
+   "broad_no": "298860481",
+   "b_title": "[캐치]🚀양도끼 뉴아바타 보는👑밍턴 공주",
+   "title_history": [],
+   "broad_title": "잠깐 수다떨러온사람",
+   "unedited": false
+  },
+  {
+   "id": "213585727",
+   "type": "CLIP",
+   "title": "[클립]블루점프로 재데뷔한 양도끼님을 본 밍턴님 반응(숭한 의상에 놀란 유교걸)",
+   "streamer_id": "yjb2013",
+   "streamer_nick": "모자수집가",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/337/ff9bb882-e91b-4b9f-83f0-f48b6ec8a94a/44851337_r.jpg",
+   "date": "2026-11-25 22:11:10",
+   "views": "8",
+   "duration": "1:50",
+   "url": "https://vod.afreecatv.com/player/213585727",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingturn97"
+   ],
+   "origin_nick": "밍턴_",
+   "org_title_no": "",
+   "org_timestamp": "1795612270",
+   "broad_no": "298860481",
+   "b_title": "[클립]블루점프로 재데뷔한 양도끼님을 본 밍턴님 반응(숭한 의상에 놀란 유교걸)",
+   "title_history": [],
+   "broad_title": "잠깐 수다떨러온사람",
+   "unedited": false
+  },
+  {
    "id": "213585547",
    "type": "CATCH",
    "title": "[캐치]양도끼님 눈을 크게 들때 미녕님이 보여서 무섭다는 밍턴님",
@@ -356,7 +408,7 @@
    "streamer_nick": "유리창이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/265/719e2b5c-836f-4555-a476-f2843b3c26eb/44851265_r.jpg",
    "date": "2026-11-25 22:09:01",
-   "views": "0",
+   "views": "2",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/213585489",
    "keywords": [
@@ -382,7 +434,7 @@
    "streamer_nick": "비올라크산틴",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/255/c74eaf31-f574-4e1f-8e1d-8137762f0f2a/44851255_r.jpg",
    "date": "2026-11-25 22:08:53",
-   "views": "71",
+   "views": "183",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/213585465",
    "keywords": [
@@ -408,7 +460,7 @@
    "streamer_nick": "작은별:b",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/131/4e5de594-fc79-4d16-adb1-193c55af81d5/44851131_r.jpg",
    "date": "2026-11-25 22:04:17",
-   "views": "6",
+   "views": "8",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213584981",
    "keywords": [
@@ -434,7 +486,7 @@
    "streamer_nick": "탱시브",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/435/3cc5a8b4-fc79-4a5a-84e0-9130eb7232a0/44850435_r.jpg",
    "date": "2026-11-25 21:42:23",
-   "views": "22",
+   "views": "24",
    "duration": "3:06",
    "url": "https://vod.afreecatv.com/player/213582701",
    "keywords": [
