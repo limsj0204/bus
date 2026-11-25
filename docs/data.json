@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 22:55",
+ "updated_at": "2026-11-25 23:01",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 22:40:56",
+   "newest": "2026-11-25 22:56:23",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-25 21:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 22:45:18",
+   "newest": "2026-11-25 22:58:22",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -320,18 +320,45 @@
   "298853891": "방송 3주년~",
   "298858145": "[UR:L] 모카의 방송입니다!",
   "298860481": "잠깐 수다떨러온사람",
-  "298852997": "8시) AGF 앨범 스포하기 / 드롭스 on!  [이브닛]"
+  "298852997": "8시) AGF 앨범 스포하기 / 드롭스 on!  [이브닛]",
+  "298857657": "11시) 하루고멤 기습소집"
  },
  "items": [
   {
+   "id": "213590697",
+   "type": "CLIP",
+   "title": "[클립]뉴바타로 와우하는 양도끼 우왁굳 반응",
+   "streamer_id": "atrat0",
+   "streamer_nick": "라트",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/909/e0155701-de0d-4f40-b532-64c97747391d/44852909_r.jpg",
+   "date": "2026-11-25 22:56:23",
+   "views": "10",
+   "duration": "0:26",
+   "url": "https://vod.afreecatv.com/player/213590697",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "ecvhao"
+   ],
+   "origin_nick": "우왁굳",
+   "org_title_no": "",
+   "org_timestamp": "1795614983",
+   "broad_no": "298857657",
+   "b_title": "[클립]뉴바타로 와우하는 양도끼 우왁굳 반응",
+   "title_history": [],
+   "broad_title": "11시) 하루고멤 기습소집",
+   "unedited": false
+  },
+  {
    "id": "213589095",
    "type": "CATCH",
-   "title": "이런 모핑을 원한거에요? 우리도 딱딱 말고?? (도끼 제로투)",
+   "title": "이런 모핑을 원한거에요? 우리도 딱딱 말고? (도끼 제로투)",
    "streamer_id": "oneteps9",
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "21",
+   "views": "33",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -344,7 +371,7 @@
    "org_title_no": "",
    "org_timestamp": "1795614153",
    "broad_no": "298852997",
-   "b_title": "이런 모핑을 원한거에요? 우리도 딱딱 말고?? (도끼 제로투)",
+   "b_title": "이런 모핑을 원한거에요? 우리도 딱딱 말고? (도끼 제로투)",
    "title_history": [],
    "broad_title": "8시) AGF 앨범 스포하기 / 드롭스 on!  [이브닛]",
    "unedited": false
@@ -357,7 +384,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
    "date": "2026-11-25 22:41:28",
-   "views": "8",
+   "views": "9",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/213588957",
    "keywords": [
@@ -383,7 +410,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/323/951d115b-5f29-4d79-9520-53e875b537e6/44852323_r.jpg",
    "date": "2026-11-25 22:40:56",
-   "views": "16",
+   "views": "19",
    "duration": "0:30",
    "url": "https://vod.afreecatv.com/player/213588917",
    "keywords": [
@@ -409,7 +436,7 @@
    "streamer_nick": "숲돚거",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/733/150dc0be-1f17-4c15-b2cb-2b2632ad40ca/22046733_r.jpg",
    "date": "2026-11-25 22:11:40",
-   "views": "6",
+   "views": "8",
    "duration": "0:53",
    "url": "https://vod.afreecatv.com/player/213585781",
    "keywords": [
@@ -419,7 +446,7 @@
     "mingturn97"
    ],
    "origin_nick": "밍턴_",
-   "org_title_no": "",
+   "org_title_no": "213590453",
    "org_timestamp": "1795612300",
    "broad_no": "298860481",
    "b_title": "[캐치]🚀양도끼 뉴아바타 보는👑밍턴 공주",
@@ -435,7 +462,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/337/ff9bb882-e91b-4b9f-83f0-f48b6ec8a94a/44851337_r.jpg",
    "date": "2026-11-25 22:11:10",
-   "views": "55",
+   "views": "59",
    "duration": "1:50",
    "url": "https://vod.afreecatv.com/player/213585727",
    "keywords": [
@@ -445,7 +472,7 @@
     "mingturn97"
    ],
    "origin_nick": "밍턴_",
-   "org_title_no": "",
+   "org_title_no": "213590453",
    "org_timestamp": "1795612270",
    "broad_no": "298860481",
    "b_title": "[클립]블루점프로 재데뷔한 양도끼님을 본 밍턴님 반응(숭한 의상에 놀란 유교걸)",
@@ -461,7 +488,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
    "date": "2026-11-25 22:09:39",
-   "views": "21",
+   "views": "25",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213585547",
    "keywords": [
@@ -471,7 +498,7 @@
     "mingturn97"
    ],
    "origin_nick": "밍턴_",
-   "org_title_no": "",
+   "org_title_no": "213590453",
    "org_timestamp": "1795612179",
    "broad_no": "298860481",
    "b_title": "[캐치]양도끼님 눈을 크게 들때 미녕님이 보여서 무섭다는 밍턴님",
@@ -513,7 +540,7 @@
    "streamer_nick": "비올라크산틴",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/255/c74eaf31-f574-4e1f-8e1d-8137762f0f2a/44851255_r.jpg",
    "date": "2026-11-25 22:08:53",
-   "views": "330",
+   "views": "340",
    "duration": "1:05",
    "url": "https://vod.afreecatv.com/player/213585465",
    "keywords": [
@@ -523,7 +550,7 @@
     "mingturn97"
    ],
    "origin_nick": "밍턴_",
-   "org_title_no": "",
+   "org_title_no": "213590453",
    "org_timestamp": "1795612133",
    "broad_no": "298860481",
    "b_title": "[클립]양도끼 뉴 아바타를 본 밍턴) 뭐라 그래야되지...? 미간 거리가 스콘 깔인데 / 잠깐만 눈 크게 뜰 때 미녕이가 보여요 무서워요",
@@ -539,7 +566,7 @@
    "streamer_nick": "작은별:b",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/131/4e5de594-fc79-4d16-adb1-193c55af81d5/44851131_r.jpg",
    "date": "2026-11-25 22:04:17",
-   "views": "26",
+   "views": "32",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213584981",
    "keywords": [
@@ -565,7 +592,7 @@
    "streamer_nick": "탱시브",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/435/3cc5a8b4-fc79-4a5a-84e0-9130eb7232a0/44850435_r.jpg",
    "date": "2026-11-25 21:42:23",
-   "views": "47",
+   "views": "48",
    "duration": "3:06",
    "url": "https://vod.afreecatv.com/player/213582701",
    "keywords": [
@@ -591,7 +618,7 @@
    "streamer_nick": "감각_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/999/625e3a2a-b338-4b6e-858f-0dcc6c32e126/44848999_r.jpg",
    "date": "2026-11-25 21:05:23",
-   "views": "30",
+   "views": "31",
    "duration": "0:57",
    "url": "https://vod.afreecatv.com/player/213578603",
    "keywords": [
@@ -617,7 +644,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "13",
+   "views": "15",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
