@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 05:10",
+ "updated_at": "2026-11-26 05:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 04:02:07",
+   "newest": "2026-11-26 05:13:05",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 03:00:42"
   },
@@ -327,9 +327,36 @@
   "298859469": "[이브닛]도태됐지만 와우는 하고시퍼 같이 도포하자(w.양도끼, 쥬멩이)",
   "298850091": "로이세끼2 황금낫 오늘 탈출 갑니다. [무수]",
   "298824797": "왁타버스 마크 보물찾기 • 와우 포에버 마라우돈",
-  "298848333": "느엥"
+  "298848333": "느엥",
+  "298860019": "가티 와포하쟈!! 렙업하쟈!!"
  },
  "items": [
+  {
+   "id": "213618651",
+   "type": "CLIP",
+   "title": "[클립]양도끼님 데뷔 / 양도끼 - `성간비행` 커버 / 최또님 반응",
+   "streamer_id": "raplide",
+   "streamer_nick": "래플리",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261126/121/8d5f9998-82d8-4051-90b7-bc6cbcce89a8/44860121_r.jpg",
+   "date": "2026-11-26 05:13:05",
+   "views": "0",
+   "duration": "4:17",
+   "url": "https://vod.afreecatv.com/player/213618651",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "choiagain"
+   ],
+   "origin_nick": "최또",
+   "org_title_no": "",
+   "org_timestamp": "1795637585",
+   "broad_no": "298860019",
+   "b_title": "[클립]양도끼님 데뷔 / 양도끼 - `성간비행` 커버 / 최또님 반응",
+   "title_history": [],
+   "broad_title": "가티 와포하쟈!! 렙업하쟈!!",
+   "unedited": false
+  },
   {
    "id": "213612033",
    "type": "CLIP",
@@ -494,7 +521,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "202",
+   "views": "203",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -520,7 +547,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
    "date": "2026-11-25 22:41:28",
-   "views": "93",
+   "views": "95",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/213588957",
    "keywords": [
@@ -624,7 +651,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
    "date": "2026-11-25 22:09:39",
-   "views": "77",
+   "views": "78",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213585547",
    "keywords": [
@@ -650,7 +677,7 @@
    "streamer_nick": "유리창이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/265/719e2b5c-836f-4555-a476-f2843b3c26eb/44851265_r.jpg",
    "date": "2026-11-25 22:09:01",
-   "views": "14",
+   "views": "15",
    "duration": "2:55",
    "url": "https://vod.afreecatv.com/player/213585489",
    "keywords": [
