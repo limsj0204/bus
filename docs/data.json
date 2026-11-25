@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 20:20",
+ "updated_at": "2026-11-25 20:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 20:18:17",
+   "newest": "2026-11-25 20:24:45",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -18,12 +18,12 @@
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 20:16:21",
+   "newest": "2026-11-25 20:24:45",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 20:19:04",
+   "newest": "2026-11-25 20:23:03",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -318,6 +318,32 @@
  },
  "items": [
   {
+   "id": "213574171",
+   "type": "CLIP",
+   "title": "[클립]눙지의 SBO 야구 자세를 보고 깜짝 놀랐다는 도끼 눙지 반응",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/727/540860b4-bc29-4a56-a2c0-d9a5804f6b01/44847727_r.jpg",
+   "date": "2026-11-25 20:23:35",
+   "views": "1",
+   "duration": "4:14",
+   "url": "https://vod.afreecatv.com/player/213574171",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "kgoyangyeeee"
+   ],
+   "origin_nick": "누눙지",
+   "org_title_no": "",
+   "org_timestamp": "1795605815",
+   "broad_no": "298850005",
+   "b_title": "[클립]눙지의 SBO 야구 자세를 보고 깜짝 놀랐다는 도끼 눙지 반응",
+   "title_history": [],
+   "broad_title": "폴 600km 같이보기 (5시쯤?)",
+   "unedited": false
+  },
+  {
    "id": "213573711",
    "type": "CLIP",
    "title": "[클립]양도끼 뉴 아바타 공개 / 연초록 반응",
@@ -325,7 +351,7 @@
    "streamer_nick": "ez3",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/601/5b212462-05c9-4bf0-9150-73596a0e8b23/44847601_r.jpg",
    "date": "2026-11-25 20:18:17",
-   "views": "1",
+   "views": "2",
    "duration": "1:51",
    "url": "https://vod.afreecatv.com/player/213573711",
    "keywords": [
@@ -351,7 +377,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/599/007a965a-f31d-48f6-b221-314ac105018e/44847599_r.jpg",
    "date": "2026-11-25 20:18:15",
-   "views": "3",
+   "views": "18",
    "duration": "1:28",
    "url": "https://vod.afreecatv.com/player/213573707",
    "keywords": [
@@ -377,7 +403,7 @@
    "streamer_nick": "귀찮은배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/553/bf8592e1-c99b-442c-bd85-42ff16e628ff/44847553_r.jpg",
    "date": "2026-11-25 20:17:07",
-   "views": "6",
+   "views": "7",
    "duration": "1:29",
    "url": "https://vod.afreecatv.com/player/213573593",
    "keywords": [
@@ -403,7 +429,7 @@
    "streamer_nick": "부왘키오∫",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/453/066a04f4-71f1-4198-ba0c-d3d59daa40f1/44847453_r.jpg",
    "date": "2026-11-25 20:14:07",
-   "views": "6",
+   "views": "7",
    "duration": "2:09",
    "url": "https://vod.afreecatv.com/player/213573285",
    "keywords": [
@@ -429,7 +455,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/355/b9290637-c6aa-4741-99fe-468d8891a0bf/44847355_r.jpg",
    "date": "2026-11-25 20:10:21",
-   "views": "39",
+   "views": "47",
    "duration": "3:22",
    "url": "https://vod.afreecatv.com/player/213572949",
    "keywords": [
@@ -455,7 +481,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/273/8ef303f1-2ee8-4617-b8f7-6f5982a9743a/44847273_r.jpg",
    "date": "2026-11-25 20:07:44",
-   "views": "20",
+   "views": "33",
    "duration": "2:12",
    "url": "https://vod.afreecatv.com/player/213572721",
    "keywords": [
