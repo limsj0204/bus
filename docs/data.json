@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 19:55",
+ "updated_at": "2026-11-25 20:01",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 19:53:59",
+   "newest": "2026-11-25 19:57:11",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-25 18:00:40"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 19:53:59",
+   "newest": "2026-11-25 19:58:56",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 18:00:40"
   },
@@ -323,7 +323,7 @@
    "streamer_nick": "망개♪",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/677/09ab4cb8-0679-4743-b748-36caedb4f442/44846677_r.jpg",
    "date": "2026-11-25 19:45:50",
-   "views": "4",
+   "views": "6",
    "duration": "2:00",
    "url": "https://vod.afreecatv.com/player/213570755",
    "keywords": [
@@ -375,7 +375,7 @@
    "streamer_nick": "플래너",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/395/0de013d7-e10c-4f94-be7e-2d172efcd571/44844395_r.jpg",
    "date": "2026-11-25 18:14:13",
-   "views": "50",
+   "views": "51",
    "duration": "1:03",
    "url": "https://vod.afreecatv.com/player/213562653",
    "keywords": [
@@ -453,7 +453,7 @@
    "streamer_nick": "비틀즈마시썽",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/095/24919aca-c73e-4c45-b597-b84d78be876a/44842095_r.jpg",
    "date": "2026-11-25 15:30:43",
-   "views": "66",
+   "views": "68",
    "duration": "1:30",
    "url": "https://vod.afreecatv.com/player/213552251",
    "keywords": [
