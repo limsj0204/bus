@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 06:25",
+ "updated_at": "2026-11-26 06:30",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 05:13:05",
+   "newest": "2026-11-26 06:29:44",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 06:00:45"
   },
@@ -332,6 +332,32 @@
  },
  "items": [
   {
+   "id": "213620669",
+   "type": "CLIP",
+   "title": "민결희, 따린, 양도끼, 우정잉 월간열혈 달고 식데 신청하는 머독 보며 씁쓸한 미르 / 따린 반응",
+   "streamer_id": "tedd6975",
+   "streamer_nick": "안척추",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860475_1_r",
+   "date": "2026-11-26 06:29:44",
+   "views": "0",
+   "duration": "3:22",
+   "url": "https://vod.afreecatv.com/player/213620669",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "insome0319"
+   ],
+   "origin_nick": "따린",
+   "org_title_no": "213619879",
+   "org_timestamp": "1795642184",
+   "broad_no": "298854547",
+   "b_title": "민결희, 따린, 양도끼, 우정잉 월간열혈 달고 식데 신청하는 머독 보며 씁쓸한 미르 / 따린 반응",
+   "title_history": [],
+   "broad_title": "와 따린 등장!ㅣ[그날 우리처럼] 발매!",
+   "unedited": false
+  },
+  {
    "id": "213618651",
    "type": "CLIP",
    "title": "[클립]양도끼님 데뷔 / 양도끼 - `성간비행` 커버 / 최또님 반응",
@@ -521,7 +547,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "220",
+   "views": "221",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -807,7 +833,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "57",
+   "views": "59",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
@@ -7935,7 +7961,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261114_057_e2b11efe-1b70-45c3-956a-e3900e05ccca_44597057_r&column=2&t=1794646104",
    "date": "2026-11-14 17:47:27",
-   "views": "1114",
+   "views": "1115",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/212599611",
    "keywords": [
