@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 22:05",
+ "updated_at": "2026-11-25 22:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,27 +8,27 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-25 22:04:18",
+   "newest": "2026-11-25 22:08:53",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-25 21:52:48",
+   "newest": "2026-11-25 22:09:39",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-25 22:04:18",
+   "newest": "2026-11-25 22:07:49",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-25 21:52:48",
+   "newest": "2026-11-25 22:09:35",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
   "함장|CLIP": {
-   "newest": "2026-11-25 20:45:53",
+   "newest": "2026-11-25 22:09:01",
    "backfill_days": 7,
    "last_rescan": "2026-11-25 21:00:42"
   },
@@ -318,9 +318,88 @@
   "298857145": "타요",
   "298844773": "로이세끼2!!",
   "298853891": "방송 3주년~",
-  "298858145": "[UR:L] 모카의 방송입니다!"
+  "298858145": "[UR:L] 모카의 방송입니다!",
+  "298860481": "잠깐 수다떨러온사람"
  },
  "items": [
+  {
+   "id": "213585547",
+   "type": "CATCH",
+   "title": "[캐치]양도끼님 눈을 크게 들때 미녕님이 보여서 무섭다는 밍턴님",
+   "streamer_id": "yjb2013",
+   "streamer_nick": "모자수집가",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
+   "date": "2026-11-25 22:09:39",
+   "views": "0",
+   "duration": "0:24",
+   "url": "https://vod.afreecatv.com/player/213585547",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingturn97"
+   ],
+   "origin_nick": "밍턴_",
+   "org_title_no": "",
+   "org_timestamp": "1795612179",
+   "broad_no": "298860481",
+   "b_title": "[캐치]양도끼님 눈을 크게 들때 미녕님이 보여서 무섭다는 밍턴님",
+   "title_history": [],
+   "broad_title": "잠깐 수다떨러온사람",
+   "unedited": false
+  },
+  {
+   "id": "213585489",
+   "type": "CLIP",
+   "title": "[클립]함장님 뉴아바타 - 밍턴님 반응",
+   "streamer_id": "yurichang2",
+   "streamer_nick": "유리창이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/265/719e2b5c-836f-4555-a476-f2843b3c26eb/44851265_r.jpg",
+   "date": "2026-11-25 22:09:01",
+   "views": "0",
+   "duration": "2:55",
+   "url": "https://vod.afreecatv.com/player/213585489",
+   "keywords": [
+    "함장"
+   ],
+   "origin_ids": [
+    "mingturn97"
+   ],
+   "origin_nick": "밍턴_",
+   "org_title_no": "",
+   "org_timestamp": "1795612141",
+   "broad_no": "298860481",
+   "b_title": "[클립]함장님 뉴아바타 - 밍턴님 반응",
+   "title_history": [],
+   "broad_title": "잠깐 수다떨러온사람",
+   "unedited": false
+  },
+  {
+   "id": "213585465",
+   "type": "CLIP",
+   "title": "[클립]양도끼 뉴 아바타를 본 밍턴) 뭐라 그래야되지...? 미간 거리가 스콘 깔인데 / 잠깐만 눈 크게 뜰 때 미녕이가 보여요 무서워요",
+   "streamer_id": "kgdw811",
+   "streamer_nick": "비올라크산틴",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261125/255/c74eaf31-f574-4e1f-8e1d-8137762f0f2a/44851255_r.jpg",
+   "date": "2026-11-25 22:08:53",
+   "views": "71",
+   "duration": "1:05",
+   "url": "https://vod.afreecatv.com/player/213585465",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingturn97"
+   ],
+   "origin_nick": "밍턴_",
+   "org_title_no": "",
+   "org_timestamp": "1795612133",
+   "broad_no": "298860481",
+   "b_title": "[클립]양도끼 뉴 아바타를 본 밍턴) 뭐라 그래야되지...? 미간 거리가 스콘 깔인데 / 잠깐만 눈 크게 뜰 때 미녕이가 보여요 무서워요",
+   "title_history": [],
+   "broad_title": "잠깐 수다떨러온사람",
+   "unedited": false
+  },
   {
    "id": "213584981",
    "type": "CLIP",
@@ -329,7 +408,7 @@
    "streamer_nick": "작은별:b",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/131/4e5de594-fc79-4d16-adb1-193c55af81d5/44851131_r.jpg",
    "date": "2026-11-25 22:04:17",
-   "views": "0",
+   "views": "6",
    "duration": "5:00",
    "url": "https://vod.afreecatv.com/player/213584981",
    "keywords": [
@@ -355,7 +434,7 @@
    "streamer_nick": "탱시브",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/435/3cc5a8b4-fc79-4a5a-84e0-9130eb7232a0/44850435_r.jpg",
    "date": "2026-11-25 21:42:23",
-   "views": "20",
+   "views": "22",
    "duration": "3:06",
    "url": "https://vod.afreecatv.com/player/213582701",
    "keywords": [
@@ -407,7 +486,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "7",
+   "views": "8",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
