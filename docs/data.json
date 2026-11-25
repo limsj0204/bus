@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 02:40",
+ "updated_at": "2026-11-26 02:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 02:36:27",
+   "newest": "2026-11-26 02:43:07",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 00:00:58"
   },
@@ -326,9 +326,36 @@
   "298851163": "도태 사제의 달라란 w. 비몽, 양도끼 [로스타시티]",
   "298859469": "[이브닛]도태됐지만 와우는 하고시퍼 같이 도포하자(w.양도끼, 쥬멩이)",
   "298850091": "로이세끼2 황금낫 오늘 탈출 갑니다. [무수]",
-  "298824797": "왁타버스 마크 보물찾기 • 와우 포에버 마라우돈"
+  "298824797": "왁타버스 마크 보물찾기 • 와우 포에버 마라우돈",
+  "298848333": "느엥"
  },
  "items": [
+  {
+   "id": "213612033",
+   "type": "CLIP",
+   "title": "[클립][카린야 반응] 양도끼 블루점프 재데뷔 뉴아바타 공개",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44858741_1_r",
+   "date": "2026-11-26 02:43:07",
+   "views": "0",
+   "duration": "1:31",
+   "url": "https://vod.afreecatv.com/player/213612033",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "calinya"
+   ],
+   "origin_nick": "카린야",
+   "org_title_no": "213554423",
+   "org_timestamp": "1795628587",
+   "broad_no": "298848333",
+   "b_title": "[클립][카린야 반응] 양도끼 블루점프 재데뷔 뉴아바타 공개",
+   "title_history": [],
+   "broad_title": "느엥",
+   "unedited": false
+  },
   {
    "id": "213609037",
    "type": "CLIP",
@@ -363,7 +390,7 @@
    "streamer_nick": "항상별로",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/361/6e6d98f4-0ab9-432b-99e0-89871593ed85/44857361_r.jpg",
    "date": "2026-11-26 01:36:15",
-   "views": "167",
+   "views": "172",
    "duration": "1:11",
    "url": "https://vod.afreecatv.com/player/213607235",
    "keywords": [
@@ -441,7 +468,7 @@
    "streamer_nick": "라트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261125_909_e0155701-de0d-4f40-b532-64c97747391d_44852909_r&column=2&t=1795621590",
    "date": "2026-11-25 22:56:23",
-   "views": "139",
+   "views": "140",
    "duration": "0:26",
    "url": "https://vod.afreecatv.com/player/213590697",
    "keywords": [
@@ -467,7 +494,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "146",
+   "views": "147",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -493,7 +520,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
    "date": "2026-11-25 22:41:28",
-   "views": "57",
+   "views": "60",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/213588957",
    "keywords": [
@@ -753,7 +780,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "38",
+   "views": "41",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
