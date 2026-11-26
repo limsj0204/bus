@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 13:35",
+ "updated_at": "2026-11-26 13:40",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 12:58:04",
+   "newest": "2026-11-26 13:36:27",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 12:00:44"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-26 12:00:44"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-26 13:34:07",
+   "newest": "2026-11-26 13:38:51",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 12:00:44"
   },
@@ -329,9 +329,62 @@
   "298824797": "왁타버스 마크 보물찾기 • 와우 포에버 마라우돈",
   "298848333": "느엥",
   "298860019": "가티 와포하쟈!! 렙업하쟈!!",
-  "298837713": "왁굳님과 가라앉은도시  [이브닛]"
+  "298837713": "왁굳님과 가라앉은도시  [이브닛]",
+  "298869287": "오전부터 어흐한 신의상 대공개"
  },
  "items": [
+  {
+   "id": "213633217",
+   "type": "CLIP",
+   "title": "[클립][제갈금자 반응 2]단츄 앞에서 소환한 금자 무릎에 앉아 단츄 기만 영상 틀어주는 도끼 / 단츄 반응",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261126_433_3e67c24e-e658-461f-a935-68d5b203db19_44863433_r&column=2&t=1795667863",
+   "date": "2026-11-26 13:36:27",
+   "views": "2",
+   "duration": "0:48",
+   "url": "https://vod.afreecatv.com/player/213633217",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "dlsn9911"
+   ],
+   "origin_nick": "제갈금자",
+   "org_title_no": "",
+   "org_timestamp": "1795667787",
+   "broad_no": "298869287",
+   "b_title": "[클립][제갈금자 반응 2]단츄 앞에서 소환한 금자 무릎에 앉아 단츄 기만 영상 틀어주는 도끼 / 단츄 반응",
+   "title_history": [],
+   "broad_title": "오전부터 어흐한 신의상 대공개",
+   "unedited": false
+  },
+  {
+   "id": "213633177",
+   "type": "CLIP",
+   "title": "[클립][제갈금자 반응 1]단츄 앞에서 소환한 금자 무릎에 앉아 단츄 기만 영상 틀어주는 도끼 / 단츄 반응",
+   "streamer_id": "wnsdud4206",
+   "streamer_nick": "개랑놀은자",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=clip_20261126_417_84c9978b-a231-4f85-8cc9-c9f6c1ea27df_44863417_r&column=2&t=1795667849",
+   "date": "2026-11-26 13:35:17",
+   "views": "6",
+   "duration": "5:00",
+   "url": "https://vod.afreecatv.com/player/213633177",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "dlsn9911"
+   ],
+   "origin_nick": "제갈금자",
+   "org_title_no": "",
+   "org_timestamp": "1795667717",
+   "broad_no": "298869287",
+   "b_title": "[클립][제갈금자 반응 1]단츄 앞에서 소환한 금자 무릎에 앉아 단츄 기만 영상 틀어주는 도끼 / 단츄 반응",
+   "title_history": [],
+   "broad_title": "오전부터 어흐한 신의상 대공개",
+   "unedited": false
+  },
   {
    "id": "213624877",
    "type": "CLIP",
@@ -340,7 +393,7 @@
    "streamer_nick": "밤~",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44861375_1_r",
    "date": "2026-11-26 09:21:56",
-   "views": "43",
+   "views": "44",
    "duration": "1:50",
    "url": "https://vod.afreecatv.com/player/213624877",
    "keywords": [
@@ -366,7 +419,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860621_1_r",
    "date": "2026-11-26 07:01:00",
-   "views": "71",
+   "views": "73",
    "duration": "2:36",
    "url": "https://vod.afreecatv.com/player/213621411",
    "keywords": [
@@ -392,7 +445,7 @@
    "streamer_nick": "안척추",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860507_1_r",
    "date": "2026-11-26 06:37:18",
-   "views": "203",
+   "views": "207",
    "duration": "1:22",
    "url": "https://vod.afreecatv.com/player/213620835",
    "keywords": [
@@ -418,7 +471,7 @@
    "streamer_nick": "안척추",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860475_1_r",
    "date": "2026-11-26 06:29:44",
-   "views": "93",
+   "views": "94",
    "duration": "3:22",
    "url": "https://vod.afreecatv.com/player/213620669",
    "keywords": [
@@ -444,7 +497,7 @@
    "streamer_nick": "래플리",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/121/8d5f9998-82d8-4051-90b7-bc6cbcce89a8/44860121_r.jpg",
    "date": "2026-11-26 05:13:05",
-   "views": "43",
+   "views": "44",
    "duration": "4:17",
    "url": "https://vod.afreecatv.com/player/213618651",
    "keywords": [
@@ -626,7 +679,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "458",
+   "views": "461",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -652,7 +705,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/401/399400aa-369c-446f-bb10-48813ae3130b/22047401_r.jpg",
    "date": "2026-11-25 22:41:28",
-   "views": "206",
+   "views": "207",
    "duration": "0:33",
    "url": "https://vod.afreecatv.com/player/213588957",
    "keywords": [
