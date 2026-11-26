@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27 00:20",
+ "updated_at": "2026-11-27 00:25",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213686511",
+   "type": "POST",
+   "title": "양도끼 데뷔 굿즈 【네이버쇼핑】 예약판매 상품 임시 판매 중단 안내",
+   "content": "【AXE함 재출항!】 굿즈의 구매를 희망하시는 분들은 스콘스토어 자사몰(https://sconstore.com/ ) 을 이용해 주시기 바랍니다. 또한 기존 구매자분들 중 묶음배송이 적용되지 않아 배송비가 중복으로 부과된 분들께는 개별 연락 후 취소/환불 처리를 도와드릴 예정입니다. 기타 문의 사항은 네이버 톡톡 또는 스콘스토어 카카오채널로 남겨주시면 최...",
+   "date": "2026-11-27 00:22:24",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213686511",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/11071795706466992.jpeg",
+   "photos": 1,
+   "views": 251,
+   "likes": 27,
+   "comments": 5
+  },
   {
    "id": "213678889",
    "type": "POST",
@@ -23,8 +40,8 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/64181795702245507.png",
    "photos": 1,
-   "views": 811,
-   "likes": 57,
+   "views": 837,
+   "likes": 58,
    "comments": 6
   },
   {
@@ -40,8 +57,8 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/73281795696579198.png",
    "photos": 1,
-   "views": 1554,
-   "likes": 113,
+   "views": 1558,
+   "likes": 114,
    "comments": 12
   },
   {
@@ -57,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 988,
+   "views": 994,
    "likes": 121,
    "comments": 21
   },
@@ -91,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
    "photos": 1,
-   "views": 3421,
+   "views": 3426,
    "likes": 151,
    "comments": 15
   },
