@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 21:40",
+ "updated_at": "2026-11-26 21:45",
  "authors": [
   "양도끼"
  ],
@@ -23,9 +23,9 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/73281795696579198.png",
    "photos": 1,
-   "views": 274,
-   "likes": 35,
-   "comments": 2
+   "views": 509,
+   "likes": 60,
+   "comments": 6
   },
   {
    "id": "213654531",
@@ -40,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 790,
+   "views": 798,
    "likes": 111,
    "comments": 19
   },
@@ -57,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2602,
+   "views": 2604,
    "likes": 233,
    "comments": 21
   },
@@ -74,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
    "photos": 1,
-   "views": 3402,
+   "views": 3403,
    "likes": 150,
    "comments": 15
   },
@@ -567,7 +567,7 @@
    "station_nick": "지넝아",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/7/26982917/11521793739747641.png",
    "photos": 3,
-   "views": 165,
+   "views": 166,
    "likes": 0,
    "comments": 0
   },
@@ -771,7 +771,7 @@
    "station_nick": "냥이키우고파",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26548619/33001793679489371.png",
    "photos": 3,
-   "views": 198,
+   "views": 199,
    "likes": 0,
    "comments": 0
   },
