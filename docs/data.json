@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 09:20",
+ "updated_at": "2026-11-26 09:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-26 08:41:38",
+   "newest": "2026-11-26 09:21:56",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 09:00:41"
   },
@@ -333,6 +333,32 @@
  },
  "items": [
   {
+   "id": "213624877",
+   "type": "CLIP",
+   "title": "[클립]양도끼 재데뷔 아쉬웠던거 있다는 타요",
+   "streamer_id": "barxxm",
+   "streamer_nick": "밤~",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44861375_1_r",
+   "date": "2026-11-26 09:21:56",
+   "views": "1",
+   "duration": "1:50",
+   "url": "https://vod.afreecatv.com/player/213624877",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "213623919",
+   "org_timestamp": "1795652516",
+   "broad_no": "298857145",
+   "b_title": "[클립]양도끼 재데뷔 아쉬웠던거 있다는 타요",
+   "title_history": [],
+   "broad_title": "타요",
+   "unedited": false
+  },
+  {
    "id": "213621411",
    "type": "CLIP",
    "title": "[클립]양도끼 재데뷔를 보고 얼태기가 온 한결",
@@ -366,7 +392,7 @@
    "streamer_nick": "안척추",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860507_1_r",
    "date": "2026-11-26 06:37:18",
-   "views": "81",
+   "views": "84",
    "duration": "1:22",
    "url": "https://vod.afreecatv.com/player/213620835",
    "keywords": [
@@ -392,7 +418,7 @@
    "streamer_nick": "안척추",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860475_1_r",
    "date": "2026-11-26 06:29:44",
-   "views": "40",
+   "views": "41",
    "duration": "3:22",
    "url": "https://vod.afreecatv.com/player/213620669",
    "keywords": [
@@ -600,7 +626,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "289",
+   "views": "295",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -678,7 +704,7 @@
    "streamer_nick": "숲돚거",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/23/thumb/1795618523590100_R_7.jpg",
    "date": "2026-11-25 22:11:40",
-   "views": "78",
+   "views": "80",
    "duration": "0:53",
    "url": "https://vod.afreecatv.com/player/213585781",
    "keywords": [
@@ -730,7 +756,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
    "date": "2026-11-25 22:09:39",
-   "views": "103",
+   "views": "106",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213585547",
    "keywords": [
@@ -886,7 +912,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "75",
+   "views": "76",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
