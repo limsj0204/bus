@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 21:35",
+ "updated_at": "2026-11-26 21:40",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213667981",
+   "type": "POST",
+   "title": "🚀데뷔뱅 즉석 방셀 보내드렸습니다 =3",
+   "content": "뭔가 원래는 API만 있었는데, 갑자기 즉방도 찍자!!는 의견이 나와서 찍었던 방셀이라 부족한 점이 ㅋㅋㅋ ㅠㅠ좀 많았네요 ㅎㅎ; 그래도 데뷔방송 축하해주신 모든 분들께 너무너무 감사드린다는 말씀 꼭 전하고 싶었습니다다들 너무 감동이고 고맙고 감사합니다!(혹시 누락되신 분 계시면 꼭 댓글 부탁..!)저는 오늘 구플뱅으로 짧게 10시에 찾아뵙겠습니다!안뇽!",
+   "date": "2026-11-26 21:37:39",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213667981",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/73281795696579198.png",
+   "photos": 1,
+   "views": 274,
+   "likes": 35,
+   "comments": 2
+  },
   {
    "id": "213654531",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 780,
+   "views": 790,
    "likes": 111,
    "comments": 19
   },
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2601,
+   "views": 2602,
    "likes": 233,
    "comments": 21
   },
@@ -57,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
    "photos": 1,
-   "views": 3399,
+   "views": 3402,
    "likes": 150,
    "comments": 15
   },
@@ -74,7 +91,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/67221795433990381.jpeg",
    "photos": 2,
-   "views": 2837,
+   "views": 2838,
    "likes": 250,
    "comments": 38
   },
