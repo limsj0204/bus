@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 23:10",
+ "updated_at": "2026-11-26 23:15",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213678889",
+   "type": "POST",
+   "title": "양도끼 구독티콘 개월수가 바뀔 예정입니다.",
+   "content": "2027년이 되면 바꿀 예정이에요 ㅜ-ㅜ자, 어떻게 바뀌냐면 아래를 보면 이해하기 쉬워요!어? 이해를 못하겠다고?이런이런... 지금부터 함블스플랜 시작하겠습니다.6개월차에서 9월차로 넘어가는 퍼스나콘은 약 3개월의 시간차를 두고 변경이 되었지만,내년부터는 3개월이 아닌 6개월로 시간이 늘어납니다. 따라서 9월차 퍼스나콘은 12개월차 퍼스나콘이 되는겁니다.첫...",
+   "date": "2026-11-26 23:15:12",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213678889",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/64181795702245507.png",
+   "photos": 1,
+   "views": 66,
+   "likes": 7,
+   "comments": 0
+  },
   {
    "id": "213667981",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/73281795696579198.png",
    "photos": 1,
-   "views": 1463,
+   "views": 1473,
    "likes": 107,
    "comments": 10
   },
@@ -40,8 +57,8 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 913,
-   "likes": 118,
+   "views": 919,
+   "likes": 119,
    "comments": 20
   },
   {
@@ -57,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2618,
+   "views": 2619,
    "likes": 234,
    "comments": 21
   },
@@ -74,7 +91,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
    "photos": 1,
-   "views": 3407,
+   "views": 3408,
    "likes": 150,
    "comments": 15
   },
