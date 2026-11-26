@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 10:15",
+ "updated_at": "2026-11-26 10:20",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-26 09:00:41"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-26 09:54:49",
+   "newest": "2026-11-26 10:18:21",
    "backfill_days": 7,
    "last_rescan": "2026-11-26 09:00:41"
   },
@@ -340,7 +340,7 @@
    "streamer_nick": "밤~",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44861375_1_r",
    "date": "2026-11-26 09:21:56",
-   "views": "8",
+   "views": "9",
    "duration": "1:50",
    "url": "https://vod.afreecatv.com/player/213624877",
    "keywords": [
@@ -366,7 +366,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860621_1_r",
    "date": "2026-11-26 07:01:00",
-   "views": "31",
+   "views": "32",
    "duration": "2:36",
    "url": "https://vod.afreecatv.com/player/213621411",
    "keywords": [
@@ -392,7 +392,7 @@
    "streamer_nick": "안척추",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_44860507_1_r",
    "date": "2026-11-26 06:37:18",
-   "views": "110",
+   "views": "111",
    "duration": "1:22",
    "url": "https://vod.afreecatv.com/player/213620835",
    "keywords": [
@@ -626,7 +626,7 @@
    "streamer_nick": "하이라잇생구",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1125/22/thumb/1795614308922360_R_7.jpg",
    "date": "2026-11-25 22:42:33",
-   "views": "321",
+   "views": "323",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213589095",
    "keywords": [
@@ -756,7 +756,7 @@
    "streamer_nick": "모자수집가",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261125/665/b689a2d3-e646-42c9-80c1-39f2f4c81ada/22046665_r.jpg",
    "date": "2026-11-25 22:09:39",
-   "views": "138",
+   "views": "142",
    "duration": "0:24",
    "url": "https://vod.afreecatv.com/player/213585547",
    "keywords": [
@@ -912,7 +912,7 @@
    "streamer_nick": "개랑놀은자",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261125_22044679_1_r",
    "date": "2026-11-25 20:54:17",
-   "views": "86",
+   "views": "87",
    "duration": "0:45",
    "url": "https://vod.afreecatv.com/player/213577461",
    "keywords": [
