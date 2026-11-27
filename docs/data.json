@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 04:05",
+ "updated_at": "2026-11-28 04:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-28 03:00:48"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-28 03:35:40",
+   "newest": "2026-11-28 04:06:47",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 03:00:48"
   },
@@ -366,6 +366,32 @@
   "298891897": "소소한 대화 나눕니다 ^*^"
  },
  "items": [
+  {
+   "id": "213785913",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 뉴아바타 이야기하는 비몽",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22082661_1_r",
+   "date": "2026-11-28 04:06:47",
+   "views": "1",
+   "duration": "0:28",
+   "url": "https://vod.afreecatv.com/player/213785913",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "beemong"
+   ],
+   "origin_nick": "비몽♪",
+   "org_title_no": "213609983",
+   "org_timestamp": "1795806407",
+   "broad_no": "298859469",
+   "b_title": "[캐치]양도끼 뉴아바타 이야기하는 비몽",
+   "title_history": [],
+   "broad_title": "[이브닛]도태됐지만 와우는 하고시퍼 같이 도포하자(w.양도끼, 쥬멩이)",
+   "unedited": false
+  },
   {
    "id": "213769477",
    "type": "CATCH",
@@ -868,7 +894,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22071033_1_r&column=2&t=1795752779",
    "date": "2026-11-27 13:08:18",
-   "views": "470",
+   "views": "478",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/213717727",
    "keywords": [
@@ -1284,7 +1310,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261127/147/d5d36e93-caaa-4f5e-b072-67d9254d4164/22067147_r.jpg",
    "date": "2026-11-27 01:52:57",
-   "views": "214",
+   "views": "215",
    "duration": "0:13",
    "url": "https://vod.afreecatv.com/player/213695055",
    "keywords": [
@@ -1596,7 +1622,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261126/609/bc98b8ac-6985-4a94-9275-2a1d79c459d2/22063609_r.jpg",
    "date": "2026-11-26 22:56:19",
-   "views": "388",
+   "views": "389",
    "duration": "0:18",
    "url": "https://vod.afreecatv.com/player/213676823",
    "keywords": [
