@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 04:20",
+ "updated_at": "2026-11-28 04:25",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-28 03:00:48"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-28 04:06:47",
+   "newest": "2026-11-28 04:23:14",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 03:00:48"
   },
@@ -367,6 +367,32 @@
  },
  "items": [
   {
+   "id": "213786587",
+   "type": "CATCH",
+   "title": "[캐치]역시 양도끼야",
+   "streamer_id": "di5556",
+   "streamer_nick": "박카스_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/729/3b679d58-89a4-42ec-b82d-d2e5d8e6e10f/22082729_r.jpg",
+   "date": "2026-11-28 04:23:14",
+   "views": "0",
+   "duration": "0:38",
+   "url": "https://vod.afreecatv.com/player/213786587",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795807394",
+   "broad_no": "298904255",
+   "b_title": "[캐치]역시 양도끼야",
+   "title_history": [],
+   "broad_title": "타요 오늘 할말이 많습니다..",
+   "unedited": false
+  },
+  {
    "id": "213785913",
    "type": "CATCH",
    "title": "[캐치]양도끼 뉴아바타 이야기하는 비몽",
@@ -426,7 +452,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22079317_1_r",
    "date": "2026-11-27 23:27:57",
-   "views": "26",
+   "views": "27",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213762799",
    "keywords": [
@@ -660,7 +686,7 @@
    "streamer_nick": "소세지빵._.",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1127/18/thumb/1795770049209792_R_7.jpg",
    "date": "2026-11-27 17:57:40",
-   "views": "445",
+   "views": "448",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/213733671",
    "keywords": [
@@ -894,7 +920,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22071033_1_r&column=2&t=1795752779",
    "date": "2026-11-27 13:08:18",
-   "views": "485",
+   "views": "486",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/213717727",
    "keywords": [
@@ -972,7 +998,7 @@
    "streamer_nick": "뀨뚠뚠",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261127_44885133_1_r",
    "date": "2026-11-27 12:35:06",
-   "views": "39",
+   "views": "40",
    "duration": "1:31",
    "url": "https://vod.afreecatv.com/player/213716533",
    "keywords": [
@@ -998,7 +1024,7 @@
    "streamer_nick": "뀨뚠뚠",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261127_44885071_1_r",
    "date": "2026-11-27 12:29:01",
-   "views": "76",
+   "views": "78",
    "duration": "1:16",
    "url": "https://vod.afreecatv.com/player/213716331",
    "keywords": [
@@ -11845,7 +11871,7 @@
    "streamer_nick": "징버거세트",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261111_21807605_1_r&column=2&t=1794376490",
    "date": "2026-11-11 14:52:35",
-   "views": "6658",
+   "views": "6659",
    "duration": "0:42",
    "url": "https://vod.afreecatv.com/player/212313375",
    "keywords": [
