@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27 18:03",
+ "updated_at": "2026-11-27 18:05",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213734155",
+   "type": "POST",
+   "title": "6시에 오기로 했는데",
+   "content": "샤워가 너무 좋아서 30분 씻었어미안해 얘들아 나 10분만 더 주라...",
+   "date": "2026-11-27 18:04:40",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213734155",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": null,
+   "photos": 0,
+   "views": 124,
+   "likes": 27,
+   "comments": 9
+  },
   {
    "id": "213686511",
    "type": "POST",
@@ -91,7 +108,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 2729,
+   "views": 2732,
    "likes": 234,
    "comments": 21
   },
