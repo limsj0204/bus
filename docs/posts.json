@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 17:15",
+ "updated_at": "2026-11-28 17:20",
  "authors": [
   "양도끼"
  ],
@@ -10,6 +10,23 @@
   "양도끼": 12.0
  },
  "items": [
+  {
+   "id": "213816805",
+   "type": "POST",
+   "title": "오늘 9시부터 멘헤라버스🧟좀보이드 탈출섭 합방🔥",
+   "content": "8시인지 8시반부터 모이기로 했어요!서버는 9시 시작! +_+새벽 3~4시쯤 셧다운제하는 식으로 진행한다고 합니다저는 6~7시쯤에 방송킬게요 여러분 좀따 봐요!",
+   "date": "2026-11-28 17:17:19",
+   "url": "https://www.sooplive.com/station/yangdoki/post/213816805",
+   "author_id": "yangdoki",
+   "author_nick": "양도끼",
+   "station_id": "yangdoki",
+   "station_nick": "양도끼",
+   "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/50881795853728594.png",
+   "photos": 4,
+   "views": 196,
+   "likes": 24,
+   "comments": 5
+  },
   {
    "id": "213734155",
    "type": "POST",
@@ -23,7 +40,7 @@
    "station_nick": "양도끼",
    "thumbnail": null,
    "photos": 0,
-   "views": 1180,
+   "views": 1181,
    "likes": 101,
    "comments": 19
   },
@@ -40,7 +57,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/11071795706466992.jpeg",
    "photos": 1,
-   "views": 1658,
+   "views": 1660,
    "likes": 112,
    "comments": 9
   },
@@ -57,7 +74,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/64181795702245507.png",
    "photos": 1,
-   "views": 1395,
+   "views": 1396,
    "likes": 92,
    "comments": 8
   },
@@ -125,7 +142,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/24731795505363182.jpeg",
    "photos": 1,
-   "views": 3576,
+   "views": 3577,
    "likes": 153,
    "comments": 15
   },
@@ -244,7 +261,7 @@
    "station_nick": "양도끼",
    "thumbnail": "https://stimg.sooplive.com/NORMAL_BBS/9/26435439/18641795347376137.jpeg",
    "photos": 1,
-   "views": 3568,
+   "views": 3569,
    "likes": 204,
    "comments": 28
   },
