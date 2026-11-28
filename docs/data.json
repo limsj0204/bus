@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 20:30",
+ "updated_at": "2026-11-28 20:35",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,17 +8,17 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 20:30:11",
+   "newest": "2026-11-28 20:34:52",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-28 19:59:55",
+   "newest": "2026-11-28 20:33:49",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-28 20:22:41",
+   "newest": "2026-11-28 20:34:37",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -371,9 +371,62 @@
   "298924131": "[아이딜] 쿠우가 와써! !팬미팅",
   "298919913": "뮤즈의 YES OR NO 컨텐츠 참여",
   "298925533": "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^",
-  "298928473": "타요 지금 나의 목소리가 들린다면"
+  "298928473": "타요 지금 나의 목소리가 들린다면",
+  "298928571": "9시) 멘헤라버스 좀보이드 서버 출동!!!"
  },
  "items": [
+  {
+   "id": "213833489",
+   "type": "CLIP",
+   "title": "[클립]타요: 양도끼 숲 떠난다는데 진짜인가요? 양도끼: 뭐라고요? 타요: 가기전에 메이플 템 사주고 가라",
+   "streamer_id": "gsghost",
+   "streamer_nick": "√주르기",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
+   "date": "2026-11-28 20:34:52",
+   "views": "1",
+   "duration": "1:47",
+   "url": "https://vod.afreecatv.com/player/213833489",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795865692",
+   "broad_no": "298928473",
+   "b_title": "[클립]타요: 양도끼 숲 떠난다는데 진짜인가요? 양도끼: 뭐라고요? 타요: 가기전에 메이플 템 사주고 가라",
+   "title_history": [],
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
+  },
+  {
+   "id": "213833387",
+   "type": "CATCH",
+   "title": "[캐치]타요 : 도끼 일본에서 알고리즘 탔대",
+   "streamer_id": "doght",
+   "streamer_nick": "잔잔벼리♬",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/607/3ea995d3-5516-4859-adac-dbf580402aa1/22091607_r.jpg",
+   "date": "2026-11-28 20:33:49",
+   "views": "1",
+   "duration": "0:18",
+   "url": "https://vod.afreecatv.com/player/213833387",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "lilpa0309"
+   ],
+   "origin_nick": "릴파♬",
+   "org_title_no": "",
+   "org_timestamp": "1795865629",
+   "broad_no": "298928571",
+   "b_title": "[캐치]타요 : 도끼 일본에서 알고리즘 탔대",
+   "title_history": [],
+   "broad_title": "9시) 멘헤라버스 좀보이드 서버 출동!!!",
+   "unedited": false
+  },
   {
    "id": "213832977",
    "type": "CLIP",
@@ -382,7 +435,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "3",
+   "views": "6",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -535,7 +588,7 @@
    "streamer_nick": "빪빪",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/535/1746361e-7571-4d1a-a912-258a75725138/44914535_r.jpg",
    "date": "2026-11-28 19:23:53",
-   "views": "20",
+   "views": "21",
    "duration": "2:53",
    "url": "https://vod.afreecatv.com/player/213826983",
    "keywords": [
@@ -666,7 +719,7 @@
    "streamer_nick": "메이플쿠우웅",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/441/f4d2c61c-1859-45bd-a703-cf5f9fc77e72/44912441_r.jpg",
    "date": "2026-11-28 18:04:52",
-   "views": "61",
+   "views": "62",
    "duration": "0:37",
    "url": "https://vod.afreecatv.com/player/213820551",
    "keywords": [
@@ -692,7 +745,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/701/cbf3f0dc-9fdf-4847-9862-5f78a359b7c7/44910701_r.jpg",
    "date": "2026-11-28 16:53:18",
-   "views": "34",
+   "views": "35",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/213814921",
    "keywords": [
@@ -796,7 +849,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "114",
+   "views": "116",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -874,7 +927,7 @@
    "streamer_nick": "소세지빵사와",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22080473_1_r&column=2&t=1795794128",
    "date": "2026-11-28 00:31:41",
-   "views": "110",
+   "views": "111",
    "duration": "0:47",
    "url": "https://vod.afreecatv.com/player/213769477",
    "keywords": [
