@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-29 01:55",
+ "updated_at": "2026-11-29 02:01",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-29 00:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-29 01:32:46",
+   "newest": "2026-11-29 01:56:24",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
@@ -452,9 +452,10 @@
     "타요 지금 나의 목소리가 들린다면",
     "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
     "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버 못깨면 타놀",
-    "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀"
+    "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+    "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀"
    ],
-   "checked": "2026-11-29 01:30:35"
+   "checked": "2026-11-29 02:00:51"
   },
   "298928571": {
    "titles": [
@@ -475,7 +476,7 @@
     "[머독] 영화 잼게 보고 2부 대기",
     "[머독] 검 강화하기"
    ],
-   "checked": "2026-11-29 01:30:35"
+   "checked": "2026-11-29 02:00:51"
   },
   "298932319": {
    "titles": [
@@ -486,10 +487,36 @@
   },
   "298932915": {
    "titles": [],
-   "checked": "2026-11-29 01:55:23"
+   "checked": "2026-11-29 02:00:51"
   }
  },
  "items": [
+  {
+   "id": "213864585",
+   "type": "CATCH",
+   "title": "[캐치]양도끼 비명 맛도리",
+   "streamer_id": "limsj0204",
+   "streamer_nick": "동그란펭귄_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261129/123/b615b5df-a0d3-4191-ad9d-090388470882/22098123_r.jpg",
+   "date": "2026-11-29 01:56:24",
+   "views": "2",
+   "duration": "0:25",
+   "url": "https://vod.afreecatv.com/player/213864585",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795884984",
+   "broad_no": "298928473",
+   "b_title": "[캐치]양도끼 비명 맛도리",
+   "title_history": [],
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀",
+   "unedited": false
+  },
   {
    "id": "213862727",
    "type": "CATCH",
@@ -524,7 +551,7 @@
    "streamer_nick": "플라즈마단",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261129/043/f49875d0-23fe-4d55-8451-d7d7c7616a81/44925043_r.jpg",
    "date": "2026-11-29 01:26:41",
-   "views": "42",
+   "views": "48",
    "duration": "2:07",
    "url": "https://vod.afreecatv.com/player/213862179",
    "keywords": [
@@ -539,7 +566,7 @@
    "broad_no": "298928473",
    "b_title": "[클립]\t타요 : 양도끼 사실 내가 갑옷거인이야 나랑 같이 마레로 가지 않을래? ㅇㅈㄹ ㅋㅋㅋㅋㅋㄹㅋㅋㅋㄹㅋㅋㅋ",
    "title_history": [],
-   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀",
    "unedited": false
   },
   {
@@ -617,7 +644,7 @@
    "broad_no": "298928473",
    "b_title": "[캐치]내가 양도끼를 죽였어",
    "title_history": [],
-   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀",
    "unedited": false
   },
   {
@@ -654,7 +681,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/735/560971ea-7b85-4eec-8a84-36dd1869ea38/22093735_r.jpg",
    "date": "2026-11-28 22:21:26",
-   "views": "10",
+   "views": "11",
    "duration": "0:46",
    "url": "https://vod.afreecatv.com/player/213844083",
    "keywords": [
@@ -680,7 +707,7 @@
    "streamer_nick": "뚱냐링배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/369/649969db-27ae-4e67-960c-d93769d0ca57/44919369_r.jpg",
    "date": "2026-11-28 22:01:48",
-   "views": "45",
+   "views": "46",
    "duration": "2:03",
    "url": "https://vod.afreecatv.com/player/213842031",
    "keywords": [
@@ -706,7 +733,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
    "date": "2026-11-28 22:00:54",
-   "views": "48",
+   "views": "50",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/213841949",
    "keywords": [
@@ -758,7 +785,7 @@
    "streamer_nick": "Kohlhaas",
    "thumbnail": "https://res.sooplive.com/images/thumb/vod/0013_480x270_light.png",
    "date": "2026-11-28 21:56:16",
-   "views": "1939",
+   "views": "2434",
    "duration": "0:23",
    "url": "https://vod.afreecatv.com/player/213841565",
    "keywords": [
@@ -797,7 +824,7 @@
    "broad_no": "298928473",
    "b_title": "[타요] 어디보자.. 도끼야 해줘",
    "title_history": [],
-   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀",
    "unedited": false
   },
   {
@@ -834,7 +861,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "261",
+   "views": "262",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -849,7 +876,7 @@
    "broad_no": "298928473",
    "b_title": "[클립]타요: 양도끼 숲 떠난다는데 진짜인가요? 양도끼: 뭐라고요? 타요: 가기전에 메이플 템 사주고 가라",
    "title_history": [],
-   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀",
    "unedited": false
   },
   {
@@ -886,7 +913,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "99",
+   "views": "101",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -901,7 +928,7 @@
    "broad_no": "298928473",
    "b_title": "[타요 반응] 도끼야 치지직 가도 잘 될꺼야 + 도끼야 따린아 내 데브펜 사줘",
    "title_history": [],
-   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌3 탈출서버 못깨면 타놀",
    "unedited": false
   },
   {
@@ -1225,7 +1252,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "210",
+   "views": "211",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
