@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 20:36",
+ "updated_at": "2026-11-28 20:40",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 20:34:52",
+   "newest": "2026-11-28 20:36:53",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -376,6 +376,32 @@
  },
  "items": [
   {
+   "id": "213833703",
+   "type": "CLIP",
+   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "streamer_id": "topstar90",
+   "streamer_nick": "바른_",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/669/bb660aa6-2776-4143-8f55-51c97b5724f2/44916669_r.jpg",
+   "date": "2026-11-28 20:36:53",
+   "views": "0",
+   "duration": "2:32",
+   "url": "https://vod.afreecatv.com/player/213833703",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795865813",
+   "broad_no": "298928473",
+   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "title_history": [],
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
+  },
+  {
    "id": "213833489",
    "type": "CLIP",
    "title": "[클립]타요: 양도끼 숲 떠난다는데 진짜인가요? 양도끼: 뭐라고요? 타요: 가기전에 메이플 템 사주고 가라",
@@ -383,7 +409,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "1",
+   "views": "50",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -409,7 +435,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/607/3ea995d3-5516-4859-adac-dbf580402aa1/22091607_r.jpg",
    "date": "2026-11-28 20:33:49",
-   "views": "1",
+   "views": "2",
    "duration": "0:18",
    "url": "https://vod.afreecatv.com/player/213833387",
    "keywords": [
@@ -435,7 +461,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "6",
+   "views": "11",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -487,7 +513,7 @@
    "streamer_nick": "친친라",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/007/5acd179b-6973-4fd8-965c-2bd0386d4893/44916007_r.jpg",
    "date": "2026-11-28 20:15:07",
-   "views": "14",
+   "views": "15",
    "duration": "1:27",
    "url": "https://vod.afreecatv.com/player/213831619",
    "keywords": [
@@ -539,7 +565,7 @@
    "streamer_nick": "ChaEunWoo",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/801/5f6494f6-050b-42a6-8e5c-677af76b4478/44915801_r.jpg",
    "date": "2026-11-28 20:08:02",
-   "views": "8",
+   "views": "9",
    "duration": "1:03",
    "url": "https://vod.afreecatv.com/player/213830987",
    "keywords": [
@@ -669,7 +695,7 @@
    "streamer_nick": "감각_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44913101_1_r",
    "date": "2026-11-28 18:30:07",
-   "views": "38",
+   "views": "39",
    "duration": "2:42",
    "url": "https://vod.afreecatv.com/player/213822639",
    "keywords": [
@@ -695,7 +721,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/533/0ac12c4f-7425-48bd-8194-eb82b33a040e/44912533_r.jpg",
    "date": "2026-11-28 18:09:37",
-   "views": "30",
+   "views": "31",
    "duration": "4:38",
    "url": "https://vod.afreecatv.com/player/213820907",
    "keywords": [
@@ -722,7 +748,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/505/017d7bcb-5cf9-4684-a81b-225dbd546600/44912505_r.jpg",
    "date": "2026-11-28 18:08:29",
-   "views": "142",
+   "views": "143",
    "duration": "3:33",
    "url": "https://vod.afreecatv.com/player/213820833",
    "keywords": [
@@ -956,7 +982,7 @@
    "streamer_nick": "소세지빵사와",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22080473_1_r&column=2&t=1795794128",
    "date": "2026-11-28 00:31:41",
-   "views": "111",
+   "views": "112",
    "duration": "0:47",
    "url": "https://vod.afreecatv.com/player/213769477",
    "keywords": [
