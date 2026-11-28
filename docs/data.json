@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 21:50",
+ "updated_at": "2026-11-28 21:55",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-28 21:00:52"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-28 21:16:44",
+   "newest": "2026-11-28 21:53:31",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-28 21:00:52"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-28 19:59:55",
+   "newest": "2026-11-28 21:53:31",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
@@ -526,7 +526,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "195",
+   "views": "198",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -578,7 +578,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "39",
+   "views": "40",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -995,7 +995,7 @@
    "streamer_nick": "소세지빵사와",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22080473_1_r&column=2&t=1795794128",
    "date": "2026-11-28 00:31:41",
-   "views": "126",
+   "views": "127",
    "duration": "0:47",
    "url": "https://vod.afreecatv.com/player/213769477",
    "keywords": [
@@ -13428,7 +13428,7 @@
    "streamer_nick": "낫애니모어",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/477/c612b8b2-c5c5-47f3-bb64-37ee1ccdcd2e/44481477_r.jpg",
    "date": "2026-11-09 19:14:08",
-   "views": "10035",
+   "views": "10036",
    "duration": "1:13",
    "url": "https://vod.afreecatv.com/player/212156085",
    "keywords": [
