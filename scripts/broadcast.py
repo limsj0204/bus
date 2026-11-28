@@ -77,6 +77,27 @@ def find_title(item, cache):
     return cache.get(broad_no) if broad_no else title
 
 
+def mark_shared_titles(items):
+    """같은 방송에서 서로 다른 사람이 딴 클립들의 제목이 똑같으면, 고치지 않은 방제로 본다.
+
+    방송 도중 방제가 바뀌면 지금 방제와 비교해서는 못 잡으므로 이 규칙으로 보완한다.
+    한 사람이 같은 제목으로 여러 번 올린 건 직접 쓴 제목일 수 있어 빼지 않는다.
+    """
+    groups = {}
+    for item in items:
+        if item.get("broad_no"):
+            groups.setdefault((item["broad_no"], normalize(item["title"])), []).append(item)
+    marked = 0
+    for group in groups.values():
+        clippers = {it.get("streamer_id") for it in group if it.get("streamer_id")}
+        if len(clippers) >= 2:
+            for it in group:
+                if not it.get("unedited"):
+                    it["unedited"] = True
+                    marked += 1
+    return marked
+
+
 def mark_unedited(items, cache, now):
     """아직 확인하지 않은 영상의 방제를 찾아 item["unedited"]를 채운다."""
     lookups = 0
