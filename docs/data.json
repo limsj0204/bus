@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 21:10",
+ "updated_at": "2026-11-28 21:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,17 +8,17 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 21:06:30",
+   "newest": "2026-11-28 21:14:26",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-28 20:52:05",
+   "newest": "2026-11-28 21:14:09",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-28 20:34:37",
+   "newest": "2026-11-28 21:14:26",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
@@ -391,7 +391,7 @@
     "타요 오늘 할말이 많습니다..",
     "타요"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298898417": "천양님 긴급소집..ㄷㄷ ;;",
   "298891897": "소소한 대화 나눕니다 ^*^",
@@ -400,14 +400,14 @@
     "마니 잤써.. ㅎㅎ",
     "다크소울3 심연감시자 이후부터 갑니다!!!@"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298920925": {
    "titles": [
     "[56일차] 3시부터 드롭스 잇습니ㅣ다...",
     "[56일차] 소통을ㄹ할거야 죽을때까지.... 🖤 애청자 이벤트 중!!"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298921579": {
    "titles": [
@@ -415,55 +415,81 @@
     "로이세끼2 탈출을 하자",
     "공동경비구역 JSA 같이보기!!!! 처음 봅니다"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298922793": {
    "titles": [
     "안뇽하데욥",
     "안뇽하데욥 저는 만렙을 찍을 수 있을까요 ㅠ"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298924131": {
    "titles": [
     "[아이딜] 쿠우가 와써! !팬미팅"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298919913": {
    "titles": [
     "뮤즈의 YES OR NO 컨텐츠 참여",
     "10시) 천타버스 화양의 미스테리"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298925533": {
    "titles": [
     "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298928473": {
    "titles": [
     "타요 지금 나의 목소리가 들린다면",
     "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298928571": {
    "titles": [
     "9시) 멘헤라버스 좀보이드 서버 출동!!!"
    ],
-   "checked": "2026-11-28 20:45:25"
+   "checked": "2026-11-28 21:15:29"
   },
   "298928541": {
    "titles": [
     "타요릴파도끼 좀보이드 하드코어 api 많관부 / 벌칙 마크 하드코어 켠왕"
    ],
-   "checked": "2026-11-28 20:55:22"
+   "checked": "2026-11-28 21:15:29"
   }
  },
  "items": [
+  {
+   "id": "213837245",
+   "type": "CATCH",
+   "title": "[민결희] 타요 속에 타요 보고 빵 터진 양도끼",
+   "streamer_id": "wkdwn427",
+   "streamer_nick": "주장._.",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/351/8db206ff-f258-4397-9d50-43b0762594a2/22092351_r.jpg",
+   "date": "2026-11-28 21:14:09",
+   "views": "0",
+   "duration": "0:57",
+   "url": "https://vod.afreecatv.com/player/213837245",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "mingyeolhee"
+   ],
+   "origin_nick": "민결희",
+   "org_title_no": "",
+   "org_timestamp": "1795868049",
+   "broad_no": "298928541",
+   "b_title": "[민결희] 타요 속에 타요 보고 빵 터진 양도끼",
+   "title_history": [],
+   "broad_title": "타요릴파도끼 좀보이드 하드코어 api 많관부 / 벌칙 마크 하드코어 켠왕",
+   "unedited": false
+  },
   {
    "id": "213833489",
    "type": "CLIP",
@@ -472,7 +498,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "161",
+   "views": "166",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -524,7 +550,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "25",
+   "views": "28",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -602,7 +628,7 @@
    "streamer_nick": "빪빪",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/535/1746361e-7571-4d1a-a912-258a75725138/44914535_r.jpg",
    "date": "2026-11-28 19:23:53",
-   "views": "21",
+   "views": "23",
    "duration": "2:53",
    "url": "https://vod.afreecatv.com/player/213826983",
    "keywords": [
@@ -967,7 +993,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22079317_1_r",
    "date": "2026-11-27 23:27:57",
-   "views": "111",
+   "views": "112",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213762799",
    "keywords": [
@@ -13374,7 +13400,7 @@
    "streamer_nick": "낫애니모어",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261109/477/c612b8b2-c5c5-47f3-bb64-37ee1ccdcd2e/44481477_r.jpg",
    "date": "2026-11-09 19:14:08",
-   "views": "10034",
+   "views": "10035",
    "duration": "1:13",
    "url": "https://vod.afreecatv.com/player/212156085",
    "keywords": [
