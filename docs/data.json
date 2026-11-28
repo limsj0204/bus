@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 20:05",
+ "updated_at": "2026-11-28 20:10",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 20:01:17",
+   "newest": "2026-11-28 20:09:51",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-28 18:00:49"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-28 20:01:17",
+   "newest": "2026-11-28 20:10:07",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -375,6 +375,58 @@
  },
  "items": [
   {
+   "id": "213831161",
+   "type": "CLIP",
+   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "streamer_id": "nrpdla6569",
+   "streamer_nick": "T925",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/859/72e9eb0b-36c5-499f-a99a-96af49bf754d/44915859_r.jpg",
+   "date": "2026-11-28 20:09:51",
+   "views": "0",
+   "duration": "0:51",
+   "url": "https://vod.afreecatv.com/player/213831161",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795864191",
+   "broad_no": "298928473",
+   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "title_history": [],
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
+  },
+  {
+   "id": "213830987",
+   "type": "CLIP",
+   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "streamer_id": "kkjj3698",
+   "streamer_nick": "ChaEunWoo",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/801/5f6494f6-050b-42a6-8e5c-677af76b4478/44915801_r.jpg",
+   "date": "2026-11-28 20:08:02",
+   "views": "0",
+   "duration": "1:03",
+   "url": "https://vod.afreecatv.com/player/213830987",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795864082",
+   "broad_no": "298928473",
+   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "title_history": [],
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
+  },
+  {
    "id": "213829459",
    "type": "CLIP",
    "title": "[클립]타요: 내가 양도끼 선물 준다고 했다고?",
@@ -382,7 +434,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/323/33b4145f-87bc-4813-a1c3-2302a9fdea09/44915323_r.jpg",
    "date": "2026-11-28 19:52:38",
-   "views": "4",
+   "views": "5",
    "duration": "1:17",
    "url": "https://vod.afreecatv.com/player/213829459",
    "keywords": [
@@ -486,7 +538,7 @@
    "streamer_nick": "감각_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44913101_1_r",
    "date": "2026-11-28 18:30:07",
-   "views": "35",
+   "views": "37",
    "duration": "2:42",
    "url": "https://vod.afreecatv.com/player/213822639",
    "keywords": [
@@ -539,7 +591,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/505/017d7bcb-5cf9-4684-a81b-225dbd546600/44912505_r.jpg",
    "date": "2026-11-28 18:08:29",
-   "views": "132",
+   "views": "134",
    "duration": "3:33",
    "url": "https://vod.afreecatv.com/player/213820833",
    "keywords": [
@@ -565,7 +617,7 @@
    "streamer_nick": "메이플쿠우웅",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/441/f4d2c61c-1859-45bd-a703-cf5f9fc77e72/44912441_r.jpg",
    "date": "2026-11-28 18:04:52",
-   "views": "56",
+   "views": "58",
    "duration": "0:37",
    "url": "https://vod.afreecatv.com/player/213820551",
    "keywords": [
@@ -591,7 +643,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/701/cbf3f0dc-9fdf-4847-9862-5f78a359b7c7/44910701_r.jpg",
    "date": "2026-11-28 16:53:18",
-   "views": "32",
+   "views": "33",
    "duration": "4:07",
    "url": "https://vod.afreecatv.com/player/213814921",
    "keywords": [
@@ -669,7 +721,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/771/c795d479-7774-42ef-bc18-649b9f062e8d/44909771_r.jpg",
    "date": "2026-11-28 15:47:31",
-   "views": "527",
+   "views": "535",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/213811149",
    "keywords": [
@@ -695,7 +747,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "110",
+   "views": "111",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
