@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 10:45",
+ "updated_at": "2026-11-28 10:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-28 09:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-28 10:40:15",
+   "newest": "2026-11-28 10:47:40",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 09:00:42"
   },
@@ -374,7 +374,7 @@
    "streamer_nick": "박카스_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/729/3b679d58-89a4-42ec-b82d-d2e5d8e6e10f/22082729_r.jpg",
    "date": "2026-11-28 04:23:14",
-   "views": "164",
+   "views": "165",
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/213786587",
    "keywords": [
@@ -400,7 +400,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22082661_1_r",
    "date": "2026-11-28 04:06:47",
-   "views": "45",
+   "views": "46",
    "duration": "0:28",
    "url": "https://vod.afreecatv.com/player/213785913",
    "keywords": [
@@ -686,7 +686,7 @@
    "streamer_nick": "소세지빵._.",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1127/18/thumb/1795770049209792_R_7.jpg",
    "date": "2026-11-27 17:57:40",
-   "views": "682",
+   "views": "694",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/213733671",
    "keywords": [
@@ -920,7 +920,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22071033_1_r&column=2&t=1795752779",
    "date": "2026-11-27 13:08:18",
-   "views": "742",
+   "views": "747",
    "duration": "0:20",
    "url": "https://vod.afreecatv.com/player/213717727",
    "keywords": [
@@ -1336,7 +1336,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261127/147/d5d36e93-caaa-4f5e-b072-67d9254d4164/22067147_r.jpg",
    "date": "2026-11-27 01:52:57",
-   "views": "236",
+   "views": "237",
    "duration": "0:13",
    "url": "https://vod.afreecatv.com/player/213695055",
    "keywords": [
