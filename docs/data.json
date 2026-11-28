@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-29 00:10",
+ "updated_at": "2026-11-29 00:15",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-29 00:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-29 00:01:33",
+   "newest": "2026-11-29 00:10:39",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
@@ -431,7 +431,7 @@
     "[아이딜] 후열 !팬미팅",
     "[26.11.28] 더 테러 라이브 같이 보기"
    ],
-   "checked": "2026-11-28 23:40:30"
+   "checked": "2026-11-29 00:15:26"
   },
   "298919913": {
    "titles": [
@@ -474,9 +474,41 @@
     "[머독] 600M에서 생존하는 영화 (안 봤음)"
    ],
    "checked": "2026-11-28 23:45:29"
+  },
+  "298932319": {
+   "titles": [
+    "🌹짜히가 와써🌹"
+   ],
+   "checked": "2026-11-29 00:15:26"
   }
  },
  "items": [
+  {
+   "id": "213855081",
+   "type": "CATCH",
+   "title": "[캐치]아야츠노 유니의 설계로 치지직 선언을 하게 된 타요 보는 양도끼 / 견자희 반응",
+   "streamer_id": "crew124",
+   "streamer_nick": "펠레르",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261129/327/cd7707b7-15b8-444f-85c3-cc09e133e586/22096327_r.jpg",
+   "date": "2026-11-29 00:10:39",
+   "views": "6",
+   "duration": "0:32",
+   "url": "https://vod.afreecatv.com/player/213855081",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "gyeonjahee"
+   ],
+   "origin_nick": "견자희",
+   "org_title_no": "",
+   "org_timestamp": "1795878639",
+   "broad_no": "298932319",
+   "b_title": "[캐치]아야츠노 유니의 설계로 치지직 선언을 하게 된 타요 보는 양도끼 / 견자희 반응",
+   "title_history": [],
+   "broad_title": "🌹짜히가 와써🌹",
+   "unedited": false
+  },
   {
    "id": "213851647",
    "type": "CLIP",
@@ -485,7 +517,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44922393_1_r",
    "date": "2026-11-28 23:38:58",
-   "views": "33",
+   "views": "36",
    "duration": "3:04",
    "url": "https://vod.afreecatv.com/player/213851647",
    "keywords": [
@@ -589,7 +621,7 @@
    "streamer_nick": "뚱냐링배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/369/649969db-27ae-4e67-960c-d93769d0ca57/44919369_r.jpg",
    "date": "2026-11-28 22:01:48",
-   "views": "38",
+   "views": "40",
    "duration": "2:03",
    "url": "https://vod.afreecatv.com/player/213842031",
    "keywords": [
@@ -615,7 +647,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
    "date": "2026-11-28 22:00:54",
-   "views": "39",
+   "views": "40",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/213841949",
    "keywords": [
@@ -667,7 +699,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/397/662b4fa9-5ad9-4a53-931b-ebd006823b75/22092397_r.jpg",
    "date": "2026-11-28 21:16:44",
-   "views": "10",
+   "views": "11",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/213837485",
    "keywords": [
@@ -693,7 +725,7 @@
    "streamer_nick": "주장._.",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/351/8db206ff-f258-4397-9d50-43b0762594a2/22092351_r.jpg",
    "date": "2026-11-28 21:14:09",
-   "views": "14",
+   "views": "15",
    "duration": "0:57",
    "url": "https://vod.afreecatv.com/player/213837245",
    "keywords": [
@@ -719,7 +751,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "248",
+   "views": "249",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -771,7 +803,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "81",
+   "views": "84",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -1110,7 +1142,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "170",
+   "views": "175",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -1136,7 +1168,7 @@
    "streamer_nick": "박카스_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/729/3b679d58-89a4-42ec-b82d-d2e5d8e6e10f/22082729_r.jpg",
    "date": "2026-11-28 04:23:14",
-   "views": "227",
+   "views": "228",
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/213786587",
    "keywords": [
