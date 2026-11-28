@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 22:15",
+ "updated_at": "2026-11-28 22:20",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 22:11:58",
+   "newest": "2026-11-28 22:17:30",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
@@ -391,7 +391,7 @@
     "타요 오늘 할말이 많습니다..",
     "타요"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298898417": "천양님 긴급소집..ㄷㄷ ;;",
   "298891897": "소소한 대화 나눕니다 ^*^",
@@ -420,49 +420,50 @@
   "298922793": {
    "titles": [
     "안뇽하데욥",
-    "안뇽하데욥 저는 만렙을 찍을 수 있을까요 ㅠ"
+    "안뇽하데욥 저는 만렙을 찍을 수 있을까요 ㅠ",
+    "천타버스 화양의 미스테리 함께 듣기 ㄷㄷ"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298924131": {
    "titles": [
     "[아이딜] 쿠우가 와써! !팬미팅",
     "[아이딜] 후열 !팬미팅"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298919913": {
    "titles": [
     "뮤즈의 YES OR NO 컨텐츠 참여",
     "10시) 천타버스 화양의 미스테리"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298925533": {
    "titles": [
     "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^",
     "[지력] 소통소통"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298928473": {
    "titles": [
     "타요 지금 나의 목소리가 들린다면",
     "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298928571": {
    "titles": [
     "9시) 멘헤라버스 좀보이드 서버 출동!!!"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298928541": {
    "titles": [
     "타요릴파도끼 좀보이드 하드코어 api 많관부 / 벌칙 마크 하드코어 켠왕"
    ],
-   "checked": "2026-11-28 21:50:31"
+   "checked": "2026-11-28 22:20:31"
   },
   "298930107": {
    "titles": [
@@ -480,7 +481,7 @@
    "streamer_nick": "뚱냐링배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/369/649969db-27ae-4e67-960c-d93769d0ca57/44919369_r.jpg",
    "date": "2026-11-28 22:01:48",
-   "views": "6",
+   "views": "8",
    "duration": "2:03",
    "url": "https://vod.afreecatv.com/player/213842031",
    "keywords": [
@@ -506,7 +507,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
    "date": "2026-11-28 22:00:54",
-   "views": "8",
+   "views": "14",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/213841949",
    "keywords": [
@@ -532,7 +533,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/333/b9948ffa-71f4-4f58-a329-e8a32ff0173a/44919333_r.jpg",
    "date": "2026-11-28 22:00:35",
-   "views": "10",
+   "views": "14",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/213841931",
    "keywords": [
@@ -610,7 +611,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "211",
+   "views": "213",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -662,7 +663,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "50",
+   "views": "51",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -912,7 +913,7 @@
    "broad_no": "298922793",
    "b_title": "[클립][김웰로 반응] 양도끼 뉴아바타 재데뷔 기념 Cover - 성간비행 (마크로스 프론티어 OST)",
    "title_history": [],
-   "broad_title": "안뇽하데욥 저는 만렙을 찍을 수 있을까요 ㅠ",
+   "broad_title": "천타버스 화양의 미스테리 함께 듣기 ㄷㄷ",
    "unedited": false
   },
   {
@@ -1001,7 +1002,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "134",
+   "views": "136",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
