@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 20:40",
+ "updated_at": "2026-11-28 20:45",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 20:36:53",
+   "newest": "2026-11-28 20:45:03",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -205,7 +205,12 @@
   "297450365": "타요 서바이벌로그 좀비생존로그라이크 60초같은 죽으면 첨부터하는 좀비게임",
   "298523273": "놈리건와쑴니다 w.코렛트,마이곰이,파깡",
   "298514463": "[노움 흑마법사 27~28렙] 저습지 이 미친 곳 여긴 진짜 존재해서는 안됨;",
-  "297854763": "곰마돆야구연습",
+  "297854763": {
+   "titles": [
+    "곰마돆야구연습"
+   ],
+   "checked": ""
+  },
   "297335261": "후열 결따끼 방탈출2 새로나온 DLC 먹기",
   "297241551": "선셋서밋 합방ㅣ결희x단즈x도끼x타요x얼그레x또오냥",
   "297230175": "어제 너무 달려서 오늘은 느긋허이",
@@ -214,7 +219,12 @@
   "297088717": "귀무자 체험 + 메이플스토리 익검 벨로나 뿌시기",
   "296574015": "[머독] 3시) 레드윙즈 전원 소집 (양도끼 민결희 따린 햇비 최또 강희또 아르바 미르 호발 유현규)",
   "296451065": "[08/18] difficult 합방+후열 롤내전",
-  "296250573": "2부) 결돆엶곰밤 커버곡 공개와 빅워크 [이브닛] ",
+  "296250573": {
+   "titles": [
+    "2부) 결돆엶곰밤 커버곡 공개와 빅워크 [이브닛] "
+   ],
+   "checked": ""
+  },
   "296403041": "메이플샤타포스 민결희 500억 증발",
   "296278441": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
   "296349229": "스탈존 릴파팀 응원단장 미현영입니다! (w.릴파,난워니,주드,리냐,황정민)",
@@ -361,46 +371,78 @@
   "298873615": "진호님께 들겼습니다 + 와우 인던 뺑이 + 검바낙 사전퀘",
   "298892071": "머독님 팀 이름 레드 얼럿 어떰 ??",
   "298902751": "8시 베망청파 장례식똥겜",
-  "298904255": "타요 오늘 할말이 많습니다..",
+  "298904255": {
+   "titles": [
+    "타요 오늘 할말이 많습니다..",
+    "타요"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
   "298898417": "천양님 긴급소집..ㄷㄷ ;;",
   "298891897": "소소한 대화 나눕니다 ^*^",
-  "298920351": "마니 잤써.. ㅎㅎ",
-  "298920925": "[56일차] 3시부터 드롭스 잇습니ㅣ다...",
-  "298921579": "마야호~~~!",
-  "298922793": "안뇽하데욥",
-  "298924131": "[아이딜] 쿠우가 와써! !팬미팅",
-  "298919913": "뮤즈의 YES OR NO 컨텐츠 참여",
-  "298925533": "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^",
-  "298928473": "타요 지금 나의 목소리가 들린다면",
-  "298928571": "9시) 멘헤라버스 좀보이드 서버 출동!!!"
+  "298920351": {
+   "titles": [
+    "마니 잤써.. ㅎㅎ",
+    "다크소울3 심연감시자 이후부터 갑니다!!!@"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298920925": {
+   "titles": [
+    "[56일차] 3시부터 드롭스 잇습니ㅣ다...",
+    "[56일차] 소통을ㄹ할거야 죽을때까지.... 🖤 애청자 이벤트 중!!"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298921579": {
+   "titles": [
+    "마야호~~~!",
+    "로이세끼2 탈출을 하자",
+    "공동경비구역 JSA 같이보기!!!! 처음 봅니다"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298922793": {
+   "titles": [
+    "안뇽하데욥",
+    "안뇽하데욥 저는 만렙을 찍을 수 있을까요 ㅠ"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298924131": {
+   "titles": [
+    "[아이딜] 쿠우가 와써! !팬미팅"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298919913": {
+   "titles": [
+    "뮤즈의 YES OR NO 컨텐츠 참여",
+    "10시) 천타버스 화양의 미스테리"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298925533": {
+   "titles": [
+    "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298928473": {
+   "titles": [
+    "타요 지금 나의 목소리가 들린다면",
+    "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  },
+  "298928571": {
+   "titles": [
+    "9시) 멘헤라버스 좀보이드 서버 출동!!!"
+   ],
+   "checked": "2026-11-28 20:45:25"
+  }
  },
  "items": [
-  {
-   "id": "213833703",
-   "type": "CLIP",
-   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "streamer_id": "topstar90",
-   "streamer_nick": "바른_",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/669/bb660aa6-2776-4143-8f55-51c97b5724f2/44916669_r.jpg",
-   "date": "2026-11-28 20:36:53",
-   "views": "0",
-   "duration": "2:32",
-   "url": "https://vod.afreecatv.com/player/213833703",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "b13246"
-   ],
-   "origin_nick": "타요~",
-   "org_title_no": "",
-   "org_timestamp": "1795865813",
-   "broad_no": "298928473",
-   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
-   "unedited": false
-  },
   {
    "id": "213833489",
    "type": "CLIP",
@@ -409,7 +451,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "50",
+   "views": "81",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -424,7 +466,7 @@
    "broad_no": "298928473",
    "b_title": "[클립]타요: 양도끼 숲 떠난다는데 진짜인가요? 양도끼: 뭐라고요? 타요: 가기전에 메이플 템 사주고 가라",
    "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
    "unedited": false
   },
   {
@@ -461,7 +503,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "11",
+   "views": "17",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -476,111 +518,7 @@
    "broad_no": "298928473",
    "b_title": "[타요 반응] 도끼야 치지직 가도 잘 될꺼야 + 도끼야 따린아 내 데브펜 사줘",
    "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
-   "unedited": false
-  },
-  {
-   "id": "213832177",
-   "type": "CLIP",
-   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "streamer_id": "kkjj3698",
-   "streamer_nick": "ChaEunWoo",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/185/4315c6c9-c1e4-4ab0-b26c-23c957f5c4fc/44916185_r.jpg",
-   "date": "2026-11-28 20:20:59",
-   "views": "3",
-   "duration": "1:34",
-   "url": "https://vod.afreecatv.com/player/213832177",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "b13246"
-   ],
-   "origin_nick": "타요~",
-   "org_title_no": "",
-   "org_timestamp": "1795864859",
-   "broad_no": "298928473",
-   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
-   "unedited": false
-  },
-  {
-   "id": "213831619",
-   "type": "CLIP",
-   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "streamer_id": "kmjun0223",
-   "streamer_nick": "친친라",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/007/5acd179b-6973-4fd8-965c-2bd0386d4893/44916007_r.jpg",
-   "date": "2026-11-28 20:15:07",
-   "views": "15",
-   "duration": "1:27",
-   "url": "https://vod.afreecatv.com/player/213831619",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "b13246"
-   ],
-   "origin_nick": "타요~",
-   "org_title_no": "",
-   "org_timestamp": "1795864507",
-   "broad_no": "298928473",
-   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
-   "unedited": false
-  },
-  {
-   "id": "213831161",
-   "type": "CLIP",
-   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "streamer_id": "nrpdla6569",
-   "streamer_nick": "T925",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/859/72e9eb0b-36c5-499f-a99a-96af49bf754d/44915859_r.jpg",
-   "date": "2026-11-28 20:09:51",
-   "views": "0",
-   "duration": "0:51",
-   "url": "https://vod.afreecatv.com/player/213831161",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "b13246"
-   ],
-   "origin_nick": "타요~",
-   "org_title_no": "",
-   "org_timestamp": "1795864191",
-   "broad_no": "298928473",
-   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
-   "unedited": false
-  },
-  {
-   "id": "213830987",
-   "type": "CLIP",
-   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "streamer_id": "kkjj3698",
-   "streamer_nick": "ChaEunWoo",
-   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/801/5f6494f6-050b-42a6-8e5c-677af76b4478/44915801_r.jpg",
-   "date": "2026-11-28 20:08:02",
-   "views": "9",
-   "duration": "1:03",
-   "url": "https://vod.afreecatv.com/player/213830987",
-   "keywords": [
-    "도끼"
-   ],
-   "origin_ids": [
-    "b13246"
-   ],
-   "origin_nick": "타요~",
-   "org_title_no": "",
-   "org_timestamp": "1795864082",
-   "broad_no": "298928473",
-   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
-   "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
    "unedited": false
   },
   {
@@ -606,7 +544,7 @@
    "broad_no": "298928473",
    "b_title": "[클립]타요: 내가 양도끼 선물 준다고 했다고?",
    "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
    "unedited": false
   },
   {
@@ -684,7 +622,7 @@
    "broad_no": "298919913",
    "b_title": "[클립]성간비행 Cover by 양도끼 / 천양 반응",
    "title_history": [],
-   "broad_title": "뮤즈의 YES OR NO 컨텐츠 참여",
+   "broad_title": "10시) 천타버스 화양의 미스테리",
    "unedited": false
   },
   {
@@ -710,7 +648,7 @@
    "broad_no": "298904255",
    "b_title": "[클립]타요 : 우리 도끼 메이플 열심히 하네 이거 살 생각 없나?",
    "title_history": [],
-   "broad_title": "타요 오늘 할말이 많습니다..",
+   "broad_title": "타요",
    "unedited": false
   },
   {
@@ -721,7 +659,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/533/0ac12c4f-7425-48bd-8194-eb82b33a040e/44912533_r.jpg",
    "date": "2026-11-28 18:09:37",
-   "views": "31",
+   "views": "33",
    "duration": "4:38",
    "url": "https://vod.afreecatv.com/player/213820907",
    "keywords": [
@@ -815,7 +753,7 @@
    "broad_no": "298922793",
    "b_title": "[클립][김웰로 반응] 양도끼 뉴아바타 재데뷔 기념 Cover - 성간비행 (마크로스 프론티어 OST)",
    "title_history": [],
-   "broad_title": "안뇽하데욥",
+   "broad_title": "안뇽하데욥 저는 만렙을 찍을 수 있을까요 ㅠ",
    "unedited": false
   },
   {
@@ -841,7 +779,7 @@
    "broad_no": "298920925",
    "b_title": "[반희 반응] 여르미x양도끼x힌콕x구슬요 - Wonderland",
    "title_history": [],
-   "broad_title": "[56일차] 3시부터 드롭스 잇습니ㅣ다...",
+   "broad_title": "[56일차] 소통을ㄹ할거야 죽을때까지.... 🖤 애청자 이벤트 중!!",
    "unedited": false
   },
   {
@@ -867,7 +805,7 @@
    "broad_no": "298921579",
    "b_title": "[클립]함박이가 된 양도끼 / 마로니 반응",
    "title_history": [],
-   "broad_title": "마야호~~~!",
+   "broad_title": "공동경비구역 JSA 같이보기!!!! 처음 봅니다",
    "unedited": false
   },
   {
@@ -893,7 +831,7 @@
    "broad_no": "298920351",
    "b_title": "[클립]머독 조련법을 알려주는 양도끼 / 물초코",
    "title_history": [],
-   "broad_title": "마니 잤써.. ㅎㅎ",
+   "broad_title": "다크소울3 심연감시자 이후부터 갑니다!!!@",
    "unedited": false
   },
   {
@@ -1008,7 +946,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22079317_1_r",
    "date": "2026-11-27 23:27:57",
-   "views": "108",
+   "views": "109",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213762799",
    "keywords": [
@@ -9359,7 +9297,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261121_44754227_1_r&column=2&t=1795230635",
    "date": "2026-11-21 12:08:43",
-   "views": "510",
+   "views": "511",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/213202069",
    "keywords": [
