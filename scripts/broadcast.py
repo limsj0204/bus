@@ -18,6 +18,11 @@ VOD_API = "https://api.m.sooplive.co.kr/station/video/a/view"
 MAX_LOOKUPS = 40
 # 이 기간이 지나도 방제를 못 찾으면 더 묻지 않는다.
 GIVE_UP_AFTER = timedelta(days=1)
+# 이 기간 안의 영상은 방제가 바뀌었을 수 있어 다시 비교하고, 방제는 REFRESH_EVERY마다 새로 확인한다.
+RECHECK_WINDOW = timedelta(hours=6)
+REFRESH_EVERY = timedelta(minutes=30)
+# 처음 보는 영상이 아는 방제와 다르면 더 빨리 다시 확인한다. (알림이 가기 전에 거르기 위해)
+REFRESH_NEW = timedelta(minutes=5)
 MAX_CACHE = 3000
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 
@@ -60,48 +65,83 @@ def same_title(clip_title, broad_title):
     return clip == broad or (len(clip) >= 10 and broad.startswith(clip))
 
 
-def find_title(item, cache):
+def fetch_titles(item):
+    """원본 방송의 현재 방제(생방송 중일 때)와 다시보기 제목을 가져온다."""
+    titles = []
     broad_no = item.get("broad_no")
-    if broad_no and broad_no in cache:
-        return cache[broad_no]
-    title = None
+    for bj_id in item.get("origin_ids") or []:
+        title = live_title(bj_id, broad_no)
+        if title:
+            titles.append(html.unescape(title))
+            break
     if item.get("org_title_no"):
         title = vod_title(item["org_title_no"])
-    if not title and broad_no:
-        for bj_id in item.get("origin_ids") or []:
-            title = live_title(bj_id, broad_no)
-            if title:
-                break
-    if title and broad_no:
-        cache[broad_no] = html.unescape(title)
-    return cache.get(broad_no) if broad_no else title
+        if title:
+            titles.append(html.unescape(title))
+    return titles
+
+
+def cache_entry(cache, broad_no):
+    """방송 번호별로 지금까지 본 방제 목록과 마지막 확인 시각. (예전 형식: 방제 문자열 하나)"""
+    entry = cache.get(broad_no)
+    if isinstance(entry, str):
+        entry = {"titles": [entry], "checked": ""}
+        cache[broad_no] = entry
+    return entry
+
+
+def parse_time(text, fallback):
+    try:
+        return datetime.strptime(text or "", DATE_FORMAT)
+    except ValueError:
+        return fallback
 
 
 def mark_unedited(items, cache, now):
-    """아직 확인하지 않은 영상의 방제를 찾아 item["unedited"]를 채운다."""
+    """영상 제목이 원본 방송의 방제(지금까지 본 방제 중 하나)와 같으면 item["unedited"]를 켠다.
+
+    방송 도중 방제가 바뀔 수 있으므로, 최근 영상이 아는 방제와 다르면 그 방송의 방제를
+    REFRESH_EVERY마다 다시 확인해 목록에 더한다.
+    """
     lookups = 0
+    refreshed = set()
     for item in sorted(items, key=lambda it: it.get("date", ""), reverse=True):
-        if "unedited" in item or not item.get("broad_no"):
+        broad_no = item.get("broad_no")
+        if not broad_no or item.get("unedited"):
             continue
-        cached = item["broad_no"] in cache
-        if not cached and lookups >= MAX_LOOKUPS:
+        age = now - parse_time(item.get("date"), now - GIVE_UP_AFTER)
+        if "unedited" in item and age > RECHECK_WINDOW:
             continue
-        try:
-            title = find_title(item, cache)
-        except Exception as error:
-            print(f"방제 확인 실패 {item['type']} {item['id']}: {error}", file=sys.stderr)
-            title = None
-        if not cached:
+
+        entry = cache_entry(cache, broad_no)
+        titles = entry["titles"] if entry else []
+        match = next((t for t in titles if same_title(item["title"], t)), None)
+        last_checked = parse_time(entry.get("checked") if entry else "", now - REFRESH_EVERY)
+        refresh_after = REFRESH_EVERY if "unedited" in item else REFRESH_NEW
+        if not match and broad_no not in refreshed and lookups < MAX_LOOKUPS and (
+            not entry or now - last_checked >= refresh_after
+        ):
             lookups += 1
-        if title:
-            item["broad_title"] = title
-            item["unedited"] = same_title(item["title"], title)
-            continue
-        try:
-            age = now - datetime.strptime(item.get("date", ""), DATE_FORMAT)
-        except ValueError:
-            age = GIVE_UP_AFTER
-        if age >= GIVE_UP_AFTER:
+            refreshed.add(broad_no)
+            try:
+                found = fetch_titles(item)
+            except Exception as error:
+                print(f"방제 확인 실패 {item['type']} {item['id']}: {error}", file=sys.stderr)
+                found = []
+            entry = entry or {"titles": [], "checked": ""}
+            entry["titles"] += [t for t in found if t not in entry["titles"]]
+            entry["checked"] = now.strftime(DATE_FORMAT)
+            cache[broad_no] = entry
+            titles = entry["titles"]
+            match = next((t for t in titles if same_title(item["title"], t)), None)
+
+        if match:
+            item["broad_title"] = match
+            item["unedited"] = True
+        elif titles:
+            item["broad_title"] = titles[-1]
+            item["unedited"] = False
+        elif age >= GIVE_UP_AFTER:
             item["unedited"] = False
     # 오래된 방제는 버려서 파일이 너무 커지지 않게 한다.
     while len(cache) > MAX_CACHE:
