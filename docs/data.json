@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-29 01:25",
+ "updated_at": "2026-11-29 01:30",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,22 +8,22 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-29 01:09:49",
+   "newest": "2026-11-29 01:29:44",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-29 00:43:08",
+   "newest": "2026-11-29 01:27:06",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-29 01:06:51",
+   "newest": "2026-11-29 01:29:18",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-29 00:41:48",
+   "newest": "2026-11-29 01:27:06",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
@@ -454,7 +454,7 @@
     "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버 못깨면 타놀",
     "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀"
    ],
-   "checked": "2026-11-29 01:05:20"
+   "checked": "2026-11-29 01:30:35"
   },
   "298928571": {
    "titles": [
@@ -475,7 +475,7 @@
     "[머독] 영화 잼게 보고 2부 대기",
     "[머독] 검 강화하기"
    ],
-   "checked": "2026-11-29 00:55:25"
+   "checked": "2026-11-29 01:30:35"
   },
   "298932319": {
    "titles": [
@@ -486,6 +486,32 @@
   }
  },
  "items": [
+  {
+   "id": "213862179",
+   "type": "CLIP",
+   "title": "[클립]\t타요 : 양도끼 사실 내가 갑옷거인이야 나랑 같이 마레로 가지 않을래? ㅇㅈㄹ ㅋㅋㅋㅋㅋㄹㅋㅋㅋㄹㅋㅋㅋ",
+   "streamer_id": "realguti80",
+   "streamer_nick": "플라즈마단",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261129/043/f49875d0-23fe-4d55-8451-d7d7c7616a81/44925043_r.jpg",
+   "date": "2026-11-29 01:26:41",
+   "views": "3",
+   "duration": "2:07",
+   "url": "https://vod.afreecatv.com/player/213862179",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795883201",
+   "broad_no": "298928473",
+   "b_title": "[클립]\t타요 : 양도끼 사실 내가 갑옷거인이야 나랑 같이 마레로 가지 않을래? ㅇㅈㄹ ㅋㅋㅋㅋㅋㄹㅋㅋㅋㄹㅋㅋㅋ",
+   "title_history": [],
+   "broad_title": "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀",
+   "unedited": false
+  },
   {
    "id": "213855081",
    "type": "CATCH",
@@ -520,7 +546,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44922393_1_r",
    "date": "2026-11-28 23:38:58",
-   "views": "79",
+   "views": "80",
    "duration": "3:04",
    "url": "https://vod.afreecatv.com/player/213851647",
    "keywords": [
@@ -624,7 +650,7 @@
    "streamer_nick": "뚱냐링배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/369/649969db-27ae-4e67-960c-d93769d0ca57/44919369_r.jpg",
    "date": "2026-11-28 22:01:48",
-   "views": "43",
+   "views": "44",
    "duration": "2:03",
    "url": "https://vod.afreecatv.com/player/213842031",
    "keywords": [
@@ -754,7 +780,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "255",
+   "views": "257",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -780,7 +806,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/607/3ea995d3-5516-4859-adac-dbf580402aa1/22091607_r.jpg",
    "date": "2026-11-28 20:33:49",
-   "views": "21",
+   "views": "23",
    "duration": "0:18",
    "url": "https://vod.afreecatv.com/player/213833387",
    "keywords": [
@@ -806,7 +832,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "92",
+   "views": "93",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -1145,7 +1171,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "197",
+   "views": "201",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -1171,7 +1197,7 @@
    "streamer_nick": "박카스_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/729/3b679d58-89a4-42ec-b82d-d2e5d8e6e10f/22082729_r.jpg",
    "date": "2026-11-28 04:23:14",
-   "views": "237",
+   "views": "238",
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/213786587",
    "keywords": [
