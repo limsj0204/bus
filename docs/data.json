@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-29 01:01",
+ "updated_at": "2026-11-29 01:05",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-29 00:00:42"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-29 00:34:43",
+   "newest": "2026-11-29 01:03:11",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
@@ -445,7 +445,7 @@
     "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^",
     "[지력] 소통소통"
    ],
-   "checked": "2026-11-29 00:35:20"
+   "checked": "2026-11-29 01:05:20"
   },
   "298928473": {
    "titles": [
@@ -454,13 +454,13 @@
     "타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버 못깨면 타놀",
     "타요 8시반 릴파 양도끼 민결희 좀보이드 좀비세끼 시즌2 탈출서버 못깨면 타놀"
    ],
-   "checked": "2026-11-29 00:35:20"
+   "checked": "2026-11-29 01:05:20"
   },
   "298928571": {
    "titles": [
     "9시) 멘헤라버스 좀보이드 서버 출동!!!"
    ],
-   "checked": "2026-11-29 00:35:20"
+   "checked": "2026-11-29 01:05:20"
   },
   "298928541": {
    "titles": [
@@ -493,7 +493,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261129/327/cd7707b7-15b8-444f-85c3-cc09e133e586/22096327_r.jpg",
    "date": "2026-11-29 00:10:39",
-   "views": "34",
+   "views": "36",
    "duration": "0:32",
    "url": "https://vod.afreecatv.com/player/213855081",
    "keywords": [
@@ -519,7 +519,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44922393_1_r",
    "date": "2026-11-28 23:38:58",
-   "views": "72",
+   "views": "73",
    "duration": "3:04",
    "url": "https://vod.afreecatv.com/player/213851647",
    "keywords": [
@@ -545,7 +545,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/323/9e44ce52-a5b7-498e-b0d7-55a3dfdbaad2/22095323_r.jpg",
    "date": "2026-11-28 23:29:43",
-   "views": "13",
+   "views": "14",
    "duration": "0:41",
    "url": "https://vod.afreecatv.com/player/213850803",
    "keywords": [
@@ -571,7 +571,7 @@
    "streamer_nick": "boraJoa●",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/839/43808c5b-341c-4b23-a8c0-465f330eb93f/22093839_r.jpg",
    "date": "2026-11-28 22:26:53",
-   "views": "8",
+   "views": "9",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213844587",
    "keywords": [
@@ -623,7 +623,7 @@
    "streamer_nick": "뚱냐링배찌",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/369/649969db-27ae-4e67-960c-d93769d0ca57/44919369_r.jpg",
    "date": "2026-11-28 22:01:48",
-   "views": "41",
+   "views": "43",
    "duration": "2:03",
    "url": "https://vod.afreecatv.com/player/213842031",
    "keywords": [
@@ -649,7 +649,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
    "date": "2026-11-28 22:00:54",
-   "views": "44",
+   "views": "45",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/213841949",
    "keywords": [
@@ -1144,7 +1144,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "189",
+   "views": "192",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -1170,7 +1170,7 @@
    "streamer_nick": "박카스_",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/729/3b679d58-89a4-42ec-b82d-d2e5d8e6e10f/22082729_r.jpg",
    "date": "2026-11-28 04:23:14",
-   "views": "232",
+   "views": "234",
    "duration": "0:38",
    "url": "https://vod.afreecatv.com/player/213786587",
    "keywords": [
