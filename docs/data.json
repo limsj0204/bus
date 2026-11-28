@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 22:01",
+ "updated_at": "2026-11-28 22:05",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,7 +18,7 @@
    "last_rescan": "2026-11-28 21:00:52"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-28 21:14:26",
+   "newest": "2026-11-28 22:01:48",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
@@ -463,9 +463,93 @@
     "타요릴파도끼 좀보이드 하드코어 api 많관부 / 벌칙 마크 하드코어 켠왕"
    ],
    "checked": "2026-11-28 21:50:31"
+  },
+  "298930107": {
+   "titles": [
+    "[머독] Ready To Die"
+   ],
+   "checked": "2026-11-28 22:05:27"
   }
  },
  "items": [
+  {
+   "id": "213842031",
+   "type": "CLIP",
+   "title": "[클립]단코한끼 기다리고 있으라는 화투 머독 (따린 옆은 진수)",
+   "streamer_id": "nbazzi1245",
+   "streamer_nick": "뚱냐링배찌",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/369/649969db-27ae-4e67-960c-d93769d0ca57/44919369_r.jpg",
+   "date": "2026-11-28 22:01:48",
+   "views": "0",
+   "duration": "2:03",
+   "url": "https://vod.afreecatv.com/player/213842031",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1795870908",
+   "broad_no": "298930107",
+   "b_title": "[클립]단코한끼 기다리고 있으라는 화투 머독 (따린 옆은 진수)",
+   "title_history": [],
+   "broad_title": "[머독] Ready To Die",
+   "unedited": false
+  },
+  {
+   "id": "213841949",
+   "type": "CLIP",
+   "title": "[클립][머독 반응] 민결희 대기화면에 등장한 단결따박(머독) / 머독 : 단코한끼 기다려라",
+   "streamer_id": "whgud533",
+   "streamer_nick": "애플민트라떼",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
+   "date": "2026-11-28 22:00:54",
+   "views": "4",
+   "duration": "2:02",
+   "url": "https://vod.afreecatv.com/player/213841949",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1795870854",
+   "broad_no": "298930107",
+   "b_title": "[클립][머독 반응] 민결희 대기화면에 등장한 단결따박(머독) / 머독 : 단코한끼 기다려라",
+   "title_history": [],
+   "broad_title": "[머독] Ready To Die",
+   "unedited": false
+  },
+  {
+   "id": "213841931",
+   "type": "CLIP",
+   "title": "[클립]민결희 방송 대기화면 / 머독: 단코한끼 덤벼 덤벼!!",
+   "streamer_id": "hong5312",
+   "streamer_nick": "진수곡괭이",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/333/b9948ffa-71f4-4f58-a329-e8a32ff0173a/44919333_r.jpg",
+   "date": "2026-11-28 22:00:35",
+   "views": "1",
+   "duration": "2:10",
+   "url": "https://vod.afreecatv.com/player/213841931",
+   "keywords": [
+    "단코한끼"
+   ],
+   "origin_ids": [
+    "spbabobj"
+   ],
+   "origin_nick": "머독",
+   "org_title_no": "",
+   "org_timestamp": "1795870835",
+   "broad_no": "298930107",
+   "b_title": "[클립]민결희 방송 대기화면 / 머독: 단코한끼 덤벼 덤벼!!",
+   "title_history": [],
+   "broad_title": "[머독] Ready To Die",
+   "unedited": false
+  },
   {
    "id": "213837485",
    "type": "CATCH",
@@ -526,7 +610,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "201",
+   "views": "205",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -552,7 +636,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/607/3ea995d3-5516-4859-adac-dbf580402aa1/22091607_r.jpg",
    "date": "2026-11-28 20:33:49",
-   "views": "6",
+   "views": "7",
    "duration": "0:18",
    "url": "https://vod.afreecatv.com/player/213833387",
    "keywords": [
@@ -578,7 +662,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "40",
+   "views": "42",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -656,7 +740,7 @@
    "streamer_nick": "빪빪",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/535/1746361e-7571-4d1a-a912-258a75725138/44914535_r.jpg",
    "date": "2026-11-28 19:23:53",
-   "views": "25",
+   "views": "26",
    "duration": "2:53",
    "url": "https://vod.afreecatv.com/player/213826983",
    "keywords": [
@@ -917,7 +1001,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "131",
+   "views": "132",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -995,7 +1079,7 @@
    "streamer_nick": "소세지빵사와",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22080473_1_r&column=2&t=1795794128",
    "date": "2026-11-28 00:31:41",
-   "views": "128",
+   "views": "130",
    "duration": "0:47",
    "url": "https://vod.afreecatv.com/player/213769477",
    "keywords": [
@@ -1021,7 +1105,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261127_22079317_1_r",
    "date": "2026-11-27 23:27:57",
-   "views": "118",
+   "views": "119",
    "duration": "0:44",
    "url": "https://vod.afreecatv.com/player/213762799",
    "keywords": [
