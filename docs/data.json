@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 20:35",
+ "updated_at": "2026-11-28 20:36",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -454,6 +454,32 @@
    "unedited": false
   },
   {
+   "id": "213832177",
+   "type": "CLIP",
+   "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "streamer_id": "kkjj3698",
+   "streamer_nick": "ChaEunWoo",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/185/4315c6c9-c1e4-4ab0-b26c-23c957f5c4fc/44916185_r.jpg",
+   "date": "2026-11-28 20:20:59",
+   "views": "3",
+   "duration": "1:34",
+   "url": "https://vod.afreecatv.com/player/213832177",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795864859",
+   "broad_no": "298928473",
+   "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
+   "title_history": [],
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
+  },
+  {
    "id": "213831619",
    "type": "CLIP",
    "title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
@@ -461,7 +487,7 @@
    "streamer_nick": "친친라",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/007/5acd179b-6973-4fd8-965c-2bd0386d4893/44916007_r.jpg",
    "date": "2026-11-28 20:15:07",
-   "views": "10",
+   "views": "14",
    "duration": "1:27",
    "url": "https://vod.afreecatv.com/player/213831619",
    "keywords": [
@@ -476,7 +502,8 @@
    "broad_no": "298928473",
    "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
    "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면"
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
   },
   {
    "id": "213831161",
@@ -501,7 +528,8 @@
    "broad_no": "298928473",
    "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
    "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면"
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
   },
   {
    "id": "213830987",
@@ -511,7 +539,7 @@
    "streamer_nick": "ChaEunWoo",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/801/5f6494f6-050b-42a6-8e5c-677af76b4478/44915801_r.jpg",
    "date": "2026-11-28 20:08:02",
-   "views": "4",
+   "views": "8",
    "duration": "1:03",
    "url": "https://vod.afreecatv.com/player/213830987",
    "keywords": [
@@ -526,7 +554,8 @@
    "broad_no": "298928473",
    "b_title": "[클립]타요 8시반 릴파 양도끼 민결희 좀보이드 탈출서버",
    "title_history": [],
-   "broad_title": "타요 지금 나의 목소리가 들린다면"
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
   },
   {
    "id": "213829459",
@@ -23427,7 +23456,8 @@
    "broad_no": "296278441",
    "b_title": "[캐치]#결하 오늘 결따돆 모임스",
    "title_history": [],
-   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기"
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
   },
   {
    "id": "204023087",
@@ -23452,7 +23482,8 @@
    "broad_no": "296278441",
    "b_title": "[캐치]#결하 오늘 결따돆 모임스",
    "title_history": [],
-   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기"
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
   },
   {
    "id": "204022925",
@@ -23477,7 +23508,8 @@
    "broad_no": "296278441",
    "b_title": "[클립]#결하 오늘 결따돆 모임스",
    "title_history": [],
-   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기"
+   "broad_title": "#결하 오늘 결따돆 보스돌이 + 후닝님에게 악세상담받기",
+   "unedited": false
   },
   {
    "id": "203932989",
