@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 19:50",
+ "updated_at": "2026-11-28 19:55",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 19:49:24",
+   "newest": "2026-11-28 19:52:38",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -370,9 +370,36 @@
   "298922793": "안뇽하데욥",
   "298924131": "[아이딜] 쿠우가 와써! !팬미팅",
   "298919913": "뮤즈의 YES OR NO 컨텐츠 참여",
-  "298925533": "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^"
+  "298925533": "[지력] 나무야 나도 너가 싫어 / 미션 환영 ^^",
+  "298928473": "타요 지금 나의 목소리가 들린다면"
  },
  "items": [
+  {
+   "id": "213829459",
+   "type": "CLIP",
+   "title": "[클립]타요: 내가 양도끼 선물 준다고 했다고?",
+   "streamer_id": "gsghost",
+   "streamer_nick": "√주르기",
+   "thumbnail": "https://iflv14.sooplive.com/clip/20261128/323/33b4145f-87bc-4813-a1c3-2302a9fdea09/44915323_r.jpg",
+   "date": "2026-11-28 19:52:38",
+   "views": "0",
+   "duration": "1:17",
+   "url": "https://vod.afreecatv.com/player/213829459",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "b13246"
+   ],
+   "origin_nick": "타요~",
+   "org_title_no": "",
+   "org_timestamp": "1795863158",
+   "broad_no": "298928473",
+   "b_title": "[클립]타요: 내가 양도끼 선물 준다고 했다고?",
+   "title_history": [],
+   "broad_title": "타요 지금 나의 목소리가 들린다면",
+   "unedited": false
+  },
   {
    "id": "213827609",
    "type": "CATCH",
@@ -459,7 +486,7 @@
    "streamer_nick": "감각_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44913101_1_r",
    "date": "2026-11-28 18:30:07",
-   "views": "30",
+   "views": "32",
    "duration": "2:42",
    "url": "https://vod.afreecatv.com/player/213822639",
    "keywords": [
@@ -512,7 +539,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/505/017d7bcb-5cf9-4684-a81b-225dbd546600/44912505_r.jpg",
    "date": "2026-11-28 18:08:29",
-   "views": "125",
+   "views": "127",
    "duration": "3:33",
    "url": "https://vod.afreecatv.com/player/213820833",
    "keywords": [
@@ -642,7 +669,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/771/c795d479-7774-42ef-bc18-649b9f062e8d/44909771_r.jpg",
    "date": "2026-11-28 15:47:31",
-   "views": "513",
+   "views": "516",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/213811149",
    "keywords": [
@@ -668,7 +695,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "107",
+   "views": "108",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -720,7 +747,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22082661_1_r",
    "date": "2026-11-28 04:06:47",
-   "views": "167",
+   "views": "168",
    "duration": "0:28",
    "url": "https://vod.afreecatv.com/player/213785913",
    "keywords": [
