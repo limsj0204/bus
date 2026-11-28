@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-29 00:15",
+ "updated_at": "2026-11-29 00:20",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -23,7 +23,7 @@
    "last_rescan": "2026-11-29 00:00:42"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-28 23:55:48",
+   "newest": "2026-11-29 00:18:15",
    "backfill_days": 7,
    "last_rescan": "2026-11-29 00:00:42"
   },
@@ -471,9 +471,10 @@
   "298930107": {
    "titles": [
     "[머독] Ready To Die",
-    "[머독] 600M에서 생존하는 영화 (안 봤음)"
+    "[머독] 600M에서 생존하는 영화 (안 봤음)",
+    "[머독] 영화 잼게 보고 2부 대기"
    ],
-   "checked": "2026-11-28 23:45:29"
+   "checked": "2026-11-29 00:20:29"
   },
   "298932319": {
    "titles": [
@@ -491,7 +492,7 @@
    "streamer_nick": "펠레르",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261129/327/cd7707b7-15b8-444f-85c3-cc09e133e586/22096327_r.jpg",
    "date": "2026-11-29 00:10:39",
-   "views": "6",
+   "views": "12",
    "duration": "0:32",
    "url": "https://vod.afreecatv.com/player/213855081",
    "keywords": [
@@ -517,7 +518,7 @@
    "streamer_nick": "식량꽁처",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44922393_1_r",
    "date": "2026-11-28 23:38:58",
-   "views": "36",
+   "views": "42",
    "duration": "3:04",
    "url": "https://vod.afreecatv.com/player/213851647",
    "keywords": [
@@ -543,7 +544,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/323/9e44ce52-a5b7-498e-b0d7-55a3dfdbaad2/22095323_r.jpg",
    "date": "2026-11-28 23:29:43",
-   "views": "9",
+   "views": "11",
    "duration": "0:41",
    "url": "https://vod.afreecatv.com/player/213850803",
    "keywords": [
@@ -636,7 +637,7 @@
    "broad_no": "298930107",
    "b_title": "[클립]단코한끼 종겜 덤비라는 머독 (따린 옆은 진수)",
    "title_history": [],
-   "broad_title": "[머독] 600M에서 생존하는 영화 (안 봤음)",
+   "broad_title": "[머독] 영화 잼게 보고 2부 대기",
    "unedited": false
   },
   {
@@ -647,7 +648,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
    "date": "2026-11-28 22:00:54",
-   "views": "40",
+   "views": "42",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/213841949",
    "keywords": [
@@ -662,7 +663,7 @@
    "broad_no": "298930107",
    "b_title": "[클립][머독 반응] 민결희 대기화면에 등장한 단결따박(머독) / 머독 : 단코한끼 기다려라",
    "title_history": [],
-   "broad_title": "[머독] 600M에서 생존하는 영화 (안 봤음)",
+   "broad_title": "[머독] 영화 잼게 보고 2부 대기",
    "unedited": false
   },
   {
@@ -688,7 +689,7 @@
    "broad_no": "298930107",
    "b_title": "[클립]민결희 방송 대기화면 / 머독: 단코한끼 덤벼 덤벼!!",
    "title_history": [],
-   "broad_title": "[머독] 600M에서 생존하는 영화 (안 봤음)",
+   "broad_title": "[머독] 영화 잼게 보고 2부 대기",
    "unedited": false
   },
   {
@@ -1142,7 +1143,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "175",
+   "views": "177",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
