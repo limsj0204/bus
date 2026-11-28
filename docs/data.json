@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 18:45",
+ "updated_at": "2026-11-28 18:50",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -18,12 +18,12 @@
    "last_rescan": "2026-11-28 18:00:49"
   },
   "단코한끼|CLIP": {
-   "newest": "2026-11-28 18:40:15",
+   "newest": "2026-11-28 18:48:16",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
   "단코한끼|CATCH": {
-   "newest": "2026-11-28 18:32:55",
+   "newest": "2026-11-28 18:45:47",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -379,7 +379,7 @@
    "streamer_nick": "감각_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44913101_1_r",
    "date": "2026-11-28 18:30:07",
-   "views": "10",
+   "views": "13",
    "duration": "2:42",
    "url": "https://vod.afreecatv.com/player/213822639",
    "keywords": [
@@ -432,7 +432,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/505/017d7bcb-5cf9-4684-a81b-225dbd546600/44912505_r.jpg",
    "date": "2026-11-28 18:08:29",
-   "views": "70",
+   "views": "75",
    "duration": "3:33",
    "url": "https://vod.afreecatv.com/player/213820833",
    "keywords": [
@@ -458,7 +458,7 @@
    "streamer_nick": "메이플쿠우웅",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/441/f4d2c61c-1859-45bd-a703-cf5f9fc77e72/44912441_r.jpg",
    "date": "2026-11-28 18:04:52",
-   "views": "24",
+   "views": "25",
    "duration": "0:37",
    "url": "https://vod.afreecatv.com/player/213820551",
    "keywords": [
@@ -562,7 +562,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/771/c795d479-7774-42ef-bc18-649b9f062e8d/44909771_r.jpg",
    "date": "2026-11-28 15:47:31",
-   "views": "425",
+   "views": "433",
    "duration": "2:22",
    "url": "https://vod.afreecatv.com/player/213811149",
    "keywords": [
@@ -926,7 +926,7 @@
    "streamer_nick": "소세지빵._.",
    "thumbnail": "https://iflv14.sooplive.com/save/afreeca/station/2026/1127/18/thumb/1795770049209792_R_7.jpg",
    "date": "2026-11-27 17:57:40",
-   "views": "1180",
+   "views": "1185",
    "duration": "0:25",
    "url": "https://vod.afreecatv.com/player/213733671",
    "keywords": [
