@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 20:50",
+ "updated_at": "2026-11-28 20:55",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -13,7 +13,7 @@
    "last_rescan": "2026-11-28 18:00:49"
   },
   "도끼|CATCH": {
-   "newest": "2026-11-28 20:33:49",
+   "newest": "2026-11-28 20:52:05",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 18:00:49"
   },
@@ -440,6 +440,12 @@
     "9시) 멘헤라버스 좀보이드 서버 출동!!!"
    ],
    "checked": "2026-11-28 20:45:25"
+  },
+  "298928541": {
+   "titles": [
+    "타요릴파도끼 좀보이드 하드코어 api 많관부 / 벌칙 마크 하드코어 켠왕"
+   ],
+   "checked": "2026-11-28 20:55:22"
   }
  },
  "items": [
@@ -451,7 +457,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "109",
+   "views": "125",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -477,7 +483,7 @@
    "streamer_nick": "잔잔벼리♬",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/607/3ea995d3-5516-4859-adac-dbf580402aa1/22091607_r.jpg",
    "date": "2026-11-28 20:33:49",
-   "views": "2",
+   "views": "3",
    "duration": "0:18",
    "url": "https://vod.afreecatv.com/player/213833387",
    "keywords": [
@@ -659,7 +665,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/533/0ac12c4f-7425-48bd-8194-eb82b33a040e/44912533_r.jpg",
    "date": "2026-11-28 18:09:37",
-   "views": "35",
+   "views": "36",
    "duration": "4:38",
    "url": "https://vod.afreecatv.com/player/213820907",
    "keywords": [
@@ -894,7 +900,7 @@
    "streamer_nick": "동그란펭귄_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22082661_1_r",
    "date": "2026-11-28 04:06:47",
-   "views": "176",
+   "views": "178",
    "duration": "0:28",
    "url": "https://vod.afreecatv.com/player/213785913",
    "keywords": [
