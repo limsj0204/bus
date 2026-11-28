@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28 23:35",
+ "updated_at": "2026-11-28 23:40",
  "keywords": [
   "도끼",
   "단코한끼",
@@ -8,7 +8,7 @@
  ],
  "progress": {
   "도끼|CLIP": {
-   "newest": "2026-11-28 22:28:38",
+   "newest": "2026-11-28 23:38:58",
    "backfill_days": 7,
    "last_rescan": "2026-11-28 21:00:52"
   },
@@ -428,9 +428,10 @@
   "298924131": {
    "titles": [
     "[아이딜] 쿠우가 와써! !팬미팅",
-    "[아이딜] 후열 !팬미팅"
+    "[아이딜] 후열 !팬미팅",
+    "[26.11.28] 더 테러 라이브 같이 보기"
    ],
-   "checked": "2026-11-28 23:30:33"
+   "checked": "2026-11-28 23:40:30"
   },
   "298919913": {
    "titles": [
@@ -477,6 +478,32 @@
  },
  "items": [
   {
+   "id": "213851647",
+   "type": "CLIP",
+   "title": "[클립]양도끼 뉴 아바타 데뷔 게스트들 / 쿠우님 반응",
+   "streamer_id": "shi9129",
+   "streamer_nick": "식량꽁처",
+   "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261128_44922393_1_r",
+   "date": "2026-11-28 23:38:58",
+   "views": "0",
+   "duration": "3:04",
+   "url": "https://vod.afreecatv.com/player/213851647",
+   "keywords": [
+    "도끼"
+   ],
+   "origin_ids": [
+    "qooqoo3110"
+   ],
+   "origin_nick": "쿠우♪",
+   "org_title_no": "213851417",
+   "org_timestamp": "1795876738",
+   "broad_no": "298924131",
+   "b_title": "[클립]양도끼 뉴 아바타 데뷔 게스트들 / 쿠우님 반응",
+   "title_history": [],
+   "broad_title": "[26.11.28] 더 테러 라이브 같이 보기",
+   "unedited": false
+  },
+  {
    "id": "213850803",
    "type": "CATCH",
    "title": "[캐치]내가 양도끼를 죽였어",
@@ -484,7 +511,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/323/9e44ce52-a5b7-498e-b0d7-55a3dfdbaad2/22095323_r.jpg",
    "date": "2026-11-28 23:29:43",
-   "views": "3",
+   "views": "5",
    "duration": "0:41",
    "url": "https://vod.afreecatv.com/player/213850803",
    "keywords": [
@@ -588,7 +615,7 @@
    "streamer_nick": "애플민트라떼",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/339/bbad0679-e9a8-4344-bb4c-ff7c0d27bf2c/44919339_r.jpg",
    "date": "2026-11-28 22:00:54",
-   "views": "36",
+   "views": "38",
    "duration": "2:02",
    "url": "https://vod.afreecatv.com/player/213841949",
    "keywords": [
@@ -614,7 +641,7 @@
    "streamer_nick": "진수곡괭이",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/333/b9948ffa-71f4-4f58-a329-e8a32ff0173a/44919333_r.jpg",
    "date": "2026-11-28 22:00:35",
-   "views": "45",
+   "views": "46",
    "duration": "2:10",
    "url": "https://vod.afreecatv.com/player/213841931",
    "keywords": [
@@ -640,7 +667,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/397/662b4fa9-5ad9-4a53-931b-ebd006823b75/22092397_r.jpg",
    "date": "2026-11-28 21:16:44",
-   "views": "8",
+   "views": "9",
    "duration": "0:55",
    "url": "https://vod.afreecatv.com/player/213837485",
    "keywords": [
@@ -692,7 +719,7 @@
    "streamer_nick": "√주르기",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/611/b13d9aba-993d-45bf-9b34-f4ae05c9aaae/44916611_r.jpg",
    "date": "2026-11-28 20:34:52",
-   "views": "237",
+   "views": "238",
    "duration": "1:47",
    "url": "https://vod.afreecatv.com/player/213833489",
    "keywords": [
@@ -744,7 +771,7 @@
    "streamer_nick": "새결",
    "thumbnail": "https://iflv14.sooplive.com/clip/20261128/457/3a29e16e-6c33-4dba-8d3f-d6a409dadc98/44916457_r.jpg",
    "date": "2026-11-28 20:29:39",
-   "views": "69",
+   "views": "72",
    "duration": "3:47",
    "url": "https://vod.afreecatv.com/player/213832977",
    "keywords": [
@@ -837,7 +864,7 @@
    "broad_no": "298924131",
    "b_title": "[쿠우] 회사 친구들보다 더 가까운 양도끼와 단츄",
    "title_history": [],
-   "broad_title": "[아이딜] 후열 !팬미팅",
+   "broad_title": "[26.11.28] 더 테러 라이브 같이 보기",
    "unedited": false
   },
   {
@@ -916,7 +943,7 @@
    "broad_no": "298924131",
    "b_title": "[클립][쿠우 반응][블루점프 양도끼 재데뷔] 게스트 단코한끼(단츄, 코렛트, 한결) 등장",
    "title_history": [],
-   "broad_title": "[아이딜] 후열 !팬미팅",
+   "broad_title": "[26.11.28] 더 테러 라이브 같이 보기",
    "unedited": false
   },
   {
@@ -942,7 +969,7 @@
    "broad_no": "298924131",
    "b_title": "[클립][쿠우 반응][블루점프 양도끼 재데뷔] 게스트 머독, 타요등장",
    "title_history": [],
-   "broad_title": "[아이딜] 후열 !팬미팅",
+   "broad_title": "[26.11.28] 더 테러 라이브 같이 보기",
    "unedited": false
   },
   {
@@ -968,7 +995,7 @@
    "broad_no": "298924131",
    "b_title": "[클립]양도끼 데뷔 방송에서 타요 행동이 이해 가는 쿠우",
    "title_history": [],
-   "broad_title": "[아이딜] 후열 !팬미팅",
+   "broad_title": "[26.11.28] 더 테러 라이브 같이 보기",
    "unedited": false
   },
   {
@@ -1083,7 +1110,7 @@
    "streamer_nick": "자연스러워따",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=catch_20261128_22084293_1_r",
    "date": "2026-11-28 10:51:02",
-   "views": "157",
+   "views": "158",
    "duration": "1:00",
    "url": "https://vod.afreecatv.com/player/213797375",
    "keywords": [
@@ -12554,7 +12581,7 @@
    "streamer_nick": "민트파이_",
    "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_44548669_1_r&column=2&t=1794471635",
    "date": "2026-11-12 17:18:02",
-   "views": "209",
+   "views": "210",
    "duration": "3:07",
    "url": "https://vod.afreecatv.com/player/212418373",
    "keywords": [
