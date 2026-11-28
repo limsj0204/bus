@@ -308,7 +308,6 @@ def main():
     broad_titles = saved.get("broad_titles", {})
     if exclude_unedited:
         lookups = broadcast.mark_unedited(items.values(), broad_titles, now)
-        broadcast.mark_shared_titles(items.values())
         unedited = sum(1 for it in items.values() if it.get("unedited"))
         print(f"방제 확인: SOOP에 {lookups}번 물어봄, 제목 그대로인 영상 {unedited}개 제외")
 
